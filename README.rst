@@ -1,7 +1,7 @@
 PyconUK website
 ===============
 
-This is the website for PyconUK. It is hosted via GitHub pages and available via http://pyconuk.org/.
+This is the website for PyconUK. It is hosted via GitHub Pages and available via http://pyconuk.org/.
 
 We welcome pull requests for improvements!
 
