@@ -3,15 +3,11 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="{{ page.body_class_hack }}">
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+	{{ content }}
 
     {% include footer.html %}
 
