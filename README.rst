@@ -25,14 +25,20 @@ That's it!
 Usage
 -----
 
-This site uses [Jekyll](http://jekyllrb.com/). The official docs are good, but here's a quickstart:
+This site uses Jekyll_. The official docs are good, but here's a quickstart:
 
-* Ensure you have [rvm](https://rvm.io/) or [rbenv](http://rbenv.org/)
-* Ensure you have [bundler](http://bundler.io/) - if you can't `bundle` on the command line, `gem install bundler`
+* Ensure you have rvm_ or rbenv_
+* Ensure you have bundler_ - if you can't `bundle` on the command line, `gem install bundler`
 * `bundle install` in the git repo to fetch the dependencies
 * `bundle exec jekyll serve -w` will run a development server listening on port 4000
 * `bundle exec jekyll build` will build the site in `$gitroot/_site/`
 
-Pages are essentially [Liquid templates](http://jekyllrb.com/docs/templates/). Essentially stick some YAML front-matter at the start containing page metadata (like `layout` and `title`) at the top of a Markdown / HTML file of content.
+Pages are essentially `Liquid templates`_. Essentially stick some YAML front-matter at the start containing page metadata (like `layout` and `title`) at the top of a Markdown / HTML file of content.
 
 Travis will test branches, and branches won't get merged without review and passing tests, so dive right in!
+
+.. _Jekyll: http://jekyllrb.com/
+.. _rvm: https://rvm.io/
+.. _rbenv: http://rbenv.org/
+.. _bundler: http://bundler.io/
+.. _Liquid templates: http://jekyllrb.com/docs/templates/
