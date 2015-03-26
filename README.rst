@@ -28,10 +28,10 @@ Usage
 This site uses Jekyll_. The official docs are good, but here's a quickstart:
 
 * Ensure you have rvm_ or rbenv_
-* Ensure you have bundler_ - if you can't `bundle` on the command line, `gem install bundler`
-* `bundle install` in the git repo to fetch the dependencies
-* `bundle exec jekyll serve -w` will run a development server listening on port 4000
-* `bundle exec jekyll build` will build the site in `$gitroot/_site/`
+* Ensure you have bundler_ - if you can't ``bundle`` on the command line, ``gem install bundler``
+* ``bundle install`` in the git repo to fetch the dependencies
+* ``bundle exec jekyll serve -w`` will run a development server listening on port 4000
+* ``bundle exec jekyll build`` will build the site in ``$gitroot/_site/``
 
 Pages are essentially `Liquid templates`_. Essentially stick some YAML front-matter at the start containing page metadata (like `layout` and `title`) at the top of a Markdown / HTML file of content.
 
