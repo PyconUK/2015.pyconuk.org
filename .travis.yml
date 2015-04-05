@@ -1,4 +1,4 @@
 language: ruby
 script:
     - bundle exec jekyll build
-    - bundle exec htmlproof _site/
+    - bundle exec htmlproof --href-swap ".*pyconuk.org/:/" _site/
