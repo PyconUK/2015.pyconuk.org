@@ -9,6 +9,8 @@ WORKDIR /pyconuk/
 RUN apt-get update \
     && apt-get install -y node python-pygments \
     && apt-get clean \
+    && apt-get autoremove -y \
+    && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* \
     && gem install \
         bundler \
         html-proofer \
