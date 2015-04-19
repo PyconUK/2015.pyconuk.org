@@ -25,19 +25,27 @@ That's it!
 Usage
 -----
 
-This site uses Jekyll_. The official docs are good, but here's a quickstart:
+Installation
+~~~~~~~~~~~~
+This site uses Jekyll_ and we've wrapped the development environment in Docker.
 
-* Ensure you have rvm_ or rbenv_
-* Ensure you have bundler_ - if you can't ``bundle`` on the command line, ``gem install bundler``
-* ``bundle install`` in the git repo to fetch the dependencies
-* ``bundle exec jekyll serve -w`` will run a development server listening on port 4000
-* ``bundle exec jekyll build`` will build the site in ``$gitroot/_site/``
+0. (OS X only) Install boot2docker_ (you can also homebrew it)
+1. Install docker_
+2. Build the docker image (this may take some time): ``docker build -t pyconukorg .``
+3. Run the docker image: ``docker run -p 80:4000 -ti pyconukorg``
+4. Get your docker ip: ``docker ip`` (or ``boot2docker ip`` if you're using that)
+5. Open your web browser of choice and go to the IP from step 4
 
+
+Development
+~~~~~~~~~~~
 Pages are essentially `Liquid templates`_. Essentially stick some YAML front-matter at the start containing page metadata (like `layout` and `title`) at the top of a Markdown / HTML file of content.
 
 Travis will test branches, and branches won't get merged without review and passing tests, so dive right in!
 
 .. _Jekyll: http://jekyllrb.com/
+.. _boot2docker: http://docs.docker.com/installation/mac/
+.. _docker: https://docs.docker.com/installation/#installation
 .. _rvm: https://rvm.io/
 .. _rbenv: http://rbenv.org/
 .. _bundler: http://bundler.io/
