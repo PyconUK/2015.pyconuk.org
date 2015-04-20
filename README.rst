@@ -31,9 +31,9 @@ This site uses Jekyll_ and we've wrapped the development environment in Docker.
 
 0. (OS X only) Install boot2docker_ (you can also homebrew it)
 1. Install docker_
-2. Build the docker image (this may take some time): ``docker build -t pyconukorg .``
-3. Run the docker image: ``docker run -p 80:4000 -ti pyconukorg``
-4. Get your docker ip: ``docker ip`` (or ``boot2docker ip`` if you're using that)
+2. Build the docker image (this may take some time): ``make build``
+3. Run the docker image: ``make run``
+4. Get your [docker] ip. On OS X do: ``boot2docker ip``, one Linux this is your external IP
 5. Open your web browser of choice and go to the IP from step 4
 
 
