@@ -51,6 +51,8 @@ Pages are essentially `Liquid templates`_. Essentially stick some YAML front-mat
 
 Travis will test branches, and branches won't get merged without review and passing tests, so dive right in!
 
+To change the CSS use the files found in `_sass` and Jekyll will just pick things up and re-compile the new CSS. The original (`less` based) CSS files by Hawkz can be found in the `/static/css` directory.
+
 .. _Jekyll: http://jekyllrb.com/
 .. _rvm: https://rvm.io/
 .. _rbenv: http://rbenv.org/
