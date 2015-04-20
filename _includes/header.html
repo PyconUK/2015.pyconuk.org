@@ -5,14 +5,14 @@
 		<input type="checkbox" id="toggle-nav" class="hidden" />
 		<nav class="nav">
 			<ul>
-				<li><a href="/" class="active">Home</a></li>
-				<li><a href="/talks/">Talks</a></li>
-				<li><a href="/venue/">Venue</a></li>
-				<li><a href="/education/">Education</a></li>
-				<li class="halfway"><a href="/science/">Science</a></li>
-				<li><a href="/volunteer/">Volunteer</a></li>
-				<li><a href="/wiki/">Wiki</a></li>
-				<li><a class="now" href="/register/">Register</a></li>
+				<li><a {% if page.title == "Home" %} class="now"{% endif %}href="/" class="active">Home</a></li>
+				<li><a {% if page.title == "Talks" %} class="now"{% endif %}href="/talks/">Talks</a></li>
+				<li><a {% if page.title == "Venue" %} class="now"{% endif %}href="/venue/">Venue</a></li>
+				<li><a {% if page.title == "Education" %} class="now"{% endif %}href="/education/">Education</a></li>
+				<li class="halfway"><a {% if page.title == "Science" %} class="now"{% endif %}href="/science/">Science</a></li>
+				<li><a{% if page.title == "Volunteering" %} class="now"{% endif %} href="/volunteer/">Volunteer</a></li>
+				<li><a{% if page.title == "Wiki" %} class="now"{% endif %} href="/wiki/">Wiki</a></li>
+				<li><a{% if page.title == "Registration" %} class="now"{% endif %} href="/register/">Register</a></li>
 			</ul>
 		</nav>
 	</div>
