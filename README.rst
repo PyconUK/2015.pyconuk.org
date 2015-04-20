@@ -27,7 +27,15 @@ Usage
 
 Installation
 ~~~~~~~~~~~~
-This site uses Jekyll_ and we've wrapped the development environment in Docker.
+This site uses Jekyll_. The official docs are good, but here's a quickstart:
+
+* Ensure you have rvm_ or rbenv_
+* Ensure you have bundler_ - if you can't ``bundle`` on the command line, ``gem install bundler``
+* ``bundle install`` in the git repo to fetch the dependencies
+* ``bundle exec jekyll serve -w`` will run a development server listening on port 4000
+* ``bundle exec jekyll build`` will build the site in ``$gitroot/_site/``
+
+You can also set up a development environment with Docker:
 
 0. (OS X only) Install boot2docker_ (you can also homebrew it)
 1. Install docker_
@@ -44,6 +52,9 @@ Pages are essentially `Liquid templates`_. Essentially stick some YAML front-mat
 Travis will test branches, and branches won't get merged without review and passing tests, so dive right in!
 
 .. _Jekyll: http://jekyllrb.com/
+.. _rvm: https://rvm.io/
+.. _rbenv: http://rbenv.org/
+.. _bundler: http://bundler.io/
 .. _boot2docker: http://docs.docker.com/installation/mac/
 .. _docker: https://docs.docker.com/installation/#installation
 .. _Liquid templates: http://jekyllrb.com/docs/templates/
