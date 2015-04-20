@@ -1,3 +1,4 @@
+pwd = $(shell pwd)
 help:
 	@echo 'Makefile for pyconuk.org'
 	@echo ''
