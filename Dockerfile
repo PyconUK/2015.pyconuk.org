@@ -1,27 +1,18 @@
 FROM ruby:2.1
 
-MAINTAINER PyConUK Organisers
-# Based heavily on grahamc/jekyll
+RUN mkdir -p /opt/pyconuk/site
+WORKDIR /opt/pyconuk/site
 
-COPY . /pyconuk/
-WORKDIR /pyconuk/
+RUN apt-get update && \
+        apt-get install --yes \
+                node
 
-RUN apt-get update \
-    && apt-get install -y node python-pygments \
-    && apt-get clean \
-    && apt-get autoremove -y \
-    && rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* \
-    && gem install \
-        bundler \
-        html-proofer \
-        jekyll \
-        jekyll-redirect-from \
-        kramdown \
-        rdiscount \
-        rouge \
-        rvm \
-    && bundle install
+COPY Gemfile /opt/pyconuk/site/
+COPY Gemfile.lock /opt/pyconuk/site/
+RUN bundle install
 
 EXPOSE 4000
 
-ENTRYPOINT ["bundle", "exec", "jekyll", "serve", "-w"]
+VOLUME /opt/pyconuk/site
+
+CMD ["bundle", "exec", "jekyll", "serve", "--watch", "--host", "0.0.0.0", "--force_polling"]
