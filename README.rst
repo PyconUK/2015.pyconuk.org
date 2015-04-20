@@ -46,7 +46,4 @@ Travis will test branches, and branches won't get merged without review and pass
 .. _Jekyll: http://jekyllrb.com/
 .. _boot2docker: http://docs.docker.com/installation/mac/
 .. _docker: https://docs.docker.com/installation/#installation
-.. _rvm: https://rvm.io/
-.. _rbenv: http://rbenv.org/
-.. _bundler: http://bundler.io/
 .. _Liquid templates: http://jekyllrb.com/docs/templates/
