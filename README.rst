@@ -41,8 +41,8 @@ You can also set up a development environment with Docker:
 1. Install docker_
 2. Build the docker image (this may take some time): ``make build``
 3. Run the docker image: ``make run``
-4. Get your [docker] ip. On OS X do: ``boot2docker ip``, one Linux this is your external IP
-5. Open your web browser of choice and go to the IP from step 4
+4. Get your [docker] ip. On OS X do: ``boot2docker ip``, on Linux this is your external IP
+5. Open your web browser of choice and go to the IP from step 4 at port 80.
 
 
 Development
