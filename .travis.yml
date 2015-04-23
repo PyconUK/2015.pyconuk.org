@@ -1,8 +1,8 @@
 language: ruby
 
 script:
-    - ! egrep -R "Pycon UK" *.html *.rst || (echo "Please spell the conference name PyConUK." && false)
-    - ! egrep -R "pycon UK" *.html *.rst || (echo "Please spell the conference name PyConUK." && false)
-    - ! egrep -R "pyconUK" *.html *.rst || (echo "Please spell the conference name PyConUK." && false)
+    - ! egrep -R "Pycon UK" *.html *.rst | tee STDOUT || (echo "Please spell the conference name PyConUK." && false)
+    - ! egrep -R "pycon UK" *.html *.rst | tee STDOUT  || (echo "Please spell the conference name PyConUK." && false)
+    - ! egrep -R "pyconUK" *.html *.rst | tee STDOUT  || (echo "Please spell the conference name PyConUK." && false)
     - bundle exec jekyll build
     - bundle exec htmlproof --href-swap ".*pyconuk.org/:/" _site/
