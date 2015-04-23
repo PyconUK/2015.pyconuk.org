@@ -1,10 +1,10 @@
-PyconUK website
-===============
+PyCon UK website
+================
 
 .. image:: https://travis-ci.org/PyconUK/pyconuk.github.io.svg?branch=master
        :target: https://travis-ci.org/PyconUK/pyconuk.github.io
 
-This is the website for PyconUK. It is hosted via GitHub Pages and available via http://pyconuk.org/.
+This is the website for PyCon UK. It is hosted via GitHub Pages and available via http://pyconuk.org/.
 
 We welcome pull requests for improvements! (Please see CONTRIBUTING.rst for details.)
 

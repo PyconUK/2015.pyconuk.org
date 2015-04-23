@@ -1,7 +1,7 @@
-Contributing to the PyconUK Website
------------------------------------
+Contributing to the PyCon UK Website
+------------------------------------
 
-Hey! Many thanks for wanting to improve the PyconUK website!
+Hey! Many thanks for wanting to improve the PyCon UK website!
 
 Contributions are welcome without prejudice from *anyone* irrespective of
 age, gender, religion, race or sexuality. Good quality code and engagement
