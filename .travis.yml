@@ -1,4 +1,11 @@
 language: ruby
+
+install:
+    - sudo apt-get install egrep
+
 script:
+    - ! egrep -R "Pycon UK" *.html *.rst || echo "Please spell the conference name PyConUK."
+    - ! egrep -R "pycon UK" *.html *.rst || echo "Please spell the conference name PyConUK."
+    - ! egrep -R "pyconUK" *.html *.rst || echo "Please spell the conference name PyConUK."
     - bundle exec jekyll build
     - bundle exec htmlproof --href-swap ".*pyconuk.org/:/" _site/
