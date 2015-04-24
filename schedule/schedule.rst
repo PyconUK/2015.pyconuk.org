@@ -1,6 +1,46 @@
 Schedule
 ========
 
+The dynamic conference for the leading dynamic language
+-------------------------------------------------------
+
+PyCon UK is an informal yet exciting mix of talks, tutorials,
+workshops, keynotes, socials, plenary hi-jinks, five minute 'lightning
+talks' and more.
+
+Please see our `YouTube channel`_ to see a few of the things we got up
+to last year.
+
+Friday has talks and workshops from Python experts from the UK and
+further afield as well as a special `Python for School Teachers`_
+track. The new `Science Track`_ begins.
+
+Saturday contains more talks, workshops and networking but also the
+Lightning Talk Man takes flight and the kids outsmart us all in the
+special Children's Track, all followed by the PyCon UK Conference
+Dinner.
+
+Sunday contains the PyCon UK Panel, a 'Question Time' style event
+where you can ask leading Python developers questions on Python,
+developing and the meaning of life. Lightning Talk Man continues to
+inspire and entertain and we hold the all-important PyCon UK jobs fair
+where you can recruit or be recruited from a pool of the highest
+quality UK developers.
+
+Monday is the Sprint day, we split into small groups and in each group
+a member of an Open Source Python project guides a small group in how
+to hack on the project. Improve your Python skills in a fun, practical
+and effective way.
+        
+The schedule below is provisional. The skeleton will become
+increasingly fleshed out during the run up to the
+conference. Therefore, the schedule can and will change,
+even during the conference itself.
+
+.. _`YouTube channel`: https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos
+.. _`Python for School Teachers`: /education/
+.. _`Science Track`: /science/
+          
 Friday
 ------
 
