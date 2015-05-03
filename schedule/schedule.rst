@@ -82,7 +82,7 @@ Friday
 +-------+-----------------+-----------------+-----------------+                 |                 |                 |
 | 17:40 | Talk            | Talk            | Talk            |                 |                 |                 |
 +-------+                 |                 |                 +-----------------+-----------------+-----------------+
-| 18:00 |                 |                 |                 | Diversity Reception (in the Bistro)                 |
+| 18:00 |                 |                 |                 | PyCon UK Diversity Reception (in the Bistro)        |
 +-------+-----------------+-----------------+-----------------+                                                     |
 | 18:20 | Day Ends                                            |                                                     |
 +-------+-----------------------------------------------------+-----------------------------------------------------+
@@ -266,4 +266,5 @@ Monday
 .. _`The Lightning Talk Show`: /schedule/abstracts/#lightningtalks
 .. _`The Mellow Night`: /schedule/abstracts/#mellow
 .. _`The PyCon UK Dinner`: /schedule/abstracts/#dinner
-.. _`The Friday Night Social`: /schedule/abstracts/#social
+.. _`The Friday Night Charity Social in memory of John Pinner`: /schedule/abstracts/#social
+.. _`Python in Education`: /education/
