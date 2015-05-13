@@ -2,5 +2,4 @@ language: ruby
 
 script:
     - bash name-lint.sh
-    - bundle exec jekyll build
-    - bundle exec htmlproof --href-swap ".*pyconuk.org/:/" _site/
+    - bundle exec htmlproof --href-swap ".*pyconuk.org/:/" output/
