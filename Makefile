@@ -11,7 +11,7 @@ help:
 build:
 	virtualenv venv
 	( \
-	. venv/local/bin/activate; \
+	. venv/bin/activate; \
 	pip install -r requirements.txt; \
 	wok; \
 	echo ''; \
@@ -21,7 +21,7 @@ build:
 
 serve:
 	( \
-	. venv/local/bin/activate; \
+	. venv/bin/activate; \
 	wok --serve; \
 	)
 
