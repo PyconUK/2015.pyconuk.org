@@ -33,9 +33,9 @@ wok builds the site by assembling several components:
 * Static files are found in ``media/``.
 * A jinja2_ template for all the pages is found in ``templates/default.html``
 
-To build the site, run ``wok``.  This will pull together all the componenents into a set of HTML files in ``output/``.
+To build the site, run ``make build``.  This will pull together all the componenents into a set of HTML files in ``output/``.
 
-Alternatively, if you run ``wok --server``, wok will build the site, serve the built site on port 8000, and watch for changes.
+Alternatively, if you run ``make serve``, wok will build the site, serve the built site on port 8000, and watch for changes.
 
 It is the ``output/`` directory that gets served by GitHub pages, so please make sure this is included when you submit your pull request.
 
