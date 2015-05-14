@@ -1,14 +1,27 @@
+.PHONY: help build serve
+
 help:
 	@echo 'Makefile for pyconuk.org'
 	@echo ''
 	@echo 'Usage:'
-	@echo '   make build                       build the site into the output directory
-	@echo '   make serve                       build the site and serve on port 8000, watching for changes
+	@echo '   make build                       build the site into the output directory'
+	@echo '   make serve                       build the site and serve on port 8000, watching for changes'
 	@echo ''
 
 build:
-	wok
+	virtualenv venv
+	( \
+	. venv/local/bin/activate; \
+	pip install -r requirements.txt; \
+	wok; \
+	echo ''; \
+	echo 'Build complete. Now run "make serve" to view the website'; \
+	echo 'You can remove the venv/ directory when you are finished.'; \
+	)
 
 serve:
-	wok --serve
+	( \
+	. venv/local/bin/activate; \
+	wok --serve; \
+	)
 
