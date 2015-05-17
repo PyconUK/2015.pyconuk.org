@@ -63,8 +63,11 @@ if [[ $TRAVIS = "true" ]]; then
 
 	git diff --quiet output
 	if [[ $? -ne 0 ]]; then
+		echo " !!! Uncommitted changes in output directory"
 		ERRORS+=("Uncommitted changes in output directory")
 	fi
+
+	git diff output
 fi
 
 kill $WOK_PID
