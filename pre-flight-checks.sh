@@ -60,7 +60,6 @@ fi
 
 if [[ $TRAVIS = "true" ]]; then
 	echo " *** Checking that output directory has been checked in."
-	git status
 
 	git diff --quiet output
 	if [[ $? -ne 0 ]]; then
