@@ -299,8 +299,8 @@ Monday
 +-------+-----------------------------------------------------------------------------------------+
 
 
-.. _`The Lightning Talk Show`: /schedule/abstracts/#lightningtalks
-.. _`The Mellow Night`: /schedule/abstracts/#mellow
-.. _`The PyCon UK Dinner`: /schedule/abstracts/#dinner
-.. _`The Friday Night Charity Social in memory of John Pinner`: /schedule/abstracts/#social
+.. _`The Lightning Talk Show`: /abstracts/#lightningtalks
+.. _`The Mellow Night`: /abstracts/#mellow
+.. _`The PyCon UK Dinner`: /abstracts/#dinner
+.. _`The Friday Night Charity Social in memory of John Pinner`: /abstracts/#social
 .. _`Python in Education`: /education/

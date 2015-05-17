@@ -1,5 +1,4 @@
-language: ruby
+language: python
 
 script:
-    - bash name-lint.sh
-    - bundle exec htmlproof --href-swap ".*pyconuk.org/:/" output/
+    - make test

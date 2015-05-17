@@ -39,6 +39,8 @@ Alternatively, if you run ``make serve``, wok will build the site, serve the bui
 
 It is the ``output/`` directory that gets served by GitHub pages, so please make sure this is included when you submit your pull request.
 
+You can test that the site contains no broken links and that the conference name is capitalised correctly (hint, it's "PyCon UK") by running ``make test``.
+
 Travis will test branches, and branches won't get merged without review and passing tests, so dive right in!
 
 .. _wok: http://wok.mythmon.com/
