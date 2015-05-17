@@ -20,4 +20,4 @@ serve:
 	. .venv/bin/activate; wok --serve
 
 test:
-	. .venv/bin/activate; ./pre-flight-checks.sh
+	. .venv/bin/activate; python test_ssl_import.py
