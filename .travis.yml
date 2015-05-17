@@ -1,4 +1,3 @@
 language: python
-
-script:
-    - make test
+install: make setup
+script: make test
