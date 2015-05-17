@@ -1,8 +1,8 @@
 PyCon UK website
 ================
 
-.. image:: https://travis-ci.org/PyconUK/pyconuk.github.io.svg?branch=master
-       :target: https://travis-ci.org/PyconUK/pyconuk.github.io
+.. image:: https://travis-ci.org/PyconUK/pyconuk.org.svg?branch=master
+       :target: https://travis-ci.org/PyconUK/pyconuk.org
 
 This is the website for PyCon UK. It is hosted via GitHub Pages and available via http://pyconuk.org/.
 
@@ -16,7 +16,7 @@ Use the following process to submit changes:
 * In GitHub, create a pull request from your branch against our upstream repository.
 * Someone (not you) will check the change and either merge it (thus automatically updating the website) or add comments for further changes or a reason for rejection.
 
-If you're not a coder please feel free to create issues here: https://github.com/PyconUK/pyconuk.github.io/issues
+If you're not a coder please feel free to create issues here: https://github.com/PyconUK/pyconuk.org/issues
 
 That's it!
 
