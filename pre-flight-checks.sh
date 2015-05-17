@@ -68,6 +68,9 @@ if [[ $TRAVIS = "true" ]]; then
 	fi
 
 	git diff output
+
+	echo "git --version:"
+	git --version
 fi
 
 kill $WOK_PID
