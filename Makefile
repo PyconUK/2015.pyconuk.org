@@ -11,7 +11,7 @@ help:
 	@echo ''
 
 setup:
-	virtualenv .venv; . .venv/bin/activate; pip install -r requirements.txt
+	python -m virtualenv .venv; . .venv/bin/activate; pip install -r requirements.txt
 
 build:
 	. .venv/bin/activate; wok
@@ -20,4 +20,4 @@ serve:
 	. .venv/bin/activate; wok --serve
 
 test:
-	. .venv/bin/activate; python test_ssl_import.py
+	. .venv/bin/activate; ./pre-flight-checks.sh
