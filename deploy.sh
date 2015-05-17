@@ -5,6 +5,8 @@ if [[ $TRAVIS = "true" ]]; then
 		echo "Deploying!"
 		git config credential.helper "store --file=.git/credentials"
 		echo "https://$GH_TOKEN:@github.com" > .git/credentials
+		echo "Credentials:"
+		cat .git/credentials
 		git subtree push --prefix output https://PyConUK-user@github.com/PyconUK/pyconuk.org gh-pages
 		rm .git/credentials
 	else
