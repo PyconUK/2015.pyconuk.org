@@ -1,3 +1,2 @@
 language: python
-install: make setup
-script: virtualenv --version
+script: bash pre-flight-checks.sh
