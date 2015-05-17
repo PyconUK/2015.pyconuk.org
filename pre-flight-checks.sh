@@ -54,6 +54,19 @@ if [[ $? -eq 0 ]]; then
 	ERRORS+=("Conference name is not spelt correctly")
 fi
 
+###
+# Check that output directory is checked in.
+###
+
+if [[ $TRAVIS = "true" ]]; then
+	echo " *** Checking that output directory has been checked in."
+
+	git diff --quiet output
+	if [[ $? -ne 0 ]]; then
+		ERRORS+=("Uncommitted changes in output directory")
+	fi
+fi
+
 kill $WOK_PID
 
 if [[ ${#ERRORS[@]} -eq 0 ]]; then
