@@ -60,18 +60,13 @@ fi
 
 if [[ $TRAVIS = "true" ]]; then
 	echo " *** Checking that output directory has been checked in."
+	# This is required, otherwise the test for git diff's exit code never fails...
 	git status
 
 	git diff --quiet output
 	if [[ $? -ne 0 ]]; then
-		echo " !!! Uncommitted changes in output directory"
 		ERRORS+=("Uncommitted changes in output directory")
 	fi
-
-	git diff output
-
-	echo "git --version:"
-	git --version
 fi
 
 kill $WOK_PID
