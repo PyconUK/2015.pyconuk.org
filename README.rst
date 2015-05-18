@@ -43,6 +43,14 @@ You can test that the site contains no broken links and that the conference name
 
 Travis will test branches, and branches won't get merged without review and passing tests, so dive right in!
 
+
+Deployment
+~~~~~~~~~~
+
+The site is hosted as a Project Page on GitHub Pages, and so it is the ``gh-pages`` branch of the repository that gets served.  wok generates the site in the ``output/`` directory, and we can use some git magic to keep the ``gh-pages`` branch in sync with the ``output/`` directory of the ``master`` branch.  See ``deploy.sh`` for details.
+
+This should be done automatically by Travis after it has built the ``master`` branch, but in case this does not happen, somebody with commit access to the repository can run ``make deploy``.
+
 .. _wok: http://wok.mythmon.com/
 .. _Markdown: https://pythonhosted.org/Markdown/
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
