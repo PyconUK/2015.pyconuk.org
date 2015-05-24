@@ -40,6 +40,8 @@ Windows users: you need to run the (extensionless) ``wok`` script in c:/pythonxx
 
 Alternatively, if you run ``make serve``, wok will build the site, serve the built site on port 8000, and watch for changes.
 
+Windows users: you need to run the (extensionless) ``wok`` script with the --serve parameter in c:/pythonxx/scripts. eg ``py -2 c:\python27\scripts\wok --serve``.
+
 It is the ``output/`` directory that gets served by GitHub pages, so please make sure this is included when you submit your pull request.
 
 You can test that the site contains no broken links and that the conference name is capitalised correctly (hint, it's "PyCon UK") by running ``make test``.
