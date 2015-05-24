@@ -12,6 +12,7 @@ Use the following process to submit changes:
 
 * Fork the repository.
 * Create a descriptive branch name for the change you are proposing.
+* Make your changes and build the output as described below
 * Push your changes in your local branch back to your remote GitHub repository.
 * In GitHub, create a pull request from your branch against our upstream repository.
 * Someone (not you) will check the change and either merge it (thus automatically updating the website) or add comments for further changes or a reason for rejection.
@@ -34,6 +35,8 @@ wok builds the site by assembling several components:
 * A jinja2_ template for all the pages is found in ``templates/default.html``
 
 To build the site, run ``make build``.  This will pull together all the componenents into a set of HTML files in ``output/``.
+
+Windows users: you need to run the (extensionless) ``wok`` script in c:/pythonxx/scripts. eg ``py -2 c:\python27\scripts\wok``.
 
 Alternatively, if you run ``make serve``, wok will build the site, serve the built site on port 8000, and watch for changes.
 
