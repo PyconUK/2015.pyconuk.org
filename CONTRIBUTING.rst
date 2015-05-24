@@ -18,3 +18,5 @@ By contributing code to the project you agree that:
 * There is no guarantee that your contribution will be accepted into the source code.
 
 Yay! :-)
+
+Please follow the instructions in the README for making and submitting pull requests.
