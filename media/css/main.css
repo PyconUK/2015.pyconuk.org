@@ -615,7 +615,7 @@ iframe {
     margin-top: 2em;
   }
 }
-@media all and (min-width: 970px) {
+@media all and (min-width: 1000px) {
   .nav ul {
     text-align: center;
   }
@@ -638,7 +638,7 @@ iframe {
     text-align: center;
   }
 }
-@media all and (min-width: 970px) {
+@media all and (min-width: 1000px) {
   .nav li {
     width: auto;
     display: inline;
@@ -663,7 +663,7 @@ iframe {
     color: white;
   }
 }
-@media all and (min-width: 970px) {
+@media all and (min-width: 1000px) {
   .nav a {
     display: inline-block;
     padding-top: 0.5em;
