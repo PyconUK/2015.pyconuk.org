@@ -538,6 +538,7 @@ iframe {
     position: absolute;
     margin: 0;
     left: 50%;
+    top: 0;
     margin-left: -3.125em;
     width: 6.25em;
     height: 12.5em;
@@ -614,7 +615,7 @@ iframe {
     margin-top: 2em;
   }
 }
-@media all and (min-width: 940px) {
+@media all and (min-width: 970px) {
   .nav ul {
     text-align: center;
   }
@@ -637,7 +638,7 @@ iframe {
     text-align: center;
   }
 }
-@media all and (min-width: 940px) {
+@media all and (min-width: 970px) {
   .nav li {
     width: auto;
     display: inline;
@@ -662,7 +663,7 @@ iframe {
     color: white;
   }
 }
-@media all and (min-width: 940px) {
+@media all and (min-width: 970px) {
   .nav a {
     display: inline-block;
     padding-top: 0.5em;
