@@ -20,7 +20,8 @@ if [[ $TRAVIS = "true" ]]; then
 		# pre-flight-checks.sh ran.  If the output directory is already
 		# up to date then no new commit will be made.
 		git checkout master
-		git commit -a -m "[skip ci] Travis auto-commit.  Built latest changes."
+		git add output
+		git commit -m "[skip ci] Travis auto-commit.  Built latest changes."
 		git push https://PyConUK-user@github.com/PyconUK/pyconuk.org master
 
 		# Push output directory to gh-pages branch on GitHub.
