@@ -534,9 +534,6 @@ iframe {
   margin: 1em 1em;
 }
 @media all and (min-width: 560px) {
-  .head .menu-icon {
-    display: none;
-  }
   .head h1 a {
     position: absolute;
     margin: 0;
@@ -568,6 +565,11 @@ iframe {
   background: #2b2b2b;
   box-shadow: 0 0.25em 0 0 #2b2b2b, 0 0.5em 0 0 #2b2b2b;
 }
+@media all and (min-width: 560px) {
+  .head .menu-icon {
+    display: none;
+  }
+}
 #toggle-nav:checked ~ .menu-icon {
   color: blue !important;
 }
@@ -586,35 +588,6 @@ iframe {
   height: 0.125em;
   background: black;
 }
-.nav ul {
-  list-style: none;
-  margin: 0 0 0 0;
-  padding: 0;
-}
-.nav li {
-  display: block;
-  background: #2b2b2b;
-  border-top: 1px solid #454545;
-}
-.nav a {
-  display: block;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: white;
-  padding: 0.25em 1em;
-}
-.nav a.active {
-  color: white;
-}
-@media all and (min-width: 375px) {
-  #toggle-nav:checked + .nav {
-    height: 10em;
-  }
-  .nav li {
-    width: 50%;
-    float: left;
-  }
-}
 @media all and (min-width: 560px) {
   .nav {
     height: auto;
@@ -625,14 +598,64 @@ iframe {
   .nav:before {
     display: none;
   }
+}
+@media all and (min-width: 700px) {
+  .nav {
+    max-width: none;
+    height: 10em;
+  }
+}
+.nav ul {
+  list-style: none;
+  margin: 0 0 0 0;
+  padding: 0;
+}
+@media all and (min-width: 560px) {
   .nav ul {
     margin-top: 2em;
   }
+}
+@media all and (min-width: 1000px) {
+  .nav ul {
+    text-align: center;
+  }
+}
+.nav li {
+  display: block;
+  background: #2b2b2b;
+  border-top: 1px solid #454545;
+}
+@media all and (min-width: 375px) {
+  .nav li {
+    width: 50%;
+    float: left;
+  }
+}
+@media all and (min-width: 560px) {
   .nav li {
     background: none;
     border: none;
     text-align: center;
   }
+}
+@media all and (min-width: 1000px) {
+  .nav li {
+    width: auto;
+    display: inline;
+    float: none;
+  }
+  .nav li.halfway {
+    margin-left: 7.5em;
+  }
+}
+.nav a {
+  display: block;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: white;
+  padding: 0.25em 1em;
+}
+@media all and (min-width: 560px) {
   .nav a {
     color: #2b2b2b;
   }
@@ -640,19 +663,7 @@ iframe {
     color: white;
   }
 }
-@media all and (min-width: 700px) {
-  .nav {
-    max-width: none;
-    height: 10em;
-  }
-  .nav ul {
-    text-align: center;
-  }
-  .nav li {
-    width: auto;
-    display: inline;
-    float: none;
-  }
+@media all and (min-width: 1000px) {
   .nav a {
     display: inline-block;
     padding-top: 0.5em;
@@ -667,9 +678,17 @@ iframe {
     background: #2b2b2b;
   }
 }
+.nav a.active {
+  color: white;
+}
 #toggle-nav:checked + .nav {
   height: 15.5625em;
   transition: height 0.3s;
+}
+@media all and (min-width: 375px) {
+  #toggle-nav:checked + .nav {
+    height: 10em;
+  }
 }
 .main-article {
   background: white;
