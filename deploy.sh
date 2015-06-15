@@ -13,12 +13,15 @@ if [[ $TRAVIS = "true" ]]; then
 		git config user.name "Travis"
 		git config user.email "no-reply@pyconuk.org"
 
-		# Add, commit, and push any changes to the output directory
-		# introduced by this change.  The output directory will have
-		# been updated if required when pre-flight-checks.sh ran.  If
-		# the output directory is already up to date then no new commit
-		# will be made.
-		git commit -a -m "Travis auto-commit.  Built latest changes."
+		# Check out master (because currently HEAD is detached, level
+		# with master), then add, commit, and push any changes to the
+		# output directory introduced by this change.  The output
+		# directory will have been updated (if required) when
+		# pre-flight-checks.sh ran.  If the output directory is already
+		# up to date then no new commit will be made.
+		git checkout master
+		git add output
+		git commit -m "[skip ci] Travis auto-commit.  Built latest changes."
 		git push https://PyConUK-user@github.com/PyconUK/pyconuk.org master
 
 		# Push output directory to gh-pages branch on GitHub.
