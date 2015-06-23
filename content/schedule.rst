@@ -41,8 +41,8 @@ and effective way.
 
 The schedule below is provisional. The skeleton will become
 increasingly fleshed out during the run up to the
-conference. Therefore, the schedule can and will change,
-even during the conference itself.
+conference. However, once decided the schedule *will NOT change except
+in extremely special circumstances*.
 
 .. _`YouTube channel`: https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos
 .. _`Python for School Teachers`: /education/
