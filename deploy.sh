@@ -13,13 +13,13 @@ if [[ $TRAVIS = "true" ]]; then
 
 	# Set up credentials for pushing to GitHub.  $GH_TOKEN is configured via Travis web UI.
 	git config --global credential.helper "store --file=$TRAVIS_BUILD_DIR/git-credentials"
-	echo "https://PyConIK-user:$GH_TOKEN@github.com" > $TRAVIS_BUILD_DIR/git-credentials
+	echo "https://PyConUK-user:$GH_TOKEN@github.com" > $TRAVIS_BUILD_DIR/git-credentials
 
 	# Set up config for committing.
 	git config --global user.name "Travis"
 	git config --global user.email "no-reply@pyconuk.org"
 else
-	REPO_URL="git@github.com/PyconUK/pyconuk.org.git"
+	REPO_URL="git@github.com:PyconUK/pyconuk.org.git"
 fi
 
 echo "Deploying!"
