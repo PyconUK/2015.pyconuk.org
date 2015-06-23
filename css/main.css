@@ -532,13 +532,13 @@ iframe {
   background: url(../img/pycon-white.png);
   background-size: cover;
   margin: 1em 1em;
+  z-index: 999;
 }
 @media all and (min-width: 560px) {
   .head h1 a {
     position: absolute;
     margin: 0;
     left: 50%;
-    top: 0;
     margin-left: -3.125em;
     width: 6.25em;
     height: 12.5em;
