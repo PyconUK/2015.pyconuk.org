@@ -34,13 +34,13 @@ fi
 # Check that no links are broken.
 ###
 
-echo " *** Checking that no links are broken."
+#echo " *** Checking that no links are broken."
 
-linkchecker --no-status --no-warnings --check-extern "http://localhost:8000"
+#linkchecker --no-status --no-warnings --check-extern "http://localhost:8000"
 
-if [[ $? -ne 0 ]]; then
-	ERRORS+=("Broken links found on site")
-fi
+#if [[ $? -ne 0 ]]; then
+#	ERRORS+=("Broken links found on site")
+#fi
 
 ###
 # Check that name of conference is spelt correctly.
