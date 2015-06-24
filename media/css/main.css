@@ -523,16 +523,19 @@ iframe {
     width: 42em;
 }
 .head h1 {
-  display: block;
+  display: inline-block;
   font-size: 1em;
+  height: 12.5em;
   margin: 0;
+  margin-left: -133px;
+  width: 6.25em;
 }
 .head h1 a {
   display: block;
   overflow: hidden;
   text-indent: -100em;
-  width: 4.8125em;
-  height: 6em;
+  height: 100%;
+  width: 100%;
   background: url(../img/pycon-white.png);
   background-size: cover;
   margin: 1em 1em;
@@ -540,12 +543,7 @@ iframe {
 }
 @media all and (min-width: 560px) {
   .head h1 a {
-    position: absolute;
     margin: 0;
-    left: 50%;
-    margin-left: -3.125em;
-    width: 6.25em;
-    height: 12.5em;
     background: url(../img/pycon.png);
     background-size: cover;
   }
@@ -578,6 +576,7 @@ iframe {
   color: blue !important;
 }
 .nav {
+  display: inline-block;
   height: 0;
   overflow: hidden;
   transition: height 0.3s;
@@ -664,9 +663,6 @@ iframe {
     width: auto;
     display: inline;
     float: none;
-  }
-  .nav li.halfway {
-    margin-left: 7.5em;
   }
   .nav a {
     display: inline-block;
