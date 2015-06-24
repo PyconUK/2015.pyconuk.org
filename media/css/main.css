@@ -518,6 +518,10 @@ iframe {
   height: 0.3125em;
   background: white;
 }
+.head .wrap {
+    margin: 0 auto;
+    width: 42em;
+}
 .head h1 {
   display: block;
   font-size: 1em;
