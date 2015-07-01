@@ -56,7 +56,7 @@ Friday
 |       |            |            |            |            |                          | America   |
 |       |            |            |            |            |                          | Education |
 |       |            |            |            |            |                          | Track     |
-+-------+------------+------------+------------+------------+--------------------------+-----------+
++=======+============+============+============+============+==========================+===========+
 | 08:00 | Registration / Breakfast                                                                 |
 +-------+------------------------------------------------------------------------------------------+
 | 09:30 | Opening Plenary                                                                          |
@@ -80,11 +80,11 @@ Friday
 +-------+------------+------------+------------+------------+             |            |           |
 | 14:00 | Keynote 2                                         |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
-| 15:00 | XTalk      | XTalk      | XTalk      | Do Not     |             |            |           |
-+-------+------------+------------+------------+ Get        |             |            |           |
-| 15:30 | XTalk      | XTalk      | XTalk      | Scared     |             |            |           |
-+-------+------------+------------+------------+ Get        |             |            |           |
-| 16:00 | XTalk      | XTalk      | XTalk      | Started    |             |            |           |
+| 15:00 | XTalk      | XTalk      | XTalk      | XWorkshop  |             |            |           |
++-------+------------+------------+------------+            |             |            |           |
+| 15:30 | XTalk      | XTalk      | XTalk      |            |             |            |           |
++-------+------------+------------+------------+            |             |            |           |
+| 16:00 | XTalk      | XTalk      | XTalk      |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
 | 16:30 | XTalk      | XTalk      | XTalk      |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
@@ -119,9 +119,9 @@ Saturday
 |       |          |          |          |          | for       | Opening   | Discussi\ | Meeting |
 |       |          |          |          |          | Science   |           | on        | Slot 1  |
 +-------+----------+----------+----------+----------+ Opening   |           | Slot 1    |         |
-| 10:00 | XTalk    | XTalk    | XTalk    | Django   | with Dr   |           |           |         |
-|       |          |          |          | Security | Sarah     |           |           |         |
-|       |          |          |          | Workshop | Mount     |           |           |         |
+| 10:00 | XTalk    | XTalk    | XTalk    | XWorkshop| with Dr   |           |           |         |
+|       |          |          |          |          | Sarah     |           |           |         |
+|       |          |          |          |          | Mount     |           |           |         |
 +-------+----------+----------+----------+          +-----------+-----------+-----------+---------+
 | 10:30 | XTalk    | XTalk    | XTalk    |          | Python for| PyKids UK | BoF       | BoF     |
 |       |          |          |          |          | Science   |           | Discussion| Meeting |
@@ -175,10 +175,10 @@ Saturday
 +-------+-------------------------------------------------------+-----------+-----------+---------+
 | 15:30 | Lightning PyKids UK                                                                     |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+---------+
-| 16:00 | XTalk    | XTalk    | Building | Fifty    | Python    | Scrapy    | BoF       | BoF     |
-|       |          |          | Async    | Shades   | for       | Workshop  | Discussion| Meeting |
-|       |          |          | Micro\   | Of       | Science   |           | Slot 8    | Slot 8  |
-+-------+----------+----------+ services | Diaster  | Tutorial 2|           +-----------+---------+
+| 16:00 | XTalk    | XTalk    | XWorkshop| XWorkshop| Python    | XWorkshop | BoF       | BoF     |
+|       |          |          |          |          | for       |           | Discussion| Meeting |
+|       |          |          |          |          | Science   |           | Slot 8    | Slot 8  |
++-------+----------+----------+          |          | Tutorial 2|           +-----------+---------+
 | 16:30 | XTalk    | XTalk    |          |          | (continu\ |           | BoF       | BoF     |
 |       |          |          |          |          | ed)       |           | Discussion| Meeting |
 |       |          |          |          |          |           |           | Slot 9    | Slot 9  |
@@ -213,12 +213,12 @@ Sunday
 +-------+------------+------------+------------+------------+------------+------------+------------+
 | 09:00 | Opening Plenary                                                                          |
 +-------+------------+------------+------------+------------+------------+------------+------------+
-| 09:30 | XTalk      | XTalk      | XTalk      | Event\     | Python     | BoF        | BoF        |
-|       |            |            |            | -Sourced   | for        | Discussion | Meeting    |
-|       |            |            |            | Domain     | Science    | Slot 1     | Slot 1     |
-+-------+------------+------------+------------+ Models     +------------+------------+------------+
-| 10:00 | XTalk      | XTalk      | XTalk      | in         | Python     | BoF        | BoF        |
-|       |            |            |            | Python     | for        | Discussion | Meeting    |
+| 09:30 | XTalk      | XTalk      | XTalk      | XWorkshop  | Python     | BoF        | BoF        |
+|       |            |            |            |            | for        | Discussion | Meeting    |
+|       |            |            |            |            | Science    | Slot 1     | Slot 1     |
++-------+------------+------------+------------+            +------------+------------+------------+
+| 10:00 | XTalk      | XTalk      | XTalk      |            | Python     | BoF        | BoF        |
+|       |            |            |            |            | for        | Discussion | Meeting    |
 |       |            |            |            |            | Science    | Slot 2     | Slot 2     |
 +-------+------------+------------+------------+            +------------+------------+------------+
 | 10:30 | XTalk      | XTalk      | XTalk      |            | Python     | BoF        | BoF        |
