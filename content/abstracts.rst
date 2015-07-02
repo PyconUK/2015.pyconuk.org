@@ -10,36 +10,6 @@ Brief outlines of each event will follow, especially check
 back in the weeks before the conference to see what has been
 added.
 
-PyCon UK is an informal yet exciting mix of talks, tutorials,
-workshops, keynotes, socials, plenary hi-jinks, five minute 'lightning
-talks' and more.
-
-Please see our `YouTube channel`_ to see a few of the things we got up
-to last year.
-
-Friday has talks and workshops from Python experts from the UK and
-further afield as well as a special `Python in Education`_
-track. The day will be rounded off with a bring-your-own buffet charity
-event in memory of John Pinner (all proceeds to be donated to Cancer
-Research UK).
-
-Saturday contains more talks, workshops and networking but also the
-Lightning Talk Man takes flight and the kids outsmart us all in the
-special Children's Track, the science track begins and all this is
-followed by the PyCon UK Conference Dinner.
-
-Sunday contains the PyCon UK Panel, a 'Question Time' style event
-where you can ask leading Python developers questions on Python,
-developing and the meaning of life. Lightning Talk Man continues to
-inspire and entertain and we hold the all-important PyCon UK jobs fair
-where you can recruit or be recruited from a pool of the highest
-quality UK developers.
-
-Monday is the Sprint day, we split into small groups and in each group
-a member of an Open Source Python project guides a small group in how
-to hack on the project. Improve your Python skills in a fun, practical
-and effective way.
-
 Keynotes
 ~~~~~~~~
 
@@ -61,6 +31,11 @@ The Friday Night Social
 -----------------------
 
 .. _mellow:
+
+You made it through the first day! Well done! Round it off with a
+special bring <something> to sell charity event in memory of PyCon UK
+Chairman John Pinner (all proceeds to be donated to Cancer Research
+UK).
 
 The Mellow Night
 ------------------
@@ -400,3 +375,11 @@ Code Clinic
 
 Python Dojo
 -----------
+
+Sprints
+~~~~~~~
+
+Monday is the Sprint day, we split into small groups and in each group
+a member of an Open Source Python project guides a small group in how
+to hack on the project. Improve your Python skills in a fun, practical
+and effective way.
