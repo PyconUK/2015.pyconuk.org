@@ -9,44 +9,10 @@ Schedule
 The dynamic conference for the leading dynamic language
 -------------------------------------------------------
 
-PyCon UK is an informal yet exciting mix of talks, tutorials,
-workshops, keynotes, socials, plenary hi-jinks, five minute 'lightning
-talks' and more.
-
-Please see our `YouTube channel`_ to see a few of the things we got up
-to last year.
-
-Friday has talks and workshops from Python experts from the UK and
-further afield as well as a special `Python in Education`_
-track. The day will be rounded off with a bring-your-own buffet charity
-event in memory of John Pinner (all proceeds to be donated to Cancer
-Research UK).
-
-Saturday contains more talks, workshops and networking but also the
-Lightning Talk Man takes flight and the kids outsmart us all in the
-special Children's Track, the science track begins and all this is
-followed by the PyCon UK Conference Dinner.
-
-Sunday contains the PyCon UK Panel, a 'Question Time' style event
-where you can ask leading Python developers questions on Python,
-developing and the meaning of life. Lightning Talk Man continues to
-inspire and entertain and we hold the all-important PyCon UK jobs fair
-where you can recruit or be recruited from a pool of the highest
-quality UK developers.
-
-Monday is the Sprint day, we split into small groups and in each group
-a member of an Open Source Python project guides a small group in how
-to hack on the project. Improve your Python skills in a fun, practical
-and effective way.
-
 The schedule below is provisional. The skeleton will become
-increasingly fleshed out during the run up to the
-conference. However, once decided the schedule *will NOT change except
-in extremely special circumstances*.
-
-.. _`YouTube channel`: https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos
-.. _`Python for School Teachers`: /education/
-.. _`Science Track`: /science/
+increasingly fleshed out during the run up to the conference. However,
+during the conference, only minor changes will be made (e.g.
+replacement of cancelled talks, naming of BOFs, etc).
 
 Friday
 ------
@@ -115,18 +81,20 @@ Saturday
 +-------+-----------------------------------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                                         |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+---------+
-| 09:30 | XTalk    | XTalk    | XTalk    | XTalk    | Forming a | PyKids UK | BoF       | BoF     |
-|       |          |          |          |          | PyCon UK  | Opening   | Discussi\ | Meeting |
-|       |          |          |          |          | research  |           | on        | Slot 1  |
-|       |          |          |          |          | community |           |           |         |
+| 09:30 | XTalk    | XTalk    | XTalk    | XTalk    | `Form\    | PyKids UK | BoF       | BoF     |
+|       |          |          |          |          | ing  a \  | Opening   | Discussi\ | Meeting |
+|       |          |          |          |          | PyCon UK \|           | on        | Slot 1  |
+|       |          |          |          |          | research \|           |           |         |
+|       |          |          |          |          | commun\   |           |           |         |
+|       |          |          |          |          | ity`_     |           |           |         |
 +-------+----------+----------+----------+----------+-----------+           | Slot 1    |         |
-| 10:00 | XTalk    | XTalk    | XTalk    | XWorkshop| Accelera\ |           |           |         |
-|       |          |          |          |          | ting      |           |           |         |
-|       |          |          |          |          | Scientific|           |           |         |
-+-------+----------+----------+----------+          | Code      +-----------+-----------+---------+
-| 10:30 | XTalk    | XTalk    | XTalk    |          | with      | PyKids UK | BoF       | BoF     |
-|       |          |          |          |          | Numba     |           | Discussion| Meeting |
-|       |          |          |          |          |           |           | Slot 2    | Slot 2  |
+| 10:00 | XTalk    | XTalk    | XTalk    | XWorkshop| `Accel\   |           |           |         |
+|       |          |          |          |          | erating \ |           |           |         |
+|       |          |          |          |          | Scient\   |           |           |         |
++-------+----------+----------+----------+          | ific \    +-----------+-----------+---------+
+| 10:30 | XTalk    | XTalk    | XTalk    |          | Code \    | PyKids UK | BoF       | BoF     |
+|       |          |          |          |          | with \    | Discussion| Meeting   |         |
+|       |          |          |          |          | Numba`_   |           | Slot 2    | Slot 2  |
 |       |          |          |          |          |           |           |           |         |
 |       |          |          |          |          |           |           |           |         |
 |       |          |          |          |          |           |           |           |         |
@@ -155,12 +123,13 @@ Saturday
 |       |          |          |          |          |           | and       |           |         |
 |       |          |          |          |          |           | crisps)   |           |         |
 +-------+          +----------+----------+----------+-----------+           |           |         |
-| 13:00 |          | Lunch\   | Lunch\   | Lunch\   | Getting   | PyKids UK |           |         |
-|       |          | time     | time     | time     | started   |           |           |         |
-+-------+          | Workshop | Workshop | Workshop | with      +-----------+-----------+---------+
-| 13:30 |          |          |          |          | testing   | PyKids UK | BoF       | BoF     |
-|       |          |          |          |          | scientific|           | Discussion| Meeting |
-|       |          |          |          |          | programs  |           | Slot 6    | Slot 6  |
+| 13:00 |          | Lunch\   | Lunch\   | Lunch\   | `Getting \| PyKids UK |           |         |
+|       |          | time     | time     | time     | started \ |           |           |         |
++-------+          | Workshop | Workshop | Workshop | with \    +-----------+-----------+---------+
+| 13:30 |          |          |          |          | testing \ | PyKids UK | BoF       | BoF     |
+|       |          |          |          |          | scient\   |           | Discussion| Meeting |
+|       |          |          |          |          | ific pro\ |           | Slot 6    | Slot 6  |
+|       |          |          |          |          | grams`_   |           |           |         |
 |       |          |          |          |          | part 1    |           |           |         |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+---------+
 | 14:00 | Plenary                                               | PyKids UK |           |         |
@@ -179,14 +148,14 @@ Saturday
 +-------+-------------------------------------------------------+-----------+-----------+---------+
 | 15:30 | Lightning PyKids UK                                                                     |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+---------+
-| 16:00 | XTalk    | XTalk    | XWorkshop| XWorkshop| Getting   | PyKids    | BoF       | BoF     |
-|       |          |          |          |          | started   | Organisers| Discussion| Meeting |
-|       |          |          |          |          | with      | Tidy up   | Slot 8    | Slot 8  |
-+-------+----------+----------+          |          | testing   |           +-----------+---------+
-| 16:30 | XTalk    | XTalk    |          |          | scientific|           | BoF       | BoF     |
-|       |          |          |          |          | programs  |           | Discussion| Meeting |
-|       |          |          |          |          | part 2    |           | Slot 9    | Slot 9  |
-+-------+----------+----------+          |          |           |           +-----------+---------+
+| 16:00 | XTalk    | XTalk    | XWorkshop| XWorkshop| `Getting \| PyKids    | BoF       | BoF     |
+|       |          |          |          |          | started \ | Organisers| Discussion| Meeting |
+|       |          |          |          |          | with \    | Tidy up   | Slot 8    | Slot 8  |
++-------+----------+----------+          |          | testing \ |           +-----------+---------+
+| 16:30 | XTalk    | XTalk    |          |          | scient\   |           | BoF       | BoF     |
+|       |          |          |          |          | ific \    |           | Discussion| Meeting |
+|       |          |          |          |          | programs`_|           | Slot 9    | Slot 9  |
++-------+----------+----------+          |          | part 2    |           +-----------+---------+
 | 17:00 | XTalk    | XTalk    |          |          |           |           | PSF       | BoF     |
 |       |          |          |          |          |           |           | Reception | Meeting |
 |       |          |          |          |          |           |           |           | Slot 10 |
@@ -217,41 +186,44 @@ Sunday
 +-------+------------+------------+------------+------------+------------+------------+------------+
 | 09:00 | Opening Plenary                                                                          |
 +-------+------------+------------+------------+------------+------------+------------+------------+
-| 09:30 | XTalk      | XTalk      | XTalk      | XWorkshop  | Tit for    | BoF        | BoF        |
-|       |            |            |            |            | Tat,       | Discussion | Meeting    |
-|       |            |            |            |            | Evolution, | Slot 1     | Slot 1     |
-|       |            |            |            |            | Game       |            |            |
-|       |            |            |            |            | Theory     |            |            |
-|       |            |            |            |            | and the    |            |            |
-|       |            |            |            |            | Python     |            |            |
-|       |            |            |            |            | Axelrod    |            |            |
-|       |            |            |            |            | Library    |            |            |
+| 09:30 | XTalk      | XTalk      | XTalk      | XWorkshop  | `Tit for \ | BoF        | BoF        |
+|       |            |            |            |            | Tat, \     | Discussion | Meeting    |
+|       |            |            |            |            | Evolut\    | Slot 1     | Slot 1     |
+|       |            |            |            |            | ion, \     |            |            |
+|       |            |            |            |            | Game \     |            |            |
+|       |            |            |            |            | Theory \   |            |            |
+|       |            |            |            |            | and the \  |            |            |
+|       |            |            |            |            | Python \   |            |            |
+|       |            |            |            |            | Axelrod \  |            |            |
+|       |            |            |            |            | Library`_  |            |            |
 +-------+------------+------------+------------+            +------------+------------+------------+
-| 10:00 | XTalk      | XTalk      | XTalk      |            | Ship       | BoF        | BoF        |
-|       |            |            |            |            | Data       | Discussion | Meeting    |
-|       |            |            |            |            | Science    | Slot 2     | Slot 2     |
-|       |            |            |            |            | Products!  |            |            |
+| 10:00 | XTalk      | XTalk      | XTalk      |            | `Ship \    | BoF        | BoF        |
+|       |            |            |            |            | Data \     | Discussion | Meeting    |
+|       |            |            |            |            | Science \  | Slot 2     | Slot 2     |
+|       |            |            |            |            | Products!`_|            |            |
 +-------+------------+------------+------------+            +------------+------------+------------+
-| 10:30 | XTalk      | XTalk      | XTalk      |            | iCE:       | BoF        | BoF        |
+| 10:30 | XTalk      | XTalk      | XTalk      |            | `iCE: \    | BoF        | BoF        |
 |       |            |            |            |            | Inter\     | Discussion | Meeting    |
-|       |            |            |            |            | active     | Slot 3     | Slot 3     |
-|       |            |            |            |            | cloud      |            |            |
+|       |            |            |            |            | active \   | Slot 3     | Slot 3     |
+|       |            |            |            |            | cloud \    |            |            |
 |       |            |            |            |            | experimen\ |            |            |
-|       |            |            |            |            | tation     |            |            |
+|       |            |            |            |            | tation`_   |            |            |
 +-------+------------+------------+------------+            +------------+------------+------------+
-| 11:00 | XTalk      | XTalk      | XTalk      |            | Power:     | BoF        | BoF        |
-|       |            |            |            |            | Python in  | Discussion | Meeting    |
-|       |            |            |            |            | Astronomy  | Slot 4     | Slot 4     |
+| 11:00 | XTalk      | XTalk      | XTalk      |            | `Power: \  | BoF        | BoF        |
+|       |            |            |            |            | Python in \| Discussion | Meeting    |
+|       |            |            |            |            | Astronomy`_| Slot 4     | Slot 4     |
 +-------+------------+------------+------------+            +------------+------------+------------+
-| 11:30 | XTalk      | XTalk      | XTalk      |            | Pythons    | BoF        | BoF        |
-|       |            |            |            |            | and        | Discussion | Meeting    |
-|       |            |            |            |            | Earthquakes| Slot 4     | Slot 4     |
+| 11:30 | XTalk      | XTalk      | XTalk      |            | `Pythons \ | BoF        | BoF        |
+|       |            |            |            |            | and \      | Discussion | Meeting    |
+|       |            |            |            |            | Earth\     | Slot 4     | Slot 4     |
+|       |            |            |            |            | quakes`_   |            |            |
 +-------+------------+------------+------------+            +------------+------------+------------+
-| 12:00 | PyCon UK   | Lunchtime  | Lunchtime  |            | Getting    | BoF        | BoF        |
-|       | Jobs Fair  | Workshop   | Workshop   |            | meaning    | Discussion | Meeting    |
-|       |            |            |            |            | from       | Slot 5     | Slot 5     |
-|       |            |            |            |            | scientific |            |            |
-|       |            |            |            |            | articles   |            |            |
+| 12:00 | `PyCon UK \| Lunchtime  | Lunchtime  |            | `Getting \ | BoF        | BoF        |
+|       | Jobs Fair`_| Workshop   | Workshop   |            | meaning \  | Discussion | Meeting    |
+|       |            |            |            |            | from \     | Slot 5     | Slot 5     |
+|       |            |            |            |            | scient\    |            |            |
+|       |            |            |            |            | ific \     |            |            |
+|       |            |            |            |            | articles`_ |            |            |
 +-------+            |            |            +------------+------------+------------+------------+
 | 12:30 |            |            |            | Lunchtime  | Lunch      | BoF        | BoF        |
 |       |            |            |            | Workshop   |            | Discussion | Meeting    |
@@ -285,7 +257,7 @@ Sunday
 +-------+------------------------------------------------------------------------------------------+
 | 18:00 | End of Day                                                                               |
 +-------+------------------------------------------------------------------------------------------+
-| 19:30 | The Mellow Night                                                                         |
+| 19:30 | `The Mellow Night`_                                                                      |
 +-------+------------------------------------------------------------------------------------------+
 
 Monday
@@ -342,3 +314,15 @@ Monday
 .. _`The PyCon UK Dinner`: /abstracts/#dinner
 .. _`The Friday Night Charity Social in memory of John Pinner`: /abstracts/#social
 .. _`Python in Education`: /education/
+.. _`PyCon UK Jobs Fair`: /abstracts/#jobfair
+
+
+.. _`forming a pycon uk research community`: /abstracts/#form
+.. _`accelerating scientific code with numba`: /abstracts/#numba
+.. _`getting started with testing scientific programs`: /abstracts/#testing
+.. _`tit for tat, evolution, game theory and the python axelrod library`: /abstracts/#titfortat
+.. _`ship data science products!`: /abstracts/#ship
+.. _`ice: interactive cloud experimentation`: /abstracts/#ice
+.. _`Power: Python in Astronomy`: /abstracts/#power
+.. _`Pythons and Earthquakes`: /abstracts/#earthquakes
+.. _`Getting meaning from scientific articles`: /abstracts/#meaning
