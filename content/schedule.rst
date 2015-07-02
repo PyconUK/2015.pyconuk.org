@@ -172,12 +172,14 @@ Saturday
 |       |                                                       | parents)  |           |         |
 +-------+                                                       +-----------+           |         |
 | 15:00 |                                                       | PyKids UK |           |         |
++-------+-------------------------------------------------------+           |           |         |
+| 15:15 | Plenary                                               |           |           |         |
 +-------+-------------------------------------------------------+-----------+-----------+---------+
 | 15:30 | Lightning PyKids UK                                                                     |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+---------+
-| 16:00 | XTalk    | XTalk    | XWorkshop| XWorkshop| Python    | XWorkshop | BoF       | BoF     |
-|       |          |          |          |          | for       |           | Discussion| Meeting |
-|       |          |          |          |          | Science   |           | Slot 8    | Slot 8  |
+| 16:00 | XTalk    | XTalk    | XWorkshop| XWorkshop| Python    | PyKids    | BoF       | BoF     |
+|       |          |          |          |          | for       | Organisers| Discussion| Meeting |
+|       |          |          |          |          | Science   | Tidy up   | Slot 8    | Slot 8  |
 +-------+----------+----------+          |          | Tutorial 2|           +-----------+---------+
 | 16:30 | XTalk    | XTalk    |          |          | (continu\ |           | BoF       | BoF     |
 |       |          |          |          |          | ed)       |           | Discussion| Meeting |
