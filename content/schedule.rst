@@ -58,7 +58,7 @@ Friday
 +-------+------------+------------+------------+            |             |            |           |
 | 17:30 | XTalk      | XTalk      | XTalk      |            |             |            |           |
 +-------+------------+------------+------------+            +-------------+------------+-----------+
-| 18:00 | XTalk      | XTalk      | XTalk      |            | PyCon UK Diversity Reception         |
+| 18:00 | XTalk      | XTalk      | XTalk      |            | `PyCon UK Diversity Reception`_      |
 |       |            |            |            |            | (in the Bistro)                      |
 +-------+------------+------------+------------+------------+                                      |
 | 18:20 | Day Ends                                          |                                      |
@@ -146,7 +146,7 @@ Saturday
 +-------+-------------------------------------------------------+           |           |         |
 | 15:15 | Plenary                                               |           |           |         |
 +-------+-------------------------------------------------------+-----------+-----------+---------+
-| 15:30 | Lightning PyKids UK                                                                     |
+| 15:30 | `Lightning PyKids UK`_                                                                  |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+---------+
 | 16:00 | XTalk    | XTalk    | XWorkshop| XWorkshop| `Getting \| PyKids    | BoF       | BoF     |
 |       |          |          |          |          | started \ | Organisers| Discussion| Meeting |
@@ -156,9 +156,9 @@ Saturday
 |       |          |          |          |          | ific \    |           | Discussion| Meeting |
 |       |          |          |          |          | programs`_|           | Slot 9    | Slot 9  |
 +-------+----------+----------+          |          | part 2    |           +-----------+---------+
-| 17:00 | XTalk    | XTalk    |          |          |           |           | PSF       | BoF     |
-|       |          |          |          |          |           |           | Reception | Meeting |
-|       |          |          |          |          |           |           |           | Slot 10 |
+| 17:00 | XTalk    | XTalk    |          |          |           |           | `PSF \    | BoF     |
+|       |          |          |          |          |           |           | Recep\    | Meeting |
+|       |          |          |          |          |           |           | tion`_    | Slot 10 |
 +-------+----------+----------+          |          |           |           |           |         |
 | 17:30 | XTalk    | XTalk    |          |          |           |           |           |         |
 |       |          |          |          |          |           |           |           |         |
@@ -246,14 +246,14 @@ Sunday
 +-------+------------------------------------------------------------------------------------------+
 | 14:15 | Keynote 4                                                                                |
 +-------+------------+------------+------------+------------+------------+------------+------------+
-| 15:15 | The PyCon  | XTalk      | XTalk      | Special    | Special    | BoF        | BoF        |
-|       | UK Panel   |            |            | Interest   | Interest   | Discussion | Meeting    |
-|       |            |            |            | Group 1 or | Group 2    | Slot 9     | Slot 9     |
+| 15:15 | `The \     | XTalk      | XTalk      | Special    | Special    | BoF        | BoF        |
+|       | PyCon UK \ |            |            | Interest   | Interest   | Discussion | Meeting    |
+|       | Panel`_    |            |            | Group 1 or | Group 2    | Slot 9     | Slot 9     |
 |       |            |            |            | XTalk      | or XTalk   |            |            |
 +-------+------------+------------+------------+------------+------------+------------+------------+
 | 16:00 | `The Lightning Talk Show`_                                                               |
 +-------+------------------------------------------------------------------------------------------+
-| 17:30 | The Non-Closing Closing                                                                  |
+| 17:30 | `The Non-Closing Closing`_                                                               |
 +-------+------------------------------------------------------------------------------------------+
 | 18:00 | End of Day                                                                               |
 +-------+------------------------------------------------------------------------------------------+
@@ -315,6 +315,11 @@ Monday
 .. _`The Friday Night Charity Social in memory of John Pinner`: /abstracts/#social
 .. _`Python in Education`: /education/
 .. _`PyCon UK Jobs Fair`: /abstracts/#jobfair
+.. _`the pycon uk panel`: /abstracts/#panel
+.. _`PyCon UK Diversity Reception`: /abstracts/#diversity
+.. _`psf reception`: /abstracts/#psf
+.. _`The Non-Closing Closing`: /abstracts/#nonclosing
+.. _`Lightning PyKids UK`: /abstracts/#lightningkids
 
 
 .. _`forming a pycon uk research community`: /abstracts/#form

@@ -43,6 +43,23 @@ The Mellow Night
 Details of where to collapse in a heap of tired out
 developers will be published here.
 
+PSF Reception
+-------------
+
+Fellows of the Python Software Foundation are invited to meet and
+share a pint of real ale (other beverages are available). Also there
+is likely to be members of the PSF Board present who we can hug and/or
+interrogate.
+
+PyCon UK Diversity Reception
+----------------------------
+
+The PyCon UK Chair and organising committee invites DjangoGirls,
+TransCode and other attendees from under-represented groups (as well
+as supporters and other interested parties) to meet each other and the
+PyCon UK Crew in a special party to celebrate the diversity of the UK
+Python Community.
+
 Plenary Sessions
 ~~~~~~~~~~~~~~~~
 
@@ -97,6 +114,24 @@ The PyCon UK panel will probably include:
    Release Manager for Python releases.
 
  * A currently unselected Djangogirls organiser
+
+.. _lightningkids:
+
+Lightning PyKids UK
+-------------------
+
+In the most exciting part of the conference, we see what the PyKids
+have been doing in their own track, not to be missed.
+
+.. _nonclosing:
+
+The Non-Closing Closing
+-----------------------
+
+Here we end the first-part of the conference, and move our focus into
+the sprints. It is the closing because the crew now let their hair
+down and become normal sprinters but it is non-closing because half of
+the delegates are still there the next day. There is no spoon!
 
 Python for Science
 ~~~~~~~~~~~~~~~~~~
