@@ -6,7 +6,7 @@ PyCon UK website
 
 This is the website for PyCon UK. It is hosted via GitHub Pages and available via http://pyconuk.org/.
 
-We welcome pull requests for improvements! (Please see CONTRIBUTING.rst for details.)
+We welcome pull requests for improvements! (Please see CONTRIBUTING.rst_ for details.)
 
 Use the following process to submit changes:
 
@@ -58,3 +58,4 @@ This should be done automatically by Travis after it has built the ``master`` br
 .. _Markdown: https://pythonhosted.org/Markdown/
 .. _reStructuredText: http://docutils.sourceforge.net/rst.html
 .. _jinja2: http://jinja.pocoo.org/
+.. _CONTRIBUTING.rst: ./CONTRIBUTING.rst
