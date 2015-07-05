@@ -145,7 +145,7 @@ software engineers on Python in the science field.
 Forming a PyCon UK research community
 -------------------------------------
 
-*Sarah Mount, University of Wolverhampton*
+*Dr Sarah Mount, Wolverhampton University*
 
 Sarah opens the Science Track by introducing the workshops, talks and
 sprint and discusses the formation of a research community.
@@ -155,7 +155,7 @@ sprint and discusses the formation of a research community.
 Accelerating Scientific Code with Numba
 ---------------------------------------
 
-*Graham Markall, Imperial College London*
+*Graham Markall*
 
 This tutorial will provide an overview of Numba, a just-in-time Python
 compiler focused on numerical computing. Originally aimed at
@@ -190,28 +190,28 @@ mechanism for installing Numba on Linux, Mac OS X and Windows.
 Getting started with testing scientific programs
 ------------------------------------------------
 
-*Martin Jones, University of Edinburgh*
+*Martin Jones*
 
 When writing programs for scientific research, we tend to be focussed
 on getting results, so testing is generally not a priority. Often,
 this means that our data-processing pipelines end up incorporating
-programs that don't have test suites. Examples of
-`high-profile retractions due to software errors <http://www.sciencemag.org/content/314/5807/1856.full>`_
-illustrate the dangers of this approach.
+programs that don't have test suites. Examples of high-profile
+retractions due to software errors
+(e.g. http://www.sciencemag.org/content/314/5807/1856.full) illustrate
+the dangers of this approach.
 
 This session will be a gentle introduction to testing, aimed at people
 writing scientific software who would like to start taking advantage
-of automated testing. We'll start with Python's built-in tools and
-moving on to using the Nose testing framework. We'll look at the
+of automated testing. We'll start with Python’s built-in tools and
+moving on to using the Nose testing framework. We’ll look at the
 problems that testing can solve, and see some best-practises for
 writing tests.
 
 The goal of this training session is for attendees to come away
-with:
-
-1. an understanding of some basic testing concepts,
-2. some hands-on experience of running tests and interpreting the output, and
-3. an idea of how to start applying these tools to their own projects.
+with (1) an understanding of some basic testing concepts, (2) some
+hands-on experience of running tests and interpreting the output,
+and (3) an idea of how to start applying these tools to their own
+projects.
 
 Attendees should have a basic knowledge of Python and should be
 familiar with the idea of functions, conditions and exceptions. They
@@ -223,14 +223,14 @@ work in most cases).
 Tit for Tat, Evolution, Game Theory and the Python Axelrod Library
 ------------------------------------------------------------------
 
-*Vince Knight, Cardiff University*
+*Vince Knight*
 
 This talk will begin with the origin of species. More precisely with a
 discussion of Darwin's theory of evolution and how Game Theory has
 been used to explain/illustrate aspects of cooperation in complex
 dynamics.
 
-In 1980, Professor Robert Axelrod created a computer tournament
+In 1980, professor Robert Axelrod created a computer tournament
 inviting submissions of code snippets that would compete against each
 other. A large amount of academic study has concentrated on the
 outcomes of this experiment. The particularity of the outcome, was
@@ -261,7 +261,7 @@ popular audience.
 Ship Data Science Products!
 ---------------------------
 
-*Ian Ozsvald, ModelInsight.io*
+*Ian Ozsvald*
 
 Building and shipping working Data Science and scientific products is
 hard - learn from 10 years of Ian's experience at ModelInsight.io to
@@ -289,7 +289,7 @@ London (ModelInsight.io).
 iCE: Interactive cloud experimentation
 --------------------------------------
 
-*George Lestaris, Pivotal*
+*George Lestaris*
 
 In the cloud-computing era, many technologies like Puppet, chef,
 ansible, etc arose to take care of setting up, maintaining and
@@ -310,7 +310,7 @@ for interactive handling of the VMs. iCE is built with
 well-established Python libraries like IPython, boto and fabric.
 
 iCE comes with a lightweight agent that registers a VM to an
-experiment's pool. This agent will run automatically for VMs deployed
+experiment’s pool. This agent will run automatically for VMs deployed
 with iCE but users can manually run it on already running VMs to
 utilise them through iCE.
 
@@ -323,16 +323,16 @@ interactiveness of single-machine SSH sessions to virtual clusters.
 Power: Python in Astronomy
 --------------------------
 
-*Tomas James, Cardiff University*
+*Tomas James*
 
 The universe is a wild and wonderful place. From the quantum
 mechanical effects that power the Sun, to the gravitational effects
 that suck everything in to a black hole, one thing links them all:
 they can all be analysed using Python.
 
-Python's clear syntax and extensibility makes it an incredibly usable
-and streamlined language for scientists. We'll cover off exactly how
-scientists use Python, what Python can do that other languages can't,
+Python’s clear syntax and extensibility makes it an incredibly usable
+and streamlined language for scientists. We’ll cover off exactly how
+scientists use Python, what Python can do that other languages can’t,
 and just how you can use a simple Python script to generate beautiful
 astronomical images from the comfort of your favourite armchair.
 
@@ -341,7 +341,7 @@ astronomical images from the comfort of your favourite armchair.
 Pythons and Earthquakes
 -----------------------
 
-*Girish Kumar, Uprise Marketing*
+*Girish Kumar*
 
 In this session, we will cover how Python is used in providing
 near-real-time maps of landslide hazard following large
@@ -354,7 +354,7 @@ a research paper was converted into a functional web application
 Getting meaning from scientific articles
 ----------------------------------------
 
-*Eleonore Mayola, ClojureBridge*
+*Eleonore Mayola*
 
 The bibliography process means every scientist regularly has to go
 through a lot of published articles in parallel to her/his
@@ -372,45 +372,6 @@ Processing to identify articles topics and train a classifier to
 distinguish between relevant and non-relevant articles depending and
 someone's area of research.
 
-.. _demo:
-
-Demo: Simple web services for scientific data
-----------------------------------------------
-
-*Alys Brett, Culham Centre for Fusion Energy*
-
-Would you like to let people access your data over the web or generate plots on
-the fly when someone loads a web page? This session will introduce the benefits
-of creating web services for accessing scientific data and let you try out the
-basics for yourself.
-
-It is now common for online companies to provide programmatic access to data -
-web APIs where data resources in many forms can be accessed via a URL. This
-approach can be very useful for scientific data too. One benefit is that you
-don't have to worry about what platforms and languages to support - the data can
-be used by anything that can make HTTP requests. You might think that creating
-this kind of web service is solely the preserve of professional engineers but,
-with the power of Python, this is changing. There are very convenient packages
-(such as Flask and Requests) that make it incredibly simple to get started.
-
-The session will start with a demonstration of some web services we've developed
-for nuclear fusion data from the JET experiment, including a plot server and a
-data browsing tool. This will be followed by a mini-tutorial to help you get
-started with harnessing the power of HTTP web services.
-
-.. _pubs:
-
-Discussion: From data to dissemination: dealing with publications
------------------------------------------------------------------
-
-A major theme for anyone in working research is how best to publish and
-disseminate their work. These days a wide range of tools are available to help,
-at every stage of the writing process - from great Python libraries for
-charting, to online bibliography tool and LaTeX packages to beautify your
-papers. This panel discussion will cover all aspects of dissemination work,
-and how Python can ease your publication pain.
-
-Panel members will be announced nearer the time of the conference.
 
 Lunchtime events
 ~~~~~~~~~~~~~~~~
