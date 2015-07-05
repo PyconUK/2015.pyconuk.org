@@ -233,23 +233,29 @@ Sunday
 |       |            | Workshop   | Workshop   | Workshop   |            | Discussion | Meeting    |
 |       |            |            |            |            |            | Slot 7     | Slot 7     |
 +-------+            |            |            |            +------------+------------+------------+
-| 13:30 |            |            |            |            | Another    | BoF D      | BoF        |
-|       |            |            |            |            | Python     | Discussion | Meeting    |
-|       |            |            |            |            | for        | Slot 8     | Slot 8     |
-|       |            |            |            |            | Science    |            |            |
-|       |            |            |            |            | Talk       |            |            |
-|       |            |            |            |            |            |            |            |
-|       |            |            |            |            |            |            |            |
-|       |            |            |            |            |            |            |            |
+| 13:30 |            |            |            |            | `Demo:  \  | BoF D      | BoF        |
+|       |            |            |            |            | Simple \   | Discussion | Meeting    |
+|       |            |            |            |            | web \      | Slot 8     | Slot 8     |
+|       |            |            |            |            | services \ |            |            |
+|       |            |            |            |            | for \      |            |            |
+|       |            |            |            |            | scient\    |            |            |
+|       |            |            |            |            | ific \     |            |            |
+|       |            |            |            |            | data`_     |            |            |
 +-------+------------+------------+------------+------------+------------+------------+------------+
 | 14:00 | Plenary                                                                                  |
 +-------+------------------------------------------------------------------------------------------+
 | 14:15 | Keynote 4                                                                                |
 +-------+------------+------------+------------+------------+------------+------------+------------+
-| 15:15 | `The \     | XTalk      | XTalk      | Special    | Special    | BoF        | BoF        |
-|       | PyCon UK \ |            |            | Interest   | Interest   | Discussion | Meeting    |
-|       | Panel`_    |            |            | Group 1 or | Group 2    | Slot 9     | Slot 9     |
-|       |            |            |            | XTalk      | or XTalk   |            |            |
+| 15:15 | `The \     | XTalk      | XTalk      | Special    | `Discuss\  | BoF        | BoF        |
+|       | PyCon UK \ |            |            | Interest   | ion: \     | Discussion | Meeting    |
+|       | Panel`_    |            |            | Group 1 or | From dat\  | Slot 9     | Slot 9     |
+|       |            |            |            | XTalk      | a to diss\ |            |            |
+|       |            |            |            |            | eminatio\  |            |            |
+|       |            |            |            |            | n - \      |            |            |
+|       |            |            |            |            | dealing \  |            |            |
+|       |            |            |            |            | with \     |            |            |
+|       |            |            |            |            | publicat\  |            |            |
+|       |            |            |            |            | ions`_     |            |            |
 +-------+------------+------------+------------+------------+------------+------------+------------+
 | 16:00 | `The Lightning Talk Show`_                                                               |
 +-------+------------------------------------------------------------------------------------------+
@@ -331,3 +337,5 @@ Monday
 .. _`Power: Python in Astronomy`: /abstracts/#power
 .. _`Pythons and Earthquakes`: /abstracts/#earthquakes
 .. _`Getting meaning from scientific articles`: /abstracts/#meaning
+.. _`Demo: Simple web services for scientific data`: /abstracts/#demo
+.. _`Discussion: From data to dissemination - dealing with publications`: /abstracts/#pubs
