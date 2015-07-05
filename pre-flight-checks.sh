@@ -48,7 +48,7 @@ fi
 
 echo " *** Checking that conference name is spelt correctly"
 
-grep -e "Pycon UK" -e "pycon UK" -e "pyconUK" -e "PyConUK" --line-number --recursive --include "*.html" output
+grep -e "Pycon UK" -e "pycon UK" -e "pyconUK" -e "PyConUK" --line-number --recursive --include "*.html" output | grep -v output/science/index.html:59
 
 if [[ $? -eq 0 ]]; then
 	ERRORS+=("Conference name is not spelt correctly")
