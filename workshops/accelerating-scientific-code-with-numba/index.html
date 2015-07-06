@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Accelerating Scientific Code with Numba</title>
+
+        <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1' />
+        <script src='https://js.tito.io/v1' async></script>
+    </head>
+
+    <body class="talks">
+
+        <header class="head">
+            <div class="wrap">
+                <h1><a href="/">PyCon UK 2015</a></h1>
+                <label class="menu-icon" for="toggle-nav">Menu</label>
+                <input type="checkbox" id="toggle-nav" class="hidden" />
+                <nav class="nav">
+                    <ul>
+                        <li><a href="/programme/">Programme</a></li>
+                        <li><a href="/venue/">Venue</a></li>
+                        <li><a href="/sponsorship/">Sponsor</a></li>
+                        <li><a href="/science/">Science</a></li>
+                        <li class="halfway"><a href="/education/">Education</a></li>
+                        <li><a href="/volunteer/">Volunteer</a></li>
+                        <li><a href="/codeofconduct/">CoC</a></li>
+                        <li><a class="now" href="/register/">Register</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        
+<article class="main-article">
+    <div class="content">
+        <div class="column_content">
+            <h1>Accelerating Scientific Code with Numba</h1>
+
+            <div class="textblock">
+                <h3>Graham Markall</h3>
+<p>This tutorial will provide an overview of Numba, a just-in-time Python compiler focused on numerical computing. Originally aimed at computations using Numpy arrays, it has been expanded to work with other Python types and can speed up computations that require more than just fast linear algebra operations. Numba targets both CPUs and CUDA GPUs by generating native code using the LLVM compiler infrastructure.</p>
+<p>This introduction aims to span the breadth of use cases rather than focusing on a single area in depth. This is in order to enable the selection of appropriate portions of code to use with Numba, and the correct selection of Numba's facilities in each case.</p>
+<p>Areas that will be covered include:</p>
+<ul>
+<li>An overview of the type system, with a view to understanding and overcoming typing issues,</li>
+<li>Compilation of Python functions using the @jit decorator,</li>
+<li>Creation of Numpy ufuncs in Python using the @vectorize decorator,</li>
+<li>Understanding the performance of compiled code, and performance optimisation tips,</li>
+<li>Debugging facilities in Numba.</li>
+</ul>
+<p>This tutorial is intended for an audience of programmers and data scientists who have an interest in speeding up numerical routines, and people with a general interest in high-performance Python. In order to get started quickly, it is recommended that attendees install the Anaconda Python distribution or Miniconda, as this provides a robust mechanism for installing Numba on Linux, Mac OS X and Windows.</p>
+            </div>
+        </div>
+    </div>
+</article>
+
+
+        <footer class="foot">
+            <div class="wrap">
+                &copy; 2015. All rights reserved.
+            </div>
+        </footer>
+
+    </body>
+
+    <!-- Python Powered! --> 
+</html>
