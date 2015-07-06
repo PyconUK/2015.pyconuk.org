@@ -155,7 +155,7 @@ sprint and discusses the formation of a research community.
 Accelerating Scientific Code with Numba
 ---------------------------------------
 
-*Graham Markall, Imperial College London*
+*Graham Markall, Continuum Analytics*
 
 This tutorial will provide an overview of Numba, a just-in-time Python
 compiler focused on numerical computing. Originally aimed at
