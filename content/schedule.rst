@@ -1,3 +1,4 @@
+type: page
 title: Schedule
 slug: schedule
 body_class_hack: talks
