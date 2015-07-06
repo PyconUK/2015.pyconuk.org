@@ -1,3 +1,4 @@
+type: page
 title: Abstracts
 slug: abstracts
 body_class_hack: talks
