@@ -1,7 +1,7 @@
 type: session
 title: "With flexibility comes responsibilty: Getting schemas around semi-structured data using Avro and Python !!"
-slug: "with-flexibility-comes-responsibilty-getting-schemas-around-semi-structured-data-using-avro-and-python-"
-url: "talks/with-flexibility-comes-responsibilty-getting-schemas-around-semi-structured-data-using-avro-and-python-/index.html"
+slug: "with-flexibility-comes-responsibilty-getting-schemas-around-semi-structured-data-using-avro-and-python"
+url: "talks/with-flexibility-comes-responsibilty-getting-schemas-around-semi-structured-data-using-avro-and-python/index.html"
 body_class_hack: talks
 ---
 

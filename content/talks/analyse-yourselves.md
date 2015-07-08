@@ -1,7 +1,7 @@
 type: session
-title: "Analyse Yourselves "
-slug: "analyse-yourselves-"
-url: "talks/analyse-yourselves-/index.html"
+title: "Analyse Yourselves"
+slug: "analyse-yourselves"
+url: "talks/analyse-yourselves/index.html"
 body_class_hack: talks
 ---
 

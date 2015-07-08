@@ -1,7 +1,7 @@
 type: session
-title: "Real-Time Data + Django = Fun, Growth + Profit "
-slug: "real-time-data-django-fun-growth-profit-"
-url: "talks/real-time-data-django-fun-growth-profit-/index.html"
+title: "Real-Time Data + Django = Fun, Growth + Profit"
+slug: "real-time-data-django-fun-growth-profit"
+url: "talks/real-time-data-django-fun-growth-profit/index.html"
 body_class_hack: talks
 ---
 
