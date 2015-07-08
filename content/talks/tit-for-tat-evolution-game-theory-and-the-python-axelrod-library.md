@@ -1,7 +1,7 @@
 type: session
-title: " Tit for Tat, Evolution, Game Theory and the Python Axelrod Library"
-slug: "-tit-for-tat-evolution-game-theory-and-the-python-axelrod-library"
-url: "talks/-tit-for-tat-evolution-game-theory-and-the-python-axelrod-library/index.html"
+title: "Tit for Tat, Evolution, Game Theory and the Python Axelrod Library"
+slug: "tit-for-tat-evolution-game-theory-and-the-python-axelrod-library"
+url: "talks/tit-for-tat-evolution-game-theory-and-the-python-axelrod-library/index.html"
 body_class_hack: talks
 ---
 
