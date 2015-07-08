@@ -7,7 +7,7 @@ body_class_hack: talks
 
 ### David R. MacIver
 
-Mainstream software testing is terrible, because the tools to make it good are missing. Hypothesis is a testing library that aims to fix this.
+Mainstream software testing is terrible, because the tools to make it good are missing. [Hypothesis](http://hypothesis.readthedocs.org/en/latest/) is a testing library that aims to fix this.
 
 Where classical unit testing requires you to think of all the edge cases yourself, Hypothesis actively hunts them out for you. Instead of laboriously setting up examples where your code should work, you tell it how your code should always work and it finds the examples that prove you wrong.
 
