@@ -455,8 +455,8 @@ body {
   font-weight: normal;
   -webkit-font-smoothing: antialiased;
 }
-body.home .head,
-body.education .head,
+body.home .page-head,
+body.education .page-head,
 body.home .intro,
 body.education .intro {
   background: #cc3827;
@@ -465,9 +465,9 @@ body.home .disabled,
 body.education .disabled {
   color: #a12c1f !important;
 }
-body.talks .head,
-body.science .head,
-body.register .head,
+body.talks .page-head,
+body.science .page-head,
+body.register .page-head,
 body.talks .intro,
 body.science .intro,
 body.register .intro {
@@ -478,7 +478,7 @@ body.science .disabled,
 body.register .disabled {
   color: #fbac1b !important;
 }
-body.venue .head,
+body.venue .page-head,
 body.venue .intro {
   background: #306f9c;
 }
@@ -503,13 +503,13 @@ iframe {
   display: none;
 }
 .intro,
-.head,
-.foot,
+.page-head,
+.page-foot,
 .content {
   display: block;
   overflow: hidden;
 }
-.head:before {
+.page-head:before {
   content: ' ';
   display: block;
   position: absolute;
@@ -518,12 +518,12 @@ iframe {
   height: 0.3125em;
   background: white;
 }
-.head h1 {
+.page-head h1 {
   display: block;
   font-size: 1em;
   margin: 0;
 }
-.head h1 a {
+.page-head h1 a {
   display: block;
   overflow: hidden;
   text-indent: -100em;
@@ -535,7 +535,7 @@ iframe {
   z-index: 999;
 }
 @media all and (min-width: 560px) {
-  .head h1 a {
+  .page-head h1 a {
     position: absolute;
     margin: 0;
     left: 50%;
@@ -546,7 +546,7 @@ iframe {
     background-size: cover;
   }
 }
-.head .menu-icon {
+.page-head .menu-icon {
   position: relative;
   float: right;
   padding: 0.5em 0.5em 0.5em 1.5em;
@@ -555,7 +555,7 @@ iframe {
   text-transform: uppercase;
   cursor: pointer;
 }
-.head .menu-icon:before {
+.page-head .menu-icon:before {
   content: "";
   position: absolute;
   left: 0;
@@ -566,7 +566,7 @@ iframe {
   box-shadow: 0 0.25em 0 0 #2b2b2b, 0 0.5em 0 0 #2b2b2b;
 }
 @media all and (min-width: 560px) {
-  .head .menu-icon {
+  .page-head .menu-icon {
     display: none;
   }
 }
@@ -696,7 +696,7 @@ iframe {
 }
 .column_intro,
 .column_content,
-.foot .wrap {
+.page-foot .wrap {
   margin: 0 auto;
   max-width: 42em;
   padding: 1em;
