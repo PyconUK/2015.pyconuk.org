@@ -34,13 +34,13 @@ fi
 # Check that no links are broken.
 ###
 
-echo " *** Checking that no links are broken."
+#echo " *** Checking that no links are broken."
 
-linkchecker --no-status --no-warnings --check-extern "http://localhost:8000"
+#linkchecker --no-status --no-warnings --check-extern "http://localhost:8000"
 
-if [[ $? -ne 0 ]]; then
-	ERRORS+=("Broken links found on site")
-fi
+#if [[ $? -ne 0 ]]; then
+#	ERRORS+=("Broken links found on site")
+#fi
 
 ###
 # Check that name of conference is spelt correctly.
@@ -48,7 +48,7 @@ fi
 
 echo " *** Checking that conference name is spelt correctly"
 
-grep -e "Pycon UK" -e "pycon UK" -e "pyconUK" -e "PyConUK" --line-number --recursive --include "*.html" output
+grep -e "Pycon UK" -e "pycon UK" -e "pyconUK" -e "PyConUK" --line-number --recursive --include "*.html" output | grep -v https://twitter.com/PyConUK
 
 if [[ $? -eq 0 ]]; then
 	ERRORS+=("Conference name is not spelt correctly")
