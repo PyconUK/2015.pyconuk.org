@@ -7,6 +7,6 @@ body_class_hack: talks
 
 ### Tomas James
 
-The universe is a wild and wonderful place. From the quantum mechanical effects that power the Sun, to the gravitational effects that suck everything in to a black hole, one thing links them all: they can all be analysed using Python. 
+The universe is a wild and wonderful place. From the quantum mechanical effects that power the Sun, to the gravitational effects that suck everything in to a black hole, one thing links them all: they can all be analysed using Python.
 
-Python’s clear syntax and extensibility makes it an incredibly usable and streamlined language for scientists. We’ll cover off exactly how scientists use Python, what Python can do that other languages can’t, and just how you can use a simple Python script to generate beautiful astronomical images from the comfort of your favourite armchair.
+Python’s clear syntax and extensibility makes it an incredibly usable and streamlined language for scientists. We’ll cover off exactly how scientists use Python, what Python can do that other languages can’t (and where it sometimes falls short), and just how Python can be used at home to generate beautiful astronomical images.
