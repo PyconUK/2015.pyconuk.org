@@ -11,7 +11,7 @@ Over the years, I've led, and been a member of, numerous technical teams on a wi
 
 The talk will be broken into 4 sections:
 
-Authority - Where it comes from and the challenges you might face depending on the answer.
-Priorities - What should you be focussing upon?
-Process - What's your role in defining and managing process?
-Style - There are many leadership styles, but what's yours and what's appropriate for technical teams?
+* Authority - Where it comes from and the challenges you might face depending on the answer.
+* Priorities - What should you be focussing upon?
+* Process - What's your role in defining and managing process?
+* Style - There are many leadership styles, but what's yours and what's appropriate for technical teams?
