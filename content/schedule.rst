@@ -55,28 +55,28 @@ Friday
 +-------+------------+------------+------------+------------+             |            |           |
 | 14:00 | Keynote 2                                         |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
-| 15:00 | `Analy\    | `Real-T\   | XTalk      | `Django \  |             |            |           |
-|       | zing \     | ime \      |            | Security \ |             |            |           |
-|       | Python \   | Data + Dj\ |            | Workshop`_ |             |            |           |
-|       | with \     | ango = Fu\ |            |            |             |            |           |
-|       | Pylint`_   | n,\ Growt\ |            |            |             |            |           |
-|       |            | h + Profi\ |            |            |             |            |           |
+| 15:00 | `Analy\    | `Real-T\   | `Deploy    | `Django \  |             |            |           |
+|       | zing \     | ime \      | flask \    | Security \ |             |            |           |
+|       | Python \   | Data + Dj\ | applicat\  | Workshop`_ |             |            |           |
+|       | with \     | ango = Fu\ | ion \      |            |             |            |           |
+|       | Pylint`_   | n,\ Growt\ | single \   |            |             |            |           |
+|       |            | h + Profi\ | step`_     |            |             |            |           |
 |       |            | t`_        |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
-| 15:30 | `Under\    | `Managing \| XTalk      |            |             |            |           |
-|       | standing \ | too \      |            |            |             |            |           |
-|       | PyPy`_     | many \     |            |            |             |            |           |
-|       |            | Django \   |            |            |             |            |           |
+| 15:30 | `Under\    | `Managing \| `Gabbi - \ |            |             |            |           |
+|       | standing \ | too \      | Declarati\ |            |             |            |           |
+|       | PyPy`_     | many \     | ve HTTP \  |            |             |            |           |
+|       |            | Django \   | Testing`_  |            |             |            |           |
 |       |            | projects`_ |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
-| 16:00 | `PyPy \    | XTalk      | XTalk      |            |             |            |           |
-|       | for \      |            |            |            |             |            |           |
-|       | mediocre \ |            |            |            |             |            |           |
-|       | programme\ |            |            |            |             |            |           |
-|       | rs`_ \     |            |            |            |             |            |           |
+| 16:00 | `PyPy \    | `Elephant \| XTalk      |            |             |            |           |
+|       | for \      | taming \   |            |            |             |            |           |
+|       | mediocre \ | for \      |            |            |             |            |           |
+|       | programme\ | snake \    |            |            |             |            |           |
+|       | rs`_ \     | lovers`_   |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
 | 16:30 | `Making \  | XTalk      | XTalk      |            |             |            |           |
@@ -90,10 +90,10 @@ Friday
 |       | the        |            |            |            |             |            |           |
 |       | things`_   |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
-| 17:30 | `Dispel\   | XTalk      | XTalk      |            |             |            |           |
-|       | ling \     |            |            |            |             |            |           |
-|       | py.test \  |            |            |            |             |            |           |
-|       | magic`_    |            |            |            |             |            |           |
+| 17:30 | `Dispel\   | `Testing \ | XTalk      |            |             |            |           |
+|       | ling \     | and \      |            |            |             |            |           |
+|       | py.test \  | Async - a \|            |            |             |            |           |
+|       | magic`_    | journey`_  |            |            |             |            |           |
 +-------+------------+------------+------------+            +-------------+------------+-----------+
 | 18:00 | `Using \   | XTalk      | XTalk      |            | `PyCon UK Diversity Reception`_      |
 |       | logical \  |            |            |            | (in the Bistro)                      |
@@ -126,7 +126,7 @@ Saturday
 +-------+-------------------------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                               |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+
-| 09:30 | `Manag\  | `Temp\   | `Ship\   | Lang\    | `Form\    | PyKids UK | Open      |
+| 09:30 | `Manag\  | `Temp\   | `Ship\   | `Lang\   | `Form\    | PyKids UK | Open      |
 |       | ing \    | late \   | ping \   | uage \   | ing  a \  | Opening   | Space     |
 |       | mocks - \| matchin\ | your \   | Compos\  | PyCon UK \|           | for       |
 |       | the \    | g - how\ | applic\  | ition \  | research \|           | BoFs      |
@@ -168,14 +168,17 @@ Saturday
 |       | ces`_    |          |          |          |           |           |           |
 |       |          |          |          |          |           |           |           |
 +-------+----------+----------+----------+          |           +-----------+-----------+
-| 11:30 | `The \   | XTalk    | XTalk    |          |           | Squash /  | Open      |
-|       | Fabric \ |          |          |          |           | Tea and   | Space     |
-|       | that \   |          |          |          |           | biscuits  |           |
-|       | holds \  |          |          |          |           |           |           |
-|       | the \    |          |          |          |           |           |           |
-|       | cloud \  |          |          |          |           |           |           |
-|       | toge\    |          |          |          |           |           |           |
-|       | ther`_   |          |          |          |           |           |           |
+| 11:30 | Title \  | XTalk    | XTalk    |          |           | Squash /  | Open      |
+|       | To Be \  |          |          |          |           | Tea and   | Space     |
+|       | Deter \  |          |          |          |           | biscuits  |           |
+|       | mined; \ |          |          |          |           |           |           |
+|       | A tale \ |          |          |          |           |           |           |
+|       | of     \ |          |          |          |           |           |           |
+|       | graphs \ |          |          |          |           |           |           |
+|       | and    \ |          |          |          |           |           |           |
+|       | Markov \ |          |          |          |           |           |           |
+|       | chains \ |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
 +-------+----------+----------+----------+          |           +-----------+           |
 | 12:00 | Poster   | Lunch\   | Lunch\   |          |           | PyKids UK |           |
 |       | Session  | time     | time     |          |           |           |           |
@@ -250,14 +253,14 @@ Saturday
 |       | five \   |          |          |          |           |           |           |
 |       | years`_  |          |          |          |           |           |           |
 +-------+----------+----------+          |          |           |           |           |
-| 17:30 | `Python \| XTalk    |          |          |           |           |           |
-|       | 3000 \   |          |          |          |           |           |           |
-|       | coming \ |          |          |          |           |           |           |
-|       | late \   |          |          |          |           |           |           |
-|       | 2008`_   |          |          |          |           |           |           |
-|       |          |          |          |          |           |           |           |
-|       |          |          |          |          |           |           |           |
-|       |          |          |          |          |           |           |           |
+| 17:30 | `The \   | XTalk    |          |          |           |           |           |
+|       | Fabric \ |          |          |          |           |           |           |
+|       | that \   |          |          |          |           |           |           |
+|       | holds    |          |          |          |           |           |           |
+|       | the \    |          |          |          |           |           |           |
+|       | cloud    |          |          |          |           |           |           |
+|       | toge\    |          |          |          |           |           |           |
+|       | ther`_   |          |          |          |           |           |           |
 |       |          |          |          |          |           |           |           |
 |       |          |          |          |          |           |           |           |
 |       |          |          |          |          |           |           |           |
@@ -287,11 +290,11 @@ Sunday
 +-------+------------+------------+------------+------------+------------+------------+
 | 09:00 | Opening Plenary                                                             |
 +-------+------------+------------+------------+------------+------------+------------+
-| 09:30 | `FIDO - \  | `Python \  | XTalk      | XWorkshop  | `Tit for \ | Open       |
-|       | The dog \  | and \      |            |            | Tat, \     | Space      |
-|       | ate \      | Postgre\   |            |            | Evolut\    |            |
-|       | my \       | SQL a \    |            |            | ion, \     |            |
-|       | password`_ | Wonderful \|            |            | Game \     |            |
+| 09:30 | `FIDO - \  | `Python \  | `Python    | XWorkshop  | `Tit for \ | Open       |
+|       | The dog \  | and \      | 3000 \     |            | Tat, \     | Space      |
+|       | ate \      | Postgre\   | coming \   |            | Evolut\    |            |
+|       | my \       | SQL a \    | late \     |            | ion, \     |            |
+|       | password`_ | Wonderful \| 2008`_     |            | Game \     |            |
 |       |            | Wedding`_  |            |            | Theory \   |            |
 |       |            |            |            |            | and the \  |            |
 |       |            |            |            |            | Python \   |            |
@@ -508,4 +511,10 @@ Monday
 .. _`Python 3000 coming late 2008`: /talks/python-3000-coming-late-2008/
 .. _`All I really want is power`: /talks/all-i-really-want-is-power/
 .. _`Language Composition with RPython`: /talks/language-composition-with-rpython/
-
+.. _`testing and async - a journey`: /talks/testing-async-a-journey/
+.. _`Elephant taming for snake lovers`: /talks/elephant-taming-for-snake-lovers/
+.. _`Teaching youngsters to code with pgzero on Raspberry Pi`: /talks/teaching-youngsters-to-code-with-pgzero-on-raspberry-pi/
+.. _`Title To Be Determined; A tale of graphs and Markov chains`: /talks/title-to-be-determined-a-tale-of-graphs-and-markov-chains/
+.. _`Choosing a web framework for python 3 and asyncio`: /talks/choosing-a-web-framework-for-python-3-and-asyncio/
+.. _`Deploy flask application single step`: /talks/deploy-flask-application-single-step/
+.. _`Gabbi - Declarative HTTP Testing`: /talks/gabbi-declarative-http-testing/
