@@ -30,7 +30,15 @@ Friday
 +-------+---------------------------------------------------+-------------+------------+-----------+
 | 10:30 | Keynote 1                                         | DjangoGirls | Trans*Code | Teacher's |
 +-------+------------+------------+------------+------------+             |            | CPD       |
-| 11:30 | XTalk      | XTalk      | XTalk      | XTalk      |             |            |           |
+| 11:30 | `Python's \| XTalk      | XTalk      | XTalk      |             |            |           |
+|       | Infamous  \|            |            |            |             |            |           |
+|       | GIL`_      |            |            |            |             |            |           |
+|       |            |            |            |            |             |            |           |
+|       |            |            |            |            |             |            |           |
+|       |            |            |            |            |             |            |           |
+|       |            |            |            |            |             |            |           |
+|       |            |            |            |            |             |            |           |
+|       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+------------+-------------+            |           |
 | 12:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  | DjangoGirls |            |           |
@@ -47,20 +55,49 @@ Friday
 +-------+------------+------------+------------+------------+             |            |           |
 | 14:00 | Keynote 2                                         |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
-| 15:00 | XTalk      | XTalk      | XTalk      | XWorkshop  |             |            |           |
+| 15:00 | `Analy\    | XTalk      | XTalk      | XWorkshop  |             |            |           |
+|       | zing \     |            |            |            |             |            |           |
+|       | Python \   |            |            |            |             |            |           |
+|       | with \     |            |            |            |             |            |           |
+|       | Pylint`_   |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
-| 15:30 | XTalk      | XTalk      | XTalk      |            |             |            |           |
+| 15:30 | `Under\    | XTalk      | XTalk      |            |             |            |           |
+|       | standing \ |            |            |            |             |            |           |
+|       | PyPy`_     |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
-| 16:00 | XTalk      | XTalk      | XTalk      |            |             |            |           |
+| 16:00 | `PyPy \    | XTalk      | XTalk      |            |             |            |           |
+|       | for \      |            |            |            |             |            |           |
+|       | mediocre \ |            |            |            |             |            |           |
+|       | programme\ |            |            |            |             |            |           |
+|       | rs`_ \     |            |            |            |             |            |           |
+|       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
-| 16:30 | XTalk      | XTalk      | XTalk      |            |             |            |           |
+| 16:30 | Making \   | XTalk      | XTalk      |            |             |            |           |
+|       | Python \   |            |            |            |             |            |           |
+|       | Computat\  |            |            |            |             |            |           |
+|       | ions \     |            |            |            |             |            |           |
+|       | Fast \     |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
-| 17:00 | XTalk      | XTalk      | XTalk      |            |             |            |           |
+| 17:00 | `Document  | XTalk      | XTalk      |            |             |            |           |
+|       | all        |            |            |            |             |            |           |
+|       | the        |            |            |            |             |            |           |
+|       | things`_   |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
-| 17:30 | XTalk      | XTalk      | XTalk      |            |             |            |           |
+| 17:30 | `Dispel\   | XTalk      | XTalk      |            |             |            |           |
+|       | ling \     |            |            |            |             |            |           |
+|       | py.test \  |            |            |            |             |            |           |
+|       | magic`_    |            |            |            |             |            |           |
 +-------+------------+------------+------------+            +-------------+------------+-----------+
-| 18:00 | XTalk      | XTalk      | XTalk      |            | `PyCon UK Diversity Reception`_      |
-|       |            |            |            |            | (in the Bistro)                      |
+| 18:00 | `Using \   | XTalk      | XTalk      |            | `PyCon UK Diversity Reception`_      |
+|       | logical \  |            |            |            | (in the Bistro)                      |
+|       | flaws \    |            |            |            |                                      |
+|       | to \       |            |            |            |                                      |
+|       | steal \    |            |            |            |                                      |
+|       | and \      |            |            |            |                                      |
+|       | modify \   |            |            |            |                                      |
+|       | business \ |            |            |            |                                      |
+|       | critical \ |            |            |            |                                      |
+|       | data`_     |            |            |            |                                      |
 +-------+------------+------------+------------+------------+                                      |
 | 18:20 | Day Ends                                          |                                      |
 +-------+---------------------------------------------------+--------------------------------------+
@@ -82,33 +119,56 @@ Saturday
 +-------+-------------------------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                               |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+
-| 09:30 | XTalk    | XTalk    | XTalk    | XTalk    | `Form\    | PyKids UK | Open      |
-|       |          |          |          |          | ing  a \  | Opening   | Space     |
-|       |          |          |          |          | PyCon UK \|           | for       |
-|       |          |          |          |          | research \|           | BoFs      |
-|       |          |          |          |          | commun\   |           | and       |
-|       |          |          |          |          | ity`_     |           | discuss\  |
-+-------+----------+----------+----------+----------+-----------+           | ion       |
-| 10:00 | XTalk    | XTalk    | XTalk    | XWorkshop| `Accel\   |           |           |
-|       |          |          |          |          | erating \ |           |           |
-|       |          |          |          |          | Scient\   |           |           |
-+-------+----------+----------+----------+          | ific \    +-----------+-----------+
-| 10:30 | XTalk    | XTalk    | XTalk    |          | Code \    | PyKids UK | Open      |
-|       |          |          |          |          | with \    | Discussion| Space     |
-|       |          |          |          |          | Numba`_   |           |           |
-|       |          |          |          |          |           |           |           |
-|       |          |          |          |          |           |           |           |
+| 09:30 | `Manag\  | XTalk    | XTalk    | XTalk    | `Form\    | PyKids UK | Open      |
+|       | ing \    |          |          |          | ing  a \  | Opening   | Space     |
+|       | mocks - \|          |          |          | PyCon UK \|           | for       |
+|       | the \    |          |          |          | research \|           | BoFs      |
+|       | how \    |          |          |          | commun\   |           | and       |
+|       | why \    |          |          |          | ity`_     |           | discuss\  |
+|       | and \    |          |          |          |           |           | ion       |
+|       | when \   |          |          |          |           |           |           |
+|       | of \     |          |          |          |           |           |           |
+|       | mock\    |          |          |          |           |           |           |
+|       | ing \    |          |          |          |           |           |           |
+|       | in \     |          |          |          |           |           |           |
+|       | Python`_ |          |          |          |           |           |           |
++-------+----------+----------+----------+----------+-----------+           |           |
+| 10:00 | `5 \     | XTalk    | XTalk    | XWorkshop| `Accel\   |           |           |
+|       | impossi\ |          |          |          | erating \ |           |           |
+|       | ble \    |          |          |          | Scient\   |           |           |
+|       | things \ |          |          |          | ific \    |           |           |
+|       | before \ |          |          |          | Code \    |           |           |
+|       | break\   |          |          |          | with \    |           |           |
+|       | fast`_ \ |          |          |          | Numba`_   |           |           |
 |       |          |          |          |          |           |           |           |
 +-------+----------+----------+----------+          |           +-----------+-----------+
-| 11:00 | XTalk    | XTalk    | XTalk    |          |           | PyKids UK | Open      |
-|       |          |          |          |          |           |           | Space     |
-|       |          |          |          |          |           |           |           |
-|       |          |          |          |          |           |           |           |
+| 10:30 | `Find\   | XTalk    | XTalk    |          |           | PyKids UK | Open      |
+|       | ing \    |          |          |          |           | Discussion| Space     |
+|       | more \   |          |          |          |           |           |           |
+|       | bugs \   |          |          |          |           |           |           |
+|       | with \   |          |          |          |           |           |           |
+|       | less \   |          |          |          |           |           |           |
+|       | work`_   |          |          |          |           |           |           |
++-------+----------+----------+----------+          |           +-----------+-----------+
+| 11:00 | `Taming \| XTalk    | XTalk    |          |           | PyKids UK | Open      |
+|       | a \      |          |          |          |           |           | Space     |
+|       | Legacy \ |          |          |          |           |           |           |
+|       | Code\    |          |          |          |           |           |           |
+|       | base \   |          |          |          |           |           |           |
+|       | with \   |          |          |          |           |           |           |
+|       | (Micro)\ |          |          |          |           |           |           |
+|       | servi\   |          |          |          |           |           |           |
+|       | ces`_    |          |          |          |           |           |           |
 |       |          |          |          |          |           |           |           |
 +-------+----------+----------+----------+          |           +-----------+-----------+
-| 11:30 | XTalk    | XTalk    | XTalk    |          |           | Squash /  | Open      |
-|       |          |          |          |          |           | Tea and   | Space     |
-|       |          |          |          |          |           | biscuits  |           |
+| 11:30 | `The \   | XTalk    | XTalk    |          |           | Squash /  | Open      |
+|       | Fabric \ |          |          |          |           | Tea and   | Space     |
+|       | that \   |          |          |          |           | biscuits  |           |
+|       | holds \  |          |          |          |           |           |           |
+|       | the \    |          |          |          |           |           |           |
+|       | cloud \  |          |          |          |           |           |           |
+|       | toge\    |          |          |          |           |           |           |
+|       | ther`_   |          |          |          |           |           |           |
 +-------+----------+----------+----------+          |           +-----------+           |
 | 12:00 | Poster   | Lunch\   | Lunch\   |          |           | PyKids UK |           |
 |       | Session  | time     | time     |          |           |           |           |
@@ -187,32 +247,38 @@ Sunday
 +-------+------------+------------+------------+------------+------------+------------+
 | 09:00 | Opening Plenary                                                             |
 +-------+------------+------------+------------+------------+------------+------------+
-| 09:30 | XTalk      | XTalk      | XTalk      | XWorkshop  | `Tit for \ | Open       |
-|       |            |            |            |            | Tat, \     | Space      |
-|       |            |            |            |            | Evolut\    |            |
-|       |            |            |            |            | ion, \     |            |
-|       |            |            |            |            | Game \     |            |
+| 09:30 | `FIDO - \  | XTalk      | XTalk      | XWorkshop  | `Tit for \ | Open       |
+|       | The dog \  |            |            |            | Tat, \     | Space      |
+|       | ate \      |            |            |            | Evolut\    |            |
+|       | my \       |            |            |            | ion, \     |            |
+|       | password`_ |            |            |            | Game \     |            |
 |       |            |            |            |            | Theory \   |            |
 |       |            |            |            |            | and the \  |            |
 |       |            |            |            |            | Python \   |            |
 |       |            |            |            |            | Axelrod \  |            |
 |       |            |            |            |            | Library`_  |            |
 +-------+------------+------------+------------+            +------------+------------+
-| 10:00 | XTalk      | XTalk      | XTalk      |            | `Ship \    | Open       |
-|       |            |            |            |            | Data \     | Space      |
-|       |            |            |            |            | Science \  |            |
-|       |            |            |            |            | Products!`_|            |
+| 10:00 | `Simpli\   | XTalk      | XTalk      |            | `Ship \    | Open       |
+|       | city \     |            |            |            | Data \     | Space      |
+|       | Is A \     |            |            |            | Science \  |            |
+|       | Feature`_  |            |            |            | Products!`_|            |
 +-------+------------+------------+------------+            +------------+------------+
-| 10:30 | XTalk      | XTalk      | XTalk      |            | `iCE: \    | Open       |
-|       |            |            |            |            | Inter\     | Space      |
-|       |            |            |            |            | active \   |            |
-|       |            |            |            |            | cloud \    |            |
-|       |            |            |            |            | experimen\ |            |
-|       |            |            |            |            | tation`_   |            |
+| 10:30 | `Here be \ | XTalk      | XTalk      |            | `iCE: \    | Open       |
+|       | Dragons - \|            |            |            | Inter\     | Space      |
+|       | Writing \  |            |            |            | active \   |            |
+|       | Safe C \   |            |            |            | cloud \    |            |
+|       | Exten\     |            |            |            | experimen\ |            |
+|       | sions`_    |            |            |            | tation`_   |            |
 +-------+------------+------------+------------+            +------------+------------+
-| 11:00 | XTalk      | XTalk      | XTalk      |            | `Power: \  | Open       |
-|       |            |            |            |            | Python in \| Space      |
-|       |            |            |            |            | Astronomy`_|            |
+| 11:00 | `How \     | XTalk      | XTalk      |            | `Power: \  | Open       |
+|       | (not) to \ |            |            |            | Python in \| Space      |
+|       | argue - \  |            |            |            | Astronomy`_|            |
+|       | a recipe \ |            |            |            |            |            |
+|       | for more \ |            |            |            |            |            |
+|       | product\   |            |            |            |            |            |
+|       | ive tech \ |            |            |            |            |            |
+|       | conversa\  |            |            |            |            |            |
+|       | tions`_    |            |            |            |            |            |
 +-------+------------+------------+------------+            +------------+------------+
 | 11:30 | XTalk      | XTalk      | XTalk      |            | `Pythons \ | Open       |
 |       |            |            |            |            | and \      | Space      |
@@ -243,18 +309,32 @@ Sunday
 |       |            |            |            |            | ific \     |            |
 |       |            |            |            |            | data`_     |            |
 +-------+------------+------------+------------+------------+------------+------------+
-| 14:00 | XTalk      | XTalk      | XTalk      | XTalk      | `Discuss\  | Open       |
-|       |            |            |            |            | ion: \     | Space      |
-|       |            |            |            |            | From dat\  |            |
-|       |            |            |            |            | a to diss\ |            |
-|       |            |            |            |            | eminatio\  |            |
-|       |            |            |            |            | n - \      |            |
-|       |            |            |            |            | dealing \  |            |
-|       |            |            |            |            | with \     |            |
-|       |            |            |            |            | publicat\  |            |
-|       |            |            |            |            | ions`_     |            |
+| 14:00 | `Python \  | XTalk      | XTalk      | XTalk      | `Discuss\  | Open       |
+|       | and \      |            |            |            | ion: \     | Space      |
+|       | the \      |            |            |            | From dat\  |            |
+|       | termi\     |            |            |            | a to diss\ |            |
+|       | nal - \    |            |            |            | eminatio\  |            |
+|       | Input, \   |            |            |            | n - \      |            |
+|       | Output, \  |            |            |            | dealing \  |            |
+|       | Pipes \    |            |            |            | with \     |            |
+|       | and \      |            |            |            | publicat\  |            |
+|       | Snakes`_   |            |            |            | ions`_     |            |
 +-------+------------+------------+------------+------------+            |            |
-| 14:30 | XTalk      | XTalk      | XTalk      | XTalk      |            |            |
+| 14:30 | `Data \    | XTalk      | XTalk      | XTalk      |            |            |
+|       | Visual\    |            |            |            |            |            |
+|       | isation \  |            |            |            |            |            |
+|       | with \     |            |            |            |            |            |
+|       | Python \   |            |            |            |            |            |
+|       | and \      |            |            |            |            |            |
+|       | Java\      |            |            |            |            |            |
+|       | script - \ |            |            |            |            |            |
+|       | crafting \ |            |            |            |            |            |
+|       | a data-\   |            |            |            |            |            |
+|       | visual\    |            |            |            |            |            |
+|       | isation \  |            |            |            |            |            |
+|       | for the \  |            |            |            |            |            |
+|       | web`_      |            |            |            |            |            |
+|       |            |            |            |            |            |            |
 +-------+------------+------------+------------+------------+------------+------------+
 | 15:00 | Plenary                                                                     |
 +-------+-----------------------------------------------------------------------------+
@@ -342,3 +422,27 @@ Monday
 .. _`Getting meaning from scientific articles`: /abstracts/#meaning
 .. _`Demo: Simple web services for scientific data`: /abstracts/#demo
 .. _`Discussion: From data to dissemination - dealing with publications`: /abstracts/#pubs
+
+
+.. _`Python's Infamous GIL`: /talks/pythons-infamous-gil/
+.. _`Analyzing Python with Pylint`: /talks/analyzing-python-with-pylint/
+.. _`managing mocks - the how why and when of mocking in python`: /talks/managing-mocks-the-how-why-and-when-of-mocking-in-python/
+.. _`5 impossible things before breakfast`: /talks/5-impossible-things-before-breakfast/
+.. _`Understanding PyPy`: /talks/understanding-pypy/
+.. _`PyPy for mediocre programmers`: /talks/pypy-for-mediocre-programmers/
+.. _`Finding more bugs with less work`: /talks/finding-more-bugs-with-less-work/
+.. _`Taming a Legacy Codebase with (Micro)services`: /talks/taming-a-legacy-codebase-with-microservices/
+.. _`Making Python Computations Fast`: /talks/making-python-computations-fast/
+.. _`Document all the things`: /talks/document-all-the-things/
+.. _`Dispelling py.test magic`: /talks/dispelling-pytest-magic/
+.. _`Using logical flaws to steal and modify business critical data`: /talks/using-logical-flaws-to-steal-and-modify-business-critical-data/
+.. _`FIDO - The dog ate my password`: /talks/fido-the-dog-ate-my-password/
+.. _`Simplicity Is A Feature`: /talks/simplicity-is-a-feature/
+.. _`A deep dive into python import hooks`: /talks/a-deep-dive-into-python-import-hooks/
+.. _`Here be Dragons - Writing Safe C Extensions`: /talks/here-be-dragons-writing-safe-c-extensions/
+.. _`How (not) to argue - a recipe for more productive tech conversations`: /talks/how-not-to-argue-a-recipe-for-more-productive-tech-conversations/
+.. _`The fabric that holds the cloud together`: /talks/the-fabric-that-holds-the-cloud-together-use-python-fabric-library-to-manage-your-openstack-environment/
+.. _`Python and the terminal - Input, Output, Pipes and Snakes`: /talks/python-and-the-terminal-input-output-pipes-and-snakes/
+.. _`data visualisation with python and javascript - crafting a data-visualisation for the web`: /talks/data-visualisation-with-python-and-javascript-crafting-a-data-visualisation-toolchain-for-the-web/
+
+
