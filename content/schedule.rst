@@ -2,21 +2,23 @@ type: page
 title: Schedule
 slug: schedule
 body_class_hack: talks
----
+
 
 Schedule
 ========
 
-The dynamic conference for the leading dynamic language
--------------------------------------------------------
+=========================================================
+ The dynamic conference for the leading dynamic language
+=========================================================
 
 The schedule below is provisional. The skeleton will become
 increasingly fleshed out during the run up to the conference. However,
 during the conference, only minor changes will be made (e.g.
 replacement of cancelled talks, naming of BOFs, etc).
 
-Friday
-------
+========
+ Friday
+========
 
 +-------+------------+------------+------------+------------+--------------------------+-----------+
 | Time  | Room 1     | Room 2     | Room 3     | Room 4     | Training and Hackathon   | Bank of   |
@@ -123,8 +125,9 @@ Friday
 | 19:30 | `The Friday Night Charity Social in memory of John Pinner`_                              |
 +-------+------------------------------------------------------------------------------------------+
 
-Saturday
---------
+==========
+ Saturday
+==========
 
 +-------+----------+----------+----------+-----------+-----------+-----------+
 | Time  | Room 1   | Room 2   | Room 3   | The Soft\ | Bank of   | Bistro    |
@@ -295,8 +298,9 @@ Saturday
 | 19:30 | `The PyCon UK Dinner` (Ticket required)    | Alt Party (TBA)       |
 +-------+--------------------------------------------+-----------------------+
 
-Sunday
-------
+========
+ Sunday
+========
 
 +-------+------------+------------+------------+------------+------------+
 | Time  | Room 1     | Room 2     | Room 3     | The        | Bistro     |
@@ -419,8 +423,9 @@ Sunday
 | 19:30 | `The Mellow Night`_                                            |
 +-------+----------------------------------------------------------------+
 
-Monday
-------
+========
+ Monday
+========
 
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
 | Time  | Sprint 1        | Sprint 2        | Sprint 3        | Sprint 4        | Sprint 5        |
@@ -538,17 +543,17 @@ Monday
 .. _`Building SAAs with django and polla`: /talks/building-saas-with-django-and-polla/
 .. _`why i have an unhealthy love of tests, and why you shouldn't be scared about writing them`: /talks/why-i-have-an-unhealthy-love-of-writing-tests-and-why-you-shouldnt-be-scared-about-writing-them/
 .. _`Testing applications for django CMS`: /talks/testing-applications-for-django-cms/
-.. _`Making code py2/3 compatible using python-future`: /talks/
-.. _`Python for mobile games on iOS and Android`: /talks/
-.. _`Instrument Your Python App with Metric Collection`: /talks/
-.. _`Enabling the Optimisation of Python`: /talks/
-.. _`Resilient data pipelines using Docker-Compose`: /talks/
-.. _`Accelerate and scale your tests with nodepool`: /talks/
-.. _`Trade management in Python - a story of throughput`: /talks/
-.. _`Analyse Yourselves`: /talks/
-.. _`Intro to web scraping with Scrapy`: /talks/
-.. _`Getting schemas around semi-structured data using Avro`: /talks/
-.. _`Event-Sourced Domain Models in Python`: /workshops/
-.. _`Building Async Microservices`: /workshops/
-.. _`Scrapy Workshop`: /talks/
+.. _`Making code py2/3 compatible using python-future`: /talks/making-code-py23-compatible-using-python-future/
+.. _`Python for mobile games on iOS and Android`: /talks/python-for-mobile-games-on-ios-and-android/
+.. _`Instrument Your Python App with Metric Collection`: /talks/instrument-your-python-app-with-metric-collection/
+.. _`Enabling the Optimisation of Python`: /talks/enabling-the-optimisation-of-python/
+.. _`Resilient data pipelines using Docker-Compose`: /talks/designing-developing-and-deploying-resilient-data-pipelines-using-python-and-docker-compose/
+.. _`Accelerate and scale your tests with nodepool`: /talks/accelerate-and-scale-your-tests-with-nodepool/
+.. _`Trade management in Python - a story of throughput`: /talks/trade-management-in-python-a-story-of-throughput/
+.. _`Analyse Yourselves`: /talks/analyse-yourselves/
+.. _`Intro to web scraping with Scrapy`: /talks/intro-to-web-scraping-with-scrapy/
+.. _`Getting schemas around semi-structured data using Avro`: /talks/with-flexibility-comes-responsibilty-getting-schemas-around-semi-structured-data-using-avro-and-python/
+.. _`Event-Sourced Domain Models in Python`: /workshops/event-sourced-domain-models-in-python/
+.. _`Building Async Microservices`: /workshops/building-async-microservices/
+.. _`Scrapy Workshop`: /talks/scrapy-workshop/
 
