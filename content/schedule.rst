@@ -7,18 +7,16 @@ body_class_hack: talks
 Schedule
 ========
 
-=========================================================
  The dynamic conference for the leading dynamic language
-=========================================================
+========================================================
 
 The schedule below is provisional. The skeleton will become
 increasingly fleshed out during the run up to the conference. However,
 during the conference, only minor changes will be made (e.g.
 replacement of cancelled talks, naming of BOFs, etc).
 
-========
  Friday
-========
+=======
 
 +-------+------------+------------+------------+------------+--------------------------+-----------+
 | Time  | Room 1     | Room 2     | Room 3     | Room 4     | Training and Hackathon   | Bank of   |
@@ -125,9 +123,9 @@ replacement of cancelled talks, naming of BOFs, etc).
 | 19:30 | `The Friday Night Charity Social in memory of John Pinner`_                              |
 +-------+------------------------------------------------------------------------------------------+
 
-==========
+
  Saturday
-==========
+=========
 
 +-------+----------+----------+----------+-----------+-----------+-----------+
 | Time  | Room 1   | Room 2   | Room 3   | The Soft\ | Bank of   | Bistro    |
@@ -298,9 +296,9 @@ replacement of cancelled talks, naming of BOFs, etc).
 | 19:30 | `The PyCon UK Dinner` (Ticket required)    | Alt Party (TBA)       |
 +-------+--------------------------------------------+-----------------------+
 
-========
+
  Sunday
-========
+=======
 
 +-------+------------+------------+------------+------------+------------+
 | Time  | Room 1     | Room 2     | Room 3     | The        | Bistro     |
@@ -423,9 +421,9 @@ replacement of cancelled talks, naming of BOFs, etc).
 | 19:30 | `The Mellow Night`_                                            |
 +-------+----------------------------------------------------------------+
 
-========
+
  Monday
-========
+=======
 
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
 | Time  | Sprint 1        | Sprint 2        | Sprint 3        | Sprint 4        | Sprint 5        |
