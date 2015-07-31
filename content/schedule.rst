@@ -18,6 +18,9 @@ replacement of cancelled talks, naming of BOFs, etc).
 Overflows for the PythonAnywhere room are CC1.1, CC1.2 and on Sunday
 afternoon CC1.4.
 
+Note: Workshops can fill up quickly so get to the room early to avoid
+disappointment.
+
 Friday
 ------
 
