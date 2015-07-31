@@ -38,11 +38,11 @@ Friday
 +-------+---------------------------------------------------+-------------+------------+-----------+
 | 10:30 | Keynote: Van Lindberg, PSF Chair                  | DjangoGirls | Trans*Code | Teacher's |
 +-------+------------+------------+------------+------------+             |            | CPD       |
-| 11:30 | `Python's \| `Leader\   |            | `Learning \|             |            |           |
-|       | Infamous \ | ship \     |            | Python \   |             |            |           |
-|       | GIL`_      | of \       |            | Club \     |             |            |           |
-|       |            | Technical \|            | Track \    |             |            |           |
-|       |            | Teams`_    |            | Intro`_    |             |            |           |
+| 11:30 | `Python's \| `Leader\   | `Learning \|            |             |            |           |
+|       | Infamous \ | ship \     | Python \   |            |             |            |           |
+|       | GIL`_      | of \       | Club \     |            |             |            |           |
+|       |            | Technical \| Track \    |            |             |            |           |
+|       |            | Teams`_    | Intro`_    |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
