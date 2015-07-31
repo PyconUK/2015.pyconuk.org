@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>5 impossible things before breakfast</title>
+
+        <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1' />
+        <script src='https://js.tito.io/v1' async></script>
+    </head>
+
+    <body class="talks">
+
+        <header class="page-head">
+            <div class="wrap">
+                <h1><a href="/">PyCon UK 2015</a></h1>
+                <label class="menu-icon" for="toggle-nav">Menu</label>
+                <input type="checkbox" id="toggle-nav" class="hidden" />
+                <nav class="nav">
+                    <ul>
+                        <li><a href="/programme/">Programme</a></li>
+                        <li><a href="/venue/">Venue</a></li>
+                        <li><a href="/sponsorship/">Sponsor</a></li>
+                        <li><a href="/science/">Science</a></li>
+                        <li class="halfway"><a href="/education/">Education</a></li>
+                        <li><a href="/volunteer/">Volunteer</a></li>
+                        <li><a href="/codeofconduct/">CoC</a></li>
+                        <li><a class="now" href="/register/">Register</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        
+<article class="main-article">
+    <div class="content">
+        <div class="column_content">
+            <h1>5 impossible things before breakfast</h1>
+
+            <div class="textblock">
+                <h3>Michael Sparks</h3>
+<p>Sometimes you're asked to deliver something that seems impossible, but
+necessary in a given timeframe.  Sometimes it's several seemingly impossible
+things.</p>
+<p>Developing the prototype for the BBC Micro:bit - a pocket sized, child
+programmable computer - was very much like this.  It had 3 months to be
+delivered in a form sufficiently robust and usable to be used by children in
+schools across the country; to be sufficiently documented to be completely
+understood from scratch by others; and to be a sufficiently open and
+flexible design to allow any and all parts of the system to change, while
+retaining its core principles.</p>
+<p>There was about 3 months to develop the entire stack from scratch. This
+included a microcontroller based hardware stack, through firmware, a python
+to C++ compiler (3-4 weeks), through django website, through to a QT
+(PySide) client side application, through to publication of the device as a
+network connected and controllable device via REST.  Python was involved in
+all layers - including at microcontroller level on a device too small to run
+any python interpreter.</p>
+<p>The bulk of the development period had just one developer for hardware
+and software.  For just 1 month there were 2 extra developers brought on
+board, part time to assist.</p>
+<p>This talk will be a detailed overview of the various subsystems, and the
+strategies taken to deliver a complete, mass produce-able, and sufficiently
+scalable product such an aggressive timescale.  The talk title is a nod to
+the idea that while each of the various layers is doable alone in 3 months,
+doing all the layers simultaneously using one developer is ... challenging.</p>
+<p>It should be of interest to those interested in developing hardware and
+software products, and especially those developing products that have both a
+hardware and software element.</p>
+            </div>
+        </div>
+    </div>
+</article>
+
+
+        <footer class="page-foot">
+            <div class="wrap">
+                &copy; 2015. All rights reserved.
+            </div>
+        </footer>
+
+    </body>
+
+    <!-- Python Powered! --> 
+</html>
