@@ -248,13 +248,13 @@ Saturday
 +-------+--------------------------------------------+-----------+-----------+
 | 15:30 | `Lightning PyKids UK`                                              |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 16:00 | `JSON \  |          | `Scrapy \| `Getting \| PyKids    | Open      |
-|       | and \    |          | Work\    | started \ | Organisers| Space     |
-|       | the \    |          | shop`_   | with \    | Tidy up   |           |
-|       | daught\  |          |          | testing \ |           |           |
-|       | ers of \ |          |          | scient\   |           |           |
-|       | Pelias`_ |          |          | ific \    |           |           |
-|       |          |          |          | programs`_|           |           |
+| 16:00 | `JSON \  | `Build\  | `Scrapy \| `Getting \| PyKids    | Open      |
+|       | and \    | ing \    | Work\    | started \ | Organisers| Space     |
+|       | the \    | SAAs \   | shop`_   | with \    | Tidy up   |           |
+|       | daught\  | with \   |          | testing \ |           |           |
+|       | ers of \ | django \ |          | scient\   |           |           |
+|       | Pelias`_ | and \    |          | ific \    |           |           |
+|       |          | polla`_  |          | programs`_|           |           |
 |       |          |          |          | part 2    |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
@@ -272,13 +272,13 @@ Saturday
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+          |           |           +-----------+
-| 17:00 | `Chrome\ | `Build\  |          |           |           | `PSF \    |
-|       | books \  | ing \    |          |           |           | Recep\    |
-|       | in \     | SAAs \   |          |           |           | tion`_    |
-|       | educat\  | with \   |          |           |           |           |
-|       | ion - \  | django \ |          |           |           |           |
-|       | the \    | and \    |          |           |           |           |
-|       | next \   | polla`_  |          |           |           |           |
+| 17:00 | `Chrome\ |          |          |           |           | `PSF \    |
+|       | books \  |          |          |           |           | Recep\    |
+|       | in \     |          |          |           |           | tion`_    |
+|       | educat\  |          |          |           |           |           |
+|       | ion - \  |          |          |           |           |           |
+|       | the \    |          |          |           |           |           |
+|       | next \   |          |          |           |           |           |
 |       | five \   |          |          |           |           |           |
 |       | years`_  |          |          |           |           |           |
 +-------+----------+----------+          |           |           |           |
