@@ -554,4 +554,4 @@ Monday
 .. _`Event-Sourced Domain Models in Python`: /workshops/event-sourced-domain-models-in-python/
 .. _`Building Async Microservices`: /workshops/building-async-microservices/
 .. _`Scrapy Workshop`: /talks/scrapy-workshop/
-.. _`learning python online track intro`: /learning/
+.. _`learning python club track intro`: /learning/
