@@ -30,11 +30,11 @@ Friday
 +-------+---------------------------------------------------+-------------+------------+-----------+
 | 10:30 | Keynote 1                                         | DjangoGirls | Trans*Code | Teacher's |
 +-------+------------+------------+------------+------------+             |            | CPD       |
-| 11:30 | `Python's \| `Leader\   | `OOD \     | `Python \  |             |            |           |
-|       | Infamous \ | ship \     | Rules`_    | powered \  |             |            |           |
-|       | GIL`_      | of \       |            | Nukes`_    |             |            |           |
-|       |            | Technical \|            |            |             |            |           |
-|       |            | Teams`_    |            |            |             |            |           |
+| 11:30 | `Python's \| `Leader\   | `OOD \     | `Learning \|             |            |           |
+|       | Infamous \ | ship \     | Rules`_    | Python \   |             |            |           |
+|       | GIL`_      | of \       |            | Club \     |             |            |           |
+|       |            | Technical \|            | Track \    |             |            |           |
+|       |            | Teams`_    |            | Intro`_    |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
@@ -48,8 +48,8 @@ Friday
 |       |            |            |            |            |             | Lunch      |           |
 +-------+------------+------------+------------+------------+             +------------+-----------+
 | 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | Trans*Code | Teacher's |
-|       | Workshop   | Workshop   | Workshop   | Workshop   |             |            | Lunch     |
-+-------+            |            |            |            |             |            +-----------+
+|       | Code       | Workshop   | Workshop   | Workshop   |             |            | Lunch     |
++-------+ Clinic     |            |            |            |             |            +-----------+
 | 13:30 |            |            |            |            |             |            | Teacher's |
 |       |            |            |            |            |             |            | CPD       |
 +-------+------------+------------+------------+------------+             |            |           |
@@ -217,8 +217,8 @@ Saturday
 +-------+          +----------+----------+-----------+           |           |
 | 13:00 |          | Lunch\   | Lunch\   | `Getting \| PyKids UK |           |
 |       |          | time     | time     | started \ |           |           |
-+-------+          | Workshop | Workshop | with \    +-----------+-----------+
-| 13:30 |          |          |          | testing \ | PyKids UK | Open      |
++-------+          | Code     | Workshop | with \    +-----------+-----------+
+| 13:30 |          | Clinic   |          | testing \ | PyKids UK | Open      |
 |       |          |          |          | scient\   |           | Space     |
 |       |          |          |          | ific pro\ |           |           |
 |       |          |          |          | grams`_   |           |           |
@@ -358,8 +358,8 @@ Sunday
 |       |            |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
 | 12:00 | `PyCon UK \| Lunchtime  |            | `Getting \ | Open       |
-|       | Jobs Fair`_| Workshop   |            | meaning \  | Space      |
-|       |            |            |            | from \     |            |
+|       | Jobs Fair`_| Code       |            | meaning \  | Space      |
+|       |            | Clinic     |            | from \     |            |
 |       |            |            |            | scient\    |            |
 |       |            |            |            | ific \     |            |
 |       |            |            |            | articles`_ |            |
@@ -392,9 +392,9 @@ Sunday
 |       | and \      | Avro`_     |            | publicat\  |            |
 |       | Snakes`_   |            |            | ions`_     |            |
 +-------+------------+------------+------------+            |            |
-| 14:30 | `Data \    | XTalk      | XTalk      |            |            |
-|       | Visual\    |            |            |            |            |
-|       | isation \  |            |            |            |            |
+| 14:30 | `Data \    | `Python \  | XTalk      |            |            |
+|       | Visual\    | powered \  |            |            |            |
+|       | isation \  | Nukes`_    |            |            |            |
 |       | with \     |            |            |            |            |
 |       | Python \   |            |            |            |            |
 |       | and \      |            |            |            |            |
@@ -554,4 +554,4 @@ Monday
 .. _`Event-Sourced Domain Models in Python`: /workshops/event-sourced-domain-models-in-python/
 .. _`Building Async Microservices`: /workshops/building-async-microservices/
 .. _`Scrapy Workshop`: /talks/scrapy-workshop/
-
+.. _`learning python online track intro`: /learning/
