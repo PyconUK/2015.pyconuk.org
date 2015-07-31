@@ -35,8 +35,8 @@ Friday
 +-------+---------------------------------------------------+-------------+------------+-----------+
 | 10:30 | Keynote: Van Lindberg, PSF Chair                  | DjangoGirls | Trans*Code | Teacher's |
 +-------+------------+------------+------------+------------+             |            | CPD       |
-| 11:30 | `Python's \| `Leader\   | `OOD \     | `Learning \|             |            |           |
-|       | Infamous \ | ship \     | Rules`_    | Python \   |             |            |           |
+| 11:30 | `Python's \| `Leader\   |            | `Learning \|             |            |           |
+|       | Infamous \ | ship \     |            | Python \   |             |            |           |
 |       | GIL`_      | of \       |            | Club \     |             |            |           |
 |       |            | Technical \|            | Track \    |             |            |           |
 |       |            | Teams`_    |            | Intro`_    |             |            |           |
@@ -60,65 +60,65 @@ Friday
 +-------+------------+------------+------------+------------+             |            |           |
 | 14:00 | Keynote 2                                         |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
-| 15:00 | `Analy\    | `Real-T\   | `Deploy    | `Django \  |             |            |           |
-|       | zing \     | ime \      | flask \    | Security \ |             |            |           |
-|       | Python \   | Data + Dj\ | applicat\  | Workshop`_ |             |            |           |
-|       | with \     | ango = Fu\ | ion \      |            |             |            |           |
-|       | Pylint`_   | n,\ Growt\ | single \   |            |             |            |           |
-|       |            | h + Profi\ | step`_     |            |             |            |           |
+| 15:00 | `Analy\    | `Real-T\   | `Django \  | `Deploy \  |             |            |           |
+|       | zing \     | ime \      | Security \ | flask \    |             |            |           |
+|       | Python \   | Data + Dj\ | Workshop`_ | applicat\  |             |            |           |
+|       | with \     | ango = Fu\ |            | ion \      |             |            |           |
+|       | Pylint`_   | n,\ Growt\ |            | single \   |             |            |           |
+|       |            | h + Profi\ |            | step`_     |             |            |           |
 |       |            | t`_        |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
-+-------+------------+------------+------------+            |             |            |           |
-| 15:30 | `Under\    | `Managing \| `Gabbi - \ |            |             |            |           |
-|       | standing \ | too \      | Declarati\ |            |             |            |           |
-|       | PyPy`_     | many \     | ve HTTP \  |            |             |            |           |
-|       |            | Django \   | Testing`_  |            |             |            |           |
++-------+------------+------------+            +------------+             |            |           |
+| 15:30 | `Under\    | `Managing \|            | `Gabbi - \ |             |            |           |
+|       | standing \ | too \      |            | Declarati\ |             |            |           |
+|       | PyPy`_     | many \     |            | ve HTTP \  |             |            |           |
+|       |            | Django \   |            | Testing`_  |             |            |           |
 |       |            | projects`_ |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
-+-------+------------+------------+------------+            |             |            |           |
-| 16:00 | `PyPy \    | `Elephant \| `Making \  |            |             |            |           |
-|       | for \      | taming \   | code \     |            |             |            |           |
-|       | mediocre \ | for \      | py2/3 \    |            |             |            |           |
-|       | programme\ | snake \    | compat\    |            |             |            |           |
-|       | rs`_ \     | lovers`_   | ible \     |            |             |            |           |
-|       |            |            | using \    |            |             |            |           |
-|       |            |            | python-\   |            |             |            |           |
-|       |            |            | future`_   |            |             |            |           |
++-------+------------+------------+            +------------+             |            |           |
+| 16:00 | `PyPy \    | `Elephant \|            | `Making \  |             |            |           |
+|       | for \      | taming \   |            | code \     |             |            |           |
+|       | mediocre \ | for \      |            | py2/3 \    |             |            |           |
+|       | programme\ | snake \    |            | compat\    |             |            |           |
+|       | rs`_ \     | lovers`_   |            | ible \     |             |            |           |
+|       |            |            |            | using \    |             |            |           |
+|       |            |            |            | python-\   |             |            |           |
+|       |            |            |            | future`_   |             |            |           |
 |       |            |            |            |            |             |            |           |
-+-------+------------+------------+------------+            |             |            |           |
-| 16:30 | `Making \  | `Templat\  | `Instrume\ |            |             |            |           |
-|       | Python \   | ing - \    | nt Your \  |            |             |            |           |
-|       | Computat\  | Past, \    | Python \   |            |             |            |           |
-|       | ions \     | Present \  | App with \ |            |             |            |           |
-|       | Fast`_ \   | and        | Metric \   |            |             |            |           |
-|       |            | Future`_   | Collect\   |            |             |            |           |
-|       |            |            | ion`_      |            |             |            |           |
-+-------+------------+------------+------------+            |             |            |           |
-| 17:00 | `Document \| `Python \  | `Resil\    |            |             |            |           |
-|       | all \      | for \      | ient \     |            |             |            |           |
-|       | the \      | mobile \   | data \     |            |             |            |           |
-|       | things`_   | games \    | pipelines \|            |             |            |           |
-|       |            | on iOS \   | using \    |            |             |            |           |
-|       |            | and \      | Docker-\   |            |             |            |           |
-|       |            | Android`_  | Compose`_  |            |             |            |           |
-+-------+------------+------------+------------+            |             |            |           |
-| 17:30 | `Dispel\   | `Testing \ | `Accelera\ |            |             |            |           |
-|       | ling \     | and \      | te and \   |            |             |            |           |
-|       | py.test \  | Async - a \| scale \    |            |             |            |           |
-|       | magic`_    | journey`_  | your \     |            |             |            |           |
-|       |            |            | tests \    |            |             |            |           |
-|       |            |            | with \     |            |             |            |           |
-|       |            |            | nodepool`_ |            |             |            |           |
++-------+------------+------------+            +------------+             |            |           |
+| 16:30 | `Making \  | `Templat\  |            | `Instrume\ |             |            |           |
+|       | Python \   | ing - \    |            | nt Your \  |             |            |           |
+|       | Computat\  | Past, \    |            | Python \   |             |            |           |
+|       | ions \     | Present \  |            | App with \ |             |            |           |
+|       | Fast`_ \   | and        |            | Metric \   |             |            |           |
+|       |            | Future`_   |            | Collect\   |             |            |           |
+|       |            |            |            | ion`_      |             |            |           |
++-------+------------+------------+            +------------+             |            |           |
+| 17:00 | `Document \| `Python \  |            | `Resil\    |             |            |           |
+|       | all \      | for \      |            | ient \     |             |            |           |
+|       | the \      | mobile \   |            | data \     |             |            |           |
+|       | things`_   | games \    |            | pipelines \|             |            |           |
+|       |            | on iOS \   |            | using \    |             |            |           |
+|       |            | and \      |            | Docker-\   |             |            |           |
+|       |            | Android`_  |            | Compose`_  |             |            |           |
++-------+------------+------------+            +------------+             |            |           |
+| 17:30 | `Dispel\   | `Testing \ |            | `Accelera\ |             |            |           |
+|       | ling \     | and \      |            | te and \   |             |            |           |
+|       | py.test \  | Async - a \|            | scale \    |             |            |           |
+|       | magic`_    | journey`_  |            | your \     |             |            |           |
+|       |            |            |            | tests \    |             |            |           |
+|       |            |            |            | with \     |             |            |           |
+|       |            |            |            | nodepool`_ |             |            |           |
 |       |            |            |            |            |             |            |           |
-+-------+------------+------------+------------+            +-------------+------------+-----------+
-| 18:00 | `Using \   | `Enabling \| `Trade \   |            | `PyCon UK Diversity Reception`_      |
-|       | logical \  | the \      | managem\   |            | (in the Bistro)                      |
-|       | flaws \    | Optimisat\ | ent in \   |            |                                      |
-|       | to \       | ion \      | Python - \ |            |                                      |
-|       | steal \    | of \       | a story \  |            |                                      |
-|       | and \      | Python`_   | of throug\ |            |                                      |
-|       | modify \   |            | hput`_     |            |                                      |
++-------+------------+------------+            +------------+-------------+------------+-----------+
+| 18:00 | `Using \   | `Enabling \|            | `Trade \   | `PyCon UK Diversity Reception`_      |
+|       | logical \  | the \      |            | managem\   | (in the Bistro)                      |
+|       | flaws \    | Optimisat\ |            | ent in \   |                                      |
+|       | to \       | ion \      |            | Python - \ |                                      |
+|       | steal \    | of \       |            | a story \  |                                      |
+|       | and \      | Python`_   |            | of throug\ |                                      |
+|       | modify \   |            |            | hput`_     |                                      |
 |       | business \ |            |            |            |                                      |
 |       | critical \ |            |            |            |                                      |
 |       | data`_     |            |            |            |                                      |
@@ -144,13 +144,13 @@ Saturday
 +-------+--------------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                    |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 09:30 | `Manag\  | `Temp\   | `Build\  | `Form\    | PyKids UK | Open      |
-|       | ing \    | late \   | ing \    | ing  a \  | Opening   | Space     |
-|       | mocks - \| matchin\ | SAAs \   | PyCon UK \|           | for       |
-|       | the \    | g - how\ | with \   | research \|           | BoFs      |
-|       | how \    | to`_     | django \ | commun\   |           | and       |
-|       | why \    |          | and \    | ity`_     |           | discuss\  |
-|       | and \    |          | polla`_  |           |           | ion       |
+| 09:30 | `Manag\  | `Temp\   |          | `Form\    | PyKids UK | Open      |
+|       | ing \    | late \   |          | ing  a \  | Opening   | Space     |
+|       | mocks - \| matchin\ |          | PyCon UK \|           | for       |
+|       | the \    | g - how\ |          | research \|           | BoFs      |
+|       | how \    | to`_     |          | commun\   |           | and       |
+|       | why \    |          |          | ity`_     |           | discuss\  |
+|       | and \    |          |          |           |           | ion       |
 |       | when \   |          |          |           |           |           |
 |       | of \     |          |          |           |           |           |
 |       | mock\    |          |          |           |           |           |
@@ -245,20 +245,20 @@ Saturday
 +-------+--------------------------------------------+-----------+-----------+
 | 15:30 | `Lightning PyKids UK`                                              |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 16:00 | `JSON \  | `Event-\ | `Scrapy \| `Getting \| PyKids    | Open      |
-|       | and \    | Sourced \| Work\    | started \ | Organisers| Space     |
-|       | the \    | Domain \ | shop`_   | with \    | Tidy up   |           |
-|       | daught\  | Models \ |          | testing \ |           |           |
-|       | ers of \ | in \     |          | scient\   |           |           |
-|       | Pelias`_ | Python`_ |          | ific \    |           |           |
+| 16:00 | `JSON \  |          | `Scrapy \| `Getting \| PyKids    | Open      |
+|       | and \    |          | Work\    | started \ | Organisers| Space     |
+|       | the \    |          | shop`_   | with \    | Tidy up   |           |
+|       | daught\  |          |          | testing \ |           |           |
+|       | ers of \ |          |          | scient\   |           |           |
+|       | Pelias`_ |          |          | ific \    |           |           |
 |       |          |          |          | programs`_|           |           |
 |       |          |          |          | part 2    |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
-+-------+----------+          |          |           |           +-----------+
-| 16:30 | `All I   |          |          |           |           | Open      |
-|       | really   |          |          |           |           | Space     |
++-------+----------+----------+          |           |           +-----------+
+| 16:30 | `All I   | `OOD \   |          |           |           | Open      |
+|       | really   | Rules`_  |          |           |           | Space     |
 |       | want     |          |          |           |           |           |
 |       | is       |          |          |           |           |           |
 |       | power`_  |          |          |           |           |           |
@@ -268,17 +268,17 @@ Saturday
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
-+-------+----------+          |          |           |           +-----------+
-| 17:00 | `Chrome\ |          |          |           |           | `PSF \    |
-|       | books \  |          |          |           |           | Recep\    |
-|       | in \     |          |          |           |           | tion`_    |
-|       | educat\  |          |          |           |           |           |
-|       | ion - \  |          |          |           |           |           |
-|       | the \    |          |          |           |           |           |
-|       | next \   |          |          |           |           |           |
++-------+----------+----------+          |           |           +-----------+
+| 17:00 | `Chrome\ | `Build\  |          |           |           | `PSF \    |
+|       | books \  | ing \    |          |           |           | Recep\    |
+|       | in \     | SAAs \   |          |           |           | tion`_    |
+|       | educat\  | with \   |          |           |           |           |
+|       | ion - \  | django \ |          |           |           |           |
+|       | the \    | and \    |          |           |           |           |
+|       | next \   | polla`_  |          |           |           |           |
 |       | five \   |          |          |           |           |           |
 |       | years`_  |          |          |           |           |           |
-+-------+----------+          |          |           |           |           |
++-------+----------+----------+          |           |           |           |
 | 17:30 | `The \   |          |          |           |           |           |
 |       | Fabric \ |          |          |           |           |           |
 |       | that \   |          |          |           |           |           |
@@ -306,7 +306,7 @@ Sunday
 ------
 
 +-------+------------+------------+------------+------------+------------+
-| Time  | Python\    | Room 2     | Room 3     | The        | Bistro     |
+| Time  | Python\    | Osper Room | Room 3     | The        | Bistro     |
 |       | Anywhere   |            |            | Software   | Balcony    |
 |       | Room       |            |            | Sustainab\ |            |
 |       |            |            |            | ility      |            |
@@ -369,12 +369,12 @@ Sunday
 |       |            |            |            | ific \     |            |
 |       |            |            |            | articles`_ |            |
 +-------+            |            +------------+------------+------------+
-| 12:30 |            |            | Lunchtime  | Lunch      | Open       |
-|       |            |            | Workshop   |            | Space      |
-|       |            |            |            |            |            |
-+-------+            +------------+------------+            +------------+
-| 13:00 |            | Lunchtime  | Lunchtime  |            | Open       |
-|       |            | Workshop   | Workshop   |            | Space      |
+| 12:30 |            |            | `Event-\   | Lunch      | Open       |
+|       |            |            | Sourced    |            | Space      |
+|       |            |            | Domain \   |            |            |
++-------+            +------------+ Models \   |            +------------+
+| 13:00 |            | Lunchtime  | in \       |            | Open       |
+|       |            | Workshop   | Python`_   |            | Space      |
 |       |            |            |            |            |            |
 +-------+            |            |            +------------+------------+
 | 13:30 |            |            |            | `Demo:  \  | OpenD      |
@@ -385,8 +385,8 @@ Sunday
 |       |            |            |            | scient\    |            |
 |       |            |            |            | ific \     |            |
 |       |            |            |            | data`_     |            |
-+-------+------------+------------+------------+------------+------------+
-| 14:00 | `Python \  | `Getting \ | XTalk      | `Discuss\  | Open       |
++-------+------------+------------+            +------------+------------+
+| 14:00 | `Python \  | `Getting \ |            | `Discuss\  | Open       |
 |       | and \      | schemas \  |            | ion: \     | Space      |
 |       | the \      | around \   |            | From dat\  |            |
 |       | termi\     | semi-\     |            | a to diss\ |            |
@@ -396,8 +396,8 @@ Sunday
 |       | Pipes \    | using \    |            | with \     |            |
 |       | and \      | Avro`_     |            | publicat\  |            |
 |       | Snakes`_   |            |            | ions`_     |            |
-+-------+------------+------------+------------+            |            |
-| 14:30 | `Data \    | `Python \  | XTalk      |            |            |
++-------+------------+------------+            |            |            |
+| 14:30 | `Data \    | `Python \  |            |            |            |
 |       | Visual\    | powered \  |            |            |            |
 |       | isation \  | Nukes`_    |            |            |            |
 |       | with \     |            |            |            |            |
