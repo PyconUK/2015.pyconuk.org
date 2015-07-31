@@ -144,31 +144,31 @@ Saturday
 +-------+--------------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                    |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 09:30 | `Manag\  | `Temp\   |          | `Form\    | PyKids UK | Open      |
-|       | ing \    | late \   |          | ing  a \  | Opening   | Space     |
-|       | mocks - \| matchin\ |          | PyCon UK \|           | for       |
-|       | the \    | g - how\ |          | research \|           | BoFs      |
-|       | how \    | to`_     |          | commun\   |           | and       |
-|       | why \    |          |          | ity`_     |           | discuss\  |
-|       | and \    |          |          |           |           | ion       |
-|       | when \   |          |          |           |           |           |
-|       | of \     |          |          |           |           |           |
-|       | mock\    |          |          |           |           |           |
-|       | ing \    |          |          |           |           |           |
+| 09:30 | `Manag\  | `Temp\   | `Fifty \ | `Form\    | PyKids UK | Open      |
+|       | ing \    | late \   | Shades \ | ing  a \  | Opening   | Space     |
+|       | mocks - \| matchin\ | of \     | PyCon UK \|           | for       |
+|       | the \    | g - how\ | Disast\  | research \|           | BoFs      |
+|       | how \    | to`_     | er - Hu\ | commun\   |           | and       |
+|       | why \    |          | man \    | ity`_     |           | discuss\  |
+|       | and \    |          | Error \  |           |           | ion       |
+|       | when \   |          | and \    |           |           |           |
+|       | of \     |          | Complex  |           |           |           |
+|       | mock\    |          | Syste\   |           |           |           |
+|       | ing \    |          | ms`_     |           |           |           |
 |       | in \     |          |          |           |           |           |
 |       | Python`_ |          |          |           |           |           |
-+-------+----------+----------+----------+-----------+           |           |
-| 10:00 | `5 \     | `Asking \| `Fifty \ | `Accel\   |           |           |
-|       | impossi\ | About \  | Shades \ | erating \ |           |           |
-|       | ble \    | Gender \ | of \     | Scient\   |           |           |
-|       | things \ | - the \  | Disast\  | ific \    |           |           |
-|       | before \ | Whats, \ | er - Hu\ | Code \    |           |           |
-|       | break\   | Whys \   | man \    | with \    |           |           |
-|       | fast`_ \ | and \    | Error \  | Numba`_   |           |           |
-|       |          | Hows`_   | and \    |           |           |           |
-+-------+----------+----------+ Complex \|           +-----------+-----------+
-| 10:30 | `Find\   | `Why I \ | Syste\   |           | PyKids UK | Open      |
-|       | ing \    | have an \| ms`_     |           | Discussion| Space     |
++-------+----------+----------+          +-----------+           |           |
+| 10:00 | `5 \     | `Asking \|          | `Accel\   |           |           |
+|       | impossi\ | About \  |          | erating \ |           |           |
+|       | ble \    | Gender \ |          | Scient\   |           |           |
+|       | things \ | - the \  |          | ific \    |           |           |
+|       | before \ | Whats, \ |          | Code \    |           |           |
+|       | break\   | Whys \   |          | with \    |           |           |
+|       | fast`_ \ | and \    |          | Numba`_   |           |           |
+|       |          | Hows`_   |          |           |           |           |
++-------+----------+----------+          |           +-----------+-----------+
+| 10:30 | `Find\   | `Why I \ |          |           | PyKids UK | Open      |
+|       | ing \    | have an \|          |           | Discussion| Space     |
 |       | more \   | unhealt\ |          |           |           |           |
 |       | bugs \   | hy \     |          |           |           |           |
 |       | with \   | love \   |          |           |           |           |
@@ -208,10 +208,10 @@ Saturday
 +-------+----------+----------+          |           +-----------+           |
 | 12:00 | Poster   | Lunch\   |          |           | PyKids UK |           |
 |       | Session  | time     |          |           |           |           |
-+-------+          | Workshop |          +-----------+-----------+-----------+
-| 12:30 |          |          |          | Py4Sci    | PyKids UK | Open      |
-|       |          |          |          | Lunch     | Lunch     | Space     |
-|       |          |          |          |           | (provided |           |
++-------+          | Workshop +----------+-----------+-----------+-----------+
+| 12:30 |          |          | Lunch\   | Py4Sci    | PyKids UK | Open      |
+|       |          |          | time     | Lunch     | Lunch     | Space     |
+|       |          |          | Workshop |           | (provided |           |
 |       |          |          |          |           | packed    |           |
 |       |          |          |          |           | lunch     |           |
 |       |          |          |          |           | including |           |
