@@ -36,8 +36,8 @@ Friday
 +-------+------------------------------------------------------------------------------------------+
 | 09:30 | Opening Plenary                                                                          |
 +-------+---------------------------------------------------+-------------+------------+-----------+
-| 10:30 | Keynote: Van Lindberg, PSF Chair                  | DjangoGirls | Trans*Code | Teacher's |
-+-------+------------+------------+------------+------------+             |            | CPD       |
+| 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | Teacher's |
++-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | CPD       |
 | 11:30 | `Python's \| `Leader\   | `Learning \| `Intro \   |             |            |           |
 |       | Infamous \ | ship \     | Python \   | to web \   |             |            |           |
 |       | GIL`_      | of \       | Club \     | scraping \ |             |            |           |
@@ -52,12 +52,12 @@ Friday
 | 12:00 | Lunchtime  | `Single \  | Lunchtime  | Lunchtime  | DjangoGirls |            |           |
 |       | Workshop   | Board \    | Workshop   | Workshop   | Lunch       |            |           |
 +-------+            | Computer \ |            |            +-------------+------------+           |
-| 12:30 |            | Hack\      |            |            | DjangoGirls | Trans*Code |           |
-|       |            | Space`_    |            |            |             | Lunch      |           |
+| 12:30 |            | Hack\      |            |            | `Django\    | Trans*Code |           |
+|       |            | Space`_    |            |            | Girls`_     | Lunch      |           |
 +-------+------------+------------+------------+------------+             +------------+-----------+
-| 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | Trans*Code | Teacher's |
-|       | Code       | Workshop   | Workshop   | Workshop   |             |            | Lunch     |
-+-------+ Clinic     |            |            |            |             |            +-----------+
+| 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | `Trans\    | Teacher's |
+|       | `Code      | Workshop   | Workshop   | Workshop   |             | *Code`_    | Lunch     |
++-------+ Clinic`_   |            |            |            |             |            +-----------+
 | 13:30 |            |            |            |            |             |            | Teacher's |
 |       |            |            |            |            |             |            | CPD       |
 +-------+------------+------------+------------+------------+             |            |           |
@@ -225,8 +225,8 @@ Saturday
 +-------+          +----------+----------+-----------+           |           |
 | 13:00 |          | Lunch\   | Lunch\   | `Getting \| PyKids UK |           |
 |       |          | time     | time     | started \ |           |           |
-+-------+          | Code     | Workshop | with \    +-----------+-----------+
-| 13:30 |          | Clinic   |          | testing \ | PyKids UK | Open      |
++-------+          | `Code    | Workshop | with \    +-----------+-----------+
+| 13:30 |          | Clinic`_ |          | testing \ | PyKids UK | Open      |
 |       |          |          |          | scient\   |           | Space     |
 |       |          |          |          | ific pro\ |           |           |
 |       |          |          |          | grams`_   |           |           |
@@ -366,8 +366,8 @@ Sunday
 |       |            |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
 | 12:00 | `PyCon UK \| Lunchtime  |            | `Getting \ | Open       |
-|       | Jobs Fair`_| Code       |            | meaning \  | Space      |
-|       |            | Clinic     |            | from \     |            |
+|       | Jobs Fair`_| `Code      |            | meaning \  | Space      |
+|       |            | Clinic`_   |            | from \     |            |
 |       |            |            |            | scient\    |            |
 |       |            |            |            | ific \     |            |
 |       |            |            |            | articles`_ |            |
@@ -380,7 +380,7 @@ Sunday
 |       |            | Workshop   | Python`_   |            | Space      |
 |       |            |            |            |            |            |
 +-------+            |            |            +------------+------------+
-| 13:30 |            |            |            | `Demo:  \  | OpenD      |
+| 13:30 |            |            |            | `Demo:  \  | Open       |
 |       |            |            |            | Simple \   | Space      |
 |       |            |            |            | web \      |            |
 |       |            |            |            | services \ |            |
@@ -438,38 +438,19 @@ Monday
 +=======+=================+=================+=================+=================+=================+
 | 09:30 | Sprint Opening                                                                          |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 10:00 | Python for      |TBA              | TBA             | TBA             | TBA             |
-|       | Science Sprint  |                 |                 |                 |                 |
+| 10:00 | `Python \       | `Don't be \     | TBA             | TBA             | TBA             |
+|       | for \           | afraid to \     |                 |                 |                 |
+|       | Science \       | commit`_        |                 |                 |                 |
+|       | Sprint`_        |                 |                 |                 |                 |
 |       |                 |                 |                 |                 |                 |
-|       | Collaborative   |                 |                 |                 |                 |
-|       | open science    |                 |                 |                 |                 |
-|       | sprint where    |                 |                 |                 |                 |
-|       | you can bring   |                 |                 |                 |                 |
-|       | along a task to |                 |                 |                 |                 |
-|       | automate, or a  |                 |                 |                 |                 |
-|       | piece of code   |                 |                 |                 |                 |
-|       | you want to     |                 |                 |                 |                 |
-|       | open source,    |                 |                 |                 |                 |
-|       | and we will put |                 |                 |                 |                 |
-|       | you in groups   |                 |                 |                 |                 |
-|       | to turn your    |                 |                 |                 |                 |
-|       | existing        |                 |                 |                 |                 |
-|       | scripts or      |                 |                 |                 |                 |
-|       | workflow into   |                 |                 |                 |                 |
-|       | an reproducible |                 |                 |                 |                 |
-|       | piece of open   |                 |                 |                 |                 |
-|       | science! Watch  |                 |                 |                 |                 |
-|       | this space --   |                 |                 |                 |                 |
-|       | there may be    |                 |                 |                 |                 |
-|       | prizes :)       |                 |                 |                 |                 |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
 | 12:30 | Lunch                                                                                   |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 13:30 | Python for      |TBA              | TBA             | TBA             | TBA             |
-|       | Science Sprint  |                 |                 |                 |                 |
+| 13:30 | `Python         | `Don't be \     | TBA             | TBA             | TBA             |
+|       | for \           | afraid to \     |                 |                 |                 |
+|       | Science         | commit`_        |                 |                 |                 |
+|       | Sprint`_        |                 |                 |                 |                 |
 |       |                 |                 |                 |                 |                 |
-|       | (Continued      |                 |                 |                 |                 |
-|       | from above)     |                 |                 |                 |                 |
 |       |                 |                 |                 |                 |                 |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
 | 16:00 | Share results together                                                                  |
@@ -564,3 +545,8 @@ Monday
 .. _`Scrapy Workshop`: /talks/scrapy-workshop/
 .. _`learning python club track intro`: /learning/
 .. _`single board computer hackspace`: /abstracts/#singleboard
+.. _`python for science sprint`: /abstracts/#sciencesprint
+.. _`don't be afraid to commit`: /abstracts/#commitsprint
+.. _`code clinic`: /abstracts/#codeclinic
+.. _`DjangoGirls`: /djangogirls/
+.. _`Trans*Code`: /transcode/
