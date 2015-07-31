@@ -1,3 +1,12 @@
 language: python
+
+cache:
+  directories:
+    - $HOME/.cache/pip
+
+install:
+  - pip install --disable-pip-version-check --upgrade pip
+  - pip install -r requirements.txt
+
 script: bash pre-flight-checks.sh
 after_success: bash deploy.sh
