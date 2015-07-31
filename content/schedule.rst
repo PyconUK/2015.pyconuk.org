@@ -30,11 +30,11 @@ Friday
 +-------+---------------------------------------------------+-------------+------------+-----------+
 | 10:30 | Keynote 1                                         | DjangoGirls | Trans*Code | Teacher's |
 +-------+------------+------------+------------+------------+             |            | CPD       |
-| 11:30 | `Python's \| XTalk      | XTalk      | XTalk      |             |            |           |
-|       | Infamous  \|            |            |            |             |            |           |
-|       | GIL`_      |            |            |            |             |            |           |
-|       |            |            |            |            |             |            |           |
-|       |            |            |            |            |             |            |           |
+| 11:30 | `Python's \| `Leader\   | `OOD \     | `Python \  |             |            |           |
+|       | Infamous \ | ship \     | Rules`_    | powered \  |             |            |           |
+|       | GIL`_      | of \       |            | Nukes`_    |             |            |           |
+|       |            | Technical \|            |            |             |            |           |
+|       |            | Teams`_    |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
@@ -55,15 +55,22 @@ Friday
 +-------+------------+------------+------------+------------+             |            |           |
 | 14:00 | Keynote 2                                         |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
-| 15:00 | `Analy\    | XTalk      | XTalk      | XWorkshop  |             |            |           |
-|       | zing \     |            |            |            |             |            |           |
-|       | Python \   |            |            |            |             |            |           |
-|       | with \     |            |            |            |             |            |           |
-|       | Pylint`_   |            |            |            |             |            |           |
+| 15:00 | `Analy\    | `Real-T\   | XTalk      | `Django \  |             |            |           |
+|       | zing \     | ime \      |            | Security \ |             |            |           |
+|       | Python \   | Data + Dj\ |            | Workshop`_ |             |            |           |
+|       | with \     | ango = Fu\ |            |            |             |            |           |
+|       | Pylint`_   | n,\ Growt\ |            |            |             |            |           |
+|       |            | h + Profi\ |            |            |             |            |           |
+|       |            | t`_        |            |            |             |            |           |
+|       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
-| 15:30 | `Under\    | XTalk      | XTalk      |            |             |            |           |
-|       | standing \ |            |            |            |             |            |           |
-|       | PyPy`_     |            |            |            |             |            |           |
+| 15:30 | `Under\    | `Managing \| XTalk      |            |             |            |           |
+|       | standing \ | too \      |            |            |             |            |           |
+|       | PyPy`_     | many \     |            |            |             |            |           |
+|       |            | Django \   |            |            |             |            |           |
+|       |            | projects`_ |            |            |             |            |           |
+|       |            |            |            |            |             |            |           |
+|       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
 | 16:00 | `PyPy \    | XTalk      | XTalk      |            |             |            |           |
 |       | for \      |            |            |            |             |            |           |
@@ -119,13 +126,13 @@ Saturday
 +-------+-------------------------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                               |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+
-| 09:30 | `Manag\  | XTalk    | XTalk    | XTalk    | `Form\    | PyKids UK | Open      |
-|       | ing \    |          |          |          | ing  a \  | Opening   | Space     |
-|       | mocks - \|          |          |          | PyCon UK \|           | for       |
-|       | the \    |          |          |          | research \|           | BoFs      |
-|       | how \    |          |          |          | commun\   |           | and       |
-|       | why \    |          |          |          | ity`_     |           | discuss\  |
-|       | and \    |          |          |          |           |           | ion       |
+| 09:30 | `Manag\  | `Temp\   | `Ship\   | XTalk    | `Form\    | PyKids UK | Open      |
+|       | ing \    | late \   | ping \   |          | ing  a \  | Opening   | Space     |
+|       | mocks - \| matchin\ | your \   |          | PyCon UK \|           | for       |
+|       | the \    | g - how\ | applic\  |          | research \|           | BoFs      |
+|       | how \    | to`_     | ation \  |          | commun\   |           | and       |
+|       | why \    |          | using \  |          | ity`_     |           | discuss\  |
+|       | and \    |          | Conda`_  |          |           |           | ion       |
 |       | when \   |          |          |          |           |           |           |
 |       | of \     |          |          |          |           |           |           |
 |       | mock\    |          |          |          |           |           |           |
@@ -133,17 +140,17 @@ Saturday
 |       | in \     |          |          |          |           |           |           |
 |       | Python`_ |          |          |          |           |           |           |
 +-------+----------+----------+----------+----------+-----------+           |           |
-| 10:00 | `5 \     | XTalk    | XTalk    | XWorkshop| `Accel\   |           |           |
-|       | impossi\ |          |          |          | erating \ |           |           |
-|       | ble \    |          |          |          | Scient\   |           |           |
-|       | things \ |          |          |          | ific \    |           |           |
-|       | before \ |          |          |          | Code \    |           |           |
-|       | break\   |          |          |          | with \    |           |           |
-|       | fast`_ \ |          |          |          | Numba`_   |           |           |
-|       |          |          |          |          |           |           |           |
-+-------+----------+----------+----------+          |           +-----------+-----------+
-| 10:30 | `Find\   | XTalk    | XTalk    |          |           | PyKids UK | Open      |
-|       | ing \    |          |          |          |           | Discussion| Space     |
+| 10:00 | `5 \     | `Asking \| XTalk    | `Fifty \ | `Accel\   |           |           |
+|       | impossi\ | About \  |          | Shades \ | erating \ |           |           |
+|       | ble \    | Gender \ |          | of \     | Scient\   |           |           |
+|       | things \ | - the \  |          | Disast\  | ific \    |           |           |
+|       | before \ | Whats, \ |          | er - Hu\ | Code \    |           |           |
+|       | break\   | Whys \   |          | man \    | with \    |           |           |
+|       | fast`_ \ | and \    |          | Error \  | Numba`_   |           |           |
+|       |          | Hows`_   |          | and \    |           |           |           |
++-------+----------+----------+----------+ Complex \|           +-----------+-----------+
+| 10:30 | `Find\   | XTalk    | XTalk    | Syste\   |           | PyKids UK | Open      |
+|       | ing \    |          |          | ms`_     |           | Discussion| Space     |
 |       | more \   |          |          |          |           |           |           |
 |       | bugs \   |          |          |          |           |           |           |
 |       | with \   |          |          |          |           |           |           |
@@ -247,12 +254,12 @@ Sunday
 +-------+------------+------------+------------+------------+------------+------------+
 | 09:00 | Opening Plenary                                                             |
 +-------+------------+------------+------------+------------+------------+------------+
-| 09:30 | `FIDO - \  | XTalk      | XTalk      | XWorkshop  | `Tit for \ | Open       |
-|       | The dog \  |            |            |            | Tat, \     | Space      |
-|       | ate \      |            |            |            | Evolut\    |            |
-|       | my \       |            |            |            | ion, \     |            |
-|       | password`_ |            |            |            | Game \     |            |
-|       |            |            |            |            | Theory \   |            |
+| 09:30 | `FIDO - \  | `Python \  | XTalk      | XWorkshop  | `Tit for \ | Open       |
+|       | The dog \  | and \      |            |            | Tat, \     | Space      |
+|       | ate \      | Postgre\   |            |            | Evolut\    |            |
+|       | my \       | SQL a \    |            |            | ion, \     |            |
+|       | password`_ | Wonderful \|            |            | Game \     |            |
+|       |            | Wedding`_  |            |            | Theory \   |            |
 |       |            |            |            |            | and the \  |            |
 |       |            |            |            |            | Python \   |            |
 |       |            |            |            |            | Axelrod \  |            |
@@ -444,5 +451,14 @@ Monday
 .. _`The fabric that holds the cloud together`: /talks/the-fabric-that-holds-the-cloud-together-use-python-fabric-library-to-manage-your-openstack-environment/
 .. _`Python and the terminal - Input, Output, Pipes and Snakes`: /talks/python-and-the-terminal-input-output-pipes-and-snakes/
 .. _`data visualisation with python and javascript - crafting a data-visualisation for the web`: /talks/data-visualisation-with-python-and-javascript-crafting-a-data-visualisation-toolchain-for-the-web/
-
-
+.. _`django security workshop`: /workshops/django-security/
+.. _`real-time data + django = fun,growth + profit`: /talks/real-time-data-django-fun-growth-profit/
+.. _`Shipping your application using Conda`: /talks/shipping-your-application-using-conda/
+.. _`Template matching - howto`: /talks/image-recognition-via-template-matching
+.. _`Asking About Gender - the Whats, Whys and Hows`: /talks/asking-about-gender-the-whats-whys-and-hows/
+.. _`Python and PostgreSQL a Wonderful Wedding`: /talks/python-and-postgresql-a-wonderful-wedding/
+.. _`Fifty Shades of Disaster - Human Error and Complex Systems`: /talks/fifty-shades-of-disaster-human-error-and-complex-systems/
+.. _`Leadership of Technical Teams`: /talks/leadership-of-technical-teams/
+.. _`OOD Rules`: /talks/ood-rules/
+.. _`python powered nukes`: /talks/python-powered-nukes/
+.. _`Managing too many Django projects`: /talks/managing-too-many-django-projects/
