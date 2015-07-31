@@ -41,11 +41,11 @@ Friday
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+------------+-------------+            |           |
-| 12:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  | DjangoGirls |            |           |
-|       | Workshop   | Workshop   | Workshop   | Workshop   | Lunch       |            |           |
-+-------+            |            |            |            +-------------+------------+           |
-| 12:30 |            |            |            |            | DjangoGirls | Trans*Code |           |
-|       |            |            |            |            |             | Lunch      |           |
+| 12:00 | Lunchtime  | `Single \  | Lunchtime  | Lunchtime  | DjangoGirls |            |           |
+|       | Workshop   | Board \    | Workshop   | Workshop   | Lunch       |            |           |
++-------+            | Computer \ |            |            +-------------+------------+           |
+| 12:30 |            | Hack\      |            |            | DjangoGirls | Trans*Code |           |
+|       |            | Space`_    |            |            |             | Lunch      |           |
 +-------+------------+------------+------------+------------+             +------------+-----------+
 | 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | Trans*Code | Teacher's |
 |       | Code       | Workshop   | Workshop   | Workshop   |             |            | Lunch     |
@@ -555,3 +555,4 @@ Monday
 .. _`Building Async Microservices`: /workshops/building-async-microservices/
 .. _`Scrapy Workshop`: /talks/scrapy-workshop/
 .. _`learning python club track intro`: /learning/
+.. _`single board computer hackspace`: /abstracts/#singleboard
