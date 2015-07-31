@@ -16,7 +16,7 @@ during the conference, only minor changes will be made (e.g.
 replacement of cancelled talks, naming of BOFs, etc).
 
 Overflows for the PythonAnywhere room are CC1.1, CC1.2 and on Sunday
-afternoon CC1.4.
+afternoon the Osper Room (CC1.4) will also be an overflow.
 
 Note: Workshops can fill up quickly so get to the room early to avoid
 disappointment.
