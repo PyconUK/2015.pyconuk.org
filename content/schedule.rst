@@ -79,11 +79,11 @@ Friday
 |       | rs`_ \     |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
-| 16:30 | Making \   | XTalk      | XTalk      |            |             |            |           |
+| 16:30 | `Making \  | XTalk      | XTalk      |            |             |            |           |
 |       | Python \   |            |            |            |             |            |           |
 |       | Computat\  |            |            |            |             |            |           |
 |       | ions \     |            |            |            |             |            |           |
-|       | Fast \     |            |            |            |             |            |           |
+|       | Fast`_ \   |            |            |            |             |            |           |
 +-------+------------+------------+------------+            |             |            |           |
 | 17:00 | `Document  | XTalk      | XTalk      |            |             |            |           |
 |       | all        |            |            |            |             |            |           |
@@ -126,13 +126,13 @@ Saturday
 +-------+-------------------------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                               |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+
-| 09:30 | `Manag\  | `Temp\   | `Ship\   | XTalk    | `Form\    | PyKids UK | Open      |
-|       | ing \    | late \   | ping \   |          | ing  a \  | Opening   | Space     |
-|       | mocks - \| matchin\ | your \   |          | PyCon UK \|           | for       |
-|       | the \    | g - how\ | applic\  |          | research \|           | BoFs      |
-|       | how \    | to`_     | ation \  |          | commun\   |           | and       |
-|       | why \    |          | using \  |          | ity`_     |           | discuss\  |
-|       | and \    |          | Conda`_  |          |           |           | ion       |
+| 09:30 | `Manag\  | `Temp\   | `Ship\   | Lang\    | `Form\    | PyKids UK | Open      |
+|       | ing \    | late \   | ping \   | uage \   | ing  a \  | Opening   | Space     |
+|       | mocks - \| matchin\ | your \   | Compos\  | PyCon UK \|           | for       |
+|       | the \    | g - how\ | applic\  | ition \  | research \|           | BoFs      |
+|       | how \    | to`_     | ation \  | with \   | commun\   |           | and       |
+|       | why \    |          | using \  | RPytho\  | ity`_     |           | discuss\  |
+|       | and \    |          | Conda`_  | n`_      |           |           | ion       |
 |       | when \   |          |          |          |           |           |           |
 |       | of \     |          |          |          |           |           |           |
 |       | mock\    |          |          |          |           |           |           |
@@ -216,19 +216,52 @@ Saturday
 +-------+-------------------------------------------------------+-----------+-----------+
 | 15:30 | `Lightning PyKids UK`_                                                        |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+
-| 16:00 | XTalk    | XTalk    | XWorkshop| XWorkshop| `Getting \| PyKids    | Open      |
-|       |          |          |          |          | started \ | Organisers| Space     |
-|       |          |          |          |          | with \    | Tidy up   |           |
-+-------+----------+----------+          |          | testing \ |           +-----------+
-| 16:30 | XTalk    | XTalk    |          |          | scient\   |           | Open      |
-|       |          |          |          |          | ific \    |           | Space     |
+| 16:00 | `JSON \  | XTalk    | XWorkshop| XWorkshop| `Getting \| PyKids    | Open      |
+|       | and \    |          |          |          | started \ | Organisers| Space     |
+|       | the \    |          |          |          | with \    | Tidy up   |           |
+|       | daught\  |          |          |          | testing \ |           |           |
+|       | ers of \ |          |          |          | scient\   |           |           |
+|       | Pelias`_ |          |          |          | ific \    |           |           |
 |       |          |          |          |          | programs`_|           |           |
-+-------+----------+----------+          |          | part 2    |           +-----------+
-| 17:00 | XTalk    | XTalk    |          |          |           |           | `PSF \    |
-|       |          |          |          |          |           |           | Recep\    |
-|       |          |          |          |          |           |           | tion`_    |
+|       |          |          |          |          | part 2    |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
++-------+----------+----------+          |          |           |           +-----------+
+| 16:30 | `All I   | XTalk    |          |          |           |           | Open      |
+|       | really   |          |          |          |           |           | Space     |
+|       | want     |          |          |          |           |           |           |
+|       | is       |          |          |          |           |           |           |
+|       | power`_  |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
++-------+----------+----------+          |          |           |           +-----------+
+| 17:00 | `Chrome\ | XTalk    |          |          |           |           | `PSF \    |
+|       | books \  |          |          |          |           |           | Recep\    |
+|       | in \     |          |          |          |           |           | tion`_    |
+|       | educat\  |          |          |          |           |           |           |
+|       | ion - \  |          |          |          |           |           |           |
+|       | the \    |          |          |          |           |           |           |
+|       | next \   |          |          |          |           |           |           |
+|       | five \   |          |          |          |           |           |           |
+|       | years`_  |          |          |          |           |           |           |
 +-------+----------+----------+          |          |           |           |           |
-| 17:30 | XTalk    | XTalk    |          |          |           |           |           |
+| 17:30 | `Python \| XTalk    |          |          |           |           |           |
+|       | 3000 \   |          |          |          |           |           |           |
+|       | coming \ |          |          |          |           |           |           |
+|       | late \   |          |          |          |           |           |           |
+|       | 2008`_   |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
+|       |          |          |          |          |           |           |           |
 |       |          |          |          |          |           |           |           |
 |       |          |          |          |          |           |           |           |
 +-------+----------+----------+----------+----------+-----------+-----------+-----------+
@@ -287,10 +320,17 @@ Sunday
 |       | conversa\  |            |            |            |            |            |
 |       | tions`_    |            |            |            |            |            |
 +-------+------------+------------+------------+            +------------+------------+
-| 11:30 | XTalk      | XTalk      | XTalk      |            | `Pythons \ | Open       |
-|       |            |            |            |            | and \      | Space      |
-|       |            |            |            |            | Earth\     |            |
-|       |            |            |            |            | quakes`_   |            |
+| 11:30 | `The \     | XTalk      | XTalk      |            | `Pythons \ | Open       |
+|       | Drogulus \ |            |            |            | and \      | Space      |
+|       | or How \   |            |            |            | Earth\     |            |
+|       | I Learned \|            |            |            | quakes`_   |            |
+|       | to Stop \  |            |            |            |            |            |
+|       | Worrying \ |            |            |            |            |            |
+|       | and Love \ |            |            |            |            |            |
+|       | Decentral\ |            |            |            |            |            |
+|       | ization`_  |            |            |            |            |            |
+|       |            |            |            |            |            |            |
+|       |            |            |            |            |            |            |
 +-------+------------+------------+------------+            +------------+------------+
 | 12:00 | `PyCon UK \| Lunchtime  | Lunchtime  |            | `Getting \ | Open       |
 |       | Jobs Fair`_| Workshop   | Workshop   |            | meaning \  | Space      |
@@ -462,3 +502,10 @@ Monday
 .. _`OOD Rules`: /talks/ood-rules/
 .. _`python powered nukes`: /talks/python-powered-nukes/
 .. _`Managing too many Django projects`: /talks/managing-too-many-django-projects/
+.. _`Chromebooks in education - the next five years`: /talks/chromebooks-in-education-the-next-five-years/
+.. _`json and the daughters of pelias`: /talks/json-and-the-daughters-of-pelias/
+.. _`the drogulus or how i learned to stop worrying and love decentralization`: /talks/the-drogulus-or-how-i-learned-to-stop-worrying-and-love-decentralization/
+.. _`Python 3000 coming late 2008`: /talks/python-3000-coming-late-2008/
+.. _`All I really want is power`: /talks/all-i-really-want-is-power/
+.. _`Language Composition with RPython`: /talks/language-composition-with-rpython/
+
