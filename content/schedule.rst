@@ -239,12 +239,12 @@ Saturday
 +-------+--------------------------------------------+-----------+-----------+
 | 15:30 | `Lightning PyKids UK`                                              |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 16:00 | `JSON \  | XWorkshop| XWorkshop| `Getting \| PyKids    | Open      |
-|       | and \    |          |          | started \ | Organisers| Space     |
-|       | the \    |          |          | with \    | Tidy up   |           |
-|       | daught\  |          |          | testing \ |           |           |
-|       | ers of \ |          |          | scient\   |           |           |
-|       | Pelias`_ |          |          | ific \    |           |           |
+| 16:00 | `JSON \  | `Event-\ | `Scrapy \| `Getting \| PyKids    | Open      |
+|       | and \    | Sourced \| Work\    | started \ | Organisers| Space     |
+|       | the \    | Domain \ | shop`_   | with \    | Tidy up   |           |
+|       | daught\  | Models \ |          | testing \ |           |           |
+|       | ers of \ | in \     |          | scient\   |           |           |
+|       | Pelias`_ | Python`_ |          | ific \    |           |           |
 |       |          |          |          | programs`_|           |           |
 |       |          |          |          | part 2    |           |           |
 |       |          |          |          |           |           |           |
@@ -310,10 +310,10 @@ Sunday
 +-------+------------+------------+------------+------------+------------+
 | 09:00 | Opening Plenary                                                |
 +-------+------------+------------+------------+------------+------------+
-| 09:30 | `FIDO - \  | `Python \  | XWorkshop  | `Tit for \ | Open       |
-|       | The dog \  | and \      |            | Tat, \     | Space      |
-|       | ate \      | Postgre\   |            | Evolut\    |            |
-|       | my \       | SQL a \    |            | ion, \     |            |
+| 09:30 | `FIDO - \  | `Python \  | `Building \| `Tit for \ | Open       |
+|       | The dog \  | and \      | Async \    | Tat, \     | Space      |
+|       | ate \      | Postgre\   | Micro\     | Evolut\    |            |
+|       | my \       | SQL a \    | Services`_ | ion, \     |            |
 |       | password`_ | Wonderful \|            | Game \     |            |
 |       |            | Wedding`_  |            | Theory \   |            |
 |       |            |            |            | and the \  |            |
@@ -321,9 +321,9 @@ Sunday
 |       |            |            |            | Axelrod \  |            |
 |       |            |            |            | Library`_  |            |
 +-------+------------+------------+            +------------+------------+
-| 10:00 | `Simpli\   | XTalk      |            | `Ship \    | Open       |
-|       | city \     |            |            | Data \     | Space      |
-|       | Is A \     |            |            | Science \  |            |
+| 10:00 | `Simpli\   | `Analyse \ |            | `Ship \    | Open       |
+|       | city \     | Your\      |            | Data \     | Space      |
+|       | Is A \     | selves`_   |            | Science \  |            |
 |       | Feature`_  |            |            | Products!`_|            |
 +-------+------------+------------+            +------------+------------+
 | 10:30 | `Here be \ | `Testing \ |            | `iCE: \    | Open       |
@@ -343,11 +343,11 @@ Sunday
 |       | conversa\  |            |            |            |            |
 |       | tions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:30 | `The \     | XTalk      |            | `Pythons \ | Open       |
-|       | Drogulus \ |            |            | and \      | Space      |
-|       | or How \   |            |            | Earth\     |            |
-|       | I Learned \|            |            | quakes`_   |            |
-|       | to Stop \  |            |            |            |            |
+| 11:30 | `The \     | `Intro \   |            | `Pythons \ | Open       |
+|       | Drogulus \ | to web \   |            | and \      | Space      |
+|       | or How \   | scraping \ |            | Earth\     |            |
+|       | I Learned \| with \     |            | quakes`_   |            |
+|       | to Stop \  | scrapy`_   |            |            |            |
 |       | Worrying \ |            |            |            |            |
 |       | and Love \ |            |            |            |            |
 |       | Decentral\ |            |            |            |            |
@@ -379,15 +379,15 @@ Sunday
 |       |            |            |            | ific \     |            |
 |       |            |            |            | data`_     |            |
 +-------+------------+------------+------------+------------+------------+
-| 14:00 | `Python \  | XTalk      | XTalk      | `Discuss\  | Open       |
-|       | and \      |            |            | ion: \     | Space      |
-|       | the \      |            |            | From dat\  |            |
-|       | termi\     |            |            | a to diss\ |            |
-|       | nal - \    |            |            | eminatio\  |            |
-|       | Input, \   |            |            | n - \      |            |
-|       | Output, \  |            |            | dealing \  |            |
-|       | Pipes \    |            |            | with \     |            |
-|       | and \      |            |            | publicat\  |            |
+| 14:00 | `Python \  | `Getting \ | XTalk      | `Discuss\  | Open       |
+|       | and \      | schemas \  |            | ion: \     | Space      |
+|       | the \      | around \   |            | From dat\  |            |
+|       | termi\     | semi-\     |            | a to diss\ |            |
+|       | nal - \    | struct\    |            | eminatio\  |            |
+|       | Input, \   | ured \     |            | n - \      |            |
+|       | Output, \  | data \     |            | dealing \  |            |
+|       | Pipes \    | using \    |            | with \     |            |
+|       | and \      | Avro`_     |            | publicat\  |            |
 |       | Snakes`_   |            |            | ions`_     |            |
 +-------+------------+------------+------------+            |            |
 | 14:30 | `Data \    | XTalk      | XTalk      |            |            |
@@ -479,8 +479,6 @@ Monday
 .. _`psf reception`: /abstracts/#psf
 .. _`The Non-Closing Closing`: /abstracts/#nonclosing
 .. _`Lightning PyKids UK`: /abstracts/#lightningkids
-
-
 .. _`forming a pycon uk research community`: /abstracts/#form
 .. _`accelerating scientific code with numba`: /abstracts/#numba
 .. _`getting started with testing scientific programs`: /abstracts/#testing
@@ -492,8 +490,6 @@ Monday
 .. _`Getting meaning from scientific articles`: /abstracts/#meaning
 .. _`Demo: Simple web services for scientific data`: /abstracts/#demo
 .. _`Discussion: From data to dissemination - dealing with publications`: /abstracts/#pubs
-
-
 .. _`Python's Infamous GIL`: /talks/pythons-infamous-gil/
 .. _`Analyzing Python with Pylint`: /talks/analyzing-python-with-pylint/
 .. _`managing mocks - the how why and when of mocking in python`: /talks/managing-mocks-the-how-why-and-when-of-mocking-in-python/
@@ -549,12 +545,10 @@ Monday
 .. _`Resilient data pipelines using Docker-Compose`: /talks/
 .. _`Accelerate and scale your tests with nodepool`: /talks/
 .. _`Trade management in Python - a story of throughput`: /talks/
-
-
-.. _`With flexibility comes responsibilty: Getting schemas around semi-structured data using Avro`: /talks/
-.. _`Intro to web scraping with Scrapy`: /talks/
 .. _`Analyse Yourselves`: /talks/
-
-.. _`Building Async Microservices`: /talks/
+.. _`Intro to web scraping with Scrapy`: /talks/
+.. _`Getting schemas around semi-structured data using Avro`: /talks/
+.. _`Event-Sourced Domain Models in Python`: /workshops/
+.. _`Building Async Microservices`: /workshops/
 .. _`Scrapy Workshop`: /talks/
-.. _`Event-Sourced Domain Models in Python`: /talks/
+
