@@ -38,11 +38,11 @@ Friday
 +-------+---------------------------------------------------+-------------+------------+-----------+
 | 10:30 | Keynote: Van Lindberg, PSF Chair                  | DjangoGirls | Trans*Code | Teacher's |
 +-------+------------+------------+------------+------------+             |            | CPD       |
-| 11:30 | `Python's \| `Leader\   | `Learning \|            |             |            |           |
-|       | Infamous \ | ship \     | Python \   |            |             |            |           |
-|       | GIL`_      | of \       | Club \     |            |             |            |           |
-|       |            | Technical \| Track \    |            |             |            |           |
-|       |            | Teams`_    | Intro`_    |            |             |            |           |
+| 11:30 | `Python's \| `Leader\   | `Learning \| `Intro \   |             |            |           |
+|       | Infamous \ | ship \     | Python \   | to web \   |             |            |           |
+|       | GIL`_      | of \       | Club \     | scraping \ |             |            |           |
+|       |            | Technical \| Track \    | with \     |             |            |           |
+|       |            | Teams`_    | Intro`_    | scrapy`_   |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
@@ -272,7 +272,7 @@ Saturday
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+          |           |           +-----------+
-| 17:00 | `Chrome\ |          |          |           |           | `PSF \    |
+| 17:00 | `Chrome\ | XTalk    |          |           |           | `PSF \    |
 |       | books \  |          |          |           |           | Recep\    |
 |       | in \     |          |          |           |           | tion`_    |
 |       | educat\  |          |          |           |           |           |
@@ -282,7 +282,7 @@ Saturday
 |       | five \   |          |          |           |           |           |
 |       | years`_  |          |          |           |           |           |
 +-------+----------+----------+          |           |           |           |
-| 17:30 | `The \   |          |          |           |           |           |
+| 17:30 | `The \   | XTalk    |          |           |           |           |
 |       | Fabric \ |          |          |           |           |           |
 |       | that \   |          |          |           |           |           |
 |       | holds    |          |          |           |           |           |
@@ -353,11 +353,11 @@ Sunday
 |       | conversa\  |            |            |            |            |
 |       | tions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:30 | `The \     | `Intro \   |            | `Pythons \ | Open       |
-|       | Drogulus \ | to web \   |            | and \      | Space      |
-|       | or How \   | scraping \ |            | Earth\     |            |
-|       | I Learned \| with \     |            | quakes`_   |            |
-|       | to Stop \  | scrapy`_   |            |            |            |
+| 11:30 | `The \     | XTalk      |            | `Pythons \ | Open       |
+|       | Drogulus \ |            |            | and \      | Space      |
+|       | or How \   |            |            | Earth\     |            |
+|       | I Learned \|            |            | quakes`_   |            |
+|       | to Stop \  |            |            |            |            |
 |       | Worrying \ |            |            |            |            |
 |       | and Love \ |            |            |            |            |
 |       | Decentral\ |            |            |            |            |
