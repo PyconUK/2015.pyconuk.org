@@ -15,15 +15,20 @@ increasingly fleshed out during the run up to the conference. However,
 during the conference, only minor changes will be made (e.g.
 replacement of cancelled talks, naming of BOFs, etc).
 
+Overflows for the PythonAnywhere room are CC1.1, CC1.2 and on Sunday
+afternoon CC1.4.
+
 Friday
 ------
 
 +-------+------------+------------+------------+------------+--------------------------+-----------+
-| Time  | Room 1     | Room 2     | Room 3     | Room 4     | Training and Hackathon   | Bank of   |
-|       |            |            |            |            |                          | America   |
-|       |            |            |            |            |                          | Education |
+| Time  | Python\    | Osper Room | Room 3     | Room 4     | Training and Hackathon   | Bank of   |
+|       | Anywhere   |            |            |            |                          | America   |
+|       | Room       |            |            |            |                          | Education |
 |       |            |            |            |            |                          | Track     |
 +=======+============+============+============+============+==========================+===========+
+|       | CC1.3      | CC1.4      | CC1.8      | CC2.1      | Simulation Centre                    |
++-------+------------+------------+------------+------------+--------------------------+-----------+
 | 08:00 | Registration / Breakfast                                                                 |
 +-------+------------------------------------------------------------------------------------------+
 | 09:30 | Opening Plenary                                                                          |
@@ -128,9 +133,9 @@ Saturday
 --------
 
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| Time  | Room 1   | Room 2   | Room 3   | The Soft\ | Bank of   | Bistro    |
-|       |          |          |          | ware    \ | America   | Balcony   |
-|       |          |          |          | Sustaina\ | Education |           |
+| Time  | Python\  | Osper    | Room 3   | The Soft\ | Bank of   | Bistro    |
+|       | Anywhere | Room     |          | ware    \ | America   | Balcony   |
+|       | Room     |          |          | Sustaina\ | Education |           |
 |       |          |          |          | bility    | Track     |           |
 |       |          |          |          | Institute |           |           |
 |       |          |          |          | Room      |           |           |
@@ -301,9 +306,9 @@ Sunday
 ------
 
 +-------+------------+------------+------------+------------+------------+
-| Time  | Room 1     | Room 2     | Room 3     | The        | Bistro     |
-|       |            |            |            | Software   | Balcony    |
-|       |            |            |            | Sustainab\ |            |
+| Time  | Python\    | Room 2     | Room 3     | The        | Bistro     |
+|       | Anywhere   |            |            | Software   | Balcony    |
+|       | Room       |            |            | Sustainab\ |            |
 |       |            |            |            | ility      |            |
 |       |            |            |            | Institute  |            |
 |       |            |            |            | Room       |            |
