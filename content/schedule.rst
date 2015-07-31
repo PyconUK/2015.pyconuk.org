@@ -28,7 +28,7 @@ Friday
 +-------+------------------------------------------------------------------------------------------+
 | 09:30 | Opening Plenary                                                                          |
 +-------+---------------------------------------------------+-------------+------------+-----------+
-| 10:30 | Keynote 1                                         | DjangoGirls | Trans*Code | Teacher's |
+| 10:30 | Keynote: Van Lindberg, PSF Chair                  | DjangoGirls | Trans*Code | Teacher's |
 +-------+------------+------------+------------+------------+             |            | CPD       |
 | 11:30 | `Python's \| `Leader\   | `OOD \     | `Learning \|             |            |           |
 |       | Infamous \ | ship \     | Rules`_    | Python \   |             |            |           |
