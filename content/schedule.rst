@@ -36,9 +36,9 @@ Friday
 +-------+------------------------------------------------------------------------------------------+
 | 09:30 | Opening Plenary                                                                          |
 +-------+---------------------------------------------------+-------------+------------+-----------+
-| 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | Teacher's |
-+-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | CPD       |
-| 11:30 | `Python's \| `Leader\   | `Learning \| `Intro \   |             |            |           |
+| 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | `Teach\   |
++-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | er's \    |
+| 11:30 | `Python's \| `Leader\   | `Learning \| `Intro \   |             |            | CPD`_     |
 |       | Infamous \ | ship \     | Python \   | to web \   |             |            |           |
 |       | GIL`_      | of \       | Club \     | scraping \ |             |            |           |
 |       |            | Technical \| Track \    | with \     |             |            |           |
@@ -58,8 +58,8 @@ Friday
 | 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | `Trans\    | Teacher's |
 |       | `Code      | Workshop   | Workshop   | Workshop   |             | *Code`_    | Lunch     |
 +-------+ Clinic`_   |            |            |            |             |            +-----------+
-| 13:30 |            |            |            |            |             |            | Teacher's |
-|       |            |            |            |            |             |            | CPD       |
+| 13:30 |            |            |            |            |             |            | `Teacher\ |
+|       |            |            |            |            |             |            | 's CPD`_  |
 +-------+------------+------------+------------+------------+             |            |           |
 | 14:00 | Keynote 2                                         |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
@@ -147,9 +147,9 @@ Saturday
 +-------+--------------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                    |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 09:30 | `Manag\  | `Temp\   | `Fifty \ | `Form\    | PyKids UK | Open      |
-|       | ing \    | late \   | Shades \ | ing  a \  | Opening   | Space     |
-|       | mocks - \| matchin\ | of \     | PyCon UK \|           | for       |
+| 09:30 | `Manag\  | `Temp\   | `Fifty \ | `Form\    | `PyKids   | Open      |
+|       | ing \    | late \   | Shades \ | ing  a \  | UK`_      | Space     |
+|       | mocks - \| matchin\ | of \     | PyCon UK \| Opening   | for       |
 |       | the \    | g - how\ | Disast\  | research \|           | BoFs      |
 |       | how \    | to`_     | er - Hu\ | commun\   |           | and       |
 |       | why \    |          | man \    | ity`_     |           | discuss\  |
@@ -170,9 +170,9 @@ Saturday
 |       | fast`_ \ | and \    |          | Numba`_   |           |           |
 |       |          | Hows`_   |          |           |           |           |
 +-------+----------+----------+          |           +-----------+-----------+
-| 10:30 | `Find\   | `Why I \ |          |           | PyKids UK | Open      |
-|       | ing \    | have an \|          |           | Discussion| Space     |
-|       | more \   | unhealt\ |          |           |           |           |
+| 10:30 | `Find\   | `Why I \ |          |           | `PyKids \ | Open      |
+|       | ing \    | have an \|          |           | UK`_      | Space     |
+|       | more \   | unhealt\ |          |           | Discussion|           |
 |       | bugs \   | hy \     |          |           |           |           |
 |       | with \   | love \   |          |           |           |           |
 |       | less \   | of test\ |          |           |           |           |
@@ -186,8 +186,8 @@ Saturday
 |       |          | writing \|          |           |           |           |
 |       |          | them`_   |          |           |           |           |
 +-------+----------+----------+          |           +-----------+-----------+
-| 11:00 | `Taming \| `Lang\   |          |           | PyKids UK | Open      |
-|       | a \      | uage \   |          |           |           | Space     |
+| 11:00 | `Taming \| `Lang\   |          |           | `PyKids \ | Open      |
+|       | a \      | uage \   |          |           | UK`_      | Space     |
 |       | Legacy \ | Compos\  |          |           |           |           |
 |       | Code\    | ition \  |          |           |           |           |
 |       | base \   | with \   |          |           |           |           |
@@ -209,8 +209,8 @@ Saturday
 |       | chains`_ |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+          |           +-----------+           |
-| 12:00 | Poster   | Lunch\   |          |           | PyKids UK |           |
-|       | Session  | time     |          |           |           |           |
+| 12:00 | Poster   | Lunch\   |          |           | `PyKids \ |           |
+|       | Session  | time     |          |           | UK`_      |           |
 +-------+          | Workshop +----------+-----------+-----------+-----------+
 | 12:30 |          |          | Lunch\   | Py4Sci    | PyKids UK | Open      |
 |       |          |          | time     | Lunch     | Lunch     | Space     |
@@ -222,17 +222,18 @@ Saturday
 |       |          |          |          |           | fruit     |           |
 |       |          |          |          |           | and       |           |
 |       |          |          |          |           | crisps)   |           |
-+-------+          +----------+----------+-----------+           |           |
-| 13:00 |          | Lunch\   | Lunch\   | `Getting \| PyKids UK |           |
-|       |          | time     | time     | started \ |           |           |
++-------+          +----------+----------+-----------+-----------+           |
+| 13:00 |          | Lunch\   | Lunch\   | `Getting \| `PyKids \ |           |
+|       |          | time     | time     | started \ | UK`_      |           |
 +-------+          | `Code    | Workshop | with \    +-----------+-----------+
-| 13:30 |          | Clinic`_ |          | testing \ | PyKids UK | Open      |
-|       |          |          |          | scient\   |           | Space     |
+| 13:30 |          | Clinic`_ |          | testing \ | `PyKids \ | Open      |
+|       |          |          |          | scient\   | UK`_      | Space     |
 |       |          |          |          | ific pro\ |           |           |
 |       |          |          |          | grams`_   |           |           |
 |       |          |          |          | part 1    |           |           |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 14:00 | Plenary                                    | PyKids UK |           |
+| 14:00 | Plenary                                    | `PyKids   |           |
+|       |                                            | UK`_      |           |
 +-------+--------------------------------------------+-----------+-----------+
 | 14:30 | Keynote 3                                  | Squash    | Open      |
 |       |                                            | and       | Space     |
@@ -242,8 +243,8 @@ Saturday
 |       |                                            | for       |           |
 |       |                                            | parents)  |           |
 +-------+                                            +-----------+           |
-| 15:00 |                                            | PyKids UK |           |
-+-------+--------------------------------------------+           |           |
+| 15:00 |                                            | `PyKids \ |           |
++-------+--------------------------------------------+ UK`_      |           |
 | 15:15 | Plenary                                    |           |           |
 +-------+--------------------------------------------+-----------+-----------+
 | 15:30 | `Lightning PyKids UK`                                              |
@@ -550,3 +551,5 @@ Monday
 .. _`code clinic`: /abstracts/#codeclinic
 .. _`DjangoGirls`: /djangogirls/
 .. _`Trans*Code`: /transcode/
+.. _`Teacher's CPD`: /education/#teachers
+.. _`PyKids UK`: /education/#kids
