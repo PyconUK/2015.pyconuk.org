@@ -38,11 +38,11 @@ Friday
 +-------+---------------------------------------------------+-------------+------------+-----------+
 | 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | `Teach\   |
 +-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | er's \    |
-| 11:30 | `Python's \| `Leader\   | `Learning \| `Intro \   |             |            | CPD`_     |
-|       | Infamous \ | ship \     | Python \   | to web \   |             |            |           |
-|       | GIL`_      | of \       | Club \     | scraping \ |             |            |           |
-|       |            | Technical \| Track \    | with \     |             |            |           |
-|       |            | Teams`_    | Intro`_    | scrapy`_   |             |            |           |
+| 11:30 | `Python's \| `Leader\   | Learning   | `Intro \   |             |            | CPD`_     |
+|       | Infamous \ | ship \     | Python     | to web \   |             |            |           |
+|       | GIL`_      | of \       | Club       | scraping \ |             |            |           |
+|       |            | Technical \| Track      | with \     |             |            |           |
+|       |            | Teams`_    | Intro      | scrapy`_   |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
@@ -509,7 +509,7 @@ Monday
 .. _`Template matching - howto`: /talks/image-recognition-via-template-matching
 .. _`Asking About Gender - the Whats, Whys and Hows`: /talks/asking-about-gender-the-whats-whys-and-hows/
 .. _`Python and PostgreSQL a Wonderful Wedding`: /talks/python-and-postgresql-a-wonderful-wedding/
-.. _`Fifty Shades of Disaster - Human Error and Complex Systems`: /talks/fifty-shades-of-disaster-human-error-and-complex-systems/
+.. _`Fifty Shades of Disaster - Human Error and Complex Systems`: /workshops/fifty-shades-of-disaster-human-error-and-complex-systems/
 .. _`Leadership of Technical Teams`: /talks/leadership-of-technical-teams/
 .. _`OOD Rules`: /talks/ood-rules/
 .. _`python powered nukes`: /talks/python-powered-nukes/
@@ -543,8 +543,7 @@ Monday
 .. _`Getting schemas around semi-structured data using Avro`: /talks/with-flexibility-comes-responsibilty-getting-schemas-around-semi-structured-data-using-avro-and-python/
 .. _`Event-Sourced Domain Models in Python`: /workshops/event-sourced-domain-models-in-python/
 .. _`Building Async Microservices`: /workshops/building-async-microservices/
-.. _`Scrapy Workshop`: /talks/scrapy-workshop/
-.. _`learning python club track intro`: /learning/
+.. _`Scrapy Workshop`: /workshops/scrapy-workshop/
 .. _`single board computer hackspace`: /abstracts/#singleboard
 .. _`python for science sprint`: /abstracts/#sciencesprint
 .. _`don't be afraid to commit`: /abstracts/#commitsprint
