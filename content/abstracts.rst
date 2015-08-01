@@ -496,8 +496,8 @@ Python for Science Sprint
 -------------------------
 
 Collaborative open science sprint where you can bring along a task to
-automate, or a piece of code you want to open source, and we will put
-you in groups to turn your existing scripts or workflow into an
-reproducible piece of open science!
+automate, or a piece of code you want to open source, and we will help
+you find others to form a small group to turn your existing scripts or
+workflow into an reproducible piece of open science!
 
 Read more here: http://www.pyconuk.org/science/
