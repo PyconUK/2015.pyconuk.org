@@ -38,13 +38,13 @@ Friday
 +-------+---------------------------------------------------+-------------+------------+-----------+
 | 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | `Teach\   |
 +-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | er's \    |
-| 11:30 | `Python's \| `Leader\   | Learning   | `Intro \   |             |            | CPD`_     |
-|       | Infamous \ | ship \     | Python     | to web \   |             |            |           |
-|       | GIL`_      | of \       | Club       | scraping \ |             |            |           |
-|       |            | Technical \| Track      | with \     |             |            |           |
-|       |            | Teams`_    | Intro      | scrapy`_   |             |            |           |
-|       |            |            |            |            |             |            |           |
-|       |            |            |            |            |             |            |           |
+| 11:30 | `Python's \| `Leader\   | Learning   | `Choosing  |             |            | CPD`_     |
+|       | Infamous \ | ship \     | Python     | a web      |             |            |           |
+|       | GIL`_      | of \       | Club       | framework  |             |            |           |
+|       |            | Technical \| Track      | for        |             |            |           |
+|       |            | Teams`_    | Intro      | Python 3   |             |            |           |
+|       |            |            |            | and        |             |            |           |
+|       |            |            |            | asyncio`_  |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
@@ -273,26 +273,26 @@ Saturday
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+          |           |           +-----------+
-| 17:00 | `Chrome\ | XTalk    |          |           |           | `PSF \    |
-|       | books \  |          |          |           |           | Recep\    |
-|       | in \     |          |          |           |           | tion`_    |
-|       | educat\  |          |          |           |           |           |
-|       | ion - \  |          |          |           |           |           |
-|       | the \    |          |          |           |           |           |
+| 17:00 | `Chrome\ | `Intro \ |          |           |           | `PSF \    |
+|       | books \  | to web \ |          |           |           | Recep\    |
+|       | in \     | scrap\   |          |           |           | tion`_    |
+|       | educat\  | ing \    |          |           |           |           |
+|       | ion - \  | with \   |          |           |           |           |
+|       | the \    | scrapy`_ |          |           |           |           |
 |       | next \   |          |          |           |           |           |
 |       | five \   |          |          |           |           |           |
 |       | years`_  |          |          |           |           |           |
 +-------+----------+----------+          |           |           |           |
-| 17:30 | `The \   | XTalk    |          |           |           |           |
-|       | Fabric \ |          |          |           |           |           |
-|       | that \   |          |          |           |           |           |
-|       | holds    |          |          |           |           |           |
-|       | the \    |          |          |           |           |           |
-|       | cloud    |          |          |           |           |           |
-|       | toge\    |          |          |           |           |           |
-|       | ther`_   |          |          |           |           |           |
-|       |          |          |          |           |           |           |
-|       |          |          |          |           |           |           |
+| 17:30 | `The \   | `Teach\  |          |           |           |           |
+|       | Fabric \ | ing \    |          |           |           |           |
+|       | that \   | youngst\ |          |           |           |           |
+|       | holds    | ers to \ |          |           |           |           |
+|       | the \    | code \   |          |           |           |           |
+|       | cloud    | with \   |          |           |           |           |
+|       | toge\    | pgzero \ |          |           |           |           |
+|       | ther`_   | on \     |          |           |           |           |
+|       |          | Raspber\ |          |           |           |           |
+|       |          | ry Pi`   |          |           |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
@@ -354,12 +354,12 @@ Sunday
 |       | conversa\  |            |            |            |            |
 |       | tions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:30 | `The \     | XTalk      |            | `Pythons \ | Open       |
-|       | Drogulus \ |            |            | and \      | Space      |
-|       | or How \   |            |            | Earth\     |            |
-|       | I Learned \|            |            | quakes`_   |            |
-|       | to Stop \  |            |            |            |            |
-|       | Worrying \ |            |            |            |            |
+| 11:30 | `The \     | `A deep    |            | `Pythons \ | Open       |
+|       | Drogulus \ | dive       |            | and \      | Space      |
+|       | or How \   | into       |            | Earth\     |            |
+|       | I Learned \| python     |            | quakes`_   |            |
+|       | to Stop \  | import     |            |            |            |
+|       | Worrying \ | hooks`_    |            |            |            |
 |       | and Love \ |            |            |            |            |
 |       | Decentral\ |            |            |            |            |
 |       | ization`_  |            |            |            |            |
