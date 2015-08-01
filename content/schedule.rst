@@ -36,15 +36,15 @@ Friday
 +-------+------------------------------------------------------------------------------------------+
 | 09:30 | Opening Plenary                                                                          |
 +-------+---------------------------------------------------+-------------+------------+-----------+
-| 10:30 | Keynote: Van Lindberg, PSF Chair                  | DjangoGirls | Trans*Code | Teacher's |
-+-------+------------+------------+------------+------------+             |            | CPD       |
-| 11:30 | `Python's \| `Leader\   | Learning   | `Intro \   |             |            |           |
-|       | Infamous \ | ship \     | Python     | to web \   |             |            |           |
-|       | GIL`_      | of \       | Club       | scraping \ |             |            |           |
-|       |            | Technical \| Track      | with \     |             |            |           |
-|       |            | Teams`_    | Intro      | scrapy`_   |             |            |           |
-|       |            |            |            |            |             |            |           |
-|       |            |            |            |            |             |            |           |
+| 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | `Teach\   |
++-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | er's \    |
+| 11:30 | `Python's \| `Leader\   | Learning   | `Choosing  |             |            | CPD`_     |
+|       | Infamous \ | ship \     | Python     | a web      |             |            |           |
+|       | GIL`_      | of \       | Club       | framework  |             |            |           |
+|       |            | Technical \| Track      | for        |             |            |           |
+|       |            | Teams`_    | Intro      | Python 3   |             |            |           |
+|       |            |            |            | and        |             |            |           |
+|       |            |            |            | asyncio`_  |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
@@ -52,14 +52,14 @@ Friday
 | 12:00 | Lunchtime  | `Single \  | Lunchtime  | Lunchtime  | DjangoGirls |            |           |
 |       | Workshop   | Board \    | Workshop   | Workshop   | Lunch       |            |           |
 +-------+            | Computer \ |            |            +-------------+------------+           |
-| 12:30 |            | Hack\      |            |            | DjangoGirls | Trans*Code |           |
-|       |            | Space`_    |            |            |             | Lunch      |           |
+| 12:30 |            | Hack\      |            |            | `Django\    | Trans*Code |           |
+|       |            | Space`_    |            |            | Girls`_     | Lunch      |           |
 +-------+------------+------------+------------+------------+             +------------+-----------+
-| 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | Trans*Code | Teacher's |
-|       | Code       | Workshop   | Workshop   | Workshop   |             |            | Lunch     |
-+-------+ Clinic     |            |            |            |             |            +-----------+
-| 13:30 |            |            |            |            |             |            | Teacher's |
-|       |            |            |            |            |             |            | CPD       |
+| 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | `Trans\    | Teacher's |
+|       | `Code      | Workshop   | Workshop   | Workshop   |             | *Code`_    | Lunch     |
++-------+ Clinic`_   |            |            |            |             |            +-----------+
+| 13:30 |            |            |            |            |             |            | `Teacher\ |
+|       |            |            |            |            |             |            | 's CPD`_  |
 +-------+------------+------------+------------+------------+             |            |           |
 | 14:00 | Keynote 2                                         |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
@@ -147,9 +147,9 @@ Saturday
 +-------+--------------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                    |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 09:30 | `Manag\  | `Temp\   | `Fifty \ | `Form\    | PyKids UK | Open      |
-|       | ing \    | late \   | Shades \ | ing  a \  | Opening   | Space     |
-|       | mocks - \| matchin\ | of \     | PyCon UK \|           | for       |
+| 09:30 | `Manag\  | `Temp\   | `Fifty \ | `Form\    | `PyKids   | Open      |
+|       | ing \    | late \   | Shades \ | ing  a \  | UK`_      | Space     |
+|       | mocks - \| matchin\ | of \     | PyCon UK \| Opening   | for       |
 |       | the \    | g - how\ | Disast\  | research \|           | BoFs      |
 |       | how \    | to`_     | er - Hu\ | commun\   |           | and       |
 |       | why \    |          | man \    | ity`_     |           | discuss\  |
@@ -170,9 +170,9 @@ Saturday
 |       | fast`_ \ | and \    |          | Numba`_   |           |           |
 |       |          | Hows`_   |          |           |           |           |
 +-------+----------+----------+          |           +-----------+-----------+
-| 10:30 | `Find\   | `Why I \ |          |           | PyKids UK | Open      |
-|       | ing \    | have an \|          |           | Discussion| Space     |
-|       | more \   | unhealt\ |          |           |           |           |
+| 10:30 | `Find\   | `Why I \ |          |           | `PyKids \ | Open      |
+|       | ing \    | have an \|          |           | UK`_      | Space     |
+|       | more \   | unhealt\ |          |           | Discussion|           |
 |       | bugs \   | hy \     |          |           |           |           |
 |       | with \   | love \   |          |           |           |           |
 |       | less \   | of test\ |          |           |           |           |
@@ -186,8 +186,8 @@ Saturday
 |       |          | writing \|          |           |           |           |
 |       |          | them`_   |          |           |           |           |
 +-------+----------+----------+          |           +-----------+-----------+
-| 11:00 | `Taming \| `Lang\   |          |           | PyKids UK | Open      |
-|       | a \      | uage \   |          |           |           | Space     |
+| 11:00 | `Taming \| `Lang\   |          |           | `PyKids \ | Open      |
+|       | a \      | uage \   |          |           | UK`_      | Space     |
 |       | Legacy \ | Compos\  |          |           |           |           |
 |       | Code\    | ition \  |          |           |           |           |
 |       | base \   | with \   |          |           |           |           |
@@ -209,8 +209,8 @@ Saturday
 |       | chains`_ |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+          |           +-----------+           |
-| 12:00 | Poster   | Lunch\   |          |           | PyKids UK |           |
-|       | Session  | time     |          |           |           |           |
+| 12:00 | Poster   | Lunch\   |          |           | `PyKids \ |           |
+|       | Session  | time     |          |           | UK`_      |           |
 +-------+          | Workshop +----------+-----------+-----------+-----------+
 | 12:30 |          |          | Lunch\   | Py4Sci    | PyKids UK | Open      |
 |       |          |          | time     | Lunch     | Lunch     | Space     |
@@ -222,17 +222,18 @@ Saturday
 |       |          |          |          |           | fruit     |           |
 |       |          |          |          |           | and       |           |
 |       |          |          |          |           | crisps)   |           |
-+-------+          +----------+----------+-----------+           |           |
-| 13:00 |          | Lunch\   | Lunch\   | `Getting \| PyKids UK |           |
-|       |          | time     | time     | started \ |           |           |
-+-------+          | Code     | Workshop | with \    +-----------+-----------+
-| 13:30 |          | Clinic   |          | testing \ | PyKids UK | Open      |
-|       |          |          |          | scient\   |           | Space     |
++-------+          +----------+----------+-----------+-----------+           |
+| 13:00 |          | Lunch\   | Lunch\   | `Getting \| `PyKids \ |           |
+|       |          | time     | time     | started \ | UK`_      |           |
++-------+          | `Code    | Workshop | with \    +-----------+-----------+
+| 13:30 |          | Clinic`_ |          | testing \ | `PyKids \ | Open      |
+|       |          |          |          | scient\   | UK`_      | Space     |
 |       |          |          |          | ific pro\ |           |           |
 |       |          |          |          | grams`_   |           |           |
 |       |          |          |          | part 1    |           |           |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 14:00 | Plenary                                    | PyKids UK |           |
+| 14:00 | Plenary                                    | `PyKids   |           |
+|       |                                            | UK`_      |           |
 +-------+--------------------------------------------+-----------+-----------+
 | 14:30 | Keynote 3                                  | Squash    | Open      |
 |       |                                            | and       | Space     |
@@ -242,8 +243,8 @@ Saturday
 |       |                                            | for       |           |
 |       |                                            | parents)  |           |
 +-------+                                            +-----------+           |
-| 15:00 |                                            | PyKids UK |           |
-+-------+--------------------------------------------+           |           |
+| 15:00 |                                            | `PyKids \ |           |
++-------+--------------------------------------------+ UK`_      |           |
 | 15:15 | Plenary                                    |           |           |
 +-------+--------------------------------------------+-----------+-----------+
 | 15:30 | `Lightning PyKids UK`                                              |
@@ -272,26 +273,26 @@ Saturday
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+          |           |           +-----------+
-| 17:00 | `Chrome\ | XTalk    |          |           |           | `PSF \    |
-|       | books \  |          |          |           |           | Recep\    |
-|       | in \     |          |          |           |           | tion`_    |
-|       | educat\  |          |          |           |           |           |
-|       | ion - \  |          |          |           |           |           |
-|       | the \    |          |          |           |           |           |
+| 17:00 | `Chrome\ | `Intro \ |          |           |           | `PSF \    |
+|       | books \  | to web \ |          |           |           | Recep\    |
+|       | in \     | scrap\   |          |           |           | tion`_    |
+|       | educat\  | ing \    |          |           |           |           |
+|       | ion - \  | with \   |          |           |           |           |
+|       | the \    | scrapy`_ |          |           |           |           |
 |       | next \   |          |          |           |           |           |
 |       | five \   |          |          |           |           |           |
 |       | years`_  |          |          |           |           |           |
 +-------+----------+----------+          |           |           |           |
-| 17:30 | `The \   | XTalk    |          |           |           |           |
-|       | Fabric \ |          |          |           |           |           |
-|       | that \   |          |          |           |           |           |
-|       | holds    |          |          |           |           |           |
-|       | the \    |          |          |           |           |           |
-|       | cloud    |          |          |           |           |           |
-|       | toge\    |          |          |           |           |           |
-|       | ther`_   |          |          |           |           |           |
-|       |          |          |          |           |           |           |
-|       |          |          |          |           |           |           |
+| 17:30 | `The \   | `Teach\  |          |           |           |           |
+|       | Fabric \ | ing \    |          |           |           |           |
+|       | that \   | youngst\ |          |           |           |           |
+|       | holds    | ers to \ |          |           |           |           |
+|       | the \    | code \   |          |           |           |           |
+|       | cloud    | with \   |          |           |           |           |
+|       | toge\    | pgzero \ |          |           |           |           |
+|       | ther`_   | on \     |          |           |           |           |
+|       |          | Raspber\ |          |           |           |           |
+|       |          | ry Pi`_  |          |           |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
@@ -353,12 +354,12 @@ Sunday
 |       | conversa\  |            |            |            |            |
 |       | tions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:30 | `The \     | XTalk      |            | `Pythons \ | Open       |
-|       | Drogulus \ |            |            | and \      | Space      |
-|       | or How \   |            |            | Earth\     |            |
-|       | I Learned \|            |            | quakes`_   |            |
-|       | to Stop \  |            |            |            |            |
-|       | Worrying \ |            |            |            |            |
+| 11:30 | `The \     | `A deep    |            | `Pythons \ | Open       |
+|       | Drogulus \ | dive       |            | and \      | Space      |
+|       | or How \   | into       |            | Earth\     |            |
+|       | I Learned \| python     |            | quakes`_   |            |
+|       | to Stop \  | import     |            |            |            |
+|       | Worrying \ | hooks`_    |            |            |            |
 |       | and Love \ |            |            |            |            |
 |       | Decentral\ |            |            |            |            |
 |       | ization`_  |            |            |            |            |
@@ -366,8 +367,8 @@ Sunday
 |       |            |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
 | 12:00 | `PyCon UK \| Lunchtime  |            | `Getting \ | Open       |
-|       | Jobs Fair`_| Code       |            | meaning \  | Space      |
-|       |            | Clinic     |            | from \     |            |
+|       | Jobs Fair`_| `Code      |            | meaning \  | Space      |
+|       |            | Clinic`_   |            | from \     |            |
 |       |            |            |            | scient\    |            |
 |       |            |            |            | ific \     |            |
 |       |            |            |            | articles`_ |            |
@@ -380,7 +381,7 @@ Sunday
 |       |            | Workshop   | Python`_   |            | Space      |
 |       |            |            |            |            |            |
 +-------+            |            |            +------------+------------+
-| 13:30 |            |            |            | `Demo:  \  | OpenD      |
+| 13:30 |            |            |            | `Demo:  \  | Open       |
 |       |            |            |            | Simple \   | Space      |
 |       |            |            |            | web \      |            |
 |       |            |            |            | services \ |            |
@@ -438,38 +439,19 @@ Monday
 +=======+=================+=================+=================+=================+=================+
 | 09:30 | Sprint Opening                                                                          |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 10:00 | Python for      |TBA              | TBA             | TBA             | TBA             |
-|       | Science Sprint  |                 |                 |                 |                 |
+| 10:00 | `Python \       | `Don't be \     | TBA             | TBA             | TBA             |
+|       | for \           | afraid to \     |                 |                 |                 |
+|       | Science \       | commit`_        |                 |                 |                 |
+|       | Sprint`_        |                 |                 |                 |                 |
 |       |                 |                 |                 |                 |                 |
-|       | Collaborative   |                 |                 |                 |                 |
-|       | open science    |                 |                 |                 |                 |
-|       | sprint where    |                 |                 |                 |                 |
-|       | you can bring   |                 |                 |                 |                 |
-|       | along a task to |                 |                 |                 |                 |
-|       | automate, or a  |                 |                 |                 |                 |
-|       | piece of code   |                 |                 |                 |                 |
-|       | you want to     |                 |                 |                 |                 |
-|       | open source,    |                 |                 |                 |                 |
-|       | and we will put |                 |                 |                 |                 |
-|       | you in groups   |                 |                 |                 |                 |
-|       | to turn your    |                 |                 |                 |                 |
-|       | existing        |                 |                 |                 |                 |
-|       | scripts or      |                 |                 |                 |                 |
-|       | workflow into   |                 |                 |                 |                 |
-|       | an reproducible |                 |                 |                 |                 |
-|       | piece of open   |                 |                 |                 |                 |
-|       | science! Watch  |                 |                 |                 |                 |
-|       | this space --   |                 |                 |                 |                 |
-|       | there may be    |                 |                 |                 |                 |
-|       | prizes :)       |                 |                 |                 |                 |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
 | 12:30 | Lunch                                                                                   |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 13:30 | Python for      |TBA              | TBA             | TBA             | TBA             |
-|       | Science Sprint  |                 |                 |                 |                 |
+| 13:30 | `Python         | `Don't be \     | TBA             | TBA             | TBA             |
+|       | for \           | afraid to \     |                 |                 |                 |
+|       | Science         | commit`_        |                 |                 |                 |
+|       | Sprint`_        |                 |                 |                 |                 |
 |       |                 |                 |                 |                 |                 |
-|       | (Continued      |                 |                 |                 |                 |
-|       | from above)     |                 |                 |                 |                 |
 |       |                 |                 |                 |                 |                 |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
 | 16:00 | Share results together                                                                  |
@@ -563,3 +545,10 @@ Monday
 .. _`Building Async Microservices`: /workshops/building-async-microservices/
 .. _`Scrapy Workshop`: /workshops/scrapy-workshop/
 .. _`single board computer hackspace`: /abstracts/#singleboard
+.. _`python for science sprint`: /abstracts/#sciencesprint
+.. _`don't be afraid to commit`: /abstracts/#commitsprint
+.. _`code clinic`: /abstracts/#codeclinic
+.. _`DjangoGirls`: /djangogirls/
+.. _`Trans*Code`: /transcode/
+.. _`Teacher's CPD`: /education/#teachers
+.. _`PyKids UK`: /education/#kids

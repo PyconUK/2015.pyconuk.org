@@ -446,6 +446,22 @@ other embedded or otherwise interesting hardware project.
 Code Clinic
 -----------
 
+The Code Clinic has been a very popular feature of PyCons. You bring
+your code, because:
+
+ * You're having a problem with it, or
+ * you're very proud of it 
+
+and everyone joins in admiring it or suggesting improvements.
+
+It's suitable for all Python programmers, whether new to Python or
+absolute gurus, and will give you lots of ideas for improving your own
+code.
+
+Also, it's really good if you're a relatively new Python programmer
+and need some help in understanding features of the language and
+concepts new to you.
+
 .. _dojo:
 
 Python Dojo
@@ -458,3 +474,30 @@ Monday is the Sprint day, we split into small groups and in each group
 a member of an Open Source Python project guides a small group in how
 to hack on the project. Improve your Python skills in a fun, practical
 and effective way.
+
+.. _commitsprint:
+
+Don't be afraid to commit
+-------------------------
+
+A workshop/tutorial for Python/Django developers who would like to
+contribute more to the projects they use, but need more grounding in
+some of the tools required.
+
+The workshop will take participants through the complete cycle of
+identifying a simple issue in a Django or Python project, writing a
+patch with documentation, and submitting it.
+
+Read more here: http://dont-be-afraid-to-commit.readthedocs.org
+
+.. _sciencesprint:
+
+Python for Science Sprint
+-------------------------
+
+Collaborative open science sprint where you can bring along a task to
+automate, or a piece of code you want to open source, and we will help
+you find others to form a small group to turn your existing scripts or
+workflow into an reproducible piece of open science!
+
+Read more here: http://www.pyconuk.org/science/
