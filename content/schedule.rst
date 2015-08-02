@@ -38,13 +38,13 @@ Friday
 +-------+---------------------------------------------------+-------------+------------+-----------+
 | 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | `Teach\   |
 +-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | er's \    |
-| 11:30 | `Python's \| `Leader\   | Learning   | `Choosing  |             |            | CPD`_     |
-|       | Infamous \ | ship \     | Python     | a web      |             |            |           |
-|       | GIL`_      | of \       | Club       | framework  |             |            |           |
-|       |            | Technical \| Track      | for        |             |            |           |
-|       |            | Teams`_    | Intro      | Python 3   |             |            |           |
-|       |            |            |            | and        |             |            |           |
-|       |            |            |            | asyncio`_  |             |            |           |
+| 11:30 | `Python's \| `A deep    | Learning   | `Real-T\   |             |            | CPD`_     |
+|       | Infamous \ | dive       | Python     | ime \      |             |            |           |
+|       | GIL`_      | into       | Club       | Data + Dj\ |             |            |           |
+|       |            | python     | Track      | ango = Fu\ |             |            |           |
+|       |            | import     | Intro      | n,\ Growt\ |             |            |           |
+|       |            | hooks`_    |            | h + Profi\ |             |            |           |
+|       |            |            |            | t`_        |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
@@ -63,20 +63,20 @@ Friday
 +-------+------------+------------+------------+------------+             |            |           |
 | 14:00 | Keynote 2                                         |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
-| 15:00 | `Analy\    | `Real-T\   | `Django \  | `Deploy \  |             |            |           |
-|       | zing \     | ime \      | Security \ | flask \    |             |            |           |
-|       | Python \   | Data + Dj\ | Workshop`_ | applicat\  |             |            |           |
-|       | with \     | ango = Fu\ |            | ion \      |             |            |           |
-|       | Pylint`_   | n,\ Growt\ |            | single \   |             |            |           |
-|       |            | h + Profi\ |            | step`_     |             |            |           |
-|       |            | t`_        |            |            |             |            |           |
+| 15:00 | `Analy\    | `Choosing  | `Django \  | `Deploy \  |             |            |           |
+|       | zing \     | a web      | Security \ | flask \    |             |            |           |
+|       | Python \   | framework  | Workshop`_ | applicat\  |             |            |           |
+|       | with \     | for        |            | ion \      |             |            |           |
+|       | Pylint`_   | Python 3   |            | single \   |             |            |           |
+|       |            | and        |            | step`_     |             |            |           |
+|       |            | asyncio`_  |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+            +------------+             |            |           |
-| 15:30 | `Under\    | `Managing \|            | `Gabbi - \ |             |            |           |
-|       | standing \ | too \      |            | Declarati\ |             |            |           |
-|       | PyPy`_     | many \     |            | ve HTTP \  |             |            |           |
-|       |            | Django \   |            | Testing`_  |             |            |           |
-|       |            | projects`_ |            |            |             |            |           |
+| 15:30 | `Under\    | `Leader\   |            | `Gabbi - \ |             |            |           |
+|       | standing \ | ship \     |            | Declarati\ |             |            |           |
+|       | PyPy`_     | of \       |            | ve HTTP \  |             |            |           |
+|       |            | Technical \|            | Testing`_  |             |            |           |
+|       |            | Teams`_    |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+            +------------+             |            |           |
@@ -354,12 +354,12 @@ Sunday
 |       | conversa\  |            |            |            |            |
 |       | tions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:30 | `The \     | `A deep    |            | `Pythons \ | Open       |
-|       | Drogulus \ | dive       |            | and \      | Space      |
-|       | or How \   | into       |            | Earth\     |            |
-|       | I Learned \| python     |            | quakes`_   |            |
-|       | to Stop \  | import     |            |            |            |
-|       | Worrying \ | hooks`_    |            |            |            |
+| 11:30 | `The \     | `Managing \|            | `Pythons \ | Open       |
+|       | Drogulus \ | too \      |            | and \      | Space      |
+|       | or How \   | many \     |            | Earth\     |            |
+|       | I Learned \| Django \   |            | quakes`_   |            |
+|       | to Stop \  | projects`_ |            |            |            |
+|       | Worrying \ |            |            |            |            |
 |       | and Love \ |            |            |            |            |
 |       | Decentral\ |            |            |            |            |
 |       | ization`_  |            |            |            |            |
