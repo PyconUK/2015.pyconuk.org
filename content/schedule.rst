@@ -10,17 +10,6 @@ Schedule
 The dynamic conference for the leading dynamic language
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The schedule below is provisional. The skeleton will become
-increasingly fleshed out during the run up to the conference. However,
-during the conference, only minor changes will be made (e.g.
-replacement of cancelled talks, naming of BOFs, etc).
-
-Overflows for the PythonAnywhere room are CC1.1, CC1.2 and on Sunday
-afternoon the Osper Room (CC1.4) will also be an overflow.
-
-Note: Workshops can fill up quickly so get to the room early to avoid
-disappointment.
-
 Friday
 ------
 
@@ -332,9 +321,9 @@ Sunday
 |       |            |            |            | Axelrod \  |            |
 |       |            |            |            | Library`_  |            |
 +-------+------------+------------+            +------------+------------+
-| 10:00 | `Simpli\   | `Analyse \ |            | `Ship \    | Open       |
-|       | city \     | Your\      |            | Data \     | Space      |
-|       | Is A \     | selves`_   |            | Science \  |            |
+| 10:00 | `Simpli\   | `Python \  |            | `Ship \    | Open       |
+|       | city \     | powered \  |            | Data \     | Space      |
+|       | Is A \     | Nukes`_    |            | Science \  |            |
 |       | Feature`_  |            |            | Products!`_|            |
 +-------+------------+------------+            +------------+------------+
 | 10:30 | `Here be \ | `Testing \ |            | `iCE: \    | Open       |
@@ -401,9 +390,9 @@ Sunday
 |       | and \      | Avro`_     |            | publicat\  |            |
 |       | Snakes`_   |            |            | ions`_     |            |
 +-------+------------+------------+            |            |            |
-| 14:30 | `Data \    | `Python \  |            |            |            |
-|       | Visual\    | powered \  |            |            |            |
-|       | isation \  | Nukes`_    |            |            |            |
+| 14:30 | `Data \    | `Analyse \ |            |            |            |
+|       | Visual\    | Your\      |            |            |            |
+|       | isation \  | selves`_   |            |            |            |
 |       | with \     |            |            |            |            |
 |       | Python \   |            |            |            |            |
 |       | and \      |            |            |            |            |
@@ -459,6 +448,25 @@ Monday
 | 17:00 | End of Conference, pack up, see you in 2016!                                            |
 +-------+-----------------------------------------------------------------------------------------+
 
+Notes
+-----
+
+* Overflows for the PythonAnywhere room are CC1.1, CC1.2 and on Sunday
+  afternoon the Osper Room (CC1.4) will also be an overflow.
+
+* Workshops can fill up quickly so get to the room early to avoid
+  disappointment.
+
+* In the case of speaker illness or similar, minor replacements may
+  happen without notice.
+  
+* The Call for Lunchtime Events will open soon; these should be
+  informal events that can handle people dropping in and out of. This
+  year delegates will have an assigned 30 min lunch slot so it is
+  encouraged to do generally applicable lunchtime events twice
+  i.e. 12pm on one day, 1pm on another (for example, see the code
+  clinic above) or across a whole two hour slot (for example, see the
+  poster session and job fair above).
 
 
 .. _`The Lightning Talk Show`: /abstracts/#lightningtalks
