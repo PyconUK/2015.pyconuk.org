@@ -332,9 +332,9 @@ Sunday
 |       |            |            |            | Axelrod \  |            |
 |       |            |            |            | Library`_  |            |
 +-------+------------+------------+            +------------+------------+
-| 10:00 | `Simpli\   | `Analyse \ |            | `Ship \    | Open       |
-|       | city \     | Your\      |            | Data \     | Space      |
-|       | Is A \     | selves`_   |            | Science \  |            |
+| 10:00 | `Simpli\   | `Python \  |            | `Ship \    | Open       |
+|       | city \     | powered \  |            | Data \     | Space      |
+|       | Is A \     | Nukes`_    |            | Science \  |            |
 |       | Feature`_  |            |            | Products!`_|            |
 +-------+------------+------------+            +------------+------------+
 | 10:30 | `Here be \ | `Testing \ |            | `iCE: \    | Open       |
@@ -401,9 +401,9 @@ Sunday
 |       | and \      | Avro`_     |            | publicat\  |            |
 |       | Snakes`_   |            |            | ions`_     |            |
 +-------+------------+------------+            |            |            |
-| 14:30 | `Data \    | `Python \  |            |            |            |
-|       | Visual\    | powered \  |            |            |            |
-|       | isation \  | Nukes`_    |            |            |            |
+| 14:30 | `Data \    | `Analyse \ |            |            |            |
+|       | Visual\    | Your\      |            |            |            |
+|       | isation \  | selves`_   |            |            |            |
 |       | with \     |            |            |            |            |
 |       | Python \   |            |            |            |            |
 |       | and \      |            |            |            |            |
