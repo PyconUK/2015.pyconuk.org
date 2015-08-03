@@ -457,13 +457,17 @@ Notes
 * Workshops can fill up quickly so get to the room early to avoid
   disappointment.
 
-* The Call for Lunchtime Events will soon open, these should be
-  informal events that can handle people dropping in and out of. This
-  year delegates will have an assigned lunch slot so a repeat of
-  lunchtime events is encouraged (i.e. 12pm on one day, 1pm on another).
-
 * In the case of speaker illness or similar, minor replacements may
   happen without notice.
+  
+* The Call for Lunchtime Events will open soon; these should be
+  informal events that can handle people dropping in and out of. This
+  year delegates will have an assigned 30 min lunch slot so it is
+  encouraged to do generally applicable lunchtime events twice
+  i.e. 12pm on one day, 1pm on another (for example, see the code
+  clinic above) or across a whole two hour slot (for example, see the
+  poster session and job fair above).
+
 
 .. _`The Lightning Talk Show`: /abstracts/#lightningtalks
 .. _`The Mellow Night`: /abstracts/#mellow
