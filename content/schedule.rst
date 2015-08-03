@@ -475,17 +475,17 @@ Notes
 .. _`psf reception`: /abstracts/#psf
 .. _`The Non-Closing Closing`: /abstracts/#nonclosing
 .. _`Lightning PyKids UK`: /abstracts/#lightningkids
-.. _`forming a pycon uk research community`: /abstracts/#form
-.. _`accelerating scientific code with numba`: /abstracts/#numba
-.. _`getting started with testing scientific programs`: /abstracts/#testing
-.. _`tit for tat, evolution, game theory and the python axelrod library`: /abstracts/#titfortat
-.. _`ship data science products!`: /abstracts/#ship
-.. _`ice: interactive cloud experimentation`: /abstracts/#ice
-.. _`Power: Python in Astronomy`: /abstracts/#power
-.. _`Pythons and Earthquakes`: /abstracts/#earthquakes
-.. _`Getting meaning from scientific articles`: /abstracts/#meaning
-.. _`Demo: Simple web services for scientific data`: /abstracts/#demo
-.. _`Discussion: From data to dissemination - dealing with publications`: /abstracts/#pubs
+.. _`forming a pycon uk research community`: /talks/forming-a-research-community/
+.. _`accelerating scientific code with numba`: /workshops/accelerating-scientific-code-with-numba/
+.. _`getting started with testing scientific programs`: /workshops/getting-started-with-testing-scientific-programs/
+.. _`tit for tat, evolution, game theory and the python axelrod library`: /talks/tit-for-tat-evolution-game-theory-and-the-python-axelrod-library/
+.. _`ship data science products!`: /talks/ship-data-science-products/
+.. _`ice: interactive cloud experimentation`: /talks/ice-interactive-cloud-experimentation/
+.. _`Power: Python in Astronomy`: /talks/power-python-in-astronomy/
+.. _`Pythons and Earthquakes`: /talks/pythons-and-earthquakes/
+.. _`Getting meaning from scientific articles`: /talks/getting-meaning-from-scientific-articles/
+.. _`Demo: Simple web services for scientific data`: /demos/simple-web-services-for-scientific-data/
+.. _`Discussion: From data to dissemination - dealing with publications`: /panels/dealing-with-publications/
 .. _`Python's Infamous GIL`: /talks/pythons-infamous-gil/
 .. _`Analyzing Python with Pylint`: /talks/analyzing-python-with-pylint/
 .. _`managing mocks - the how why and when of mocking in python`: /talks/managing-mocks-the-how-why-and-when-of-mocking-in-python/
@@ -548,7 +548,7 @@ Notes
 .. _`Building Async Microservices`: /workshops/building-async-microservices/
 .. _`Scrapy Workshop`: /workshops/scrapy-workshop/
 .. _`single board computer hackspace`: /abstracts/#singleboard
-.. _`python for science sprint`: /abstracts/#sciencesprint
+.. _`python for science sprint`: /sprints/open-science-sprint/
 .. _`don't be afraid to commit`: /abstracts/#commitsprint
 .. _`code clinic`: /abstracts/#codeclinic
 .. _`DjangoGirls`: /djangogirls/

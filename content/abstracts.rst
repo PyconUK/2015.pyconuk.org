@@ -141,16 +141,6 @@ Python for science is open to all delegates but particularly aimed at
 scientists of all kinds, data scientists, researchers and professional
 software engineers on Python in the science field.
 
-.. _form:
-
-Forming a PyCon UK research community
--------------------------------------
-
-*Sarah Mount, University of Wolverhampton*
-
-Sarah opens the Science Track by introducing the workshops, talks and
-sprint and discusses the formation of a research community.
-
 .. _numba:
 
 Accelerating Scientific Code with Numba
@@ -399,20 +389,6 @@ for nuclear fusion data from the JET experiment, including a plot server and a
 data browsing tool. This will be followed by a mini-tutorial to help you get
 started with harnessing the power of HTTP web services.
 
-.. _pubs:
-
-Discussion: From data to dissemination: dealing with publications
------------------------------------------------------------------
-
-A major theme for anyone in working research is how best to publish and
-disseminate their work. These days a wide range of tools are available to help,
-at every stage of the writing process - from great Python libraries for
-charting, to online bibliography tool and LaTeX packages to beautify your
-papers. This panel discussion will cover all aspects of dissemination work,
-and how Python can ease your publication pain.
-
-Panel members will be announced nearer the time of the conference.
-
 Lunchtime events
 ~~~~~~~~~~~~~~~~
 
@@ -490,14 +466,4 @@ patch with documentation, and submitting it.
 
 Read more here: http://dont-be-afraid-to-commit.readthedocs.org
 
-.. _sciencesprint:
 
-Python for Science Sprint
--------------------------
-
-Collaborative open science sprint where you can bring along a task to
-automate, or a piece of code you want to open source, and we will help
-you find others to form a small group to turn your existing scripts or
-workflow into an reproducible piece of open science!
-
-Read more here: http://www.pyconuk.org/science/
