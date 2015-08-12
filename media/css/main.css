@@ -781,7 +781,7 @@ hr {
   position: absolute;
   display: block;
   float: left;
-  width: 100px;
+  width: 20%;
   margin: 0;
   color: white;
   padding: 30px;
@@ -822,14 +822,14 @@ hr {
   list-style: none;
   clear: both;
 }
+
 .sponsors li {
   display: block;
   float: left;
   margin-left: 5%;
   width: 25%;
 }
-.sponsors li a {
-}
+
 .sponsors span {
   text-align: center;
   display: block;
@@ -840,4 +840,24 @@ hr {
   display: block;
   width: 100%;
   height: auto;
+}
+
+@media all and (max-width: 540px) {
+  .sponsors .gold,
+  .sponsors .silver,
+  .sponsors .bronze {
+    position: relative;
+    margin: 0 auto;
+    float: none;
+    width: 190px;
+  }
+  .sponsors ul {
+    margin-left: 0;
+    width: 100%;
+    padding: 0;
+    clear: both;
+  }
+  .sponsors li {
+    width: 42%;
+  }
 }
