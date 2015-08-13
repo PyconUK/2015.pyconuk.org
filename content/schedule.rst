@@ -306,111 +306,109 @@ Sunday 20th September 2015
 |       |            |            |            | Institute  |            |
 |       |            |            |            | Room       |            |
 +=======+============+============+============+============+============+
-| 08:00 | Registration / Breakfast                                       |
-+-------+------------+------------+------------+------------+------------+
+| 08:00 | Breakfast                                                      |
++-------+----------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                |
++-------+------------+---------------------------------------------------+
+| 09:15 | Keynote 4  |                                                   |
++-------+------------+                                                   |
+| 09:30 | `FIDO - \  | Keynote 4                                         |
+|       | The dog \  |                                                   |
+|       | ate \      |                                                   |
+|       | my \       |                                                   |
+|       | password`_ |                                                   |
 +-------+------------+------------+------------+------------+------------+
-| 09:30 | `FIDO - \  |            | `Building \| `Tit for \ | Open       |
-|       | The dog \  |            | Async \    | Tat, \     | Space      |
-|       | ate \      |            | Micro\     | Evolut\    |            |
-|       | my \       |            | Services`_ | ion, \     |            |
-|       | password`_ |            |            | Game \     |            |
-|       |            |            |            | Theory \   |            |
+| 10:00 | `Simpli\   | `Python \  | `Building \| `Tit for \ | Open       |
+|       | city \     | and \      | Async \    | Tat, \     | Space      |
+|       | Is A \     | Postgre\   | Micro\     | Evolut\    |            |
+|       | Feature`_  | SQL a \    | Services`_ | ion, \     |            |
+|       |            | Wonderful \|            | Game \     |            |
+|       |            | Wedding`_  |            | Theory \   |            |
 |       |            |            |            | and the \  |            |
 |       |            |            |            | Python \   |            |
 |       |            |            |            | Axelrod \  |            |
 |       |            |            |            | Library`_  |            |
-+-------+------------+------------+            +------------+------------+
-| 10:00 | `Simpli\   | `Python \  |            | `Ship \    | Open       |
-|       | city \     | and \      |            | Data \     | Space      |
-|       | Is A \     | Postgre\   |            | Science \  |            |
-|       | Feature`_  | SQL a \    |            | Products!`_|            |
-|       |            | Wonderful \|            |            |            |
-|       |            | Wedding`_  |            |            |            |
+|       |            |            |            |            |            |
 |       |            |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 10:30 | `Here be \ | `Python \  |            | `iCE: \    | Open       |
-|       | Dragons - \| powered \  |            | Inter\     | Space      |
-|       | Writing \  | Nukes`_    |            | active \   |            |
-|       | Safe C \   |            |            | cloud \    |            |
-|       | Exten\     |            |            | experimen\ |            |
-|       | sions`_    |            |            | tation`_   |            |
+| 10:30 | `Here be \ | `Python \  |            | `Ship \    | Open       |
+|       | Dragons - \| powered \  |            | Data \     | Space      |
+|       | Writing \  | Nukes`_    |            | Science \  |            |
+|       | Safe C \   |            |            | Products!`_|            |
+|       | Exten\     |            |            |            |            |
+|       | sions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:00 | `How \     | `Testing \ |            | `Power: \  | Open       |
-|       | (not) to \ | applica\   |            | Python in \| Space      |
-|       | argue - \  | tions \    |            | Astronomy`_|            |
-|       | a recipe \ | for \      |            |            |            |
-|       | for more \ | django \   |            |            |            |
-|       | product\   | CMS`_      |            |            |            |
+| 11:00 | `How \     | `Testing \ |            | `iCE: \    | Open       |
+|       | (not) to \ | applica\   |            | Inter\     | Space      |
+|       | argue - \  | tions \    |            | active \   |            |
+|       | a recipe \ | for \      |            | cloud \    |            |
+|       | for more \ | django \   |            | experimen\ |            |
+|       | product\   | CMS`_      |            | tation`_   |            |
 |       | ive tech \ |            |            |            |            |
 |       | conversa\  |            |            |            |            |
 |       | tions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:30 | `The \     | `Python \  |            | `Pythons \ | Open       |
-|       | Drogulus \ | 3000 \     |            | and \      | Space      |
-|       | or How \   | coming \   |            | Earth\     |            |
-|       | I Learned \| late \     |            | quakes`_   |            |
+| 11:30 | `The \     | `Python \  |            | `Power: \  | Open       |
+|       | Drogulus \ | 3000 \     |            | Python in \| Space      |
+|       | or How \   | coming \   |            | Astronomy`_|            |
+|       | I Learned \| late \     |            |            |            |
 |       | to Stop \  | 2008`_     |            |            |            |
 |       | Worrying \ |            |            |            |            |
 |       | and Love \ |            |            |            |            |
 |       | Decentral\ |            |            |            |            |
 |       | ization`_  |            |            |            |            |
-|       |            |            |            |            |            |
-|       |            |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 12:00 | `PyCon UK \| Lunchtime  |            | `Getting \ | Open       |
-|       | Jobs Fair`_| `Code      |            | meaning \  | Space      |
-|       |            | Clinic`_   |            | from \     |            |
-|       |            |            |            | scient\    |            |
-|       |            |            |            | ific \     |            |
-|       |            |            |            | articles`_ |            |
-+-------+            |            +------------+------------+------------+
-| 12:30 |            |            | `Event-\   | Lunch      | Open       |
-|       |            |            | Sourced    |            | Space      |
-|       |            |            | Domain \   |            |            |
-+-------+            +------------+ Models \   |            +------------+
-| 13:00 |            | Lunchtime  | in \       |            | Open       |
-|       |            | Workshop   | Python`_   |            | Space      |
+| 12:00 | `PyCon UK \| Lunchtime  |            | `Pythons \ | Open       |
+|       | Jobs Fair`_| `Code      |            | and \      | Space      |
+|       |            | Clinic`_   |            | Earth\     |            |
+|       |            |            |            | quakes`_   |            |
+|       |            |            |            |            |            |
 |       |            |            |            |            |            |
 +-------+            |            |            +------------+------------+
-| 13:30 |            |            |            | `Demo:  \  | Open       |
-|       |            |            |            | Simple \   | Space      |
-|       |            |            |            | web \      |            |
-|       |            |            |            | services \ |            |
-|       |            |            |            | for \      |            |
-|       |            |            |            | scient\    |            |
-|       |            |            |            | ific \     |            |
-|       |            |            |            | data`_     |            |
+| 12:30 |            |            |            | Lunch      | Open       |
+|       |            |            |            |            | Space      |
+|       |            |            |            |            |            |
++-------+            +------------+            |            +------------+
+| 13:00 |            | Lunchtime  |            |            | Open       |
+|       |            | Workshop   |            |            | Space      |
+|       |            |            |            |            |            |
++-------+            |            +------------+------------+------------+
+| 13:30 |            |            | `Event-\   | `Getting \ | Open       |
+|       |            |            | Sourced    | meaning \  | Space      |
+|       |            |            | Domain \   | from \     |            |
+|       |            |            | Models \   | scient\    |            |
+|       |            |            | in \       | ific \     |            |
+|       |            |            | Python`_   | articles`_ |            |
 +-------+------------+------------+            +------------+------------+
-| 14:00 | `Python \  | `Getting \ |            | `Discuss\  | Open       |
-|       | and \      | schemas \  |            | ion: \     | Space      |
-|       | the \      | around \   |            | From dat\  |            |
-|       | termi\     | semi-\     |            | a to diss\ |            |
-|       | nal - \    | struct\    |            | eminatio\  |            |
-|       | Input, \   | ured \     |            | n - \      |            |
-|       | Output, \  | data \     |            | dealing \  |            |
-|       | Pipes \    | using \    |            | with \     |            |
-|       | and \      | Avro`_     |            | publicat\  |            |
-|       | Snakes`_   |            |            | ions`_     |            |
-+-------+------------+------------+            |            |            |
-| 14:30 | `Data \    | `Analyse \ |            |            |            |
-|       | Visual\    | Your\      |            |            |            |
-|       | isation \  | selves`_   |            |            |            |
-|       | with \     |            |            |            |            |
-|       | Python \   |            |            |            |            |
-|       | and \      |            |            |            |            |
-|       | Java\      |            |            |            |            |
-|       | script - \ |            |            |            |            |
-|       | crafting \ |            |            |            |            |
-|       | a data-\   |            |            |            |            |
+| 14:00 | `Python \  | `Getting \ |            | `Demo:  \  | Open       |
+|       | and \      | schemas \  |            | Simple \   | Space      |
+|       | the \      | around \   |            | web \      |            |
+|       | termi\     | semi-\     |            | services \ |            |
+|       | nal - \    | struct\    |            | for \      |            |
+|       | Input, \   | ured \     |            | scient\    |            |
+|       | Output, \  | data \     |            | ific \     |            |
+|       | Pipes \    | using \    |            | data`_     |            |
+|       | and \      | Avro`_     |            |            |            |
+|       | Snakes`_   |            |            |            |            |
++-------+------------+------------+            +------------+            |
+| 14:30 | `Data \    | `Analyse \ |            | `Discuss\  |            |
+|       | Visual\    | Your\      |            | ion: \     |            |
+|       | isation \  | selves`_   |            | From dat\  |            |
+|       | with \     |            |            | a to diss\ |            |
+|       | Python \   |            |            | eminatio\  |            |
+|       | and \      |            |            | n - \      |            |
+|       | Java\      |            |            | dealing \  |            |
+|       | script - \ |            |            | with \     |            |
+|       | crafting \ |            |            | publicat\  |            |
+|       | a data-\   |            |            | ions`_     |            |
 |       | visual\    |            |            |            |            |
 |       | isation \  |            |            |            |            |
 |       | for the \  |            |            |            |            |
 |       | web`_      |            |            |            |            |
 |       |            |            |            |            |            |
-+-------+------------+------------+------------+------------+------------+
-| 15:00 | Plenary                                                        |
-+-------+----------------------------------------------------------------+
++-------+------------+------------+------------+            +------------+
+| 15:00 | Plenary                              |            |            |
++-------+--------------------------------------+------------+------------+
 | 15:15 | `The PyCon UK Panel`_                                          |
 +-------+----------------------------------------------------------------+
 | 16:00 | `The Lightning Talk Show`_                                     |
