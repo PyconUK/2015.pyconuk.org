@@ -343,11 +343,11 @@ Sunday 20th September 2015
 |       | conversa\  |            |            |            |            |
 |       | tions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:30 | `The \     | `Managing \|            | `Pythons \ | Open       |
-|       | Drogulus \ | too \      |            | and \      | Space      |
-|       | or How \   | many \     |            | Earth\     |            |
-|       | I Learned \| Django \   |            | quakes`_   |            |
-|       | to Stop \  | projects`_ |            |            |            |
+| 11:30 | `The \     |            |            | `Pythons \ | Open       |
+|       | Drogulus \ |            |            | and \      | Space      |
+|       | or How \   |            |            | Earth\     |            |
+|       | I Learned \|            |            | quakes`_   |            |
+|       | to Stop \  |            |            |            |            |
 |       | Worrying \ |            |            |            |            |
 |       | and Love \ |            |            |            |            |
 |       | Decentral\ |            |            |            |            |
@@ -516,7 +516,6 @@ Notes
 .. _`Leadership of Technical Teams`: /talks/leadership-of-technical-teams/
 .. _`OOD Rules`: /talks/ood-rules/
 .. _`python powered nukes`: /talks/python-powered-nukes/
-.. _`Managing too many Django projects`: /talks/managing-too-many-django-projects/
 .. _`Chromebooks in education - the next five years`: /talks/chromebooks-in-education-the-next-five-years/
 .. _`json and the daughters of pelias`: /talks/json-and-the-daughters-of-pelias/
 .. _`the drogulus or how i learned to stop worrying and love decentralization`: /talks/the-drogulus-or-how-i-learned-to-stop-worrying-and-love-decentralization/
