@@ -311,13 +311,8 @@ Sunday 20th September 2015
 +-------+----------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                |
 +-------+------------+---------------------------------------------------+
-| 09:15 | Keynote    | Keynote: Naomi Ceder                              |
-+-------+------------+ Confessions of a True Impostor (A Survival Guide) |
-| 09:30 | `FIDO - \  |                                                   |
-|       | The dog \  |                                                   |
-|       | ate \      |                                                   |
-|       | my \       |                                                   |
-|       | password`_ |                                                   |
+| 09:15 | Keynote: Naomi Ceder -                                         |
+|       | Confessions of a True Impostor (A Survival Guide)              |
 +-------+------------+------------+------------+------------+------------+
 | 10:00 | `Simpli\   | `Python \  | `Building \| `Tit for \ | Open       |
 |       | city \     | and \      | Async \    | Tat, \     | Space      |
@@ -349,15 +344,11 @@ Sunday 20th September 2015
 |       | conversa\  |            |            |            |            |
 |       | tions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:30 | `The \     | `Python \  |            | `Power: \  | Open       |
-|       | Drogulus \ | 3000 \     |            | Python in \| Space      |
-|       | or How \   | coming \   |            | Astronomy`_|            |
-|       | I Learned \| late \     |            |            |            |
-|       | to Stop \  | 2008`_     |            |            |            |
-|       | Worrying \ |            |            |            |            |
-|       | and Love \ |            |            |            |            |
-|       | Decentral\ |            |            |            |            |
-|       | ization`_  |            |            |            |            |
+| 11:30 | `FIDO - \  | `Python \  |            | `Power: \  | Open       |
+|       | The dog \  | 3000 \     |            | Python in \| Space      |
+|       | ate \      | coming \   |            | Astronomy`_|            |
+|       | my \       | late \     |            |            |            |
+|       | password`_ | 2008`_     |            |            |            |
 +-------+------------+------------+            +------------+------------+
 | 12:00 | `PyCon UK \| Lunchtime  |            | `Pythons \ | Open       |
 |       | Jobs Fair`_| `Code      |            | and \      | Space      |
@@ -380,6 +371,16 @@ Sunday 20th September 2015
 |       |            |            | Models \   | scient\    |            |
 |       |            |            | in \       | ific \     |            |
 |       |            |            | Python`_   | articles`_ |            |
++-------+------------+            |            |            |            |
+|       | `The \     |            |            |            |            |
+|       | Drogulus \ |            |            |            |            |
+|       | or How \   |            |            |            |            |
+|       | I Learned \|            |            |            |            |
+|       | to Stop \  |            |            |            |            |
+|       | Worrying \ |            |            |            |            |
+|       | and Love \ |            |            |            |            |
+|       | Decentral\ |            |            |            |            |
+|       | ization`_  |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
 | 14:00 | `Python \  | `Getting \ |            | `Demo:  \  | Open       |
 |       | and \      | schemas \  |            | Simple \   | Space      |
