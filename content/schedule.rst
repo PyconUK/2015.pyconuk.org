@@ -324,8 +324,6 @@ Sunday 20th September 2015
 |       |            |            |            | Python \   |            |
 |       |            |            |            | Axelrod \  |            |
 |       |            |            |            | Library`_  |            |
-|       |            |            |            |            |            |
-|       |            |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
 | 10:30 | `Here be \ | `Python \  |            | `Ship \    | Open       |
 |       | Dragons - \| powered \  |            | Data \     | Space      |
