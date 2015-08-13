@@ -354,21 +354,21 @@ Sunday 20th September 2015
 |       |            |            |            | quakes`_   |            |
 |       |            |            |            |            |            |
 |       |            |            |            |            |            |
-+-------+            |            |            +------------+------------+
-| 12:30 |            |            |            | Lunch      | Open       |
-|       |            |            |            |            | Space      |
-|       |            |            |            |            |            |
-+-------+            +------------+            |            +------------+
-| 13:00 |            | Lunchtime  |            |            | Open       |
-|       |            | Workshop   |            |            | Space      |
-|       |            |            |            |            |            |
 +-------+            |            +------------+------------+------------+
-| 13:30 |            |            | `Event-\   | `Getting \ | Open       |
-|       |            |            | Sourced    | meaning \  | Space      |
-|       |            |            | Domain \   | from \     |            |
-|       |            |            | Models \   | scient\    |            |
-|       |            |            | in \       | ific \     |            |
-|       |            |            | Python`_   | articles`_ |            |
+| 12:30 |            |            | `Event-\   | Lunch      | Open       |
+|       |            |            | Sourced    |            | Space      |
+|       |            |            | Domain \   |            |            |
++-------+            +------------+ Models \   |            +------------+
+| 13:00 |            | Lunchtime  | in \       |            | Open       |
+|       |            | Workshop   | Python`_   |            | Space      |
+|       |            |            |            |            |            |
++-------+            |            +            +------------+------------+
+| 13:30 |            |            |            | `Getting \ | Open       |
+|       |            |            |            | meaning \  | Space      |
+|       |            |            |            | from \     |            |
+|       |            |            |            | scient\    |            |
+|       |            |            |            | ific \     |            |
+|       |            |            |            | articles`_ |            |
 +-------+------------+            |            |            |            |
 |       | `The \     |            |            |            |            |
 |       | Drogulus \ |            |            |            |            |
