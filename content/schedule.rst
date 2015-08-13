@@ -310,44 +310,47 @@ Sunday 20th September 2015
 +-------+------------+------------+------------+------------+------------+
 | 09:00 | Opening Plenary                                                |
 +-------+------------+------------+------------+------------+------------+
-| 09:30 | `FIDO - \  | `Python \  | `Building \| `Tit for \ | Open       |
-|       | The dog \  | and \      | Async \    | Tat, \     | Space      |
-|       | ate \      | Postgre\   | Micro\     | Evolut\    |            |
-|       | my \       | SQL a \    | Services`_ | ion, \     |            |
-|       | password`_ | Wonderful \|            | Game \     |            |
-|       |            | Wedding`_  |            | Theory \   |            |
+| 09:30 | `FIDO - \  |            | `Building \| `Tit for \ | Open       |
+|       | The dog \  |            | Async \    | Tat, \     | Space      |
+|       | ate \      |            | Micro\     | Evolut\    |            |
+|       | my \       |            | Services`_ | ion, \     |            |
+|       | password`_ |            |            | Game \     |            |
+|       |            |            |            | Theory \   |            |
 |       |            |            |            | and the \  |            |
 |       |            |            |            | Python \   |            |
 |       |            |            |            | Axelrod \  |            |
 |       |            |            |            | Library`_  |            |
 +-------+------------+------------+            +------------+------------+
 | 10:00 | `Simpli\   | `Python \  |            | `Ship \    | Open       |
-|       | city \     | powered \  |            | Data \     | Space      |
-|       | Is A \     | Nukes`_    |            | Science \  |            |
-|       | Feature`_  |            |            | Products!`_|            |
+|       | city \     | and \      |            | Data \     | Space      |
+|       | Is A \     | Postgre\   |            | Science \  |            |
+|       | Feature`_  | SQL a \    |            | Products!`_|            |
+|       |            | Wonderful \|            |            |            |
+|       |            | Wedding`_  |            |            |            |
+|       |            |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 10:30 | `Here be \ | `Testing \ |            | `iCE: \    | Open       |
-|       | Dragons - \| applica\   |            | Inter\     | Space      |
-|       | Writing \  | tions \    |            | active \   |            |
-|       | Safe C \   | for \      |            | cloud \    |            |
-|       | Exten\     | django \   |            | experimen\ |            |
-|       | sions`_    | CMS`_      |            | tation`_   |            |
+| 10:30 | `Here be \ | `Python \  |            | `iCE: \    | Open       |
+|       | Dragons - \| powered \  |            | Inter\     | Space      |
+|       | Writing \  | Nukes`_    |            | active \   |            |
+|       | Safe C \   |            |            | cloud \    |            |
+|       | Exten\     |            |            | experimen\ |            |
+|       | sions`_    |            |            | tation`_   |            |
 +-------+------------+------------+            +------------+------------+
-| 11:00 | `How \     | `Python \  |            | `Power: \  | Open       |
-|       | (not) to \ | 3000 \     |            | Python in \| Space      |
-|       | argue - \  | coming \   |            | Astronomy`_|            |
-|       | a recipe \ | late \     |            |            |            |
-|       | for more \ | 2008`_     |            |            |            |
-|       | product\   |            |            |            |            |
+| 11:00 | `How \     | `Testing \ |            | `Power: \  | Open       |
+|       | (not) to \ | applica\   |            | Python in \| Space      |
+|       | argue - \  | tions \    |            | Astronomy`_|            |
+|       | a recipe \ | for \      |            |            |            |
+|       | for more \ | django \   |            |            |            |
+|       | product\   | CMS`_      |            |            |            |
 |       | ive tech \ |            |            |            |            |
 |       | conversa\  |            |            |            |            |
 |       | tions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:30 | `The \     |            |            | `Pythons \ | Open       |
-|       | Drogulus \ |            |            | and \      | Space      |
-|       | or How \   |            |            | Earth\     |            |
-|       | I Learned \|            |            | quakes`_   |            |
-|       | to Stop \  |            |            |            |            |
+| 11:30 | `The \     | `Python \  |            | `Pythons \ | Open       |
+|       | Drogulus \ | 3000 \     |            | and \      | Space      |
+|       | or How \   | coming \   |            | Earth\     |            |
+|       | I Learned \| late \     |            | quakes`_   |            |
+|       | to Stop \  | 2008`_     |            |            |            |
 |       | Worrying \ |            |            |            |            |
 |       | and Love \ |            |            |            |            |
 |       | Decentral\ |            |            |            |            |
