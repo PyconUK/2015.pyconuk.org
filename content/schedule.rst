@@ -50,7 +50,8 @@ Friday 18th September 2015
 | 13:30 |            |            |            |            |             |            | `Teacher\ |
 |       |            |            |            |            |             |            | 's CPD`_  |
 +-------+------------+------------+------------+------------+             |            |           |
-| 14:00 | Keynote 2                                         |             |            |           |
+| 14:00 | Keynote: Kenneth Reitz                            |             |            |           |
+|       | (Title to be confirmed)                           |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
 | 15:00 | `Analy\    | `Choosing  | `Django \  | `Deploy \  |             |            |           |
 |       | zing \     | a web      | Security \ | flask \    |             |            |           |
@@ -224,9 +225,9 @@ Saturday 19th September 2015
 | 14:00 | Plenary                                    | `PyKids   |           |
 |       |                                            | UK`_      |           |
 +-------+--------------------------------------------+-----------+-----------+
-| 14:30 | Keynote 3                                  | Squash    | Open      |
-|       |                                            | and       | Space     |
-|       |                                            | biscuits  |           |
+| 14:30 | Keynote: Dr Simon Sheridan                 | Squash    | Open      |
+|       | Ptolemy and the Rosetta space mission      | and       | Space     |
+|       | (Exact title To Be Confirmed)              | biscuits  |           |
 |       |                                            | (Tea and  |           |
 |       |                                            | coffee    |           |
 |       |                                            | for       |           |
@@ -310,9 +311,9 @@ Sunday 20th September 2015
 +-------+----------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                |
 +-------+------------+---------------------------------------------------+
-| 09:15 | Keynote 4  |                                                   |
-+-------+------------+                                                   |
-| 09:30 | `FIDO - \  | Keynote 4                                         |
+| 09:15 | Keynote    | Keynote: Naomi Ceder                              |
++-------+------------+ Confessions of a True Impostor (A Survival Guide) |
+| 09:30 | `FIDO - \  |                                                   |
 |       | The dog \  |                                                   |
 |       | ate \      |                                                   |
 |       | my \       |                                                   |
