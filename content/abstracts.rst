@@ -108,20 +108,21 @@ The PyCon UK panel will include:
    of Wolverhampton. Loves to talk about distributed Python and
    concurrency. Is Chair of the science track at PyCon UK.
 
- * Van Lindberg is a smiley chap and Vice President of Intellectual
+ * Van Lindberg: a smiley chap and Vice President of Intellectual
    Property at Rackspace and chairman of the PSF.
 
- * Larry Hastings is one of the main CPython core contributors and the
+ * Larry Hastings: one of the main CPython core contributors and the
    Release Manager for Python releases.
 
- * Nicholas Tollervey is a freelance Python developer, classically
+ * Nicholas Tollervey: freelance Python developer, classically
    trained musician, philosophy graduate, teacher, writer, organiser of
    the education track, founder of the London Python Code Dojo and PSF
    ambassador to the BBC micro:bit project. He enjoys spending his
    copious free time playing the tuba or hacking on distributed hash
    tables.
 
- * A currently unselected Djangogirls organiser
+ * Ola Sendecka: Python and Django enthusiast. Django Girls
+   co-founder, Django Core Developer.
 
 .. _lightningkids:
 
