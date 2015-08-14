@@ -114,10 +114,13 @@ The PyCon UK panel will probably include:
  * Larry Hastings is one of the main CPython core contributors and the
    Release Manager for Python releases.
 
- * Nicholas Tollervey is a Python trainer, former teacher, organiser
-   of the Education track, PSF ambassador to the BBC Microbit project
-   and author of O'Reilly Python in Education (2015).
-   
+ * Nicholas Tollervey is a freelance Python developer, classically
+   trained musician, philosophy graduate, teacher, writer, organiser of
+   the education track, founder of the London Python Code Dojo and PSF
+   ambassador to the BBC micro:bit project. He enjoys spending his
+   copious free time playing the tuba or hacking on distributed hash
+   tables.
+
  * A currently unselected Djangogirls organiser
 
 .. _lightningkids:
