@@ -98,7 +98,7 @@ conference and then try to answer your questions about the future of
 Python, Software development and the meaning of life, the universe and
 everything.
 
-The PyCon UK panel will probably include:
+The PyCon UK panel will include:
 
  * Michael Foord: Python core developer and Go programmer. Works for
    Canonical, knows more than is healthy about Python testing and Cloud
