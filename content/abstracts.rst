@@ -93,10 +93,10 @@ The PyCon UK Panel
 
 In the style of Question Time (or Gardeners' Question Time, but
 without the plants), PyCon UK's acting Chair Zeth chairs a panel of
-five Python experts who each give an short overview of how they found
-the conference and then try to answer your questions about the future
-of Python, Software development and the meaning of life, the universe
-and everything.
+Python experts who each give an short overview of how they found the
+conference and then try to answer your questions about the future of
+Python, Software development and the meaning of life, the universe and
+everything.
 
 The PyCon UK panel will probably include:
 
@@ -114,6 +114,10 @@ The PyCon UK panel will probably include:
  * Larry Hastings is one of the main CPython core contributors and the
    Release Manager for Python releases.
 
+ * Nicholas Tollervey is a Python trainer, former teacher, organiser
+   of the Education track, PSF ambassador to the BBC Microbit project
+   and author of O'Reilly Python in Education (2015).
+   
  * A currently unselected Djangogirls organiser
 
 .. _lightningkids:
