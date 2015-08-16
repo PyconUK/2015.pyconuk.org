@@ -369,16 +369,6 @@ Sunday 20th September 2015
 |       |            |            |            | scient\    |            |
 |       |            |            |            | ific \     |            |
 |       |            |            |            | articles`_ |            |
-+-------+------------+            |            |            |            |
-|       | `The \     |            |            |            |            |
-|       | Drogulus \ |            |            |            |            |
-|       | or How \   |            |            |            |            |
-|       | I Learned \|            |            |            |            |
-|       | to Stop \  |            |            |            |            |
-|       | Worrying \ |            |            |            |            |
-|       | and Love \ |            |            |            |            |
-|       | Decentral\ |            |            |            |            |
-|       | ization`_  |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
 | 14:00 | `Python \  | `Getting \ |            | `Demo:  \  | Open       |
 |       | and \      | schemas \  |            | Simple \   | Space      |
