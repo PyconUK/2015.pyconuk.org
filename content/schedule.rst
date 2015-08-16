@@ -460,7 +460,7 @@ Notes
 
 * In the case of speaker illness or similar, minor replacements may
   happen without notice.
-  
+
 * The call for Lunchtime events is now open, see the `programme page`_
   for more information.
 
