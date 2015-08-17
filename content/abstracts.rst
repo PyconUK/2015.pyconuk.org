@@ -121,9 +121,6 @@ The PyCon UK panel will include:
    copious free time playing the tuba or hacking on distributed hash
    tables.
 
- * Ola Sendecka: Python and Django enthusiast. Django Girls
-   co-founder, Django Core Developer.
-
 .. _lightningkids:
 
 Lightning PyKids UK
