@@ -26,7 +26,7 @@ Friday 18th September 2015
 | 09:30 | Opening Plenary                                                                          |
 +-------+---------------------------------------------------+-------------+------------+-----------+
 | 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | `Teach\   |
-+-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | er's \    |
++-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | ers' \    |
 | 11:30 | `Python's \| `A deep    | Learning   | `Real-T\   |             |            | CPD`_     |
 |       | Infamous \ | dive       | Python     | ime \      |             |            |           |
 |       | GIL`_      | into       | Club       | Data + Dj\ |             |            |           |
@@ -44,11 +44,11 @@ Friday 18th September 2015
 | 12:30 |            | Hack\      |            |            | `Django\    | Trans*Code |           |
 |       |            | Space`_    |            |            | Girls`_     | Lunch      |           |
 +-------+------------+------------+------------+------------+             +------------+-----------+
-| 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | `Trans\    | Teacher's |
+| 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | `Trans\    | Teachers' |
 |       | `Code      | Workshop   | Workshop   | Workshop   |             | *Code`_    | Lunch     |
 +-------+ Clinic`_   |            |            |            |             |            +-----------+
 | 13:30 |            |            |            |            |             |            | `Teacher\ |
-|       |            |            |            |            |             |            | 's CPD`_  |
+|       |            |            |            |            |             |            | s' CPD`_  |
 +-------+------------+------------+------------+------------+             |            |           |
 | 14:00 | Keynote: Kenneth Reitz                            |             |            |           |
 |       | (Title to be confirmed)                           |             |            |           |
@@ -543,5 +543,5 @@ Notes
 .. _`code clinic`: /abstracts/#codeclinic
 .. _`DjangoGirls`: /djangogirls/
 .. _`Trans*Code`: /transcode/
-.. _`Teacher's CPD`: /education/#teachers
+.. _`Teachers' CPD`: /education/#teachers
 .. _`PyKids UK`: /education/#kids
