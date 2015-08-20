@@ -50,8 +50,8 @@ Friday 18th September 2015
 | 13:30 |            |            |            |            |             |            | `Teacher\ |
 |       |            |            |            |            |             |            | 's CPD`_  |
 +-------+------------+------------+------------+------------+             |            |           |
-| 14:00 | Keynote: Kenneth Reitz                            |             |            |           |
-|       | (Title to be confirmed)                           |             |            |           |
+| 14:00 | Keynote: Kenneth Reitz - Python 2 vs Python 3, a  |             |            |           |
+|       | Sacred Love Story                                 |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
 | 15:00 | `Analy\    | `Choosing  | `Django \  | `Deploy \  |             |            |           |
 |       | zing \     | a web      | Security \ | flask \    |             |            |           |
