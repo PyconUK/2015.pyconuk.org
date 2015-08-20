@@ -14,7 +14,7 @@ Friday 18th September 2015
 --------------------------
 
 +-------+------------+------------+------------+------------+--------------------------+-----------+
-| Time  | Python\    | Osper Room | Room 3     | Room 4     | Training and Hackathon   | Bank of   |
+| Time  | Python\    | Osper Room | YPlan Room | Room 4     | Training and Hackathon   | Bank of   |
 |       | Anywhere   |            |            |            |                          | America   |
 |       | Room       |            |            |            |                          | Education |
 |       |            |            |            |            |                          | Track     |
@@ -126,8 +126,8 @@ Saturday 19th September 2015
 ----------------------------
 
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| Time  | Python\  | Osper    | Room 3   | The Soft\ | Bank of   | Bistro    |
-|       | Anywhere | Room     |          | ware    \ | America   | Balcony   |
+| Time  | Python\  | Osper    | YPlan    | The Soft\ | Bank of   | Bistro    |
+|       | Anywhere | Room     | Room     | ware    \ | America   | Balcony   |
 |       | Room     |          |          | Sustaina\ | Education |           |
 |       |          |          |          | bility    | Track     |           |
 |       |          |          |          | Institute |           |           |
@@ -300,7 +300,7 @@ Sunday 20th September 2015
 --------------------------
 
 +-------+------------+------------+------------+------------+------------+
-| Time  | Python\    | Osper Room | Room 3     | The        | Bistro     |
+| Time  | Python\    | Osper Room | YPlan Room | The        | Bistro     |
 |       | Anywhere   |            |            | Software   | Balcony    |
 |       | Room       |            |            | Sustainab\ |            |
 |       |            |            |            | ility      |            |
