@@ -759,3 +759,105 @@ th, td {
   padding: 8px 0px 8px 8px;
   vertical-align: top;
 }
+
+/* SPONSORS */
+
+hr {
+  border: none;
+  margin: 2em 0;
+  border-top: 1px dotted #5E5E5E;
+  height: 0;
+  background: none;
+  clear: both;
+}
+
+.sponsors h1 {
+  text-align: center;
+}
+
+.sponsors .gold,
+.sponsors .silver,
+.sponsors .bronze {
+  position: absolute;
+  display: block;
+  float: left;
+  width: 20%;
+  margin: 0;
+  color: white;
+  padding: 30px;
+  text-transform: uppercase;
+  background: #a3925e;
+  text-align: center;
+}
+.sponsors .silver {
+  background: #abadb0;
+}
+.sponsors .bronze {
+  background: #c67824;
+}
+
+.sponsors .gold:before,
+.sponsors .silver:before,
+.sponsors .bronze:before {
+  position: absolute;
+  top: -6px;
+  left: -6px;
+  right: -6px;
+  bottom: -6px;
+  content: '';
+  border: 5px double #a3925e;
+}
+.sponsors .silver:before {
+  border: 5px double #abadb0;
+}
+.sponsors .bronze:before {
+  border: 5px double #c67924;
+}
+
+.sponsors ul {
+  display: block;
+  overflow: hidden;
+  width: 75%;
+  margin-left: 25%;
+  list-style: none;
+  clear: both;
+}
+
+.sponsors li {
+  display: block;
+  float: left;
+  margin-left: 5%;
+  width: 25%;
+}
+
+.sponsors span {
+  text-align: center;
+  display: block;
+  margin: 10px 0 20px 0;
+}
+
+.sponsors img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media all and (max-width: 540px) {
+  .sponsors .gold,
+  .sponsors .silver,
+  .sponsors .bronze {
+    position: relative;
+    margin: 0 auto;
+    float: none;
+    width: 190px;
+  }
+  .sponsors ul {
+    margin-left: 0;
+    width: 100%;
+    padding: 0;
+    clear: both;
+  }
+  .sponsors li {
+    width: 42%;
+  }
+}
