@@ -273,16 +273,16 @@ Saturday 19th September 2015
 |       | five \   |          |          |           |           |           |
 |       | years`_  |          |          |           |           |           |
 +-------+----------+----------+          |           |           |           |
-| 17:30 | `The \   | `Teach\  |          |           |           |           |
-|       | Fabric \ | ing \    |          |           |           |           |
-|       | that \   | youngst\ |          |           |           |           |
-|       | holds    | ers to \ |          |           |           |           |
-|       | the \    | code \   |          |           |           |           |
-|       | cloud    | with \   |          |           |           |           |
-|       | toge\    | pgzero \ |          |           |           |           |
-|       | ther`_   | on \     |          |           |           |           |
-|       |          | Raspber\ |          |           |           |           |
-|       |          | ry Pi`_  |          |           |           |           |
+| 17:30 | `Teach\  | `The \   |          |           |           |           |
+|       | ing \    | Fabric \ |          |           |           |           |
+|       | youngst\ | that \   |          |           |           |           |
+|       | ers to \ | holds    |          |           |           |           |
+|       | code \   | the \    |          |           |           |           |
+|       | with \   | cloud    |          |           |           |           |
+|       | pgzero \ | toge\    |          |           |           |           |
+|       | on \     | ther`_   |          |           |           |           |
+|       | Raspber\ |          |          |           |           |           |
+|       | ry Pi`_  |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
@@ -369,16 +369,6 @@ Sunday 20th September 2015
 |       |            |            |            | scient\    |            |
 |       |            |            |            | ific \     |            |
 |       |            |            |            | articles`_ |            |
-+-------+------------+            |            |            |            |
-|       | `The \     |            |            |            |            |
-|       | Drogulus \ |            |            |            |            |
-|       | or How \   |            |            |            |            |
-|       | I Learned \|            |            |            |            |
-|       | to Stop \  |            |            |            |            |
-|       | Worrying \ |            |            |            |            |
-|       | and Love \ |            |            |            |            |
-|       | Decentral\ |            |            |            |            |
-|       | ization`_  |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
 | 14:00 | `Python \  | `Getting \ |            | `Demo:  \  | Open       |
 |       | and \      | schemas \  |            | Simple \   | Space      |
