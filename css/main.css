@@ -748,14 +748,39 @@ iframe {
 }
 
 /* SPONSORSHIP TABLE */
-table {
+.sponsorship-items table {
   border-collapse: collapse;
   border-spacing: 0px;
   width: 100%;
 }
 
-th, td {
+.sponsorship-items th, td {
   border-bottom: 1px solid #E1E1E1;
   padding: 8px 0px 8px 8px;
   vertical-align: top;
+}
+
+/* SPONSORS */
+.sponsors h1 {
+  text-align: center;
+}
+
+.sponsors table {
+  border-collapse: collapse;
+  border-spacing: 0px;
+  width: 100%;
+}
+
+.sponsors td {
+  text-align: center;
+  vertical-align: middle;
+  border-bottom: 0px;
+}
+
+.sponsors img.logo {
+  width: 240px;
+}
+
+.sponsors img.wide-logo {
+  width: 480px;
 }
