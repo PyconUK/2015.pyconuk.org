@@ -777,6 +777,10 @@ iframe {
   border-bottom: 0px;
 }
 
-.sponsors img {
+.sponsors img.logo {
   width: 240px;
+}
+
+.sponsors img.wide-logo {
+  width: 480px;
 }
