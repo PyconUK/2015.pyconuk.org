@@ -14,7 +14,7 @@ Friday 18th September 2015
 --------------------------
 
 +-------+------------+------------+------------+------------+--------------------------+-----------+
-| Time  | Python\    | Osper Room | YPlan Room | Laterpay   | Training and Hackathon   | Bank of   |
+| Time  | Python\    | Osper Room | YPlan Room | LaterPay   | Training and Hackathon   | Bank of   |
 |       | Anywhere   |            |            | Room       |                          | America   |
 |       | Room       |            |            |            |                          | Education |
 |       |            |            |            |            |                          | Track     |
@@ -126,7 +126,7 @@ Saturday 19th September 2015
 ----------------------------
 
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| Time  | Python\  | Osper    | YPlan    | Laterpay  | The Soft\ | Bank of   |
+| Time  | Python\  | Osper    | YPlan    | LaterPay  | The Soft\ | Bank of   |
 |       | Anywhere | Room     | Room     | Learning  | ware    \ | America   |
 |       | Room     |          |          | Space     | Sustaina\ | Education |
 |       |          |          |          |           | bility    | Track     |
@@ -303,7 +303,7 @@ Sunday 20th September 2015
 --------------------------
 
 +-------+------------+------------+------------+------------+------------+
-| Time  | Python\    | Osper Room | YPlan Room | Laterpay   | The        |
+| Time  | Python\    | Osper Room | YPlan Room | LaterPay   | The        |
 |       | Anywhere   |            |            | Learning   | Software   |
 |       | Room       |            |            | Space      | Sustainab\ |
 |       |            |            |            |            | ility      |
