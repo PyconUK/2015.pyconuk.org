@@ -44,9 +44,9 @@ Friday 18th September 2015
 | 12:30 |            | Hack\      |            |            | `Django\    | Trans*Code |           |
 |       |            | Space`_    |            |            | Girls`_     | Lunch      |           |
 +-------+------------+------------+------------+------------+             +------------+-----------+
-| 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | `Trans\    | Teachers' |
-|       | `Code      | Workshop   | Workshop   | Workshop   |             | *Code`_    | Lunch     |
-+-------+ Clinic`_   |            |            |            |             |            +-----------+
+| 13:00 | PGP key    | Lunchtime  | Lunchtime  | Lunchtime  |             | `Trans\    | Teachers' |
+|       | signing    | Workshop   | Workshop   | Workshop   |             | *Code`_    | Lunch     |
++-------+ party      |            |            |            |             |            +-----------+
 | 13:30 |            |            |            |            |             |            | `Teacher\ |
 |       |            |            |            |            |             |            | s' CPD`_  |
 +-------+------------+------------+------------+------------+             |            |           |
