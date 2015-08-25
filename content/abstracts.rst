@@ -93,12 +93,12 @@ The PyCon UK Panel
 
 In the style of Question Time (or Gardeners' Question Time, but
 without the plants), PyCon UK's acting Chair Zeth chairs a panel of
-five Python experts who each give an short overview of how they found
-the conference and then try to answer your questions about the future
-of Python, Software development and the meaning of life, the universe
-and everything.
+Python experts who each give an short overview of how they found the
+conference and then try to answer your questions about the future of
+Python, Software development and the meaning of life, the universe and
+everything.
 
-The PyCon UK panel will probably include:
+The PyCon UK panel will include:
 
  * Michael Foord: Python core developer and Go programmer. Works for
    Canonical, knows more than is healthy about Python testing and Cloud
@@ -108,13 +108,18 @@ The PyCon UK panel will probably include:
    of Wolverhampton. Loves to talk about distributed Python and
    concurrency. Is Chair of the science track at PyCon UK.
 
- * Van Lindberg is a smiley chap and Vice President of Intellectual
+ * Van Lindberg: a smiley chap and Vice President of Intellectual
    Property at Rackspace and chairman of the PSF.
 
- * Larry Hastings is one of the main CPython core contributors and the
+ * Larry Hastings: one of the main CPython core contributors and the
    Release Manager for Python releases.
 
- * A currently unselected Djangogirls organiser
+ * Nicholas Tollervey: freelance Python developer, classically
+   trained musician, philosophy graduate, teacher, writer, organiser of
+   the education track, founder of the London Python Code Dojo and PSF
+   ambassador to the BBC micro:bit project. He enjoys spending his
+   copious free time playing the tuba or hacking on distributed hash
+   tables.
 
 .. _lightningkids:
 
@@ -140,16 +145,6 @@ Python for Science
 Python for science is open to all delegates but particularly aimed at
 scientists of all kinds, data scientists, researchers and professional
 software engineers on Python in the science field.
-
-.. _form:
-
-Forming a PyCon UK research community
--------------------------------------
-
-*Sarah Mount, University of Wolverhampton*
-
-Sarah opens the Science Track by introducing the workshops, talks and
-sprint and discusses the formation of a research community.
 
 .. _numba:
 
@@ -399,20 +394,6 @@ for nuclear fusion data from the JET experiment, including a plot server and a
 data browsing tool. This will be followed by a mini-tutorial to help you get
 started with harnessing the power of HTTP web services.
 
-.. _pubs:
-
-Discussion: From data to dissemination: dealing with publications
------------------------------------------------------------------
-
-A major theme for anyone in working research is how best to publish and
-disseminate their work. These days a wide range of tools are available to help,
-at every stage of the writing process - from great Python libraries for
-charting, to online bibliography tool and LaTeX packages to beautify your
-papers. This panel discussion will cover all aspects of dissemination work,
-and how Python can ease your publication pain.
-
-Panel members will be announced nearer the time of the conference.
-
 Lunchtime events
 ~~~~~~~~~~~~~~~~
 
@@ -446,6 +427,22 @@ other embedded or otherwise interesting hardware project.
 Code Clinic
 -----------
 
+The Code Clinic has been a very popular feature of PyCons. You bring
+your code, because:
+
+ * You're having a problem with it, or
+ * you're very proud of it 
+
+and everyone joins in admiring it or suggesting improvements.
+
+It's suitable for all Python programmers, whether new to Python or
+absolute gurus, and will give you lots of ideas for improving your own
+code.
+
+Also, it's really good if you're a relatively new Python programmer
+and need some help in understanding features of the language and
+concepts new to you.
+
 .. _dojo:
 
 Python Dojo
@@ -458,3 +455,20 @@ Monday is the Sprint day, we split into small groups and in each group
 a member of an Open Source Python project guides a small group in how
 to hack on the project. Improve your Python skills in a fun, practical
 and effective way.
+
+.. _commitsprint:
+
+Don't be afraid to commit
+-------------------------
+
+A workshop/tutorial for Python/Django developers who would like to
+contribute more to the projects they use, but need more grounding in
+some of the tools required.
+
+The workshop will take participants through the complete cycle of
+identifying a simple issue in a Django or Python project, writing a
+patch with documentation, and submitting it.
+
+Read more here: http://dont-be-afraid-to-commit.readthedocs.org
+
+
