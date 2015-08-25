@@ -88,10 +88,10 @@ Friday 18th September 2015
 |       |            | Future`_   |            | Collect\   |             |            |           |
 |       |            |            |            | ion`_      |             |            |           |
 +-------+------------+------------+            +------------+             |            |           |
-| 17:00 | `Document \| `Python \  |            | `Resil\    |             |            |           |
-|       | all \      | for \      |            | ient \     |             |            |           |
-|       | the \      | mobile \   |            | data \     |             |            |           |
-|       | things`_   | games \    |            | pipelines \|             |            |           |
+| 17:00 | TBA        | `Python \  |            | `Resil\    |             |            |           |
+|       |            | for \      |            | ient \     |             |            |           |
+|       |            | mobile \   |            | data \     |             |            |           |
+|       |            | games \    |            | pipelines \|             |            |           |
 |       |            | on iOS \   |            | using \    |             |            |           |
 |       |            | and \      |            | Docker-\   |             |            |           |
 |       |            | Android`_  |            | Compose`_  |             |            |           |
@@ -266,15 +266,15 @@ Saturday 19th September 2015
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+          +-----------+           |           |
-| 17:00 | `Chrome\ | `Intro \ |          | `PSF \    |           |           |
-|       | books \  | to web \ |          | Recep\    |           |           |
-|       | in \     | scrap\   |          | tion`_    |           |           |
-|       | educat\  | ing \    |          |           |           |           |
-|       | ion - \  | with \   |          |           |           |           |
-|       | the \    | scrapy`_ |          |           |           |           |
-|       | next \   |          |          |           |           |           |
-|       | five \   |          |          |           |           |           |
-|       | years`_  |          |          |           |           |           |
+| 17:00 | `Docu\   | `Chrome\ |          | `PSF \    |           |           |
+|       | ment     | books \  |          | Recep\    |           |           |
+|       | all \    | in \     |          | tion`_    |           |           |
+|       | the \    | educat\  |          |           |           |           |
+|       | things`_ | ion - \  |          |           |           |           |
+|       |          | the \    |          |           |           |           |
+|       |          | next \   |          |           |           |           |
+|       |          | five \   |          |           |           |           |
+|       |          | years`_  |          |           |           |           |
 +-------+----------+----------+          |           |           |           |
 | 17:30 | `Teach\  | `The \   |          |           |           |           |
 |       | ing \    | Fabric \ |          |           |           |           |
