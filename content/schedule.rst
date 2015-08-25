@@ -38,8 +38,8 @@ Friday 18th September 2015
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+------------+-------------+            |           |
-| 12:00 | Lunchtime  | `Single \  | Lunchtime  | Lunchtime  | DjangoGirls |            |           |
-|       | Workshop   | Board \    | Workshop   | Workshop   | Lunch       |            |           |
+| 12:00 | Career     | `Single \  | Lunchtime  | Lunchtime  | DjangoGirls |            |           |
+|       | Clinic     | Board \    | Workshop   | Workshop   | Lunch       |            |           |
 +-------+            | Computer \ |            |            +-------------+------------+           |
 | 12:30 |            | Hack\      |            |            | `Django\    | Trans*Code |           |
 |       |            | Space`_    |            |            | Girls`_     | Lunch      |           |
@@ -88,21 +88,21 @@ Friday 18th September 2015
 |       |            | Future`_   |            | Collect\   |             |            |           |
 |       |            |            |            | ion`_      |             |            |           |
 +-------+------------+------------+            +------------+             |            |           |
-| 17:00 | TBA        | `Python \  |            | `Resil\    |             |            |           |
-|       |            | for \      |            | ient \     |             |            |           |
-|       |            | mobile \   |            | data \     |             |            |           |
-|       |            | games \    |            | pipelines \|             |            |           |
+| 17:00 | `Dispel\   | `Python \  |            | `Resil\    |             |            |           |
+|       | ling \     | for \      |            | ient \     |             |            |           |
+|       | py.test \  | mobile \   |            | data \     |             |            |           |
+|       | magic`_    | games \    |            | pipelines \|             |            |           |
 |       |            | on iOS \   |            | using \    |             |            |           |
 |       |            | and \      |            | Docker-\   |             |            |           |
 |       |            | Android`_  |            | Compose`_  |             |            |           |
 +-------+------------+------------+            +------------+             |            |           |
-| 17:30 | `Dispel\   | `Testing \ |            | `Accelera\ |             |            |           |
-|       | ling \     | and \      |            | te and \   |             |            |           |
-|       | py.test \  | Async - a \|            | scale \    |             |            |           |
-|       | magic`_    | journey`_  |            | your \     |             |            |           |
-|       |            |            |            | tests \    |             |            |           |
-|       |            |            |            | with \     |             |            |           |
-|       |            |            |            | nodepool`_ |             |            |           |
+| 17:30 | `Python \  | `Testing \ |            | `Accelera\ |             |            |           |
+|       | Projects \ | and \      |            | te and \   |             |            |           |
+|       | on \       | Async - a \|            | scale \    |             |            |           |
+|       | the \      | journey`_  |            | your \     |             |            |           |
+|       | Rasp\      |            |            | tests \    |             |            |           |
+|       | berry \    |            |            | with \     |             |            |           |
+|       | Pi`_       |            |            | nodepool`_ |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+            +------------+-------------+------------+-----------+
 | 18:00 | `Using \   | `Enabling \|            | `Trade \   | `PyCon UK Diversity Reception`_      |
@@ -548,3 +548,4 @@ Notes
 .. _`Trans*Code`: /transcode/
 .. _`Teachers' CPD`: /education/#teachers
 .. _`PyKids UK`: /education/#kids
+.. _`python projects on the raspberry pi`: /talks/python-on-raspberry-pi/
