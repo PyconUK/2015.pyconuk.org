@@ -13,113 +13,128 @@ The dynamic conference for the leading dynamic language
 Friday 18th September 2015
 --------------------------
 
-+-------+------------+------------+------------+------------+--------------------------+-----------+
-| Time  | Python\    | Osper Room | YPlan Room | LaterPay   | Training and Hackathon   | Bank of   |
-|       | Anywhere   |            |            | Room       |                          | America   |
-|       | Room       |            |            |            |                          | Education |
-|       |            |            |            |            |                          | Track     |
-+=======+============+============+============+============+==========================+===========+
-|       | CC1.3      | CC1.4      | CC1.8      | CC2.1      | Simulation Centre        |           |
-+-------+------------+------------+------------+------------+--------------------------+-----------+
-| 08:00 | Registration / Breakfast                                                                 |
-+-------+------------------------------------------------------------------------------------------+
-| 09:30 | Opening Plenary                                                                          |
-+-------+---------------------------------------------------+-------------+------------+-----------+
-| 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | `Teach\   |
-+-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | ers' \    |
-| 11:30 | `Python's \| `A deep    | Learning   | `Real-T\   |             |            | CPD`_     |
-|       | Infamous \ | dive       | Python     | ime \      |             |            |           |
-|       | GIL`_      | into       | Club       | Data + Dj\ |             |            |           |
-|       |            | python     | Track      | ango = Fu\ |             |            |           |
-|       |            | import     | Intro      | n,\ Growt\ |             |            |           |
-|       |            | hooks`_    |            | h + Profi\ |             |            |           |
-|       |            |            |            | t`_        |             |            |           |
-|       |            |            |            |            |             |            |           |
-|       |            |            |            |            |             |            |           |
-|       |            |            |            |            |             |            |           |
-+-------+------------+------------+------------+------------+-------------+            |           |
-| 12:00 | Lunchtime  | `Single \  | Lunchtime  | Lunchtime  | DjangoGirls |            |           |
-|       | Workshop   | Board \    | Workshop   | Workshop   | Lunch       |            |           |
-+-------+            | Computer \ |            |            +-------------+------------+           |
-| 12:30 |            | Hack\      |            |            | `Django\    | Trans*Code |           |
-|       |            | Space`_    |            |            | Girls`_     | Lunch      |           |
-+-------+------------+------------+------------+------------+             +------------+-----------+
-| 13:00 | Lunchtime  | Lunchtime  | Lunchtime  | Lunchtime  |             | `Trans\    | Teachers' |
-|       | `Code      | Workshop   | Workshop   | Workshop   |             | *Code`_    | Lunch     |
-+-------+ Clinic`_   |            |            |            |             |            +-----------+
-| 13:30 |            |            |            |            |             |            | `Teacher\ |
-|       |            |            |            |            |             |            | s' CPD`_  |
-+-------+------------+------------+------------+------------+             |            |           |
-| 14:00 | Keynote: Kenneth Reitz - Python 2 vs Python 3, a  |             |            |           |
-|       | Sacred Love Story                                 |             |            |           |
-+-------+------------+------------+------------+------------+             |            |           |
-| 15:00 | `Analy\    | `Choosing  | `Django \  | `Deploy \  |             |            |           |
-|       | zing \     | a web      | Security \ | flask \    |             |            |           |
-|       | Python \   | framework  | Workshop`_ | applicat\  |             |            |           |
-|       | with \     | for        |            | ion \      |             |            |           |
-|       | Pylint`_   | Python 3   |            | single \   |             |            |           |
-|       |            | and        |            | step`_     |             |            |           |
-|       |            | asyncio`_  |            |            |             |            |           |
-|       |            |            |            |            |             |            |           |
-+-------+------------+------------+            +------------+             |            |           |
-| 15:30 | `Under\    | `Leader\   |            | `Gabbi - \ |             |            |           |
-|       | standing \ | ship \     |            | Declarati\ |             |            |           |
-|       | PyPy`_     | of \       |            | ve HTTP \  |             |            |           |
-|       |            | Technical \|            | Testing`_  |             |            |           |
-|       |            | Teams`_    |            |            |             |            |           |
-|       |            |            |            |            |             |            |           |
-|       |            |            |            |            |             |            |           |
-+-------+------------+------------+            +------------+             |            |           |
-| 16:00 | `PyPy \    | `Elephant \|            | `Making \  |             |            |           |
-|       | for \      | taming \   |            | code \     |             |            |           |
-|       | mediocre \ | for \      |            | py2/3 \    |             |            |           |
-|       | programme\ | snake \    |            | compat\    |             |            |           |
-|       | rs`_ \     | lovers`_   |            | ible \     |             |            |           |
-|       |            |            |            | using \    |             |            |           |
-|       |            |            |            | python-\   |             |            |           |
-|       |            |            |            | future`_   |             |            |           |
-|       |            |            |            |            |             |            |           |
-+-------+------------+------------+            +------------+             |            |           |
-| 16:30 | `Making \  | `Templat\  |            | `Instrume\ |             |            |           |
-|       | Python \   | ing - \    |            | nt Your \  |             |            |           |
-|       | Computat\  | Past, \    |            | Python \   |             |            |           |
-|       | ions \     | Present \  |            | App with \ |             |            |           |
-|       | Fast`_ \   | and        |            | Metric \   |             |            |           |
-|       |            | Future`_   |            | Collect\   |             |            |           |
-|       |            |            |            | ion`_      |             |            |           |
-+-------+------------+------------+            +------------+             |            |           |
-| 17:00 | `Document \| `Python \  |            | `Resil\    |             |            |           |
-|       | all \      | for \      |            | ient \     |             |            |           |
-|       | the \      | mobile \   |            | data \     |             |            |           |
-|       | things`_   | games \    |            | pipelines \|             |            |           |
-|       |            | on iOS \   |            | using \    |             |            |           |
-|       |            | and \      |            | Docker-\   |             |            |           |
-|       |            | Android`_  |            | Compose`_  |             |            |           |
-+-------+------------+------------+            +------------+             |            |           |
-| 17:30 | `Dispel\   | `Testing \ |            | `Accelera\ |             |            |           |
-|       | ling \     | and \      |            | te and \   |             |            |           |
-|       | py.test \  | Async - a \|            | scale \    |             |            |           |
-|       | magic`_    | journey`_  |            | your \     |             |            |           |
-|       |            |            |            | tests \    |             |            |           |
-|       |            |            |            | with \     |             |            |           |
-|       |            |            |            | nodepool`_ |             |            |           |
-|       |            |            |            |            |             |            |           |
-+-------+------------+------------+            +------------+-------------+------------+-----------+
-| 18:00 | `Using \   | `Enabling \|            | `Trade \   | `PyCon UK Diversity Reception`_      |
-|       | logical \  | the \      |            | managem\   | (in the Bistro)                      |
-|       | flaws \    | Optimisat\ |            | ent in \   |                                      |
-|       | to \       | ion \      |            | Python - \ |                                      |
-|       | steal \    | of \       |            | a story \  |                                      |
-|       | and \      | Python`_   |            | of throug\ |                                      |
-|       | modify \   |            |            | hput`_     |                                      |
-|       | business \ |            |            |            |                                      |
-|       | critical \ |            |            |            |                                      |
-|       | data`_     |            |            |            |                                      |
-+-------+------------+------------+------------+------------+                                      |
-| 18:30 | Day Ends                                          |                                      |
-+-------+---------------------------------------------------+--------------------------------------+
-| 19:30 | `The Friday Night Charity Social in memory of John Pinner`_                              |
-+-------+------------------------------------------------------------------------------------------+
++-------+----------+----------+----------+----------+-----------------+--------+
+| Time  | Python\  | Osper    | YPlan    | LaterPay | Training and    | Bank   |
+|       | Any\     | Room     | Room     | Room     | Hackathon       | of     |
+|       | where    |          |          |          |                 | Ameri\ |
+|       | Room     |          |          |          |                 | ca     |
+|       |          |          |          |          |                 | Educa\ |
+|       |          |          |          |          |                 | tion   |
+|       |          |          |          |          |                 | Track  |
++=======+==========+==========+==========+==========+=================+========+
+|       | CC1.3    | CC1.4    | CC1.8    | CC2.1    | Simulation Centre        |
++-------+----------+----------+----------+----------+--------------------------+
+| 08:00 | Registration / Breakfast                                             |
++-------+----------------------------------------------------------------------+
+| 09:30 | Opening Plenary                                                      |
++-------+-------------------------------------------+---------+-------+--------+
+| 10:30 | Keynote: Van Lindberg, PSF Chair          | `Django\| `Tra\ | `Tea\  |
++-------+----------+----------+----------+----------+ Girls`_ | ns*C\ | ch\    |
+| 11:30 | `Pytho\  | `A deep  | Learning | `Real-T\ |         | ode`_ | ers' \ |
+|       | n's \    | dive     | Python   | ime \    |         |       | CPD`_  |
+|       | Infa\    | into     | Club     | Data + \ |         |       |        |
+|       | mous \   | python   | Track    | Dj\      |         |       |        |
+|       | GIL`_    | import   | Intro    | ango = \ |         |       |        |
+|       |          | hooks`_  |          | Fu\      |         |       |        |
+|       |          |          |          | n,\      |         |       |        |
+|       |          |          |          | Growt\   |         |       |        |
+|       |          |          |          | h + \    |         |       |        |
+|       |          |          |          | Profit`_ |         |       |        |
++-------+----------+----------+----------+----------+---------+       |        |
+| 12:00 | Lunch\   | `Sin\    | Career   | Lunch\   | Django\ |       |        |
+|       | time     | gle \    | Clinic   | time     | Girls   |       |        |
+|       | Event    | Board \  |          | Event    | Lunch   |       |        |
++-------+          | Comput\  |          |          +---------+-------+        |
+| 12:30 |          | er \     |          |          | `Django\| Tran\ |        |
+|       |          | Hack\    |          |          | Girls`_ | s*Co\ |        |
+|       |          | Space`_  |          |          |         | de    |        |
+|       |          |          |          |          |         | Lunch |        |
++-------+----------+----------+          +----------+         +-------+--------+
+| 13:00 | PGP key  | Lunch\   |          | Lunch\   |         | `Tra\ | Teach\ |
+|       | signing  | time     |          | time     |         | ns*C\ | ers'   |
+|       | party    | Event    |          | Event    |         | ode`_ | Lunch  |
++-------+          |          |          |          |         |       +--------+
+| 13:30 |          |          |          |          |         |       | `Teac\ |
+|       |          |          |          |          |         |       | he\    |
++-------+----------+----------+----------+----------+         |       | rs' \  |
+| 14:00 | Keynote: Kenneth Reitz - Python 2 vs      |         |       | CPD`_  |
+|       | Python 3, a Sacred Love Story             |         |       |        |
++-------+----------+----------+----------+----------+         |       |        |
+| 15:00 | `Analy\  | `Choos\  | `Djan\   | `Deplo\  |         |       |        |
+|       | zing \   | ing      | go \     | y a \    |         |       |        |
+|       | Python \ | a web    | Secur\   | flask \  |         |       |        |
+|       | with \   | frame\   | ity \    | applica\ |         |       |        |
+|       | Pylint`_ | work     | Work\    | tion \   |         |       |        |
+|       |          | for      | shop`_   | in a \   |         |       |        |
+|       |          | Python 3 |          | single \ |         |       |        |
+|       |          | and      |          | step`_   |         |       |        |
+|       |          | async\   |          |          |         |       |        |
+|       |          | io`_     |          |          |         |       |        |
++-------+----------+----------+          +----------+         |       |        |
+| 15:30 | `Under\  | `Leader\ |          | `Gabb\   |         |       |        |
+|       | stand\   | ship \   |          | i - \    |         |       |        |
+|       | ing \    | of \     |          | Decla\   |         |       |        |
+|       | PyPy`_   | Tech\    |          | rative \ |         |       |        |
+|       |          | nical \  |          | HTTP \   |         |       |        |
+|       |          | Teams`_  |          | Test\    |         |       |        |
+|       |          |          |          | ing`_    |         |       |        |
++-------+----------+----------+          +----------+         |       |        |
+| 16:00 | `PyPy \  | `Eleph\  |          | `Mak\    |         |       |        |
+|       | for \    | ant \    |          | ing \    |         |       |        |
+|       | medi\    | taming \ |          | code \   |         |       |        |
+|       | ocre \   | for \    |          | py2/3 \  |         |       |        |
+|       | program\ | snake \  |          | compat\  |         |       |        |
+|       | mers`_ \ | lovers`_ |          | ible \   |         |       |        |
+|       |          |          |          | using \  |         |       |        |
+|       |          |          |          | python-\ |         |       |        |
+|       |          |          |          | future`_ |         |       |        |
++-------+----------+----------+          +----------+         |       |        |
+| 16:30 | `Makin\  | `Templa\ |          | `Instru\ |         |       |        |
+|       | g \      | ting - \ |          | ment \   |         |       |        |
+|       | Python \ | Past, \  |          | Your \   |         |       |        |
+|       | Comput\  | Present \|          | Python \ |         |       |        |
+|       | ations \ | and \    |          | App      |         |       |        |
+|       | Fast`_ \ | Future`_ |          | with \   |         |       |        |
+|       |          |          |          | Metric \ |         |       |        |
+|       |          |          |          | Collect\ |         |       |        |
+|       |          |          |          | ion`_    |         |       |        |
++-------+----------+----------+          +----------+         |       |        |
+| 17:00 | `Docu\   | `Pyth\   |          | `Resil\  |         |       |        |
+|       | ment     | on \     |          | ient \   |         |       |        |
+|       | all \    | for \    |          | data \   |         |       |        |
+|       | the \    | mobile \ |          | pipe\    |         |       |        |
+|       | things`_ | games \  |          | lines \  |         |       |        |
+|       |          | on iOS \ |          | using \  |         |       |        |
+|       |          | and \    |          | Docker-\ |         |       |        |
+|       |          | Andro\   |          | Comp\    |         |       |        |
+|       |          | id`_     |          | ose`_    |         |       |        |
++-------+----------+----------+          +----------+         |       |        |
+| 17:30 | `Pytho\  | `Test\   |          | `Accele\ |         |       |        |
+|       | n Pr\    | ing \    |          | rate \   |         |       |        |
+|       | ojects \ | and \    |          | and \    |         |       |        |
+|       | on \     | Asy\     |          | scale \  |         |       |        |
+|       | the \    | nc - a \ |          | your \   |         |       |        |
+|       | Rasp\    | jour\    |          | tests \  |         |       |        |
+|       | berry \  | ney`_    |          | with \   |         |       |        |
+|       | Pi`_     |          |          | node\    |         |       |        |
+|       |          |          |          | pool`_   |         |       |        |
++-------+----------+----------+          +----------+---------+-------+--------+
+| 18:00 | `Using \ | `Enabl\  |          | `Trade \ | `PyCon UK Diversity \    |
+|       | logical \| ing \    |          | managem\ | Reception`_              |
+|       | flaws \  | the \    |          | ent in \ | (in the Bistro)          |
+|       | to \     | Optimis\ |          | Python - |                          |
+|       | steal \  | ation \  |          | a story  |                          |
+|       | and \    | of \     |          | of       |                          |
+|       | modify \ | Python`_ |          | throug\  |                          |
+|       | busine\  |          |          | hput`_   |                          |
+|       | ss crit\ |          |          |          |                          |
+|       | ical \   |          |          |          |                          |
+|       | data`_   |          |          |          |                          |
++-------+----------+----------+----------+----------+                          |
+| 18:30 | Day Ends                                  |                          |
++-------+-------------------------------------------+--------------------------+
+| 19:30 | `The Friday Night Charity Social in memory of John Pinner`_          |
++-------+----------------------------------------------------------------------+
 
 
 Saturday 19th September 2015
@@ -179,19 +194,19 @@ Saturday 19th September 2015
 |       |          | writing \|          |           |           |           |
 |       |          | them`_   |          |           |           |           |
 +-------+----------+----------+          +-----------+           +-----------+
-| 11:00 | `Taming \| `Lang\   |          | Open      |           | `PyKids \ |
-|       | a \      | uage \   |          | Space     |           | UK`_      |
-|       | Legacy \ | Compos\  |          |           |           |           |
-|       | Code\    | ition \  |          |           |           |           |
+| 11:00 | `Taming \| `Lang\   |          | Setup     |           | `PyKids \ |
+|       | a \      | uage \   |          | for       |           | UK`_      |
+|       | Legacy \ | Compos\  |          | Poster    |           |           |
+|       | Code\    | ition \  |          | Session   |           |           |
 |       | base \   | with \   |          |           |           |           |
 |       | with \   | RPytho\  |          |           |           |           |
 |       | (Micro)\ | n`_      |          |           |           |           |
 |       | servi\   |          |          |           |           |           |
 |       | ces`_    |          |          |           |           |           |
 |       |          |          |          |           |           |           |
-+-------+----------+----------+          +-----------+           +-----------+
-| 11:30 | `Title \ | `Ship\   |          | Open      |           | Squash /  |
-|       | To Be \  | ping \   |          | Space     |           | Tea and   |
++-------+----------+----------+          |           |           +-----------+
+| 11:30 | `Title \ | `Ship\   |          |           |           | Squash /  |
+|       | To Be \  | ping \   |          |           |           | Tea and   |
 |       | Deter\   | your \   |          |           |           | biscuits  |
 |       | mined; \ | applic\  |          |           |           |           |
 |       | A tale \ | ation \  |          |           |           |           |
@@ -201,12 +216,12 @@ Saturday 19th September 2015
 |       | Markov \ |          |          |           |           |           |
 |       | chains`_ |          |          |           |           |           |
 |       |          |          |          |           |           |           |
-+-------+----------+----------+          |           |           +-----------+
-| 12:00 | Poster   | Lunch\   |          |           |           | `PyKids \ |
-|       | Session  | time     |          |           |           | UK`_      |
-+-------+          | Workshop +----------+-----------+-----------+-----------+
-| 12:30 |          |          | Lunch\   | Open      | Py4Sci    | PyKids UK |
-|       |          |          | time     | Space     | Lunch     | Lunch     |
++-------+----------+----------+          +-----------+           +-----------+
+| 12:00 | Lunch    | Lunch\   |          | Poster    |           | `PyKids \ |
+|       | Events   | time     |          | Session   |           | UK`_      |
++-------+          | Workshop +----------+           +-----------+-----------+
+| 12:30 |          |          | Lunch\   |           | Py4Sci    | PyKids UK |
+|       |          |          | time     |           | Lunch     | Lunch     |
 |       |          |          | Workshop |           |           | (provided |
 |       |          |          |          |           |           | packed    |
 |       |          |          |          |           |           | lunch     |
@@ -218,9 +233,9 @@ Saturday 19th September 2015
 +-------+          +----------+----------+           +-----------+-----------+
 | 13:00 |          | Lunch\   | Lunch\   |           | `Getting \| `PyKids \ |
 |       |          | time     | time     |           | started \ | UK`_      |
-+-------+          | `Code    | Workshop +-----------+ with \    +-----------+
-| 13:30 |          | Clinic`_ |          | Open      | testing \ | `PyKids \ |
-|       |          |          |          | Space     | scient\   | UK`_      |
++-------+          | `Code    | Workshop |           | with \    +-----------+
+| 13:30 |          | Clinic`_ |          |           | testing \ | `PyKids \ |
+|       |          |          |          |           | scient\   | UK`_      |
 |       |          |          |          |           | ific pro\ |           |
 |       |          |          |          |           | grams`_   |           |
 |       |          |          |          |           | part 1    |           |
@@ -266,15 +281,15 @@ Saturday 19th September 2015
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+          +-----------+           |           |
-| 17:00 | `Chrome\ | `Intro \ |          | `PSF \    |           |           |
-|       | books \  | to web \ |          | Recep\    |           |           |
-|       | in \     | scrap\   |          | tion`_    |           |           |
-|       | educat\  | ing \    |          |           |           |           |
-|       | ion - \  | with \   |          |           |           |           |
-|       | the \    | scrapy`_ |          |           |           |           |
-|       | next \   |          |          |           |           |           |
-|       | five \   |          |          |           |           |           |
-|       | years`_  |          |          |           |           |           |
+| 17:00 | `Dispel\ | `Chrome\ |          | `PSF \    |           |           |
+|       | ling \   | books \  |          | Recep\    |           |           |
+|       | py.\     | in \     |          | tion`_    |           |           |
+|       | test \   | educat\  |          |           |           |           |
+|       | magic`_  | ion - \  |          |           |           |           |
+|       |          | the \    |          |           |           |           |
+|       |          | next \   |          |           |           |           |
+|       |          | five \   |          |           |           |           |
+|       |          | years`_  |          |           |           |           |
 +-------+----------+----------+          |           |           |           |
 | 17:30 | `Teach\  | `The \   |          |           |           |           |
 |       | ing \    | Fabric \ |          |           |           |           |
@@ -417,30 +432,32 @@ Sunday 20th September 2015
 Monday 21st September 2015
 --------------------------
 
-+-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| Time  | Sprint 1        | Sprint 2        | Sprint 3        | Sprint 4        | Sprint 5        |
-+=======+=================+=================+=================+=================+=================+
-| 09:30 | Sprint Opening                                                                          |
-+-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 10:00 | `Python \       | `Don't be \     | TBA             | TBA             | TBA             |
-|       | for \           | afraid to \     |                 |                 |                 |
-|       | Science \       | commit`_        |                 |                 |                 |
-|       | Sprint`_        |                 |                 |                 |                 |
-|       |                 |                 |                 |                 |                 |
-+-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 12:30 | Lunch                                                                                   |
-+-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 13:30 | `Python         | `Don't be \     | TBA             | TBA             | TBA             |
-|       | for \           | afraid to \     |                 |                 |                 |
-|       | Science         | commit`_        |                 |                 |                 |
-|       | Sprint`_        |                 |                 |                 |                 |
-|       |                 |                 |                 |                 |                 |
-|       |                 |                 |                 |                 |                 |
-+-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 16:00 | Share results together                                                                  |
-+-------+-----------------------------------------------------------------------------------------+
-| 17:00 | End of Conference, pack up, see you in 2016!                                            |
-+-------+-----------------------------------------------------------------------------------------+
++-------+----------------------------------------------------------------------+
+| Time  | Sprint Rooms                                                         |
++=======+======================================================================+
+| 09:30 | Sprint Opening                                                       |
++-------+----------------------------------------------------------------------+
+| 10:00 | Sprints are collaborative programming groups.                        |
+|       | The Sprints that have been proposed so far are:                      |
+|       |                                                                      |
+|       | * `Python for Science sprint`_                                       |
+|       | * `Don't be afraid to commit`_                                       |
+|       | * `Unit test documentation improvements`_                            |
+|       | * `Axelrod - sprint/tournament - code up strategies, get famous`_    |
+|       | * `Improving the Myrmidon Python game framework`_                    |
+|       | * `py.test sprint`_                                                  |
+|       | * `Romaine (BDD tool)`_                                              |
++-------+----------------------------------------------------------------------+
+| 12:30 | The Last Meal - we share a final meal of Fish and Chips together     |
+|       | (plus vegetarian options, etc)                                       |
++-------+----------------------------------------------------------------------+
+| 13:30 | Sprints (Continued)                                                  |
+|       |                                                                      |
++-------+----------------------------------------------------------------------+
+| 16:00 | Share results together                                               |
++-------+----------------------------------------------------------------------+
+| 17:00 | End of Conference, pack up, see you in 2016!                         |
++-------+----------------------------------------------------------------------+
 
 Notes
 -----
@@ -521,7 +538,7 @@ Notes
 .. _`Teaching youngsters to code with pgzero on Raspberry Pi`: /talks/teaching-youngsters-to-code-with-pgzero-on-raspberry-pi/
 .. _`Title To Be Determined; A tale of graphs and Markov chains`: /talks/title-to-be-determined-a-tale-of-graphs-and-markov-chains/
 .. _`Choosing a web framework for python 3 and asyncio`: /talks/choosing-a-web-framework-for-python-3-and-asyncio/
-.. _`Deploy flask application single step`: /talks/deploy-flask-application-single-step/
+.. _`Deploy a flask application in a single step`: /talks/deploy-flask-application-single-step/
 .. _`Gabbi - Declarative HTTP Testing`: /talks/gabbi-declarative-http-testing/
 .. _`Templating - Past, Present and Future`: /talks/templating-past-present-and-future/
 .. _`Building SAAs with django and polla`: /talks/building-saas-with-django-and-polla/
@@ -548,3 +565,10 @@ Notes
 .. _`Trans*Code`: /transcode/
 .. _`Teachers' CPD`: /education/#teachers
 .. _`PyKids UK`: /education/#kids
+.. _`python projects on the raspberry pi`: /talks/python-on-raspberry-pi/
+.. _`Axelrod - sprint/tournament - code up strategies, get famous`: /sprints/axelrod-sprinttournament-code-up-strategies-get-famous-fame-is-not-guaranteed/
+.. _`Improving the Myrmidon Python game framework`: /sprints/improving-the-myrmidon-python-game-framework/
+.. _`Pylint sprint`: /sprints/pylint-sprint/
+.. _`py.test sprint`: /sprints/pytest-sprint/
+.. _`Romaine (BDD tool)`: /sprints/romaine-bdd-tool/
+.. _`Unit test documentation improvements`: /sprints/unit-test-documentation-improvements/
