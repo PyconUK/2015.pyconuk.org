@@ -422,16 +422,16 @@ Monday 21st September 2015
 +=======+=================+=================+=================+=================+=================+
 | 09:30 | Sprint Opening                                                                          |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 10:00 | `Python \       | `Don't be \     | TBA             | TBA             | TBA             |
-|       | for \           | afraid to \     |                 |                 |                 |
+| 10:00 | `Python \       | `Don't be \     | MicroPython /   | TBA             | TBA             |
+|       | for \           | afraid to \     | BBC micro:bit   |                 |                 |
 |       | Science \       | commit`_        |                 |                 |                 |
 |       | Sprint`_        |                 |                 |                 |                 |
 |       |                 |                 |                 |                 |                 |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
 | 12:30 | Lunch                                                                                   |
 +-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 13:30 | `Python         | `Don't be \     | TBA             | TBA             | TBA             |
-|       | for \           | afraid to \     |                 |                 |                 |
+| 13:30 | `Python         | `Don't be \     | MicroPython /   | TBA             | TBA             |
+|       | for \           | afraid to \     | BBC micro:bit   |                 |                 |
 |       | Science         | commit`_        |                 |                 |                 |
 |       | Sprint`_        |                 |                 |                 |                 |
 |       |                 |                 |                 |                 |                 |
@@ -453,7 +453,7 @@ Notes
 
 * In the case of speaker illness or similar, minor replacements may
   happen without notice.
-  
+
 * The call for Lunchtime events is now open, see the `programme page`_
   for more information.
 
