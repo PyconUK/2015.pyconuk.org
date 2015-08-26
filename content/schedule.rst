@@ -134,11 +134,11 @@ Saturday 19th September 2015
 |       |          |          |          |           | Room      |           |
 +=======+==========+==========+==========+===========+===========+===========+
 |       | CC1.3    | CC1.4    | CC1.8    | Bistro    | CC2.1     | Simulation|
-|       |          |          |          |           |           | Centre    | 
+|       |          |          |          |           |           | Centre    |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 08:00 | Registration / Breakfast                                           | 
+| 08:00 | Registration / Breakfast                                           |
 +-------+--------------------------------------------------------------------+
-| 09:00 | Opening Plenary                                                    | 
+| 09:00 | Opening Plenary                                                    |
 +-------+----------+----------+----------+-----------+-----------+-----------+
 | 09:30 | `Manag\  | `Temp\   | `Fifty \ | Open      | `Form\    | `PyKids   |
 |       | ing \    | late \   | Shades \ | Space     | ing  a \  | UK`_      |
@@ -240,7 +240,7 @@ Saturday 19th September 2015
 +-------+--------------------------------------------------------+ UK`_      |
 | 15:15 | Plenary                                                |           |
 +-------+--------------------------------------------------------+-----------+
-| 15:30 | `Lightning PyKids UK`                                              | 
+| 15:30 | `Lightning PyKids UK`                                              |
 +-------+----------+----------+----------+-----------+-----------+-----------+
 | 16:00 | `JSON \  | `Build\  | `Scrapy \| Open      | `Getting \| PyKids    |
 |       | and \    | ing \    | Work\    | Space     | started \ | Organisers|
@@ -291,9 +291,9 @@ Saturday 19th September 2015
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 18:00 | `The Lightning Talk Show`_                                         | 
+| 18:00 | `The Lightning Talk Show`_                                         |
 +-------+--------------------------------------------------------------------+
-| 19:15 | Break                                                              | 
+| 19:15 | Break                                                              |
 +-------+--------------------------------------------+-----------------------+
 | 19:30 | `The PyCon UK Dinner`_ (Ticket required)   | Alt Party (TBA)       |
 +-------+--------------------------------------------+-----------------------+
@@ -417,30 +417,49 @@ Sunday 20th September 2015
 Monday 21st September 2015
 --------------------------
 
-+-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| Time  | Sprint 1        | Sprint 2        | Sprint 3        | Sprint 4        | Sprint 5        |
-+=======+=================+=================+=================+=================+=================+
-| 09:30 | Sprint Opening                                                                          |
-+-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 10:00 | `Python \       | `Don't be \     | TBA             | TBA             | TBA             |
-|       | for \           | afraid to \     |                 |                 |                 |
-|       | Science \       | commit`_        |                 |                 |                 |
-|       | Sprint`_        |                 |                 |                 |                 |
-|       |                 |                 |                 |                 |                 |
-+-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 12:30 | Lunch                                                                                   |
-+-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 13:30 | `Python         | `Don't be \     | TBA             | TBA             | TBA             |
-|       | for \           | afraid to \     |                 |                 |                 |
-|       | Science         | commit`_        |                 |                 |                 |
-|       | Sprint`_        |                 |                 |                 |                 |
-|       |                 |                 |                 |                 |                 |
-|       |                 |                 |                 |                 |                 |
-+-------+-----------------+-----------------+-----------------+-----------------+-----------------+
-| 16:00 | Share results together                                                                  |
-+-------+-----------------------------------------------------------------------------------------+
-| 17:00 | End of Conference, pack up, see you in 2016!                                            |
-+-------+-----------------------------------------------------------------------------------------+
+
+
+
+
+
+
+
+
+.. _`Axelrod - sprint/tournament - code up strategies, get famous`: /sprints/axelrod-sprinttournament-code-up-strategies-get-famous-fame-is-not-guaranteed/
+.. _`Improving the Myrmidon Python game framework`: /sprints/improving-the-myrmidon-python-game-framework/
+.. _`Pylint sprint`: /sprints/pylint-sprint/
+.. _`py.test sprint`: /sprints/pytest-sprint/
+.. _`Romaine (BDD tool)`: /sprints/romaine-bdd-tool/
+.. _`Unit test documentation improvements`: /sprints/unit-test-documentation-improvements/
+
+
+
++-------+----------------------------------------------------------------------+
+| Time  | Sprint Rooms                                                         |
++=======+======================================================================+
+| 09:30 | Sprint Opening                                                       |
++-------+----------------------------------------------------------------------+
+| 10:00 | Sprints are collaborative programming groups.                        |
+|       | The Sprints that have been proposed so far are:                      |
+|       |                                                                      |
+|       | * `Python for Science sprint`_                                       |
+|       | * `Don't be afraid to commit`_                                       |
+|       | * `Unit test documentation improvements`_                            |
+|       | * `Axelrod - sprint/tournament - code up strategies, get famous`_    |
+|       | * `Improving the Myrmidon Python game framework`_                    |
+|       | * `py.test sprint`_                                                  |
+|       | * `Romaine (BDD tool)`_                                              |
++-------+----------------------------------------------------------------------+
+| 12:30 | The Last Meal - we share a final meal of Fish and Chips together     |
+|       | (plus vegetarian options, etc)                                       |
++-------+----------------------------------------------------------------------+
+| 13:30 | Sprints (Continued)                                                  |
+|       |                                                                      |
++-------+----------------------------------------------------------------------+
+| 16:00 | Share results together                                               |
++-------+----------------------------------------------------------------------+
+| 17:00 | End of Conference, pack up, see you in 2016!                         |
++-------+----------------------------------------------------------------------+
 
 Notes
 -----
@@ -453,7 +472,7 @@ Notes
 
 * In the case of speaker illness or similar, minor replacements may
   happen without notice.
-  
+
 * The call for Lunchtime events is now open, see the `programme page`_
   for more information.
 
