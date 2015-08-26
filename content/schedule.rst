@@ -10,6 +10,8 @@ Schedule
 The dynamic conference for the leading dynamic language
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Jump to Friday_ |emsp| Saturday_ |emsp| Sunday_ |emsp| Monday_
+
 Friday 18th September 2015
 --------------------------
 
@@ -459,6 +461,8 @@ Monday 21st September 2015
 | 17:00 | End of Conference, pack up, see you in 2016!                         |
 +-------+----------------------------------------------------------------------+
 
+Back to Friday_ |emsp| Saturday_ |emsp| Sunday_ |emsp| Monday_
+
 Notes
 -----
 
@@ -474,6 +478,13 @@ Notes
 * The call for Lunchtime events is now open, see the `programme page`_
   for more information.
 
+.. |emsp| unicode:: U+2001
+   :trim:
+
+.. _Friday: `Friday 18th September 2015`_
+.. _Saturday: `Saturday 19th September 2015`_
+.. _Sunday: `Sunday 20th September 2015`_
+.. _Monday: `Monday 21st September 2015`_
 .. _`programme page`: /programme/
 .. _`The Lightning Talk Show`: /abstracts/#lightningtalks
 .. _`The Mellow Night`: /abstracts/#mellow
