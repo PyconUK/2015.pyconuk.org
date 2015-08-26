@@ -99,11 +99,11 @@ Friday 18th September 2015
 |       |          |          |          | Collect\ |         |       |        |
 |       |          |          |          | ion`_    |         |       |        |
 +-------+----------+----------+          +----------+         |       |        |
-| 17:00 | `Dispel\ | `Pyth\   |          | `Resil\  |         |       |        |
-|       | ling \   | on \     |          | ient \   |         |       |        |
-|       | py.\     | for \    |          | data \   |         |       |        |
-|       | test \   | mobile \ |          | pipe\    |         |       |        |
-|       | magic`_  | games \  |          | lines \  |         |       |        |
+| 17:00 | `Docu\   | `Pyth\   |          | `Resil\  |         |       |        |
+|       | ment     | on \     |          | ient \   |         |       |        |
+|       | all \    | for \    |          | data \   |         |       |        |
+|       | the \    | mobile \ |          | pipe\    |         |       |        |
+|       | things`_ | games \  |          | lines \  |         |       |        |
 |       |          | on iOS \ |          | using \  |         |       |        |
 |       |          | and \    |          | Docker-\ |         |       |        |
 |       |          | Andro\   |          | Comp\    |         |       |        |
@@ -281,11 +281,11 @@ Saturday 19th September 2015
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+          +-----------+           |           |
-| 17:00 | `Docu\   | `Chrome\ |          | `PSF \    |           |           |
-|       | ment     | books \  |          | Recep\    |           |           |
-|       | all \    | in \     |          | tion`_    |           |           |
-|       | the \    | educat\  |          |           |           |           |
-|       | things`_ | ion - \  |          |           |           |           |
+| 17:00 | `Dispel\ | `Chrome\ |          | `PSF \    |           |           |
+|       | ling \   | books \  |          | Recep\    |           |           |
+|       | py.\     | in \     |          | tion`_    |           |           |
+|       | test \   | educat\  |          |           |           |           |
+|       | magic`_  | ion - \  |          |           |           |           |
 |       |          | the \    |          |           |           |           |
 |       |          | next \   |          |           |           |           |
 |       |          | five \   |          |           |           |           |
