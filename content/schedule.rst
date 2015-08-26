@@ -25,10 +25,10 @@ Friday 18th September 2015
 +-------+------------------------------------------------------------------------------------------+
 | 09:30 | Opening Plenary                                                                          |
 +-------+---------------------------------------------------+-------------+------------+-----------+
-| 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | `Teach\   |
-+-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | ers' \    |
-| 11:30 | `Python's \| `A deep    | Learning   | `Real-T\   |             |            | CPD`_     |
-|       | Infamous \ | dive       | Python     | ime \      |             |            |           |
+| 10:30 | Keynote: Van Lindberg, PSF Chair                  | `Django\    | `Trans\    | `Tea\     |
++-------+------------+------------+------------+------------+ Girls`_     | *Code`_    | ch\       |
+| 11:30 | `Python's \| `A deep    | Learning   | `Real-T\   |             |            | ers' \    |
+|       | Infamous \ | dive       | Python     | ime \      |             |            | CPD`_     |
 |       | GIL`_      | into       | Club       | Data + Dj\ |             |            |           |
 |       |            | python     | Track      | ango = Fu\ |             |            |           |
 |       |            | import     | Intro      | n,\ Growt\ |             |            |           |
@@ -38,18 +38,21 @@ Friday 18th September 2015
 |       |            |            |            |            |             |            |           |
 |       |            |            |            |            |             |            |           |
 +-------+------------+------------+------------+------------+-------------+            |           |
-| 12:00 | Career     | `Single \  | Lunchtime  | Lunchtime  | DjangoGirls |            |           |
-|       | Clinic     | Board \    | Workshop   | Workshop   | Lunch       |            |           |
-+-------+            | Computer \ |            |            +-------------+------------+           |
-| 12:30 |            | Hack\      |            |            | `Django\    | Trans*Code |           |
-|       |            | Space`_    |            |            | Girls`_     | Lunch      |           |
+| 12:00 | Career     | `Single \  | Lunchtime  | Lunchtime  | Django\     |            |           |
+|       | Clinic     | Board \    | Workshop   | Workshop   | Girls       |            |           |
+|       |            | Comput\    |            |            | Lunch       |            |           |
++-------+            | er \       |            |            +-------------+------------+           |
+| 12:30 |            | Hack\      |            |            | `Django\    | Trans*\    |           |
+|       |            | Space`_    |            |            | Girls`_     | Code       |           |
+|       |            |            |            |            |             | Lunch      |           |
 +-------+------------+------------+------------+------------+             +------------+-----------+
-| 13:00 | PGP key    | Lunchtime  | Lunchtime  | Lunchtime  |             | `Trans\    | Teachers' |
-|       | signing    | Workshop   | Workshop   | Workshop   |             | *Code`_    | Lunch     |
-+-------+ party      |            |            |            |             |            +-----------+
-| 13:30 |            |            |            |            |             |            | `Teacher\ |
-|       |            |            |            |            |             |            | s' CPD`_  |
-+-------+------------+------------+------------+------------+             |            |           |
+| 13:00 | PGP key    | Lunchtime  | Lunchtime  | Lunchtime  |             | `Trans\    | Teach\    |
+|       | signing    | Workshop   | Workshop   | Workshop   |             | *Code`_    | ers'      |
+|       | party      |            |            |            |             |            | Lunch     |
++-------+            |            |            |            |             |            +-----------+
+| 13:30 |            |            |            |            |             |            | `Teac\    |
+|       |            |            |            |            |             |            | hers' \   |
++-------+------------+------------+------------+------------+             |            | CPD`_     |
 | 14:00 | Keynote: Kenneth Reitz - Python 2 vs Python 3, a  |             |            |           |
 |       | Sacred Love Story                                 |             |            |           |
 +-------+------------+------------+------------+------------+             |            |           |
