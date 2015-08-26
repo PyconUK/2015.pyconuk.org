@@ -1,0 +1,93 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="intro">
+    <div class="column_intro">
+        <div class="textblock">
+            <h1 class="huge">{{ page.title }}</h1>
+        </div>
+    </div>
+</div>
+
+<article class="main-article">
+    <div class="content">
+        <div class="column_content">
+            <div class="textblock">
+
+<style>
+h2.day {
+    display: inline-block;
+    margin-top: 1em;
+}
+summary {cursor: pointer;}
+summary:focus {outline: none;}
+
+table.schedule {
+    margin-left: 1em;
+    width: 90%;
+}
+table.schedule tbody {
+    border-bottom: 1px solid #E1E1E1;
+    border-top: 1px solid #E1E1E1;
+}
+table.schedule td,
+table.schedule th {
+    border: none;
+    padding: 8px 0px 8px 8px;
+    vertical-align: top;
+}
+.title,
+.speaker {
+    display: block;
+}
+.start,
+.speaker,
+.duration,
+.location {
+    font-size: 0.8em;
+    color: #707070;
+}
+</style>
+{% for day, events in schedule|groupby('day') %}
+<details class=day open>
+    <summary>
+        <h2 class=day id="{{day|format_day_id}}">{{ day.strftime('%A') }}</h2>
+    </summary>
+    <table class=schedule>
+        {% for start, events in events|groupby('start') %}
+        <tbody>
+            {% for ev in events %}
+            <tr>
+                {% if loop.first %}
+                <td rowspan="{{loop.length}}">
+                    <time class=start datetime="{{start}}">
+                        {{ start.strftime('%H:%M') }}
+                    </time>
+                </th>
+                {% endif %}
+                <td class=event>
+                    {% if ev.href %}
+                    <span class=title><a href="{{ev.href}}">{{ ev.title }}</a></span>
+                    {% else %}
+                    <span class=title>{{ ev.title }}</span>
+                    {% endif %}
+                    {% if ev.speaker %}
+                    <span class=speaker>{{ev.speaker}}</span>
+                    {% endif %}
+                    {% if ev.duration %}
+                    <time class=duration>{{ ev.duration|format_duration }}</time>
+                    {% endif %}
+                    <span class=location>{{ ev.location }}</span>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        {% endfor %}
+    </table>
+</details>
+{% endfor %}
+            </div>
+        </div>
+    </div>
+</article>
+{% endblock content %}
