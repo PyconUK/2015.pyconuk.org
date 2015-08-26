@@ -431,23 +431,6 @@ Sunday 20th September 2015
 Monday 21st September 2015
 --------------------------
 
-
-
-
-
-
-
-
-
-.. _`Axelrod - sprint/tournament - code up strategies, get famous`: /sprints/axelrod-sprinttournament-code-up-strategies-get-famous-fame-is-not-guaranteed/
-.. _`Improving the Myrmidon Python game framework`: /sprints/improving-the-myrmidon-python-game-framework/
-.. _`Pylint sprint`: /sprints/pylint-sprint/
-.. _`py.test sprint`: /sprints/pytest-sprint/
-.. _`Romaine (BDD tool)`: /sprints/romaine-bdd-tool/
-.. _`Unit test documentation improvements`: /sprints/unit-test-documentation-improvements/
-
-
-
 +-------+----------------------------------------------------------------------+
 | Time  | Sprint Rooms                                                         |
 +=======+======================================================================+
@@ -582,3 +565,9 @@ Notes
 .. _`Teachers' CPD`: /education/#teachers
 .. _`PyKids UK`: /education/#kids
 .. _`python projects on the raspberry pi`: /talks/python-on-raspberry-pi/
+.. _`Axelrod - sprint/tournament - code up strategies, get famous`: /sprints/axelrod-sprinttournament-code-up-strategies-get-famous-fame-is-not-guaranteed/
+.. _`Improving the Myrmidon Python game framework`: /sprints/improving-the-myrmidon-python-game-framework/
+.. _`Pylint sprint`: /sprints/pylint-sprint/
+.. _`py.test sprint`: /sprints/pytest-sprint/
+.. _`Romaine (BDD tool)`: /sprints/romaine-bdd-tool/
+.. _`Unit test documentation improvements`: /sprints/unit-test-documentation-improvements/
