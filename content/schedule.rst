@@ -193,19 +193,19 @@ Saturday 19th September 2015
 |       |          | writing \|          |           |           |           |
 |       |          | them`_   |          |           |           |           |
 +-------+----------+----------+          +-----------+           +-----------+
-| 11:00 | `Taming \| `Lang\   |          | Open      |           | `PyKids \ |
-|       | a \      | uage \   |          | Space     |           | UK`_      |
-|       | Legacy \ | Compos\  |          |           |           |           |
-|       | Code\    | ition \  |          |           |           |           |
+| 11:00 | `Taming \| `Lang\   |          | Setup     |           | `PyKids \ |
+|       | a \      | uage \   |          | for       |           | UK`_      |
+|       | Legacy \ | Compos\  |          | Poster    |           |           |
+|       | Code\    | ition \  |          | Session   |           |           |
 |       | base \   | with \   |          |           |           |           |
 |       | with \   | RPytho\  |          |           |           |           |
 |       | (Micro)\ | n`_      |          |           |           |           |
 |       | servi\   |          |          |           |           |           |
 |       | ces`_    |          |          |           |           |           |
 |       |          |          |          |           |           |           |
-+-------+----------+----------+          +-----------+           +-----------+
-| 11:30 | `Title \ | `Ship\   |          | Open      |           | Squash /  |
-|       | To Be \  | ping \   |          | Space     |           | Tea and   |
++-------+----------+----------+          |           |           +-----------+
+| 11:30 | `Title \ | `Ship\   |          |           |           | Squash /  |
+|       | To Be \  | ping \   |          |           |           | Tea and   |
 |       | Deter\   | your \   |          |           |           | biscuits  |
 |       | mined; \ | applic\  |          |           |           |           |
 |       | A tale \ | ation \  |          |           |           |           |
@@ -215,12 +215,12 @@ Saturday 19th September 2015
 |       | Markov \ |          |          |           |           |           |
 |       | chains`_ |          |          |           |           |           |
 |       |          |          |          |           |           |           |
-+-------+----------+----------+          |           |           +-----------+
-| 12:00 | Poster   | Lunch\   |          |           |           | `PyKids \ |
-|       | Session  | time     |          |           |           | UK`_      |
-+-------+          | Workshop +----------+-----------+-----------+-----------+
-| 12:30 |          |          | Lunch\   | Open      | Py4Sci    | PyKids UK |
-|       |          |          | time     | Space     | Lunch     | Lunch     |
++-------+----------+----------+          +-----------+           +-----------+
+| 12:00 | Lunch    | Lunch\   |          | Poster    |           | `PyKids \ |
+|       | Events   | time     |          | Session   |           | UK`_      |
++-------+          | Workshop +----------+           +-----------+-----------+
+| 12:30 |          |          | Lunch\   |           | Py4Sci    | PyKids UK |
+|       |          |          | time     |           | Lunch     | Lunch     |
 |       |          |          | Workshop |           |           | (provided |
 |       |          |          |          |           |           | packed    |
 |       |          |          |          |           |           | lunch     |
@@ -232,9 +232,9 @@ Saturday 19th September 2015
 +-------+          +----------+----------+           +-----------+-----------+
 | 13:00 |          | Lunch\   | Lunch\   |           | `Getting \| `PyKids \ |
 |       |          | time     | time     |           | started \ | UK`_      |
-+-------+          | `Code    | Workshop +-----------+ with \    +-----------+
-| 13:30 |          | Clinic`_ |          | Open      | testing \ | `PyKids \ |
-|       |          |          |          | Space     | scient\   | UK`_      |
++-------+          | `Code    | Workshop |           | with \    +-----------+
+| 13:30 |          | Clinic`_ |          |           | testing \ | `PyKids \ |
+|       |          |          |          |           | scient\   | UK`_      |
 |       |          |          |          |           | ific pro\ |           |
 |       |          |          |          |           | grams`_   |           |
 |       |          |          |          |           | part 1    |           |
