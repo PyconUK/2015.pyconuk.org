@@ -134,11 +134,11 @@ Saturday 19th September 2015
 |       |          |          |          |           | Room      |           |
 +=======+==========+==========+==========+===========+===========+===========+
 |       | CC1.3    | CC1.4    | CC1.8    | Bistro    | CC2.1     | Simulation|
-|       |          |          |          |           |           | Centre    | 
+|       |          |          |          |           |           | Centre    |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 08:00 | Registration / Breakfast                                           | 
+| 08:00 | Registration / Breakfast                                           |
 +-------+--------------------------------------------------------------------+
-| 09:00 | Opening Plenary                                                    | 
+| 09:00 | Opening Plenary                                                    |
 +-------+----------+----------+----------+-----------+-----------+-----------+
 | 09:30 | `Manag\  | `Temp\   | `Fifty \ | Open      | `Form\    | `PyKids   |
 |       | ing \    | late \   | Shades \ | Space     | ing  a \  | UK`_      |
@@ -240,7 +240,7 @@ Saturday 19th September 2015
 +-------+--------------------------------------------------------+ UK`_      |
 | 15:15 | Plenary                                                |           |
 +-------+--------------------------------------------------------+-----------+
-| 15:30 | `Lightning PyKids UK`                                              | 
+| 15:30 | `Lightning PyKids UK`                                              |
 +-------+----------+----------+----------+-----------+-----------+-----------+
 | 16:00 | `JSON \  | `Build\  | `Scrapy \| Open      | `Getting \| PyKids    |
 |       | and \    | ing \    | Work\    | Space     | started \ | Organisers|
@@ -291,9 +291,9 @@ Saturday 19th September 2015
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 18:00 | `The Lightning Talk Show`_                                         | 
+| 18:00 | `The Lightning Talk Show`_                                         |
 +-------+--------------------------------------------------------------------+
-| 19:15 | Break                                                              | 
+| 19:15 | Break                                                              |
 +-------+--------------------------------------------+-----------------------+
 | 19:30 | `The PyCon UK Dinner`_ (Ticket required)   | Alt Party (TBA)       |
 +-------+--------------------------------------------+-----------------------+
@@ -345,11 +345,11 @@ Sunday 20th September 2015
 |       | conversa\  |            |            |            |            |
 |       | tions`_    |            |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 11:30 | `FIDO - \  | `Python \  |            | Open       | `Power: \  |
-|       | The dog \  | 3000 \     |            | Space      | Python in \|
-|       | ate \      | coming \   |            |            | Astronomy`_|
-|       | my \       | late \     |            |            |            |
-|       | password`_ | 2008`_     |            |            |            |
+| 11:30 | `FIDO - \  | `The \     |            | Open       | `Power: \  |
+|       | The dog \  | Ladder \   |            | Space      | Python in \|
+|       | ate \      | to \       |            |            | Astronomy`_|
+|       | my \       | Python \   |            |            |            |
+|       | password`_ | 3`_        |            |            |            |
 +-------+------------+------------+            +------------+------------+
 | 12:00 | `PyCon UK \| Lunchtime  |            | Open       | `Pythons \ |
 |       | Jobs Fair`_| `Code      |            | Space      | and \      |
@@ -453,7 +453,7 @@ Notes
 
 * In the case of speaker illness or similar, minor replacements may
   happen without notice.
-  
+
 * The call for Lunchtime events is now open, see the `programme page`_
   for more information.
 
@@ -513,7 +513,7 @@ Notes
 .. _`Chromebooks in education - the next five years`: /talks/chromebooks-in-education-the-next-five-years/
 .. _`json and the daughters of pelias`: /talks/json-and-the-daughters-of-pelias/
 .. _`the drogulus or how i learned to stop worrying and love decentralization`: /talks/the-drogulus-or-how-i-learned-to-stop-worrying-and-love-decentralization/
-.. _`Python 3000 coming late 2008`: /talks/python-3000-coming-late-2008/
+.. _`The Ladder to Python 3`: /talks/the-ladder-to-python3/
 .. _`All I really want is power`: /talks/all-i-really-want-is-power/
 .. _`Language Composition with RPython`: /talks/language-composition-with-rpython/
 .. _`testing and async - a journey`: /talks/testing-async-a-journey/
