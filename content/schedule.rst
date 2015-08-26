@@ -41,17 +41,17 @@ Friday 18th September 2015
 |       |          |          |          | h + \    |          |         |        |
 |       |          |          |          | Profit`_ |          |         |        |
 +-------+----------+----------+----------+----------+----------+         |        |
-| 12:00 | Career   | `Sin\    | Lunch\   | Lunch\   | Django\  |         |        |
-|       | Clinic   | gle \    | time     | time     | Girls    |         |        |
-|       |          | Board \  | Event    | Event    | Lunch    |         |        |
+| 12:00 | Lunch\   | `Sin\    | Career   | Lunch\   | Django\  |         |        |
+|       | time     | gle \    | Clinic   | time     | Girls    |         |        |
+|       | Event    | Board \  |          | Event    | Lunch    |         |        |
 +-------+          | Comput\  |          |          +----------+---------+        |
 | 12:30 |          | er \     |          |          | `Django\ | Trans*\ |        |
 |       |          | Hack\    |          |          | Girls`_  | Code    |        |
 |       |          | Space`_  |          |          |          | Lunch   |        |
-+-------+----------+----------+----------+----------+          +---------+--------+
-| 13:00 | PGP key  | Lunch\   | Lunch\   | Lunch\   |          | `Trans\ | Teach\ |
-|       | signing  | time     | time     | time     |          | *Code`_ | ers'   |
-|       | party    | Event    | Event    | Event    |          |         | Lunch  |
++-------+----------+----------+          +----------+          +---------+--------+
+| 13:00 | PGP key  | Lunch\   |          | Lunch\   |          | `Trans\ | Teach\ |
+|       | signing  | time     |          | time     |          | *Code`_ | ers'   |
+|       | party    | Event    |          | Event    |          |         | Lunch  |
 +-------+          |          |          |          |          |         +--------+
 | 13:30 |          |          |          |          |          |         | `Teac\ |
 |       |          |          |          |          |          |         | he\    |
