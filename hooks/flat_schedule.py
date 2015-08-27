@@ -164,7 +164,7 @@ def stringify_children(node):
                                       ))
              + [node.tail])
     # filter removes possible Nones in texts and tails
-    return ''.join(part.strip() for part in parts if part is not None)
+    return ''.join(part for part in parts if part is not None)
 
 
 def events(table):
