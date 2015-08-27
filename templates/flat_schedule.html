@@ -30,9 +30,9 @@
             {% for ev in events %}
             <tr>
                 {% if loop.first %}
-                <td rowspan="{{loop.length}}">
+                <th rowspan="{{loop.length}}">
                     <time class=start datetime="{{start}}">
-                        {{ start.strftime('%H:%M') }}
+                        {{ start.hour }}<span class=minute>:{{ start.strftime('%M') }}</span>
                     </time>
                 </th>
                 {% endif %}

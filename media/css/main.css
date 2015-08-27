@@ -805,13 +805,33 @@ summary {cursor: pointer;}
 .schedule td,
 .schedule th {
     border: none;
-    padding: 8px 0px 8px 8px;
+    padding: 8px 8px 8px 8px;
+    line-height: 1.1;
     vertical-align: top;
+}
+.schedule tr:first-child td,
+.schedule tr:first-child th {
+    padding-top: 16px;
+}
+
+.schedule tr:last-child td,
+.schedule tr:last-child th {
+    padding-bottom: 16px;
 }
 
 .schedule p.first,
 .docutils p.first {
     margin-top: 0;
+}
+
+.start {
+    float: right;
+    font-weight: normal;
+    font-size: 1.5em;
+}
+.start .minute {
+    vertical-align: text-top;
+    font-size: 0.7em;
 }
 
 .event .duration,
