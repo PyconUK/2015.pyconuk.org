@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import datetime
+import errno
 import io
 import itertools
 import os
@@ -43,18 +44,23 @@ def parse_time(s):
 def parse_days(tree):
     """Yields (day, table) for each day covered by the tabular schedule
     """
-    for section in tree.xpath('.//div[@class="section"]'):
-        day = section.find('./h1').text
-        table = section.find('./table')
-        if day is not None and table is not None:
-            day = parse_date(day)
+    for section in tree.xpath('''
+            //div[@class="section"
+                  and (starts-with(@id, "friday")
+                       or starts-with(@id, "saturday")
+                       or starts-with(@id, "sunday")
+                       or starts-with(@id, "monday")
+                       )
+                  ]'''):
+        day = parse_date(section[0].text)
+        for table in section.xpath('.//table'):
             yield day, table
 
 
 def collapse_whitespace(s):
-    """Strips surrounding whitespace & repeated spaces from s
+    """Strips surrounding & repeated whitespace from s
     """
-    return re.sub(r' ', ' ', s.strip())
+    return re.sub(r'\s+', ' ', s.strip())
 
 
 def iter_cells(cells):
@@ -80,46 +86,85 @@ def parse_rooms(table):
             yield text1
 
 
-def parse_speaker(href):
-    """Returns the speaker of a event, parsed from the Markdown abstract
-    """
-    m = re.match(r'/talks/(?P<slug>[a-z0-9-]+)/', href)
-    if not m:
-        return None
-    try:
-        path = 'content/talks/{}.md'.format(m.group('slug'))
-    except:
-        print repr(href), m.groupdict()
-        raise
-    try:
-        with io.open(path, encoding='utf-8') as f:
-            markdown = f.read(1024)
-    except IOError:
-        return None
-    m = re.search(
-        r'^### +?(?P<speaker>[\w][^\n]+?)\n',
-        markdown,
-        re.UNICODE | re.MULTILINE,
-        )
+def parse_event_href(href):
+    m = re.match(r'''
+        /(?P<type>demo|panel|sprint|talk|workshop)s
+        /(?P<slug>[a-z0-9-]+)
+        /
+        ''',
+        href,
+        re.VERBOSE)
     if m:
-        return m.group('speaker')
+        return m.groupdict()
+    return {}
 
 
-def parse_event(td):
+def parse_abstract(href):
+    """Returns info about an event, parsed from the Markdown abstract
+    """
+    info = parse_event_href(href)
+    if not info:
+        return info
+    path = 'content/{type}s/{slug}.md'.format(**info)
+    with io.open(path, encoding='utf-8') as f:
+            markdown = f.read(1024)
+
+    m = re.search(r'^### +?(?P<speaker>[\w][^\n]+?)\n',
+                  markdown, re.UNICODE | re.MULTILINE)
+    if m:
+        info.update(m.groupdict())
+
+    m = re.search(r'^### +?\[(?P<speaker>[\w][^\]]+?)\]',
+                  markdown, re.UNICODE | re.MULTILINE)
+    if m:
+        info.update(m.groupdict())
+    return info
+
+
+def parse_event_title(title, default_room):
+    """Parse an event title that may contain extra room information
+
+    >>> parse_event_title('Foo', 'Broom closet')
+    ('Foo', 'Broom closet')
+    >>> parse_event_title('Foo (in the Atrium)', 'Broom closet')
+    ('Foo', 'Atrium')
+    >>> parse_event_title('Foo (in The Atrium)', 'Broom closet')
+    ('Foo', 'The Atrium')
+    """
+    title = collapse_whitespace(title)
+
+    m = re.match(r'(?P<title>.+) \((?:in the|in) (?P<room>[^)]+)\)',
+                 title, re.UNICODE)
+    if m:
+        return m.group('title'), m.group('room')
+
+    if re.match(r'(?:registration[ /&]+)?breakfast', title, re.IGNORECASE):
+        return title, 'Cafeteria'
+
+    return title, default_room
+
+
+def parse_event(td, default_room=None):
     """Returns the details of an event, parsed from a table cell
     """
-    a = td.find('./a')
-    elem = a if a is not None else td
-    href = elem.get('href')
-    if href is not None:
-        speaker = parse_speaker(href)
-    else:
-        speaker = None
-    if elem.text is not None:
-        title = collapse_whitespace(elem.text)
-    else:
-        title = None
-    return href, title, speaker
+    anchors = list(td.xpath('a'))
+    href = anchors[0].get('href') if len(anchors) == 1 else None
+    abstract_info = parse_abstract(href) if href is not None else {}
+    speaker = abstract_info.get('speaker')
+    type_ = abstract_info.get('type')
+    title, room = parse_event_title(td.text_content(), default_room)
+    return href, title, room, speaker, type_
+
+
+def stringify_children(node):
+    # http://stackoverflow.com/a/28173933/293340
+    parts = ([node.text]
+             + list(itertools.chain(*([lxml.html.tostring(c, with_tail=False),
+                                       c.tail] for c in node.getchildren())
+                                      ))
+             + [node.tail])
+    # filter removes possible Nones in texts and tails
+    return ''.join(part.strip() for part in parts if part is not None)
 
 
 def events(table):
@@ -134,23 +179,25 @@ def events(table):
         tds = tr.xpath('./td')[1:]
         j = 0
         for td in tds:
-            room = rooms[j]
             rowspan = int(td.get('rowspan', 1))
             colspan = int(td.get('colspan', 1))
             try:
                 finish_time = times[i+rowspan]
             except IndexError:
                 finish_time = None
-            href, title, speaker = parse_event(td)
-            if title:
-                yield {
-                    'start': start_time,
-                    'finish': finish_time,
-                    'href': href,
-                    'location': room,
-                    'title': title,
-                    'speaker': speaker,
-                    }
+            href, title, room, speaker, type_ = parse_event(td, rooms[j])
+            rawhtml = stringify_children(td)
+            event = {
+                'start': start_time,
+                'finish': finish_time,
+                'href': href,
+                'location': room,
+                'title': title,
+                'speaker': speaker,
+                'type': type_,
+                'rawhtml': rawhtml,
+                }
+            yield event
             j += colspan
 
 
@@ -241,28 +288,51 @@ def render_schedule(schedule, template_dir):
     return html
 
 
-def write_flat_schedule(config):
-    schedule_dir = os.path.join(config['output_dir'], 'schedule')
-    tab_sched_path = os.path.join(schedule_dir, 'index.html')
+def read_html_tabular_schedule(config):
+    """Returns a list of events, from a Tabular HTML schedule
+    """
+    tab_sched_dir = os.path.join(config['output_dir'], 'schedule')
+    tab_sched_path = os.path.join(tab_sched_dir, 'index.html')
     tab_sched_etree = lxml.html.parse(tab_sched_path)
 
-    schedule = parse_tabular_schedule(tab_sched_etree)
-    schedule_html = render_schedule(schedule, config['template_dir'])
+    return list(parse_tabular_schedule(tab_sched_etree))
 
-    schedule_path = os.path.join(schedule_dir, 'flat.html')
+
+def read_rst_tabular_schedule(config):
+    """Returns a list of events, from a Tabular reStructuredText schedule
+    """
+    tab_sched_rst = io.open('content/schedule.rst', encoding='utf-8').read()
+    tab_sched_rst = tab_sched_rst.split('---\n', 1)[1]
+    tab_sched_html = docutils.examples.html_body(tab_sched_rst)
+    tab_sched_etree = lxml.html.fromstring(tab_sched_html)
+
+    return list(parse_tabular_schedule(tab_sched_etree))
+
+
+def mkdirs(path):
+    try:
+        os.mkdir(path)
+    except os.error as exc:
+        if exc.errno != errno.EEXIST:
+            raise
+
+
+def write_flat_schedule(schedule, config):
+    schedule_html = render_schedule(schedule, config['template_dir'])
+    schedule_dir = os.path.join(config['output_dir'], 'schedule', 'flat')
+    schedule_path = os.path.join(schedule_dir, 'index.html')
+
+    mkdirs(schedule_dir)
     with io.open(schedule_path, 'w', encoding='utf-8') as f:
         f.write(schedule_html)
 
 
+def create_flat_schedule(config):
+    schedule = read_html_tabular_schedule(config)
+    write_flat_schedule(schedule, config)
+
+
 if __name__ == '__main__':
-    # Get the html of the tabular schedule
-    sched_rst = io.open('content/schedule.rst', encoding='utf-8').read()
-    sched_rst = sched_rst.split('---\n', 1)[1]
-    sched_html = docutils.examples.html_body(sched_rst)
-
-    # Parse the html of the tabular schedule 
-    sched_etree = lxml.html.fromstring(sched_html)
-    schedule = parse_tabular_schedule(sched_etree)
-
-    with io.open('flat_schedule.html', 'w', encoding='utf-8') as f:
-        f.write(html)
+    config = {'template_dir': 'templates', 'output_dir': 'output'}
+    schedule = read_rst_tabular_schedule(config)
+    write_flat_schedule(schedule, config)

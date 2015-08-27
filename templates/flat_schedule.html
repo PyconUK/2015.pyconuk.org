@@ -14,40 +14,11 @@
         <div class="column_content">
             <div class="textblock">
 
-<style>
-h2.day {
-    display: inline-block;
-    margin-top: 1em;
-}
-summary {cursor: pointer;}
-summary:focus {outline: none;}
-
-table.schedule {
-    margin-left: 1em;
-    width: 90%;
-}
-table.schedule tbody {
-    border-bottom: 1px solid #E1E1E1;
-    border-top: 1px solid #E1E1E1;
-}
-table.schedule td,
-table.schedule th {
-    border: none;
-    padding: 8px 0px 8px 8px;
-    vertical-align: top;
-}
-.title,
-.speaker {
-    display: block;
-}
-.start,
-.speaker,
-.duration,
-.location {
-    font-size: 0.8em;
-    color: #707070;
-}
-</style>
+<p>Jump to
+{% for day, events in schedule|groupby('day') %}
+<a href="#{{day|format_day_id}}">{{ day.strftime('%A') }}</a>&ensp;
+{% endfor %}
+</p>
 {% for day, events in schedule|groupby('day') %}
 <details class=day open>
     <summary>
@@ -65,17 +36,22 @@ table.schedule th {
                     </time>
                 </th>
                 {% endif %}
-                <td class=event>
-                    {% if ev.href %}
-                    <span class=title><a href="{{ev.href}}">{{ ev.title }}</a></span>
-                    {% else %}
-                    <span class=title>{{ ev.title }}</span>
-                    {% endif %}
-                    {% if ev.speaker %}
-                    <span class=speaker>{{ev.speaker}}</span>
-                    {% endif %}
+                <td class="event {{ev.type or ''}}">
+                    <div class=title>{{ ev.rawhtml|safe }}</div>
+                    <div>
+                        {% if ev.type %}
+                        <span class=type>{{ ev.type.title() }}</span>
+                        {% endif %}
+                        {% if ev.type and ev.speaker %}
+                        <span class=filler>by</span>
+                        {% endif %}
+                        {% if ev.speaker %}
+                        <span class=speaker>{{ev.speaker}}</span>
+                        {% endif %}
+                    </div>
                     {% if ev.duration %}
                     <time class=duration>{{ ev.duration|format_duration }}</time>
+                    <span class=filler>in</span>
                     {% endif %}
                     <span class=location>{{ ev.location }}</span>
                 </td>
@@ -86,6 +62,14 @@ table.schedule th {
     </table>
 </details>
 {% endfor %}
+
+<p>Back to
+{% for day, events in schedule|groupby('day') %}
+&emsp;
+<a href="#{{day|format_day_id}}">{{ day.strftime('%A') }}</a>&ensp;
+{% endfor %}
+</p>
+
             </div>
         </div>
     </div>

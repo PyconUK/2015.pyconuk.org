@@ -784,3 +784,47 @@ iframe {
 .sponsors img.wide-logo {
   width: 480px;
 }
+
+/* FLAT SCHEDULE */
+summary h2.day {
+    display: inline-block;
+    margin-top: 1em;
+}
+summary {cursor: pointer;}
+
+.schedule {
+    margin-left: 1em;
+    width: 90%;
+}
+
+.schedule tbody {
+    border-bottom: 1px solid #E1E1E1;
+    border-top: 1px solid #E1E1E1;
+}
+
+.schedule td,
+.schedule th {
+    border: none;
+    padding: 8px 0px 8px 8px;
+    vertical-align: top;
+}
+
+.schedule p.first,
+.docutils p.first {
+    margin-top: 0;
+}
+
+.event .duration,
+.event .speaker,
+.event .type,
+.event .location {
+    font-size: 0.8em;
+    color: #707070;
+}
+
+.event .filler {
+    font-size: 0.8em;
+    color: #909090;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+}
