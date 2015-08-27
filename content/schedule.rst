@@ -10,6 +10,8 @@ Schedule
 The dynamic conference for the leading dynamic language
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Jump to Friday_ |emsp| Saturday_ |emsp| Sunday_ |emsp| Monday_
+
 Friday 18th September 2015
 --------------------------
 
@@ -21,9 +23,9 @@ Friday 18th September 2015
 |       |          |          |          |          |                 | Educa\ |
 |       |          |          |          |          |                 | tion   |
 |       |          |          |          |          |                 | Track  |
-+=======+==========+==========+==========+==========+=================+========+
++-------+----------+----------+----------+----------+-----------------+--------+
 |       | CC1.3    | CC1.4    | CC1.8    | CC2.1    | Simulation Centre        |
-+-------+----------+----------+----------+----------+--------------------------+
++=======+==========+==========+==========+==========+==========================+
 | 08:00 | Registration / Breakfast                                             |
 +-------+----------------------------------------------------------------------+
 | 09:30 | Opening Plenary                                                      |
@@ -147,10 +149,10 @@ Saturday 19th September 2015
 |       |          |          |          |           | bility    | Track     |
 |       |          |          |          |           | Institute |           |
 |       |          |          |          |           | Room      |           |
-+=======+==========+==========+==========+===========+===========+===========+
++-------+----------+----------+----------+-----------+-----------+-----------+
 |       | CC1.3    | CC1.4    | CC1.8    | Bistro    | CC2.1     | Simulation|
 |       |          |          |          |           |           | Centre    |
-+-------+----------+----------+----------+-----------+-----------+-----------+
++=======+==========+==========+==========+===========+===========+===========+
 | 08:00 | Registration / Breakfast                                           |
 +-------+--------------------------------------------------------------------+
 | 09:00 | Opening Plenary                                                    |
@@ -324,6 +326,9 @@ Sunday 20th September 2015
 |       |            |            |            |            | ility      |
 |       |            |            |            |            | Institute  |
 |       |            |            |            |            | Room       |
++-------+------------+------------+------------+------------+------------+
+|       | CC1.3      | CC1.4      | CC1.8      | Bistro     | CC2.1      |
+|       |            |            |            |            |            |
 +=======+============+============+============+============+============+
 | 08:00 | Breakfast                                                      |
 +-------+----------------------------------------------------------------+
@@ -459,6 +464,8 @@ Monday 21st September 2015
 | 17:00 | End of Conference, pack up, see you in 2016!                         |
 +-------+----------------------------------------------------------------------+
 
+Back to Friday_ |emsp| Saturday_ |emsp| Sunday_ |emsp| Monday_
+
 Notes
 -----
 
@@ -474,6 +481,13 @@ Notes
 * The call for Lunchtime events is now open, see the `programme page`_
   for more information.
 
+.. |emsp| unicode:: U+2001
+   :trim:
+
+.. _Friday: `Friday 18th September 2015`_
+.. _Saturday: `Saturday 19th September 2015`_
+.. _Sunday: `Sunday 20th September 2015`_
+.. _Monday: `Monday 21st September 2015`_
 .. _`programme page`: /programme/
 .. _`The Lightning Talk Show`: /abstracts/#lightningtalks
 .. _`The Mellow Night`: /abstracts/#mellow
