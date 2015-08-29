@@ -10,8 +10,10 @@
 
         <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
         <link rel="stylesheet" href="/css/main.css">
+        {% if page.tito_required %}
         <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1' />
         <script src='https://js.tito.io/v1' async></script>
+        {% endif %}
     </head>
 
     <body class="{{ page.body_class_hack }}">
