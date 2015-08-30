@@ -722,6 +722,14 @@ iframe {
   margin: 2em 0 0.5em 0;
   color: black;
 }
+.content h1:first-child,
+.content h2:first-child,
+.content h3:first-child,
+.content h4:first-child,
+.content h5:first-child,
+.content h6:first-child {
+  margin-top: 0em
+}
 .textblock dt {
   font-weight: bold;
   color: black;
