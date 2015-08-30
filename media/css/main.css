@@ -708,10 +708,16 @@ iframe {
 }
 .textblock .huge {
   margin: 0.5em 0 0 0;
-  font-size: 6em;
+  font-size: 3em;
   text-transform: uppercase;
   text-align: center;
 }
+@media all and (min-width:560px) {
+  .textblock .huge {
+    font-size: 4.5em;
+  }
+}
+
 .textblock h1,
 .textblock h2,
 .textblock h3,
