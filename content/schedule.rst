@@ -452,6 +452,7 @@ Monday 21st September 2015
 |       | * `Improving the Myrmidon Python game framework`_                    |
 |       | * `py.test sprint`_                                                  |
 |       | * `Romaine (BDD tool)`_                                              |
+|       | * MicroPython / BBC micro:bit                                        |
 +-------+----------------------------------------------------------------------+
 | 12:30 | The Last Meal - we share a final meal of Fish and Chips together     |
 |       | (plus vegetarian options, etc)                                       |
