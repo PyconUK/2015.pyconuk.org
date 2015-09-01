@@ -445,6 +445,7 @@ Monday 21st September 2015
 | 10:00 | Sprints are collaborative programming groups.                        |
 |       | The Sprints that have been proposed so far are:                      |
 |       |                                                                      |
+|       | * `Pylint sprint`_                                                   |
 |       | * `Python for Science sprint`_                                       |
 |       | * `Don't be afraid to commit`_                                       |
 |       | * `Unit test documentation improvements`_                            |
