@@ -454,6 +454,7 @@ Monday 21st September 2015
 |       | * `py.test sprint`_                                                  |
 |       | * `Romaine (BDD tool)`_                                              |
 |       | * MicroPython / BBC micro:bit                                        |
+|       | * `Pylint sprint`_                                                   |
 +-------+----------------------------------------------------------------------+
 | 12:30 | The Last Meal - we share a final meal of Fish and Chips together     |
 |       | (plus vegetarian options, etc)                                       |
