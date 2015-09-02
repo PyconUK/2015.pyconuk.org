@@ -235,26 +235,33 @@ Saturday 19th September 2015
 +-------+          +----------+----------+           +-----------+-----------+
 | 13:00 |          | Lunch\   | Lunch\   |           | `Getting \| `PyKids \ |
 |       |          | time     | time     |           | started \ | UK`_      |
-+-------+          | `Code    | Workshop |           | with \    +-----------+
-| 13:30 |          | Clinic`_ |          |           | testing \ | `PyKids \ |
-|       |          |          |          |           | scient\   | UK`_      |
++-------+          | `Code    | Workshop |           | with \    |           |
+| 13:30 |          | Clinic`_ |          |           | testing \ |           |
+|       |          |          |          |           | scient\   |           |
 |       |          |          |          |           | ific pro\ |           |
 |       |          |          |          |           | grams`_   |           |
 |       |          |          |          |           | part 1    |           |
-+-------+----------+----------+----------+-----------+-----------+-----------+
-| 14:00 | Plenary                                    |           | `PyKids   |
-|       |                                            |           | UK`_      |
++-------+----------+----------+----------+-----------+           +-----------+
+| 14:00 | Plenary                                    |           | Squash    |
+|       |                                            |           | and       |
+|       |                                            |           | biscuits  |
+|       |                                            |           | (Tea and  |
+|       |                                            |           | coffee    |
+|       |                                            |           | for       |
+|       |                                            |           | parents)  |
+|       |                                            |           |           |
+|       |                                            |           |           |
 +-------+--------------------------------------------+-----------+-----------+
-| 14:30 | Keynote: Dr Simon Sheridan                             | Squash    |
-|       | Ptolemy and the Rosetta space mission                  | and       |
-|       | (Exact title To Be Confirmed)                          | biscuits  |
-|       |                                                        | (Tea and  |
-|       |                                                        | coffee    |
-|       |                                                        | for       |
-|       |                                                        | parents)  |
-+-------+                                                        +-----------+
-| 15:00 |                                                        | `PyKids \ |
-+-------+--------------------------------------------------------+ UK`_      |
+| 14:30 | Keynote: Dr Simon Sheridan                             | `PyKids \ |
+|       | Ptolemy and the Rosetta space mission                  | UK`_      |
+|       | (Exact title To Be Confirmed)                          |           |
+|       |                                                        |           |
+|       |                                                        |           |
+|       |                                                        |           |
+|       |                                                        |           |
++-------+                                                        |           |
+| 15:00 |                                                        |           |
++-------+--------------------------------------------------------+           |
 | 15:15 | Plenary                                                |           |
 +-------+--------------------------------------------------------+-----------+
 | 15:30 | `Lightning PyKids UK`                                              |
