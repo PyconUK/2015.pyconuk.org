@@ -43,8 +43,8 @@ Friday 18th September 2015
 |       |          |          |          | h + \    |         |       |        |
 |       |          |          |          | Profit`_ |         |       |        |
 +-------+----------+----------+----------+----------+---------+       |        |
-| 12:00 | Lunch\   | `Sin\    | Career   | Lunch\   | Django\ |       |        |
-|       | time     | gle \    | Clinic   | time     | Girls   |       |        |
+| 12:00 | Lunch\   | `Sin\    | `Career  | Lunch\   | Django\ |       |        |
+|       | time     | gle \    | Clinic`_ | time     | Girls   |       |        |
 |       | Event    | Board \  |          | Event    | Lunch   |       |        |
 +-------+          | Comput\  |          |          +---------+-------+        |
 | 12:30 |          | er \     |          |          | `Django\| Tran\ |        |
@@ -595,3 +595,4 @@ Notes
 .. _`py.test sprint`: /sprints/pytest-sprint/
 .. _`Romaine (BDD tool)`: /sprints/romaine-bdd-tool/
 .. _`Unit test documentation improvements`: /sprints/unit-test-documentation-improvements/
+.. _`Career Clinic`: /events/career-clinic/
