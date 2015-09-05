@@ -222,9 +222,9 @@ Saturday 19th September 2015
 | 12:00 | Lunch    | Lunch\   |          | Poster    |           | `PyKids \ |
 |       | Events   | time     |          | Session   |           | UK`_      |
 +-------+          | Workshop +----------+           +-----------+-----------+
-| 12:30 |          |          | Lunch\   |           | Py4Sci    | PyKids UK |
-|       |          |          | time     |           | Lunch     | Lunch     |
-|       |          |          | Workshop |           |           | (provided |
+| 12:30 |          |          | Recruit\ |           | Py4Sci    | PyKids UK |
+|       |          |          | ment     |           | Lunch     | Lunch     |
+|       |          |          | Clinic   |           |           | (provided |
 |       |          |          |          |           |           | packed    |
 |       |          |          |          |           |           | lunch     |
 |       |          |          |          |           |           | including |
@@ -232,10 +232,10 @@ Saturday 19th September 2015
 |       |          |          |          |           |           | fruit     |
 |       |          |          |          |           |           | and       |
 |       |          |          |          |           |           | crisps)   |
-+-------+          +----------+----------+           +-----------+-----------+
-| 13:00 |          | Lunch\   | Lunch\   |           | `Getting \| `PyKids \ |
-|       |          | time     | time     |           | started \ | UK`_      |
-+-------+          | `Code    | Workshop |           | with \    |           |
++-------+          +----------+          |           +-----------+-----------+
+| 13:00 |          | Lunch\   |          |           | `Getting \| `PyKids \ |
+|       |          | time     |          |           | started \ | UK`_      |
++-------+          | `Code    |          |           | with \    |           |
 | 13:30 |          | Clinic`_ |          |           | testing \ |           |
 |       |          |          |          |           | scient\   |           |
 |       |          |          |          |           | ific pro\ |           |
