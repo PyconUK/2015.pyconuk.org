@@ -17,7 +17,7 @@ Additionally, we'll discuss key information on what the industry requires of you
  * What does it actually take to secure a job you will love in the Python sector?
  * Aside from being a good programmer – what skills do you need to be able to demonstrate?
 
-The session will be followed by a CV clinic, where Tony will provide expert insight in to how potential employers view your CV, and how to maximise your chances of getting your foot in the door.
+The session will be followed at 12:30 by a CV clinic, where Tony will provide expert insight in to how potential employers view your CV, and how to maximise your chances of getting your foot in the door.
 
 
 #### About Tony
