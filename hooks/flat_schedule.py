@@ -63,20 +63,50 @@ def collapse_whitespace(s):
     return re.sub(r'\s+', ' ', s.strip())
 
 
-def iter_cells(cells):
+def repeat_none(value, times):
+    for i in xrange(times):
+        yield None
+
+
+def colspan_cells(cells, fillfunc=itertools.repeat):
     """Yields td or th elements, repeating them as necessary for colspan=n
     """
     for cell in cells:
+        yield cell
         colspan = int(cell.get('colspan', 1))
-        for i in xrange(colspan):
+        for item in fillfunc(cell, colspan-1):
+            yield item
+
+
+def rowspan_cells(cells, rowspans, fillfunc=itertools.repeat):
+    """Yields td or th elements, repeating them as necessary for colspan=n
+    & rowspan=n.
+    """
+    cells = iter(cells)
+    col = 0
+    while True:
+        try:
+            ttl, cell = rowspans.pop(col)
+            for item in fillfunc(cell, 1):
+                yield item
+        except KeyError:
+            cell = next(cells)
+            ttl = int(cell.get('rowspan', 1))
             yield cell
+        ttl -= 1
+        if ttl > 0:
+            rowspans[col] = (ttl, cell)
+        colspan = int(cell.get('colspan', 1))
+        for item in fillfunc(cell, colspan-1):
+            yield item
+        col += colspan
 
 
 def parse_rooms(table):
     """Yields the rooms used in a single schedule table
     """
-    row1 = iter_cells(table.xpath('./thead/tr[1]/th')[1:])
-    row2 = iter_cells(table.xpath('./thead/tr[2]/th')[1:])
+    row1 = colspan_cells(table.xpath('./thead/tr[1]/th')[1:])
+    row2 = colspan_cells(table.xpath('./thead/tr[2]/th')[1:])
     for th1, th2 in itertools.izip_longest(row1, row2):
         text1 = collapse_whitespace(th1.text)
         text2 = collapse_whitespace(th2.text) if th2 is not None else ''
@@ -175,12 +205,15 @@ def events(table):
            if tr.find('./td').text != u'\N{NO-BREAK SPACE}']
     times = [parse_time(tr.find('./td').text) for tr in trs]
 
+    rowspans = {}
+
     for i, (start_time, tr) in enumerate(zip(times, trs)):
         tds = tr.xpath('./td')[1:]
-        j = 0
-        for td in tds:
+
+        for j, td in enumerate(rowspan_cells(tds, rowspans, fillfunc=repeat_none)):
+            if td is None:
+                continue
             rowspan = int(td.get('rowspan', 1))
-            colspan = int(td.get('colspan', 1))
             try:
                 finish_time = times[i+rowspan]
             except IndexError:
@@ -198,7 +231,6 @@ def events(table):
                 'rawhtml': rawhtml,
                 }
             yield event
-            j += colspan
 
 
 def parse_tabular_schedule(tree):
