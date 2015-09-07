@@ -509,33 +509,35 @@ iframe {
   display: block;
   overflow: hidden;
 }
-.page-head:before {
-  content: ' ';
-  display: block;
-  position: absolute;
-  left: 0;
-  right: 0;
-  height: 0.3125em;
-  background: white;
-}
 .page-head h1 {
-  display: block;
+  display: inline-block;
   font-size: 1em;
   margin: 0;
 }
 .page-head h1 a {
-  display: block;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
   overflow: hidden;
-  text-indent: -100em;
-  width: 4.8125em;
-  height: 6em;
-  background: url(../img/pycon-white.png);
-  background-size: cover;
-  margin: 1em 1em;
+  margin: 0.5em 1em;
   z-index: 999;
 }
 @media all and (min-width: 560px) {
+  .page-head:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 0.3125em;
+    background: white;
+  }
+  .page-head h1 {
+    display: block;
+  }
   .page-head h1 a {
+    display:block;
     position: absolute;
     margin: 0;
     left: 50%;
@@ -544,13 +546,14 @@ iframe {
     height: 12.5em;
     background: url(../img/pycon.png);
     background-size: cover;
+    text-indent: -100em;
   }
 }
 .page-head .menu-icon {
   position: relative;
   float: right;
   padding: 0.5em 0.5em 0.5em 1.5em;
-  margin: -7em 0.5em 0 0;
+  margin: 0em 0.5em 0 0;
   color: #2b2b2b;
   text-transform: uppercase;
   cursor: pointer;
@@ -708,10 +711,16 @@ iframe {
 }
 .textblock .huge {
   margin: 0.5em 0 0 0;
-  font-size: 6em;
+  font-size: 3em;
   text-transform: uppercase;
   text-align: center;
 }
+@media all and (min-width:560px) {
+  .textblock .huge {
+    font-size: 4.5em;
+  }
+}
+
 .textblock h1,
 .textblock h2,
 .textblock h3,
@@ -721,6 +730,14 @@ iframe {
   font-weight: normal;
   margin: 2em 0 0.5em 0;
   color: black;
+}
+.content h1:first-child,
+.content h2:first-child,
+.content h3:first-child,
+.content h4:first-child,
+.content h5:first-child,
+.content h6:first-child {
+  margin-top: 0em
 }
 .textblock dt {
   font-weight: bold;
@@ -783,4 +800,68 @@ iframe {
 
 .sponsors img.wide-logo {
   width: 480px;
+}
+
+/* FLAT SCHEDULE */
+summary h2.day {
+    display: inline-block;
+    margin-top: 1em;
+}
+summary {cursor: pointer;}
+
+.schedule {
+    margin-left: 1em;
+    width: 90%;
+}
+
+.schedule tbody {
+    border-bottom: 1px solid #E1E1E1;
+    border-top: 1px solid #E1E1E1;
+}
+
+.schedule td,
+.schedule th {
+    border: none;
+    padding: 8px 8px 8px 8px;
+    line-height: 1.1;
+    vertical-align: top;
+}
+.schedule tr:first-child td,
+.schedule tr:first-child th {
+    padding-top: 16px;
+}
+
+.schedule tr:last-child td,
+.schedule tr:last-child th {
+    padding-bottom: 16px;
+}
+
+.schedule p.first,
+.docutils p.first {
+    margin-top: 0;
+}
+
+.start {
+    float: right;
+    font-weight: normal;
+    font-size: 1.5em;
+}
+.start .minute {
+    vertical-align: text-top;
+    font-size: 0.7em;
+}
+
+.event .duration,
+.event .speaker,
+.event .type,
+.event .location {
+    font-size: 0.8em;
+    color: #707070;
+}
+
+.event .filler {
+    font-size: 0.8em;
+    color: #909090;
+    padding-left: 0.2em;
+    padding-right: 0.2em;
 }
