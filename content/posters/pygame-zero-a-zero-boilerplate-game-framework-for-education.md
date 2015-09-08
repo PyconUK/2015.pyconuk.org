@@ -1,7 +1,7 @@
 type: session
 title: "Pygame Zero - a zero-boilerplate game framework for education"
-slug: "pygame-zero---a-zero-boilerplate-game-framework-for-education"
-url: "posters/pygame-zero---a-zero-boilerplate-game-framework-for-education/index.html"
+slug: "pygame-zero-a-zero-boilerplate-game-framework-for-education"
+url: "posters/pygame-zero-a-zero-boilerplate-game-framework-for-education/index.html"
 body_class_hack: talks
 ---
 

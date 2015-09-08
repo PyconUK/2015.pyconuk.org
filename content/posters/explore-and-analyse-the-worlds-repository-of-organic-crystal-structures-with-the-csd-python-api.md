@@ -1,7 +1,7 @@
 type: session
 title: "Explore and analyse the world’s repository of organic crystal structures with the CSD Python API"
-slug: "explore-and-analyse-the-world’s-repository-of-organic-crystal-structures-with-the-csd-python-api"
-url: "posters/explore-and-analyse-the-world’s-repository-of-organic-crystal-structures-with-the-csd-python-api/index.html"
+slug: "explore-and-analyse-the-worlds-repository-of-organic-crystal-structures-with-the-csd-python-api"
+url: "posters/explore-and-analyse-the-worlds-repository-of-organic-crystal-structures-with-the-csd-python-api/index.html"
 body_class_hack: talks
 ---
 
