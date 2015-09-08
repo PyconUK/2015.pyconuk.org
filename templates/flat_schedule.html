@@ -14,11 +14,21 @@
         <div class="column_content">
             <div class="textblock">
 
-<p>Jump to
-{% for day, events in schedule|groupby('day') %}
-<a href="#{{day|format_day_id}}">{{ day.strftime('%A') }}</a>&ensp;
-{% endfor %}
-</p>
+<div class="clearfix">
+    <p class="schedule-jump">
+        Jump to
+        {% for day, events in schedule|groupby('day') %}
+        <a href="#{{day|format_day_id}}">{{ day.strftime('%A') }}</a>
+        &ensp;
+        {% endfor %}
+    </p>
+    <p class="schedule-switch">
+        <span class=active>Flat</span>
+        &ensp;
+        <a href="tabular/">Tabular</a>
+    </p>
+</div>
+
 {% for day, events in schedule|groupby('day') %}
 <details class=day open>
     <summary>

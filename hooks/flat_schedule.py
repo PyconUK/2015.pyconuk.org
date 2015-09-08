@@ -323,7 +323,7 @@ def render_schedule(schedule, template_dir):
 def read_html_tabular_schedule(config):
     """Returns a list of events, from a Tabular HTML schedule
     """
-    tab_sched_dir = os.path.join(config['output_dir'], 'schedule')
+    tab_sched_dir = os.path.join(config['output_dir'], 'schedule', 'tabular')
     tab_sched_path = os.path.join(tab_sched_dir, 'index.html')
     tab_sched_etree = lxml.html.parse(tab_sched_path)
 
@@ -351,7 +351,7 @@ def mkdirs(path):
 
 def write_flat_schedule(schedule, config):
     schedule_html = render_schedule(schedule, config['template_dir'])
-    schedule_dir = os.path.join(config['output_dir'], 'schedule', 'flat')
+    schedule_dir = os.path.join(config['output_dir'], 'schedule')
     schedule_path = os.path.join(schedule_dir, 'index.html')
 
     mkdirs(schedule_dir)
