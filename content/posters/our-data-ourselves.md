@@ -1,7 +1,7 @@
 type: session
 title: "Our Data, Ourselves"
 slug: "our-data-ourselves"
-url: "posters/our-data,-ourselves/index.html"
+url: "posters/our-data-ourselves/index.html"
 body_class_hack: talks
 ---
 
