@@ -409,6 +409,15 @@ optgroup {
   font-weight: bold;
 }
 
+/* Clearfix
+   ========================================================================== */
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* Tables
    ========================================================================== */
 
@@ -802,7 +811,16 @@ iframe {
   width: 480px;
 }
 
-/* FLAT SCHEDULE */
+/* SCHEDULE */
+.schedule-jump {
+    float: left;
+}
+.schedule-switch {
+    float: right;
+}
+.schedule-switch .active {
+    font-weight: bold;
+}
 summary h2.day {
     display: inline-block;
     margin-top: 1em;

@@ -10,7 +10,18 @@ Schedule
 The dynamic conference for the leading dynamic language
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Jump to Friday_ |emsp| Saturday_ |emsp| Sunday_ |emsp| Monday_
+.. role:: active
+   :class: active
+
+.. container:: clearfix
+
+   .. class:: schedule-jump
+
+   Jump to Friday_ |emsp| Saturday_ |emsp| Sunday_ |emsp| Monday_
+
+   .. class:: schedule-switch
+
+   `Flat`_ |emsp| :active:`Tabular`
 
 Friday 18th September 2015
 --------------------------
@@ -494,6 +505,7 @@ Notes
 .. |emsp| unicode:: U+2001
    :trim:
 
+.. _Flat: flat/
 .. _Friday: `Friday 18th September 2015`_
 .. _Saturday: `Saturday 19th September 2015`_
 .. _Sunday: `Sunday 20th September 2015`_
