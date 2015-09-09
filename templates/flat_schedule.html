@@ -32,7 +32,12 @@
 {% for day, events in schedule|groupby('day') %}
 <details class=day open>
     <summary>
-        <h2 class=day id="{{day|format_day_id}}">{{ day.strftime('%A') }}</h2>
+        <h2 class=day id="{{day|format_day_id}}">
+            <span class=dayname>{{ day.strftime('%A') }}</span>
+            <span class=day>{{ day.day }}</span><span class=ordinal>{{ day.day|ordinal_suffix }}</span>
+            <span class=monthname>{{ day.strftime('%B') }}</span>
+            <span class=year>{{ day.year }}</span>
+        </h2>
     </summary>
     <table class=schedule>
         {% for start, events in events|groupby('start') %}
