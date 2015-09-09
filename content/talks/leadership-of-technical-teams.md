@@ -19,4 +19,4 @@ The talk will be in 5 sections:
 
 The slides for this talk are available from my website: http://www.owencampbell.me.uk/docs/pyconuk2015.pdf
 
-They were prepared using LaTex and the code is available at Github: https://github.com/meatballs/pyconuk2015
+They were prepared using LaTeX and the code is available at Github: https://github.com/meatballs/pyconuk2015
