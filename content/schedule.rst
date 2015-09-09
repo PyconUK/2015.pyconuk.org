@@ -1,6 +1,6 @@
 type: page
 title: Schedule
-slug: schedule/tabular
+slug: schedule
 body_class_hack: talks
 ---
 
@@ -505,7 +505,7 @@ Notes
 .. |emsp| unicode:: U+2001
    :trim:
 
-.. _Flat: ../
+.. _Flat: flat/
 .. _Friday: `Friday 18th September 2015`_
 .. _Saturday: `Saturday 19th September 2015`_
 .. _Sunday: `Sunday 20th September 2015`_
