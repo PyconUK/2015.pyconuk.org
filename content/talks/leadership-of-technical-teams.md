@@ -16,3 +16,7 @@ The talk will be in 5 sections:
 * Priorities - What should you be focussing upon?
 * Style - There are many leadership styles, but what's yours and what's appropriate for technical teams?
 * Process - What's your role in defining and managing process?
+
+The slides for this talk are available from my website: http://www.owencampbell.me.uk/docs/pyconuk2015.pdf
+
+They were prepared using LaTex and the code is available at Github: https://github.com/meatballs/pyconuk2015
