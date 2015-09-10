@@ -253,16 +253,14 @@ Saturday 19th September 2015
 |       |          |          |          |           | grams`_   |           |
 |       |          |          |          |           | part 1    |           |
 +-------+----------+----------+----------+-----------+           +-----------+
-| 14:00 | Plenary                                    |           | Squash    |
-|       |                                            |           | and       |
-|       |                                            |           | biscuits  |
-|       |                                            |           | (Tea and  |
-|       |                                            |           | coffee    |
-|       |                                            |           | for       |
-|       |                                            |           | parents)  |
-|       |                                            |           |           |
-|       |                                            |           |           |
-+-------+--------------------------------------------+-----------+-----------+
+| 14:00 | `JSON \  | `Build\  | X        | Open      |           | Squash    |
+|       | and \    | ing \    |          | Space     |           | and       |
+|       | the \    | SAAs \   |          |           |           | biscuits  |
+|       | daught\  | with \   |          |           |           | (Tea and  |
+|       | ers of \ | django \ |          |           |           | coffee    |
+|       | Pelias`_ | and \    |          |           |           | for       |
+|       |          | polla`_  |          |           |           | parents)  |
++-------+----------+----------+----------+-----------+-----------+-----------+
 | 14:30 | Keynote: Dr Simon Sheridan                             | `PyKids \ |
 |       | Ptolemy and the Rosetta space mission                  | UK`_      |
 |       | (Exact title To Be Confirmed)                          |           |
@@ -276,30 +274,19 @@ Saturday 19th September 2015
 | 15:15 | Plenary                                                |           |
 +-------+--------------------------------------------------------+-----------+
 | 15:30 | `Lightning PyKids UK`                                              |
++-------+--------------------------------------------------------------------+
+| 16:00 | PyCon UK Society AGM                                               |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 16:00 | `JSON \  | `Build\  | `Scrapy \| Open      | `Getting \| PyKids    |
-|       | and \    | ing \    | Work\    | Space     | started \ | Organisers|
-|       | the \    | SAAs \   | shop`_   |           | with \    | Tidy up   |
-|       | daught\  | with \   |          |           | testing \ |           |
-|       | ers of \ | django \ |          |           | scient\   |           |
-|       | Pelias`_ | and \    |          |           | ific \    |           |
-|       |          | polla`_  |          |           | programs`_|           |
-|       |          |          |          |           | part 2    |           |
-|       |          |          |          |           |           |           |
-|       |          |          |          |           |           |           |
-|       |          |          |          |           |           |           |
-+-------+----------+----------+          +-----------+           |           |
-| 16:30 | `All I   | `OOD \   |          | Open      |           |           |
-|       | really   | Rules`_  |          | Space     |           |           |
-|       | want     |          |          |           |           |           |
-|       | is       |          |          |           |           |           |
-|       | power`_  |          |          |           |           |           |
-|       |          |          |          |           |           |           |
-|       |          |          |          |           |           |           |
-|       |          |          |          |           |           |           |
-|       |          |          |          |           |           |           |
-|       |          |          |          |           |           |           |
-|       |          |          |          |           |           |           |
+| 16:30 | `Teach\  | `OOD \   | `Scrapy \| Open      | `Getting \| PyKids    | 
+|       | ing \    | Rules`_  | Work\    | Space     | started \ | Organ\    | 
+|       | youngst\ |          | shop`_   |           | with \    | isers     |
+|       | ers to \ |          |          |           | testing \ | Tidy up   |
+|       | code \   |          |          |           | scient\   |           |
+|       | with \   |          |          |           | ific pro\ |           |
+|       | pgzero \ |          |          |           | grams`_   |           |
+|       | on \     |          |          |           | part 2    |           |
+|       | Raspber\ |          |          |           |           |           |
+|       | ry Pi`_  |          |          |           |           |           |
 +-------+----------+----------+          +-----------+           |           |
 | 17:00 | `Dispel\ | `Chrome\ |          | `PSF \    |           |           |
 |       | ling \   | books \  |          | Recep\    |           |           |
@@ -311,16 +298,16 @@ Saturday 19th September 2015
 |       |          | five \   |          |           |           |           |
 |       |          | years`_  |          |           |           |           |
 +-------+----------+----------+          |           |           |           |
-| 17:30 | `Teach\  | `The \   |          |           |           |           |
-|       | ing \    | Fabric \ |          |           |           |           |
-|       | youngst\ | that \   |          |           |           |           |
-|       | ers to \ | holds    |          |           |           |           |
-|       | code \   | the \    |          |           |           |           |
-|       | with \   | cloud    |          |           |           |           |
-|       | pgzero \ | toge\    |          |           |           |           |
-|       | on \     | ther`_   |          |           |           |           |
-|       | Raspber\ |          |          |           |           |           |
-|       | ry Pi`_  |          |          |           |           |           |
+| 17:30 | `All I   | `The \   |          |           |           |           |
+|       | really   | Fabric \ |          |           |           |           |
+|       | want     | that \   |          |           |           |           |
+|       | is       | holds    |          |           |           |           |
+|       | power`_  | the \    |          |           |           |           |
+|       |          | cloud    |          |           |           |           |
+|       |          | toge\    |          |           |           |           |
+|       |          | ther`_   |          |           |           |           |
+|       |          |          |          |           |           |           |
+|       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
 |       |          |          |          |           |           |           |
@@ -332,7 +319,6 @@ Saturday 19th September 2015
 +-------+--------------------------------------------+-----------------------+
 | 19:30 | `The PyCon UK Dinner`_ (Ticket required)   | Alt Party (TBA)       |
 +-------+--------------------------------------------+-----------------------+
-
 
 Sunday 20th September 2015
 --------------------------
