@@ -244,16 +244,33 @@ At the end of the presentation, the participants will hopefully gain an idea of 
 ,Day Ends,09-18-2015,18:30,19:30,PythonAnywhere Room (CC1.3),,
 ,The Friday Night Charity Social in memory of John Pinner,09-18-2015,19:30,23:59,PythonAnywhere Room (CC1.3),,
 ,Registration / Breakfast,09-19-2015,08:00,09:00,Cafeteria,,
-,Opening Plenary,09-19-2015,09:00,09:30,PythonAnywhere Room (CC1.3),,
-,Managing mocks - the how why and when of mocking in Python,09-19-2015,09:30,10:00,PythonAnywhere Room (CC1.3),,"Helen Sherwood-Taylor
+,Opening Plenary,09-19-2015,09:00,09:15,PythonAnywhere Room (CC1.3),,
+,Keynote: Dr Simon Sheridan Landing on a comet: From planning to reality,09-19-2015,09:15,10:00,PythonAnywhere Room (CC1.3),,
+,PyKids UK Setup,09-19-2015,09:15,09:30,Bank of America Education Track (Simulation Centre),,
+,PyKids UK Opening,09-19-2015,09:30,10:00,Bank of America Education Track (Simulation Centre),,
+,JSON and the daughters of Pelias,09-19-2015,10:00,10:30,PythonAnywhere Room (CC1.3),,"Zeth
 
-Mocking is a valuable technique for writing tests, but is it always a good idea?
+The JSON Data Interchange Format is Internet Engineering Task Force
+(IETF) standard RFC-7159. Since its release, many new draft internet
+standards have been published including JSON Schema
+(draft-zyp-json-schema-04), JSOND (draft-oskarsson-jsond-00), JSON
+Pointer (RFC-6901), JSON-LD (W3C Recommendation), JSON Merge Patch
+(RFC-7386), JSON-RPC and JSON Reference
+(draft-pbryan-zyp-json-ref-03); while new Python object to JSON
+serialisation techniques have been published such as jsonpickle.
 
-I want to give a brief introduction to the how and why of mocking and the scope of its usefulness - I'll look at situations where it is provides the most benefit and the times when it can be taken too far. 
+In this session we will implement these JSON technologies using Python
+and evaluate their individual usefulness but also discuss how these
+proposals can and cannot be combined to make JSON powered Python
+applications. Finally, we will look at a Python application that I
+made using some of these technologies."
+,Building SAAs with django and polla,09-19-2015,10:00,10:30,Osper Room (CC1.4),,"Emmanuelle Delescolle
 
-Python is packaged with an excellent mocking module but we'll also look at some other libraries which can help with mocking effectively."
-,Template matching - howto,09-19-2015,09:30,10:00,Osper Room (CC1.4),,
-,Fifty Shades of Disaster - Human Error and Complex Systems,09-19-2015,09:30,12:30,YPlan Room (CC1.8),,"Paul Ross
+Airavata is a tool to help run multiple websites under Django using the same codebase and the same database.
+This talk will demonstrate how to build a SAAS service with those tools.
+
+In the meantime you can already checkout [the project's page](https://bitbucket.org/levit_scs/airavata)."
+,Fifty Shades of Disaster - Human Error and Complex Systems,09-19-2015,10:00,12:30,YPlan Room (CC1.8),,"Paul Ross
 
 A four part workshop that discusses the failures that happen when humans interact with complex systems. The talks illustrate what can be learnt from how various industries handle risk management. They are illustrated with analysis of some famous and not so famous accidents from finance, aviation, marine, software, oil and various other industries.
 
@@ -270,13 +287,38 @@ Part 3: Blame and the fallacy of Root Cause Analysis
 
 Part 4: Heroic recoveries, skill, luck and sheer professionalism
   - The disasters that never happened"
-,Open Space for BoFs and discussion,09-19-2015,09:30,10:30,LaterPay Learning Space (Bistro),,
-,Forming a PyCon UK research community,09-19-2015,09:30,10:00,The Software Sustainability Institute Room (CC2.1),,"Sarah Mount, University of Wolverhampton
+,Open Space for BoFs and discussion,09-19-2015,10:00,10:30,LaterPay Learning Space (Bistro),,
+,Forming a PyCon UK research community,09-19-2015,10:00,10:30,The Software Sustainability Institute Room (CC2.1),,"Sarah Mount, University of Wolverhampton
 
 Sarah opens the Science Track by introducing the workshops, talks and
 sprint and discusses the formation of a research community."
-,PyKids UK Opening,09-19-2015,09:30,10:30,Bank of America Education Track (Simulation Centre),,
-,5 impossible things before breakfast,09-19-2015,10:00,10:30,PythonAnywhere Room (CC1.3),,"Michael Sparks
+,PyKids UK Opening,09-19-2015,10:00,10:30,Bank of America Education Track (Simulation Centre),,
+,Managing mocks - the how why and when of mocking in Python,09-19-2015,10:30,11:00,PythonAnywhere Room (CC1.3),,"Helen Sherwood-Taylor
+
+Mocking is a valuable technique for writing tests, but is it always a good idea?
+
+I want to give a brief introduction to the how and why of mocking and the scope of its usefulness - I'll look at situations where it is provides the most benefit and the times when it can be taken too far. 
+
+Python is packaged with an excellent mocking module but we'll also look at some other libraries which can help with mocking effectively."
+,Template matching - howto,09-19-2015,10:30,11:00,Osper Room (CC1.4),,
+,Open Space,09-19-2015,10:30,11:00,LaterPay Learning Space (Bistro),,
+,Accelerating Scientific Code with Numba,09-19-2015,10:30,12:30,The Software Sustainability Institute Room (CC2.1),,"Graham Markall
+
+This tutorial will provide an overview of Numba, a just-in-time Python compiler focused on numerical computing. Originally aimed at computations using Numpy arrays, it has been expanded to work with other Python types and can speed up computations that require more than just fast linear algebra operations. Numba targets both CPUs and CUDA GPUs by generating native code using the LLVM compiler infrastructure.
+
+This introduction aims to span the breadth of use cases rather than focusing on a single area in depth. This is in order to enable the selection of appropriate portions of code to use with Numba, and the correct selection of Numba's facilities in each case.
+
+Areas that will be covered include:
+
+* An overview of the type system, with a view to understanding and overcoming typing issues,
+* Compilation of Python functions using the @jit decorator,
+* Creation of Numpy ufuncs in Python using the @vectorize decorator,
+* Understanding the performance of compiled code, and performance optimisation tips,
+* Debugging facilities in Numba.
+
+This tutorial is intended for an audience of programmers and data scientists who have an interest in speeding up numerical routines, and people with a general interest in high-performance Python. In order to get started quickly, it is recommended that attendees install the Anaconda Python distribution or Miniconda, as this provides a robust mechanism for installing Numba on Linux, Mac OS X and Windows."
+,PyKids UK Discussion,09-19-2015,10:30,11:00,Bank of America Education Track (Simulation Centre),,
+,5 impossible things before breakfast,09-19-2015,11:00,11:30,PythonAnywhere Room (CC1.3),,"Michael Sparks
 
 Sometimes you're asked to deliver something that seems impossible, but
 necessary in a given timeframe.  Sometimes it's several seemingly impossible
@@ -311,27 +353,14 @@ doing all the layers simultaneously using one developer is ... challenging.
 It should be of interest to those interested in developing hardware and
 software products, and especially those developing products that have both a
 hardware and software element."
-,"Asking About Gender - the Whats, Whys and Hows",09-19-2015,10:00,10:30,Osper Room (CC1.4),,"Claire Gowler
+,"Asking About Gender - the Whats, Whys and Hows",09-19-2015,11:00,11:30,Osper Room (CC1.4),,"Claire Gowler
 
 As we move towards more customised experiences for our users, why do we still insist of using the black boxes of male and female when asking users about their gender? And why are we asking for it in the first place?
 
 Between 1 and 5 percent of the UK population identifies as having a non-binary gender or are transgender. This talk aims to help developers ask users about their gender in a useful and sensitive manner; educate on what non-binary means and what other issues non-binary and gender variant users may face when using the web."
-,Accelerating Scientific Code with Numba,09-19-2015,10:00,12:30,The Software Sustainability Institute Room (CC2.1),,"Graham Markall
-
-This tutorial will provide an overview of Numba, a just-in-time Python compiler focused on numerical computing. Originally aimed at computations using Numpy arrays, it has been expanded to work with other Python types and can speed up computations that require more than just fast linear algebra operations. Numba targets both CPUs and CUDA GPUs by generating native code using the LLVM compiler infrastructure.
-
-This introduction aims to span the breadth of use cases rather than focusing on a single area in depth. This is in order to enable the selection of appropriate portions of code to use with Numba, and the correct selection of Numba's facilities in each case.
-
-Areas that will be covered include:
-
-* An overview of the type system, with a view to understanding and overcoming typing issues,
-* Compilation of Python functions using the @jit decorator,
-* Creation of Numpy ufuncs in Python using the @vectorize decorator,
-* Understanding the performance of compiled code, and performance optimisation tips,
-* Debugging facilities in Numba.
-
-This tutorial is intended for an audience of programmers and data scientists who have an interest in speeding up numerical routines, and people with a general interest in high-performance Python. In order to get started quickly, it is recommended that attendees install the Anaconda Python distribution or Miniconda, as this provides a robust mechanism for installing Numba on Linux, Mac OS X and Windows."
-,Finding more bugs with less work,09-19-2015,10:30,11:00,PythonAnywhere Room (CC1.3),,"David R. MacIver
+,Setup for Poster Session,09-19-2015,11:00,12:00,LaterPay Learning Space (Bistro),,
+,PyKids UK,09-19-2015,11:00,11:30,Bank of America Education Track (Simulation Centre),,
+,Finding more bugs with less work,09-19-2015,11:30,12:00,PythonAnywhere Room (CC1.3),,"David R. MacIver
 
 Mainstream software testing is terrible, because the tools to make it good are missing. [Hypothesis](http://hypothesis.readthedocs.org/en/latest/) is a testing library that aims to fix this.
 
@@ -340,14 +369,37 @@ Where classically unit testing requires you to think of all the edge cases yours
 This is a talk from the author of Hypothesis on the how, why and where of using it.
 
 This talk presupposes you have at least a little bit of experience with testing in Python, but familiarity with advanced topics is not required."
-,"Why I have an unhealthy love of tests, and why you shouldn't be scared about writing them",09-19-2015,10:30,11:00,Osper Room (CC1.4),,"Gemma Hentsch
+,"Why I have an unhealthy love of tests, and why you shouldn't be scared about writing them",09-19-2015,11:30,12:00,Osper Room (CC1.4),,"Gemma Hentsch
 
 Tests, I used to hate them, and actually when I start writing tests on a new project I still do.
 
 But, you don't have to be scared about them, and I'd like to cover developing your testing strategy, what to test, what not to test, and how to explain how to convince higher ups that its not just a useful spending of time, its a vital part of your job."
-,Open Space,09-19-2015,10:30,11:00,LaterPay Learning Space (Bistro),,
-,PyKids UK Discussion,09-19-2015,10:30,11:00,Bank of America Education Track (Simulation Centre),,
-,Taming a Legacy Codebase with (Micro)services,09-19-2015,11:00,11:30,PythonAnywhere Room (CC1.3),,"John Chandler
+,Squash / Tea and biscuits,09-19-2015,11:30,12:00,Bank of America Education Track (Simulation Centre),,
+,Lunch Events,09-19-2015,12:00,14:00,PythonAnywhere Room (CC1.3),,
+,Lunchtime Workshop,09-19-2015,12:00,13:00,Osper Room (CC1.4),,
+,Poster Session,09-19-2015,12:00,14:00,LaterPay Learning Space (Bistro),,
+,PyKids UK,09-19-2015,12:00,12:30,Bank of America Education Track (Simulation Centre),,
+,Recruitment Clinic,09-19-2015,12:30,14:00,YPlan Room (CC1.8),,
+,Py4Sci Lunch,09-19-2015,12:30,13:00,The Software Sustainability Institute Room (CC2.1),,
+,"PyKids UK Lunch (provided packed lunch including sandwich, fruit and crisps)",09-19-2015,12:30,13:00,Bank of America Education Track (Simulation Centre),,
+,Lunchtime Code Clinic,09-19-2015,13:00,14:00,Osper Room (CC1.4),,
+,Getting started with testing scientific programs part 1,09-19-2015,13:00,15:00,The Software Sustainability Institute Room (CC2.1),,"Martin Jones
+
+When writing programs for scientific research, we tend to be focussed on getting results, so testing is generally not a priority. Often, this means that our data-processing pipelines end up incorporating programs that don't have test suites. Examples of high-profile retractions due to software errors (e.g. http://www.sciencemag.org/content/314/5807/1856.full) illustrate the dangers of this approach. 
+
+This session will be a gentle introduction to testing, aimed at people writing scientific software who would like to start taking advantage of automated testing. We'll start with Python’s built-in tools and moving on to using the Nose testing framework. We’ll look at the problems that testing can solve, and see some best-practises for writing tests.
+
+####Goals
+
+The goal of this training session is for attendees to come away with (1) an understanding of some basic testing concepts, (2) some hands-on experience of running tests and interpreting the output, and (3) an idea of how to start applying these tools to their own projects.
+
+####Who should attend this session
+Attendees should have a basic knowledge of Python and should be familiar with the idea of functions, conditions and exceptions. They should also have the Nose package installed (pip install nose should work in most cases).
+
+####What to do before this session
+If you plan to attend this workshop, you can make things run smoothly by making sure that you have the `nose` module installed. Follow [the instructions on the nose website](https://nose.readthedocs.org/en/latest/). You'll also need internet access in order to download the example files, so make sure you can connect to the conference wifi."
+,PyKids UK,09-19-2015,13:00,14:00,Bank of America Education Track (Simulation Centre),,
+,Taming a Legacy Codebase with (Micro)services,09-19-2015,14:00,14:30,PythonAnywhere Room (CC1.3),,"John Chandler
 
 This is a story of killing-off a legacy codebase written in PHP. To the business, it ""just works"" and the customers love it. To the developers, it's an unmaintainable nightmare of bad practice that has resisted every attempt to rewrite from scratch.
 
@@ -356,21 +408,33 @@ From the ashes of those doomed rewrites came a more incremental approach, findin
 I'll discuss why microservices are nothing new, how our approach evolved, the challenges of adoption, and the pros and cons of the approach. Although I won't delve too deeply into the technology stack, I'll doff my (metaphorical) hat to Django REST Framework and a few other tools of choice that have made the work possible.
 
 I hope to cut through the microservices hype, and illustrate one way of using them to refactor, and ultimately replace, a legacy monolith."
-,Language Composition with RPython,09-19-2015,11:00,11:30,Osper Room (CC1.4),,"Edd Barrett
+,Language Composition with RPython,09-19-2015,14:00,14:30,Osper Room (CC1.4),,"Edd Barrett
 
 Language composition allows us to write programs in a mixture of different languages. This sounds ideal since it should allow us to choose the best mix of languages for the task at hand. Due to technical hurdles however, language compositions tend to be little more than simple foreign function interfaces (FFIs).
                                                                                 
 At King's college London we are trying to build better language compositions. We have devised a new approach which makes it much easier to intermingle programming languages without compromising performance. In this talk I will outline our approach and show what happens when you put Python and PHP in a blender."
-,Setup for Poster Session,09-19-2015,11:00,12:00,LaterPay Learning Space (Bistro),,
-,PyKids UK,09-19-2015,11:00,11:30,Bank of America Education Track (Simulation Centre),,
-,Title To Be Determined; A tale of graphs and Markov chains,09-19-2015,11:30,12:00,PythonAnywhere Room (CC1.3),,"Gary Martin
+,Scrapy Workshop Part 1,09-19-2015,14:00,15:00,YPlan Room (CC1.8),,"Juan Riaza
+
+If you want to get data from the web, and there are no APIs available, then you need to use web scraping! Scrapy is the most effective and popular choice for web scraping and is used in many areas such as data science, journalism, business intelligence, web development, etc.
+
+This workshop will provide an overview of Scrapy, starting from the fundamentals and working through each new topic with hands-on examples.
+
+Participants will come away with a good understanding of Scrapy, the principles behind its design, and how to apply the best practices encouraged by Scrapy to any scraping task.
+
+Goals:
+
+- Set up a python environment.
+- Learn basic concepts of the Scrapy framework."
+,Open Space,09-19-2015,14:00,15:00,LaterPay Learning Space (Bistro),,
+,Squash and biscuits (Tea and coffee for parents),09-19-2015,14:00,14:30,Bank of America Education Track (Simulation Centre),,
+,Title To Be Determined; A tale of graphs and Markov chains,09-19-2015,14:30,15:00,PythonAnywhere Room (CC1.3),,"Gary Martin
 
 In the runup to PyconUK 2014, I made the following ill-advised statement in an IRC channel: ""I feel like I should find something to talk about at PyconUK. I wish I had something interesting to talk about."" Nine seconds later someone replied ""create a markov chain to generate a talk from the names of the talks at pycon and europython, then talk about how you did that, using a title it generates as the title of the talk.""
 
 Challenge accepted. This is that talk, admittedly one year late.
 
 In this talk I will briefly describe Markov Chains as a means to simulate conversations and graph databases as a means to store Markov Chains. After this, I will discuss various considerations for creating interesting candidate responses in conversations, along with the challenges of too little and too much data. Finally, I will demonstrate my implementation and generate the title of this talk."
-,Shipping your application using Conda,09-19-2015,11:30,12:00,Osper Room (CC1.4),,"Floris Bruynooghe
+,Shipping your application using Conda,09-19-2015,14:30,15:00,Osper Room (CC1.4),,"Floris Bruynooghe
 
 Shipping your Python application to customers has always been an
 interesting challenge.  Many Operating Systems ship with a Python
@@ -389,59 +453,8 @@ a good Python distribution.  This talk will concentrate on UNIX
 platforms and dive into the details of what needs to be done to create
 a portable distribution.  It will then discuss how to fully bootstrap
 such a distribution using Conda."
-,Squash / Tea and biscuits,09-19-2015,11:30,12:00,Bank of America Education Track (Simulation Centre),,
-,Lunch Events,09-19-2015,12:00,14:00,PythonAnywhere Room (CC1.3),,
-,Lunchtime Workshop,09-19-2015,12:00,13:00,Osper Room (CC1.4),,
-,Poster Session,09-19-2015,12:00,14:00,LaterPay Learning Space (Bistro),,
-,PyKids UK,09-19-2015,12:00,12:30,Bank of America Education Track (Simulation Centre),,
-,Recruitment Clinic,09-19-2015,12:30,14:00,YPlan Room (CC1.8),,
-,Py4Sci Lunch,09-19-2015,12:30,13:00,The Software Sustainability Institute Room (CC2.1),,
-,"PyKids UK Lunch (provided packed lunch including sandwich, fruit and crisps)",09-19-2015,12:30,13:00,Bank of America Education Track (Simulation Centre),,
-,Lunchtime Code Clinic,09-19-2015,13:00,14:00,Osper Room (CC1.4),,
-,Getting started with testing scientific programs part 1,09-19-2015,13:00,14:30,The Software Sustainability Institute Room (CC2.1),,"Martin Jones
-
-When writing programs for scientific research, we tend to be focussed on getting results, so testing is generally not a priority. Often, this means that our data-processing pipelines end up incorporating programs that don't have test suites. Examples of high-profile retractions due to software errors (e.g. http://www.sciencemag.org/content/314/5807/1856.full) illustrate the dangers of this approach. 
-
-This session will be a gentle introduction to testing, aimed at people writing scientific software who would like to start taking advantage of automated testing. We'll start with Python’s built-in tools and moving on to using the Nose testing framework. We’ll look at the problems that testing can solve, and see some best-practises for writing tests.
-
-####Goals
-
-The goal of this training session is for attendees to come away with (1) an understanding of some basic testing concepts, (2) some hands-on experience of running tests and interpreting the output, and (3) an idea of how to start applying these tools to their own projects.
-
-####Who should attend this session
-Attendees should have a basic knowledge of Python and should be familiar with the idea of functions, conditions and exceptions. They should also have the Nose package installed (pip install nose should work in most cases).
-
-####What to do before this session
-If you plan to attend this workshop, you can make things run smoothly by making sure that you have the `nose` module installed. Follow [the instructions on the nose website](https://nose.readthedocs.org/en/latest/). You'll also need internet access in order to download the example files, so make sure you can connect to the conference wifi."
-,PyKids UK,09-19-2015,13:00,14:00,Bank of America Education Track (Simulation Centre),,
-,JSON and the daughters of Pelias,09-19-2015,14:00,14:30,PythonAnywhere Room (CC1.3),,"Zeth
-
-The JSON Data Interchange Format is Internet Engineering Task Force
-(IETF) standard RFC-7159. Since its release, many new draft internet
-standards have been published including JSON Schema
-(draft-zyp-json-schema-04), JSOND (draft-oskarsson-jsond-00), JSON
-Pointer (RFC-6901), JSON-LD (W3C Recommendation), JSON Merge Patch
-(RFC-7386), JSON-RPC and JSON Reference
-(draft-pbryan-zyp-json-ref-03); while new Python object to JSON
-serialisation techniques have been published such as jsonpickle.
-
-In this session we will implement these JSON technologies using Python
-and evaluate their individual usefulness but also discuss how these
-proposals can and cannot be combined to make JSON powered Python
-applications. Finally, we will look at a Python application that I
-made using some of these technologies."
-,Building SAAs with django and polla,09-19-2015,14:00,14:30,Osper Room (CC1.4),,"Emmanuelle Delescolle
-
-Airavata is a tool to help run multiple websites under Django using the same codebase and the same database.
-This talk will demonstrate how to build a SAAS service with those tools.
-
-In the meantime you can already checkout [the project's page](https://bitbucket.org/levit_scs/airavata)."
-,X,09-19-2015,14:00,14:30,YPlan Room (CC1.8),,
-,Open Space,09-19-2015,14:00,14:30,LaterPay Learning Space (Bistro),,
-,Squash and biscuits (Tea and coffee for parents),09-19-2015,14:00,14:30,Bank of America Education Track (Simulation Centre),,
-,Keynote: Dr Simon Sheridan Landing on a comet: From planning to reality,09-19-2015,14:30,15:15,PythonAnywhere Room (CC1.3),,
 ,PyKids UK,09-19-2015,14:30,15:30,Bank of America Education Track (Simulation Centre),,
-,Plenary,09-19-2015,15:15,15:30,PythonAnywhere Room (CC1.3),,
+,Plenary,09-19-2015,15:00,15:30,PythonAnywhere Room (CC1.3),,
 ,Lightning PyKids UK,09-19-2015,15:30,16:00,PythonAnywhere Room (CC1.3),,
 ,PyCon UK Society AGM,09-19-2015,16:00,16:30,PythonAnywhere Room (CC1.3),,
 ,Teaching youngsters to code with pgzero on Raspberry Pi,09-19-2015,16:30,17:00,PythonAnywhere Room (CC1.3),,"Tim Golden
@@ -452,7 +465,7 @@ I've set up a short series of workshops to help a small group of 13-15-year-old 
 We all want to keep our code comprehensible and easy to test, change, reuse and extend - it's easy(er) if you follow the OOD Rules.
 
 This is based on my experience of trying to follow ""The Rules"" (of Object Orientated Design) by the wonderful Sandi Metz of the Ruby world. http://poodr.com/ and https://www.youtube.com/watch?v=npOGOmkxuio"
-,Scrapy Workshop,09-19-2015,16:30,18:00,YPlan Room (CC1.8),,"Juan Riaza
+,Scrapy Workshop Part 2,09-19-2015,16:30,17:30,YPlan Room (CC1.8),,"Juan Riaza
 
 If you want to get data from the web, and there are no APIs available, then you need to use web scraping! Scrapy is the most effective and popular choice for web scraping and is used in many areas such as data science, journalism, business intelligence, web development, etc.
 
@@ -545,6 +558,7 @@ After this session you will know
 * How to upload files to virtual machines or download files from virtual machines to your local computer
 * How to use regular expressions and configuration file templates to create custom configuration files
 * How to serialize objects with pickle or JSON and use serialization let VMs communicate to each other"
+,X,09-19-2015,17:30,18:00,YPlan Room (CC1.8),,
 ,The Lightning Talk Show,09-19-2015,18:00,19:15,PythonAnywhere Room (CC1.3),,
 ,Break,09-19-2015,19:15,19:30,PythonAnywhere Room (CC1.3),,
 ,The PyCon UK Dinner (Ticket required),09-19-2015,19:30,23:59,PythonAnywhere Room (CC1.3),,
