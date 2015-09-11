@@ -262,8 +262,8 @@ Saturday 19th September 2015
 |       |          | polla`_  |          |           |           | parents)  |
 +-------+----------+----------+----------+-----------+-----------+-----------+
 | 14:30 | Keynote: Dr Simon Sheridan                             | `PyKids \ |
-|       | Ptolemy and the Rosetta space mission                  | UK`_      |
-|       | (Exact title To Be Confirmed)                          |           |
+|       | Landing on a comet: From planning to reality           | UK`_      |
+|       |                                                        |           |
 |       |                                                        |           |
 |       |                                                        |           |
 |       |                                                        |           |
@@ -277,8 +277,8 @@ Saturday 19th September 2015
 +-------+--------------------------------------------------------------------+
 | 16:00 | PyCon UK Society AGM                                               |
 +-------+----------+----------+----------+-----------+-----------+-----------+
-| 16:30 | `Teach\  | `OOD \   | `Scrapy \| Open      | `Getting \| PyKids    | 
-|       | ing \    | Rules`_  | Work\    | Space     | started \ | Organ\    | 
+| 16:30 | `Teach\  | `OOD \   | `Scrapy \| Open      | `Getting \| PyKids    |
+|       | ing \    | Rules`_  | Work\    | Space     | started \ | Organ\    |
 |       | youngst\ |          | shop`_   |           | with \    | isers     |
 |       | ers to \ |          |          |           | testing \ | Tidy up   |
 |       | code \   |          |          |           | scient\   |           |
