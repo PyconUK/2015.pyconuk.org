@@ -58,24 +58,24 @@ Friday 18th September 2015
 |       |                                           |     |       |      |     |
 |       |                                           |     |       |      |     |
 +-------+----------+----------+----------+----------+     |       |      |     |
-| 11:30 | `Pytho\  | `A deep  | Learning | `Real-T\ |     |       |      |     |
-|       | n's \    | dive     | Python   | ime \    |     |       |      |     |
-|       | Infa\    | into     | Club     | Data + \ |     |       |      |     |
-|       | mous \   | python   | Track    | Dj\      |     |       |      |     |
-|       | GIL`_    | import   | Intro    | ango = \ |     |       |      |     |
+| 11:30 | `Pytho\  | `A deep  | Intro\   | `Real-T\ |     |       |      |     |
+|       | n's \    | dive     | duction  | ime \    |     |       |      |     |
+|       | Infa\    | into     | to       | Data + \ |     |       |      |     |
+|       | mous \   | python   | Python   | Dj\      |     |       |      |     |
+|       | GIL`_    | import   |          | ango = \ |     |       |      |     |
 |       |          | hooks`_  |          | Fu\      |     |       |      |     |
 |       |          |          |          | n,\      |     |       |      |     |
 |       |          |          |          | Growt\   |     |       |      |     |
 |       |          |          |          | h + \    |     |       |      |     |
 |       |          |          |          | Profit`_ |     |       |      |     |
-+-------+----------+----------+----------+----------+-----+       |      |     |
-| 12:00 | Lunch\   | `Sin\    | `Career  | Lunch\   | Dj\ |       |      |     |
-|       | time     | gle \    | Clinic`_ | time     | an\ |       |      |     |
-|       | Event    | Board \  |          | Event    | go\ |       |      |     |
-|       |          | Comput\  |          |          | Gi\ |       |      |     |
-|       |          | er \     |          |          | rl\ |       |      |     |
-|       |          | Hack\    |          |          | s   |       |      |     |
-|       |          | Space`_  |          |          | Lu\ |       |      |     |
++-------+----------+----------+          +----------+-----+       |      |     |
+| 12:00 | PGP key  | `Career  |          | Lunch\   | Dj\ |       |      |     |
+|       | signing  | Clinic`_ |          | time     | an\ |       |      |     |
+|       | party    |          |          | Event    | go\ |       |      |     |
+|       |          |          |          |          | Gi\ |       |      |     |
+|       |          |          |          |          | rl\ |       |      |     |
+|       |          |          |          |          | s   |       |      |     |
+|       |          |          |          |          | Lu\ |       |      |     |
 |       |          |          |          |          | nch |       |      |     |
 +-------+          |          |          |          |     |       +------+-----+
 | 12:10 |          |          |          |          |     |       | Your | Co\ |
@@ -96,12 +96,12 @@ Friday 18th September 2015
 |       |          |          |          |          | ja\ | s*Co\ |      |     |
 |       |          |          |          |          | ng\ | de    |      |     |
 |       |          |          |          |          | o\  | Lunch |      |     |
-+-------+----------+----------+          +----------+ Gi\ +-------+------+-----+
-| 13:00 | PGP key  | Lunch\   |          | Lunch\   | rl\ | `Tra\ | Education  |
-|       | signing  | time     |          | time     | s`_ | ns*C\ | Track      |
-|       | party    | Event    |          | Event    |     | ode`_ | Lunch      |
-+-------+          |          |          |          |     |       |            |
-| 13:30 |          |          |          |          |     |       |            |
++-------+----------+----------+----------+----------+ Gi\ +-------+------+-----+
+| 13:00 | Lunch    | Lunch\   | Work\    | Lunch\   | rl\ | `Tra\ | Education  |
+|       | time     | time     | shop     | time     | s`_ | ns*C\ | Track      |
+|       | Event    | Event    | Room     | Event    |     | ode`_ | Lunch      |
++-------+ Spare    | Spare    | Setup)   |          |     |       |            |
+| 13:30 | Slot     | Slot     |          |          |     |       |            |
 |       |          |          |          |          |     |       |            |
 +-------+----------+----------+----------+----------+     |       +------------+
 | 14:00 | Keynote: Kenneth Reitz - Python 2 vs      |     |       | All hands  |
@@ -210,16 +210,16 @@ Saturday 19th September 2015
 |       |                                                        | UK`_        |
 |       |                                                        | Opening     |
 +-------+----------+----------+----------+-----------+-----------+-------------+
-| 10:00 | `JSON \  | `Build\  | `Fifty \ | Open      | `Form\    | Activities  |
-|       | and \    | ing \    | Shades \ | Space     | ing  a \  |             |
+| 10:00 | `JSON \  | `Build\  | `Fifty \ | Open      | `Form\    | Group       |
+|       | and \    | ing \    | Shades \ | Space     | ing  a \  | Activities: |
 |       | the \    | SAAs \   | of \     | for       | PyCon UK \|             |
-|       | daught\  | with \   | Disast\  | BoFs      | research \|             |
-|       | ers of \ | django \ | er - Hu\ | and       | commun\   |             |
-|       | Pelias`_ | and \    | man \    | discuss\  | ity`_     |             |
-|       |          | polla`_  | Error \  | ion       |           |             |
-|       |          |          | and \    |           |           |             |
-|       |          |          | Complex  |           |           |             |
-|       |          |          | Syste\   |           |           |             |
+|       | daught\  | with \   | Disast\  | BoFs      | research \| * Minecraft |
+|       | ers of \ | django \ | er - Hu\ | and       | commun\   | * Code Club |
+|       | Pelias`_ | and \    | man \    | discuss\  | ity`_     | * Your \    |
+|       |          | polla`_  | Error \  | ion       |           |   code in \ |
+|       |          |          | and \    |           |           |   space     |
+|       |          |          | Complex  |           |           | * Internet \|
+|       |          |          | Syste\   |           |           |   of Toys   |
 |       |          |          | ms`_     |           |           |             |
 +-------+----------+----------+          +-----------+-----------+             |
 | 10:30 | `Manag\  | `Temp\   |          | Open      | `Accel\   |             |
@@ -245,16 +245,16 @@ Saturday 19th September 2015
 |       | fast`_ \ | and \    |          |           |           |             |
 |       |          | Hows`_   |          |           |           |             |
 +-------+          |          |          |           |           +-------------+
-| 11:15 |          |          |          |           |           | Activities  |
-+-------+----------+----------+          |           |           |             |
+| 11:15 |          |          |          |           |           | Everyone    |
++-------+----------+----------+          |           |           | Swap:       |
 | 11:30 | `Find\   | `Why I \ |          |           |           |             |
-|       | ing \    | have an \|          |           |           |             |
-|       | more \   | unhealt\ |          |           |           |             |
-|       | bugs \   | hy \     |          |           |           |             |
-|       | with \   | love \   |          |           |           |             |
-|       | less \   | of test\ |          |           |           |             |
-|       | work`_   | s, and \ |          |           |           |             |
-|       |          | why \    |          |           |           |             |
+|       | ing \    | have an \|          |           |           | * Minecraft |
+|       | more \   | unhealt\ |          |           |           | * Code Club |
+|       | bugs \   | hy \     |          |           |           | * Your \    |
+|       | with \   | love \   |          |           |           |   code in \ |
+|       | less \   | of test\ |          |           |           |   space     |
+|       | work`_   | s, and \ |          |           |           | * Internet \|
+|       |          | why \    |          |           |           |   of Toys   |
 |       |          | you \    |          |           |           |             |
 |       |          | shouldn\ |          |           |           |             |
 |       |          | 't be \  |          |           |           |             |
@@ -263,12 +263,12 @@ Saturday 19th September 2015
 |       |          | writing \|          |           |           |             |
 |       |          | them`_   |          |           |           |             |
 +-------+----------+----------+          +-----------+           |             |
-| 12:00 | Lunch    | Lunch\   |          | Poster    |           |             |
-|       | Events   | time     |          | Session   |           |             |
-+-------+          | Workshop +----------+           +-----------+-------------+
-| 12:30 |          |          | Recruit\ |           | Py4Sci    | PyKids UK   |
-|       |          |          | ment     |           | Lunch     | Lunch       |
-|       |          |          | Clinic   |           |           | (provided   |
+| 12:00 | Lunch    | Recruit\ |          | Poster    |           |             |
+|       | Events   | ment     |          | Session   |           |             |
++-------+ Spare    | Clinic   |          |           +-----------+-------------+
+| 12:30 | Slots    |          |          |           | Py4Sci    | PyKids UK   |
+|       |          |          |          |           | Lunch     | Lunch       |
+|       |          |          |          |           |           | (provided   |
 |       |          |          |          |           |           | packed      |
 |       |          |          |          |           |           | lunch       |
 |       |          |          |          |           |           | including   |
@@ -276,20 +276,20 @@ Saturday 19th September 2015
 |       |          |          |          |           |           | fruit       |
 |       |          |          |          |           |           | and         |
 |       |          |          |          |           |           | crisps)     |
-+-------+          +----------+          |           +-----------+-------------+
-| 13:00 |          | Lunch\   |          |           | `Getting \| Freestyle   |
-|       |          | time     |          |           | started \ | code        |
-+-------+          | `Code    |          |           | with \    | jam         |
-| 13:30 |          | Clinic`_ |          |           | testing \ |             |
++-------+          |          +----------+           +-----------+-------------+
+| 13:00 |          |          | `Scrapy \|           | `Getting \| Freestyle   |
+|       |          |          | Work\    |           | started \ | code        |
++-------+          |          | shop`_   |           | with \    | jam         |
+| 13:30 |          |          | Part 1   |           | testing \ |             |
 |       |          |          |          |           | scient\   |             |
 |       |          |          |          |           | ific pro\ |             |
 |       |          |          |          |           | grams`_   |             |
 |       |          |          |          |           | part 1    |             |
-+-------+----------+----------+----------+-----------+           |             |
-| 14:00 | `Taming \| `Lang\   | `Scrapy \| Open      |           |             |
-|       | a \      | uage \   | Work\    | Space     |           |             |
-|       | Legacy \ | Compos\  | shop`_   |           |           |             |
-|       | Code\    | ition \  | Part 1   |           |           |             |
++-------+----------+----------+          +-----------+           |             |
+| 14:00 | `Taming \| `Lang\   |          | Open      |           |             |
+|       | a \      | uage \   |          | Space     |           |             |
+|       | Legacy \ | Compos\  |          |           |           |             |
+|       | Code\    | ition \  |          |           |           |             |
 |       | base \   | with \   |          |           |           |             |
 |       | with \   | RPytho\  |          |           |           |             |
 |       | (Micro)\ | n`_      |          |           |           |             |
@@ -413,21 +413,21 @@ Sunday 20th September 2015
 |       | my \       | Python \   |            |            |            |
 |       | password`_ | 3`_        |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 12:00 | `PyCon UK \| Lunchtime  |            | Open       | `Pythons \ |
-|       | Jobs Fair`_| `Code      |            | Space      | and \      |
-|       |            | Clinic`_   |            |            | Earth\     |
-|       |            |            |            |            | quakes`_   |
-|       |            |            |            |            |            |
-|       |            |            |            |            |            |
-+-------+            |            +------------+------------+------------+
+| 12:00 | `PyCon UK \| `Sin\      |            | Open       | `Pythons \ |
+|       | Jobs Fair`_| gle \      |            | Space      | and \      |
+|       |            | Board \    |            |            | Earth\     |
+|       |            | Comput\    |            |            | quakes`_   |
+|       |            | er \       |            |            |            |
+|       |            | Hack\      |            |            |            |
++-------+            | Space`_    +------------+------------+------------+
 | 12:30 |            |            | `Event-\   | Open       | Lunch      |
 |       |            |            | Sourced    | Space      |            |
 |       |            |            | Domain \   |            |            |
 +-------+            +------------+ Models \   +------------+            |
 | 13:00 |            | Lunchtime  | in \       | Open       |            |
-|       |            | Workshop   | Python`_   | Space      |            |
-|       |            |            |            |            |            |
-+-------+            |            +            +------------+------------+
+|       |            | Event      | Python`_   | Space      |            |
+|       |            | Spare      |            |            |            |
++-------+            | Slot       |            +------------+------------+
 | 13:30 |            |            |            | Open       | `Getting \ |
 |       |            |            |            | Space      | meaning \  |
 |       |            |            |            |            | from \     |
