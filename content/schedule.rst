@@ -175,10 +175,10 @@ Saturday 19th September 2015
 | 09:30 |                                                        | `PyKids   |
 |       |                                                        | UK`_      |
 |       |                                                        | Opening   |
-+-------+----------+----------+----------+-----------+-----------+-----------+
-| 10:00 | `JSON \  | `Build\  | `Fifty \ | Open      | `Form\    | `PyKids   |
-|       | and \    | ing \    | Shades \ | Space     | ing  a \  | UK`_      |
-|       | the \    | SAAs \   | of \     | for       | PyCon UK \| Opening   |
++-------+----------+----------+----------+-----------+-----------+           |
+| 10:00 | `JSON \  | `Build\  | `Fifty \ | Open      | `Form\    |           |
+|       | and \    | ing \    | Shades \ | Space     | ing  a \  |           |
+|       | the \    | SAAs \   | of \     | for       | PyCon UK \|           |
 |       | daught\  | with \   | Disast\  | BoFs      | research \|           |
 |       | ers of \ | django \ | er - Hu\ | and       | commun\   |           |
 |       | Pelias`_ | and \    | man \    | discuss\  | ity`_     |           |
