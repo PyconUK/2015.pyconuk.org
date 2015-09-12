@@ -18,7 +18,7 @@ Attendees should be familiar with the terrors inherent in multithreaded programm
 ,A deep dive into python import hooks,09-18-2015,11:30,12:00,Osper Room (CC1.4),,"Louis Taylor
 
 In this session we will introduce python import hooks and all the fun that can be had with them. Find out how to completely customise import logic and import modules from any location and any type of file."
-,Learning Python Club Track Intro,09-18-2015,11:30,12:00,YPlan Room (CC1.8),,
+,Introduction to Python,09-18-2015,11:30,13:00,YPlan Room (CC1.8),,
 ,"Real-Time Data + Django = Fun,Growth + Profit",09-18-2015,11:30,12:00,LaterPay Room (CC2.1),,"Rachel Willmer
 
 I've been trying for 2 years to find a good [*] solution for how to add real-time wow into my ebook search site Luzme. Finally, I think I may have it; 
@@ -26,17 +26,17 @@ I've been trying for 2 years to find a good [*] solution for how to add real-tim
 Python/Django meets AngularJS/Firebase; and Luzme finally gets real-time data updates without thrashing the database with repeated querying.
 
 [*] ""Good"" = easy to implement + scalable + financially viable"
-,Lunchtime Event,09-18-2015,12:00,13:00,PythonAnywhere Room (CC1.3),,
-,Single Board Computer HackSpace,09-18-2015,12:00,13:00,Osper Room (CC1.4),,
-,Career Clinic,09-18-2015,12:00,14:00,YPlan Room (CC1.8),,
+,PGP key signing party,09-18-2015,12:00,13:00,PythonAnywhere Room (CC1.3),,
+,Career Clinic,09-18-2015,12:00,13:00,Osper Room (CC1.4),,
 ,Lunchtime Event,09-18-2015,12:00,13:00,LaterPay Room (CC2.1),,
 ,DjangoGirls Lunch,09-18-2015,12:00,12:30,Training and Hackathon (Simulation Centre),,
 ,Your code in space with AstroPi,09-18-2015,12:10,13:00,Bank of America Education Track (Simulation Centre),,
 ,Code Club,09-18-2015,12:10,13:00,Bank of America Education Track (Simulation Centre),,
 ,DjangoGirls,09-18-2015,12:30,18:00,Training and Hackathon (Simulation Centre),,
 ,Trans*Code Lunch,09-18-2015,12:30,13:00,Training and Hackathon (Simulation Centre),,
-,PGP key signing party,09-18-2015,13:00,14:00,PythonAnywhere Room (CC1.3),,
-,Lunchtime Event,09-18-2015,13:00,14:00,Osper Room (CC1.4),,
+,Lunch time Event Spare Slot,09-18-2015,13:00,14:00,PythonAnywhere Room (CC1.3),,
+,Lunchtime Event Spare Slot,09-18-2015,13:00,14:00,Osper Room (CC1.4),,
+,Workshop Room Setup),09-18-2015,13:00,14:00,YPlan Room (CC1.8),,
 ,Lunchtime Event,09-18-2015,13:00,14:00,LaterPay Room (CC2.1),,
 ,Trans*Code,09-18-2015,13:00,18:00,Training and Hackathon (Simulation Centre),,
 ,Education Track Lunch,09-18-2015,13:00,14:00,Bank of America Education Track (Simulation Centre),,
@@ -276,7 +276,7 @@ Airavata is a tool to help run multiple websites under Django using the same cod
 This talk will demonstrate how to build a SAAS service with those tools.
 
 In the meantime you can already checkout [the project's page](https://bitbucket.org/levit_scs/airavata)."
-,Fifty Shades of Disaster - Human Error and Complex Systems,09-19-2015,10:00,12:30,YPlan Room (CC1.8),,"Paul Ross
+,Fifty Shades of Disaster - Human Error and Complex Systems,09-19-2015,10:00,13:00,YPlan Room (CC1.8),,"Paul Ross
 
 A four part workshop that discusses the failures that happen when humans interact with complex systems. The talks illustrate what can be learnt from how various industries handle risk management. They are illustrated with analysis of some famous and not so famous accidents from finance, aviation, marine, software, oil and various other industries.
 
@@ -298,7 +298,7 @@ Part 4: Heroic recoveries, skill, luck and sheer professionalism
 
 Sarah opens the Science Track by introducing the workshops, talks and
 sprint and discusses the formation of a research community."
-,Activities,09-19-2015,10:00,11:15,Bank of America Education Track (Simulation Centre),,
+,Group Activities: Minecraft Code Club Your code in space Internet of Toys,09-19-2015,10:00,11:15,Bank of America Education Track (Simulation Centre),,
 ,Managing mocks - the how why and when of mocking in Python,09-19-2015,10:30,11:00,PythonAnywhere Room (CC1.3),,"Helen Sherwood-Taylor
 
 Mocking is a valuable technique for writing tests, but is it always a good idea?
@@ -364,7 +364,7 @@ As we move towards more customised experiences for our users, why do we still in
 
 Between 1 and 5 percent of the UK population identifies as having a non-binary gender or are transgender. This talk aims to help developers ask users about their gender in a useful and sensitive manner; educate on what non-binary means and what other issues non-binary and gender variant users may face when using the web."
 ,Setup for Poster Session,09-19-2015,11:00,12:00,LaterPay Learning Space (Bistro),,
-,Activities,09-19-2015,11:15,12:30,Bank of America Education Track (Simulation Centre),,
+,Everyone Swap: Minecraft Code Club Your code in space Internet of Toys,09-19-2015,11:15,12:30,Bank of America Education Track (Simulation Centre),,
 ,Finding more bugs with less work,09-19-2015,11:30,12:00,PythonAnywhere Room (CC1.3),,"David R. MacIver
 
 Mainstream software testing is terrible, because the tools to make it good are missing. [Hypothesis](http://hypothesis.readthedocs.org/en/latest/) is a testing library that aims to fix this.
@@ -379,13 +379,23 @@ This talk presupposes you have at least a little bit of experience with testing 
 Tests, I used to hate them, and actually when I start writing tests on a new project I still do.
 
 But, you don't have to be scared about them, and I'd like to cover developing your testing strategy, what to test, what not to test, and how to explain how to convince higher ups that its not just a useful spending of time, its a vital part of your job."
-,Lunch Events,09-19-2015,12:00,14:00,PythonAnywhere Room (CC1.3),,
-,Lunchtime Workshop,09-19-2015,12:00,13:00,Osper Room (CC1.4),,
+,Lunch Events Spare Slots,09-19-2015,12:00,14:00,PythonAnywhere Room (CC1.3),,
+,Recruitment Clinic,09-19-2015,12:00,14:00,Osper Room (CC1.4),,
 ,Poster Session,09-19-2015,12:00,14:00,LaterPay Learning Space (Bistro),,
-,Recruitment Clinic,09-19-2015,12:30,14:00,YPlan Room (CC1.8),,
 ,Py4Sci Lunch,09-19-2015,12:30,13:00,The Software Sustainability Institute Room (CC2.1),,
 ,"PyKids UK Lunch (provided packed lunch including sandwich, fruit and crisps)",09-19-2015,12:30,13:00,Bank of America Education Track (Simulation Centre),,
-,Lunchtime Code Clinic,09-19-2015,13:00,14:00,Osper Room (CC1.4),,
+,Scrapy Workshop Part 1,09-19-2015,13:00,15:00,YPlan Room (CC1.8),,"Juan Riaza
+
+If you want to get data from the web, and there are no APIs available, then you need to use web scraping! Scrapy is the most effective and popular choice for web scraping and is used in many areas such as data science, journalism, business intelligence, web development, etc.
+
+This workshop will provide an overview of Scrapy, starting from the fundamentals and working through each new topic with hands-on examples.
+
+Participants will come away with a good understanding of Scrapy, the principles behind its design, and how to apply the best practices encouraged by Scrapy to any scraping task.
+
+Goals:
+
+- Set up a python environment.
+- Learn basic concepts of the Scrapy framework."
 ,Getting started with testing scientific programs part 1,09-19-2015,13:00,15:00,The Software Sustainability Institute Room (CC2.1),,"Martin Jones
 
 When writing programs for scientific research, we tend to be focussed on getting results, so testing is generally not a priority. Often, this means that our data-processing pipelines end up incorporating programs that don't have test suites. Examples of high-profile retractions due to software errors (e.g. http://www.sciencemag.org/content/314/5807/1856.full) illustrate the dangers of this approach. 
@@ -416,18 +426,6 @@ I hope to cut through the microservices hype, and illustrate one way of using th
 Language composition allows us to write programs in a mixture of different languages. This sounds ideal since it should allow us to choose the best mix of languages for the task at hand. Due to technical hurdles however, language compositions tend to be little more than simple foreign function interfaces (FFIs).
                                                                                 
 At King's college London we are trying to build better language compositions. We have devised a new approach which makes it much easier to intermingle programming languages without compromising performance. In this talk I will outline our approach and show what happens when you put Python and PHP in a blender."
-,Scrapy Workshop Part 1,09-19-2015,14:00,15:00,YPlan Room (CC1.8),,"Juan Riaza
-
-If you want to get data from the web, and there are no APIs available, then you need to use web scraping! Scrapy is the most effective and popular choice for web scraping and is used in many areas such as data science, journalism, business intelligence, web development, etc.
-
-This workshop will provide an overview of Scrapy, starting from the fundamentals and working through each new topic with hands-on examples.
-
-Participants will come away with a good understanding of Scrapy, the principles behind its design, and how to apply the best practices encouraged by Scrapy to any scraping task.
-
-Goals:
-
-- Set up a python environment.
-- Learn basic concepts of the Scrapy framework."
 ,Open Space,09-19-2015,14:00,15:00,LaterPay Learning Space (Bistro),,
 ,Title To Be Determined; A tale of graphs and Markov chains,09-19-2015,14:30,15:00,PythonAnywhere Room (CC1.3),,"Gary Martin
 
@@ -708,7 +706,7 @@ The universe is a wild and wonderful place. From the quantum mechanical effects 
 
 Python’s clear syntax and extensibility makes it an incredibly usable and streamlined language for scientists. We’ll cover off exactly how scientists use Python, what Python can do that other languages can’t (and where it sometimes falls short), and just how Python can be used at home to generate beautiful astronomical images."
 ,PyCon UK Jobs Fair,09-20-2015,12:00,14:00,PythonAnywhere Room (CC1.3),,
-,Lunchtime Code Clinic,09-20-2015,12:00,13:00,Osper Room (CC1.4),,
+,Single Board Computer HackSpace,09-20-2015,12:00,13:00,Osper Room (CC1.4),,
 ,Open Space,09-20-2015,12:00,12:30,LaterPay Learning Space (Bistro),,
 ,Pythons and Earthquakes,09-20-2015,12:00,12:30,The Software Sustainability Institute Room (CC2.1),,"Girish Kumar
 
@@ -724,7 +722,7 @@ In the second part of this workshop we implement an event-sourced architecture f
 This workshop is aimed at Python developers who want to step beyond the limits of canned framework-based solutions such as Django models, or toolkits such as SQLAlchemy, (which are ultimately about managing the horrors of shared-mutable state).  Event-sourced domain models facilitate allow us to combine the best aspects of object-oriented design with robust and simple persistence inspired by functional-programming practice."
 ,Open Space,09-20-2015,12:30,13:00,LaterPay Learning Space (Bistro),,
 ,Lunch,09-20-2015,12:30,13:30,The Software Sustainability Institute Room (CC2.1),,
-,Lunchtime Workshop,09-20-2015,13:00,14:00,Osper Room (CC1.4),,
+,Lunchtime Event Spare Slot,09-20-2015,13:00,14:00,Osper Room (CC1.4),,
 ,Open Space,09-20-2015,13:00,13:30,LaterPay Learning Space (Bistro),,
 ,Open Space,09-20-2015,13:30,14:00,LaterPay Learning Space (Bistro),,
 ,Getting meaning from scientific articles,09-20-2015,13:30,14:00,The Software Sustainability Institute Room (CC2.1),,"Eleonore Mayola
