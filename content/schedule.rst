@@ -210,16 +210,16 @@ Saturday 19th September 2015
 |       |                                                        | UK`_        |
 |       |                                                        | Opening     |
 +-------+----------+----------+----------+-----------+-----------+-------------+
-| 10:00 | `JSON \  | `Build\  | `Fifty \ | Open      | `Form\    | Activities  |
-|       | and \    | ing \    | Shades \ | Space     | ing  a \  |             |
+| 10:00 | `JSON \  | `Build\  | `Fifty \ | Open      | `Form\    | Group       |
+|       | and \    | ing \    | Shades \ | Space     | ing  a \  | Activities: |
 |       | the \    | SAAs \   | of \     | for       | PyCon UK \|             |
-|       | daught\  | with \   | Disast\  | BoFs      | research \|             |
-|       | ers of \ | django \ | er - Hu\ | and       | commun\   |             |
-|       | Pelias`_ | and \    | man \    | discuss\  | ity`_     |             |
-|       |          | polla`_  | Error \  | ion       |           |             |
-|       |          |          | and \    |           |           |             |
-|       |          |          | Complex  |           |           |             |
-|       |          |          | Syste\   |           |           |             |
+|       | daught\  | with \   | Disast\  | BoFs      | research \| * Minecraft |
+|       | ers of \ | django \ | er - Hu\ | and       | commun\   | * Code Club |
+|       | Pelias`_ | and \    | man \    | discuss\  | ity`_     | * Your \    |
+|       |          | polla`_  | Error \  | ion       |           |   code in \ |
+|       |          |          | and \    |           |           |   space     |
+|       |          |          | Complex  |           |           | * Internet \|
+|       |          |          | Syste\   |           |           |   of Toys   |
 |       |          |          | ms`_     |           |           |             |
 +-------+----------+----------+          +-----------+-----------+             |
 | 10:30 | `Manag\  | `Temp\   |          | Open      | `Accel\   |             |
@@ -245,16 +245,16 @@ Saturday 19th September 2015
 |       | fast`_ \ | and \    |          |           |           |             |
 |       |          | Hows`_   |          |           |           |             |
 +-------+          |          |          |           |           +-------------+
-| 11:15 |          |          |          |           |           | Activities  |
-+-------+----------+----------+          |           |           |             |
+| 11:15 |          |          |          |           |           | Everyone    |
++-------+----------+----------+          |           |           | Swap:       |
 | 11:30 | `Find\   | `Why I \ |          |           |           |             |
-|       | ing \    | have an \|          |           |           |             |
-|       | more \   | unhealt\ |          |           |           |             |
-|       | bugs \   | hy \     |          |           |           |             |
-|       | with \   | love \   |          |           |           |             |
-|       | less \   | of test\ |          |           |           |             |
-|       | work`_   | s, and \ |          |           |           |             |
-|       |          | why \    |          |           |           |             |
+|       | ing \    | have an \|          |           |           | * Minecraft |
+|       | more \   | unhealt\ |          |           |           | * Code Club |
+|       | bugs \   | hy \     |          |           |           | * Your \    |
+|       | with \   | love \   |          |           |           |   code in \ |
+|       | less \   | of test\ |          |           |           |   space     |
+|       | work`_   | s, and \ |          |           |           | * Internet \|
+|       |          | why \    |          |           |           |   of Toys   |
 |       |          | you \    |          |           |           |             |
 |       |          | shouldn\ |          |           |           |             |
 |       |          | 't be \  |          |           |           |             |
