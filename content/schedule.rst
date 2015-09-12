@@ -58,20 +58,20 @@ Friday 18th September 2015
 |       |                                           |     |       |      |     |
 |       |                                           |     |       |      |     |
 +-------+----------+----------+----------+----------+     |       |      |     |
-| 11:30 | `Pytho\  | `A deep  | Learning | `Real-T\ |     |       |      |     |
-|       | n's \    | dive     | Python   | ime \    |     |       |      |     |
-|       | Infa\    | into     | Club     | Data + \ |     |       |      |     |
-|       | mous \   | python   | Track    | Dj\      |     |       |      |     |
-|       | GIL`_    | import   | Intro    | ango = \ |     |       |      |     |
+| 11:30 | `Pytho\  | `A deep  | Intro\   | `Real-T\ |     |       |      |     |
+|       | n's \    | dive     | duction  | ime \    |     |       |      |     |
+|       | Infa\    | into     | to       | Data + \ |     |       |      |     |
+|       | mous \   | python   | Python   | Dj\      |     |       |      |     |
+|       | GIL`_    | import   |          | ango = \ |     |       |      |     |
 |       |          | hooks`_  |          | Fu\      |     |       |      |     |
 |       |          |          |          | n,\      |     |       |      |     |
 |       |          |          |          | Growt\   |     |       |      |     |
 |       |          |          |          | h + \    |     |       |      |     |
 |       |          |          |          | Profit`_ |     |       |      |     |
-+-------+----------+----------+----------+----------+-----+       |      |     |
-| 12:00 | Lunch\   | `Career  |          | Lunch\   | Dj\ |       |      |     |
-|       | time     | Clinic`_ |          | time     | an\ |       |      |     |
-|       | Event    |          |          | Event    | go\ |       |      |     |
++-------+----------+----------+          +----------+-----+       |      |     |
+| 12:00 | PGP key  | `Career  |          | Lunch\   | Dj\ |       |      |     |
+|       | signing  | Clinic`_ |          | time     | an\ |       |      |     |
+|       | party    |          |          | Event    | go\ |       |      |     |
 |       |          |          |          |          | Gi\ |       |      |     |
 |       |          |          |          |          | rl\ |       |      |     |
 |       |          |          |          |          | s   |       |      |     |
@@ -96,12 +96,12 @@ Friday 18th September 2015
 |       |          |          |          |          | ja\ | s*Co\ |      |     |
 |       |          |          |          |          | ng\ | de    |      |     |
 |       |          |          |          |          | o\  | Lunch |      |     |
-+-------+----------+----------+          +----------+ Gi\ +-------+------+-----+
-| 13:00 | PGP key  | Lunch\   |          | Lunch\   | rl\ | `Tra\ | Education  |
-|       | signing  | time     |          | time     | s`_ | ns*C\ | Track      |
-|       | party    | Event    |          | Event    |     | ode`_ | Lunch      |
-+-------+          |          |          |          |     |       |            |
-| 13:30 |          |          |          |          |     |       |            |
++-------+----------+----------+----------+----------+ Gi\ +-------+------+-----+
+| 13:00 | Lunch    | Lunch\   | Work\    | Lunch\   | rl\ | `Tra\ | Education  |
+|       | time     | time     | shop     | time     | s`_ | ns*C\ | Track      |
+|       | Event    | Event    | Room     | Event    |     | ode`_ | Lunch      |
++-------+ Spare    | Spare    | Setup)   |          |     |       |            |
+| 13:30 | Slot     | Slot     |          |          |     |       |            |
 |       |          |          |          |          |     |       |            |
 +-------+----------+----------+----------+----------+     |       +------------+
 | 14:00 | Keynote: Kenneth Reitz - Python 2 vs      |     |       | All hands  |
@@ -265,8 +265,8 @@ Saturday 19th September 2015
 +-------+----------+----------+          +-----------+           |             |
 | 12:00 | Lunch    | Recruit\ |          | Poster    |           |             |
 |       | Events   | ment     |          | Session   |           |             |
-+-------+          | Clinic   |          |           +-----------+-------------+
-| 12:30 |          |          |          |           | Py4Sci    | PyKids UK   |
++-------+ Spare    | Clinic   |          |           +-----------+-------------+
+| 12:30 | Slots    |          |          |           | Py4Sci    | PyKids UK   |
 |       |          |          |          |           | Lunch     | Lunch       |
 |       |          |          |          |           |           | (provided   |
 |       |          |          |          |           |           | packed      |
@@ -425,9 +425,9 @@ Sunday 20th September 2015
 |       |            |            | Domain \   |            |            |
 +-------+            +------------+ Models \   +------------+            |
 | 13:00 |            | Lunchtime  | in \       | Open       |            |
-|       |            | Workshop   | Python`_   | Space      |            |
-|       |            |            |            |            |            |
-+-------+            |            |            +------------+------------+
+|       |            | Event      | Python`_   | Space      |            |
+|       |            | Spare      |            |            |            |
++-------+            | Slot       |            +------------+------------+
 | 13:30 |            |            |            | Open       | `Getting \ |
 |       |            |            |            | Space      | meaning \  |
 |       |            |            |            |            | from \     |
