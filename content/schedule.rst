@@ -69,13 +69,13 @@ Friday 18th September 2015
 |       |          |          |          | h + \    |     |       |      |     |
 |       |          |          |          | Profit`_ |     |       |      |     |
 +-------+----------+----------+----------+----------+-----+       |      |     |
-| 12:00 | Lunch\   | `Sin\    | `Career  | Lunch\   | Dj\ |       |      |     |
-|       | time     | gle \    | Clinic`_ | time     | an\ |       |      |     |
-|       | Event    | Board \  |          | Event    | go\ |       |      |     |
-|       |          | Comput\  |          |          | Gi\ |       |      |     |
-|       |          | er \     |          |          | rl\ |       |      |     |
-|       |          | Hack\    |          |          | s   |       |      |     |
-|       |          | Space`_  |          |          | Lu\ |       |      |     |
+| 12:00 | Lunch\   | `Career  |          | Lunch\   | Dj\ |       |      |     |
+|       | time     | Clinic`_ |          | time     | an\ |       |      |     |
+|       | Event    |          |          | Event    | go\ |       |      |     |
+|       |          |          |          |          | Gi\ |       |      |     |
+|       |          |          |          |          | rl\ |       |      |     |
+|       |          |          |          |          | s   |       |      |     |
+|       |          |          |          |          | Lu\ |       |      |     |
 |       |          |          |          |          | nch |       |      |     |
 +-------+          |          |          |          |     |       +------+-----+
 | 12:10 |          |          |          |          |     |       | Your | Co\ |
@@ -263,12 +263,12 @@ Saturday 19th September 2015
 |       |          | writing \|          |           |           |             |
 |       |          | them`_   |          |           |           |             |
 +-------+----------+----------+          +-----------+           |             |
-| 12:00 | Lunch    | Lunch\   |          | Poster    |           |             |
-|       | Events   | time     |          | Session   |           |             |
-+-------+          | Workshop +----------+           +-----------+-------------+
-| 12:30 |          |          | Recruit\ |           | Py4Sci    | PyKids UK   |
-|       |          |          | ment     |           | Lunch     | Lunch       |
-|       |          |          | Clinic   |           |           | (provided   |
+| 12:00 | Lunch    | Recruit\ |          | Poster    |           |             |
+|       | Events   | ment     |          | Session   |           |             |
++-------+          | Clinic   |          |           +-----------+-------------+
+| 12:30 |          |          |          |           | Py4Sci    | PyKids UK   |
+|       |          |          |          |           | Lunch     | Lunch       |
+|       |          |          |          |           |           | (provided   |
 |       |          |          |          |           |           | packed      |
 |       |          |          |          |           |           | lunch       |
 |       |          |          |          |           |           | including   |
@@ -276,20 +276,20 @@ Saturday 19th September 2015
 |       |          |          |          |           |           | fruit       |
 |       |          |          |          |           |           | and         |
 |       |          |          |          |           |           | crisps)     |
-+-------+          +----------+          |           +-----------+-------------+
-| 13:00 |          | Lunch\   |          |           | `Getting \| Freestyle   |
-|       |          | time     |          |           | started \ | code        |
-+-------+          | `Code    |          |           | with \    | jam         |
-| 13:30 |          | Clinic`_ |          |           | testing \ |             |
++-------+          |          +----------+           +-----------+-------------+
+| 13:00 |          |          | `Scrapy \|           | `Getting \| Freestyle   |
+|       |          |          | Work\    |           | started \ | code        |
++-------+          |          | shop`_   |           | with \    | jam         |
+| 13:30 |          |          | Part 1   |           | testing \ |             |
 |       |          |          |          |           | scient\   |             |
 |       |          |          |          |           | ific pro\ |             |
 |       |          |          |          |           | grams`_   |             |
 |       |          |          |          |           | part 1    |             |
-+-------+----------+----------+----------+-----------+           |             |
-| 14:00 | `Taming \| `Lang\   | `Scrapy \| Open      |           |             |
-|       | a \      | uage \   | Work\    | Space     |           |             |
-|       | Legacy \ | Compos\  | shop`_   |           |           |             |
-|       | Code\    | ition \  | Part 1   |           |           |             |
++-------+----------+----------+          +-----------+           |             |
+| 14:00 | `Taming \| `Lang\   |          | Open      |           |             |
+|       | a \      | uage \   |          | Space     |           |             |
+|       | Legacy \ | Compos\  |          |           |           |             |
+|       | Code\    | ition \  |          |           |           |             |
 |       | base \   | with \   |          |           |           |             |
 |       | with \   | RPytho\  |          |           |           |             |
 |       | (Micro)\ | n`_      |          |           |           |             |
@@ -413,13 +413,13 @@ Sunday 20th September 2015
 |       | my \       | Python \   |            |            |            |
 |       | password`_ | 3`_        |            |            |            |
 +-------+------------+------------+            +------------+------------+
-| 12:00 | `PyCon UK \| Lunchtime  |            | Open       | `Pythons \ |
-|       | Jobs Fair`_| `Code      |            | Space      | and \      |
-|       |            | Clinic`_   |            |            | Earth\     |
-|       |            |            |            |            | quakes`_   |
-|       |            |            |            |            |            |
-|       |            |            |            |            |            |
-+-------+            |            +------------+------------+------------+
+| 12:00 | `PyCon UK \| `Sin\      |            | Open       | `Pythons \ |
+|       | Jobs Fair`_| gle \      |            | Space      | and \      |
+|       |            | Board \    |            |            | Earth\     |
+|       |            | Comput\    |            |            | quakes`_   |
+|       |            | er \       |            |            |            |
+|       |            | Hack\      |            |            |            |
++-------+            | Space`_    +------------+------------+------------+
 | 12:30 |            |            | `Event-\   | Open       | Lunch      |
 |       |            |            | Sourced    | Space      |            |
 |       |            |            | Domain \   |            |            |
@@ -427,7 +427,7 @@ Sunday 20th September 2015
 | 13:00 |            | Lunchtime  | in \       | Open       |            |
 |       |            | Workshop   | Python`_   | Space      |            |
 |       |            |            |            |            |            |
-+-------+            |            +            +------------+------------+
++-------+            |            |            +------------+------------+
 | 13:30 |            |            |            | Open       | `Getting \ |
 |       |            |            |            | Space      | meaning \  |
 |       |            |            |            |            | from \     |
