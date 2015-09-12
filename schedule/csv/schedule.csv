@@ -4,7 +4,10 @@ Don't change any of these headers!,Session Title,Date,Time Start,Time End,Room/L
 ,"Keynote: Van Lindberg, PSF Chair",09-18-2015,10:30,11:30,PythonAnywhere Room (CC1.3),,
 ,DjangoGirls,09-18-2015,10:30,12:00,Training and Hackathon (Simulation Centre),,
 ,Trans*Code,09-18-2015,10:30,12:30,Training and Hackathon (Simulation Centre),,
-,Teachers' CPD,09-18-2015,10:30,13:00,Bank of America Education Track (Simulation Centre),,
+,Minecraft in Education,09-18-2015,10:30,11:20,Bank of America Education Track (Simulation Centre),,
+,First steps in Python,09-18-2015,10:30,11:20,Bank of America Education Track (Simulation Centre),,
+,Skycademy,09-18-2015,11:20,12:10,Bank of America Education Track (Simulation Centre),,
+,PyGame Zero,09-18-2015,11:20,12:10,Bank of America Education Track (Simulation Centre),,
 ,Python's Infamous GIL,09-18-2015,11:30,12:00,PythonAnywhere Room (CC1.3),,"Larry Hastings
 
 You’ve heard about Python’s GIL. But what is it really? What does it do, both good and bad?
@@ -28,15 +31,17 @@ Python/Django meets AngularJS/Firebase; and Luzme finally gets real-time data up
 ,Career Clinic,09-18-2015,12:00,14:00,YPlan Room (CC1.8),,
 ,Lunchtime Event,09-18-2015,12:00,13:00,LaterPay Room (CC2.1),,
 ,DjangoGirls Lunch,09-18-2015,12:00,12:30,Training and Hackathon (Simulation Centre),,
+,Your code in space with AstroPi,09-18-2015,12:10,13:00,Bank of America Education Track (Simulation Centre),,
+,Code Club,09-18-2015,12:10,13:00,Bank of America Education Track (Simulation Centre),,
 ,DjangoGirls,09-18-2015,12:30,18:00,Training and Hackathon (Simulation Centre),,
 ,Trans*Code Lunch,09-18-2015,12:30,13:00,Training and Hackathon (Simulation Centre),,
 ,PGP key signing party,09-18-2015,13:00,14:00,PythonAnywhere Room (CC1.3),,
 ,Lunchtime Event,09-18-2015,13:00,14:00,Osper Room (CC1.4),,
 ,Lunchtime Event,09-18-2015,13:00,14:00,LaterPay Room (CC2.1),,
 ,Trans*Code,09-18-2015,13:00,18:00,Training and Hackathon (Simulation Centre),,
-,Teachers' Lunch,09-18-2015,13:00,13:30,Bank of America Education Track (Simulation Centre),,
-,Teachers' CPD,09-18-2015,13:30,18:00,Bank of America Education Track (Simulation Centre),,
+,Education Track Lunch,09-18-2015,13:00,14:00,Bank of America Education Track (Simulation Centre),,
 ,"Keynote: Kenneth Reitz - Python 2 vs Python 3, a Sacred Love Story",09-18-2015,14:00,15:00,PythonAnywhere Room (CC1.3),,
+,"All hands resource generation un-conference, adopt a developer",09-18-2015,14:00,16:00,Bank of America Education Track (Simulation Centre),,
 ,Analyzing Python with Pylint,09-18-2015,15:00,15:30,PythonAnywhere Room (CC1.3),,"Claudiu Popa
 
 Given the dynamic nature of Python, some bugs tend to creep in our codebases. Innocents NameErrors or hard-to-find bugs with variables used in a closure, but defined in a loop, they all stand no chance in front of Pylint (http://pylint.org/).
@@ -141,6 +146,7 @@ Follow along with me as I attempt to explain the most appealing features, simila
 The talk will demonstrate how to port a Python2 project to python3. We will look at both making the code python3 exclusive, and making it cross compatible. This will be demonstrated using the python-future package, which is a camptibility library to aid with code porting. After this talk, you should be able to handle porting any python existing Py2 code to work with Py3.
 
 This talk is based on work done during summer where the buildbot project was ported from Py2, to be cross compatible with Py3. It will demonstrate some of the challenges encountered and and some of the lessones learned during the process of porting both a small project (buildslave) and a large project (buildbot)"
+,TeachMeet,09-18-2015,16:00,18:00,Bank of America Education Track (Simulation Centre),,
 ,Making Python Computations Fast,09-18-2015,16:30,17:00,PythonAnywhere Room (CC1.3),,"Russel Winder
 
 Python is slow at computing things. Some people try to use Cython, Numba or even NumPy to get round this. However the best way forward is to use a specialist native code language. No not C. Some people will use C++, but the real cogniscenti will use D or Chapel. This session will show how to do this using a small example."
@@ -247,7 +253,7 @@ At the end of the presentation, the participants will hopefully gain an idea of 
 ,Opening Plenary,09-19-2015,09:00,09:15,PythonAnywhere Room (CC1.3),,
 ,Keynote: Dr Simon Sheridan Landing on a comet: From planning to reality,09-19-2015,09:15,10:00,PythonAnywhere Room (CC1.3),,
 ,PyKids UK Setup,09-19-2015,09:15,09:30,Bank of America Education Track (Simulation Centre),,
-,PyKids UK Opening,09-19-2015,09:30,10:30,Bank of America Education Track (Simulation Centre),,
+,PyKids UK Opening,09-19-2015,09:30,10:00,Bank of America Education Track (Simulation Centre),,
 ,JSON and the daughters of Pelias,09-19-2015,10:00,10:30,PythonAnywhere Room (CC1.3),,"Zeth
 
 The JSON Data Interchange Format is Internet Engineering Task Force
@@ -292,6 +298,7 @@ Part 4: Heroic recoveries, skill, luck and sheer professionalism
 
 Sarah opens the Science Track by introducing the workshops, talks and
 sprint and discusses the formation of a research community."
+,Activities,09-19-2015,10:00,11:15,Bank of America Education Track (Simulation Centre),,
 ,Managing mocks - the how why and when of mocking in Python,09-19-2015,10:30,11:00,PythonAnywhere Room (CC1.3),,"Helen Sherwood-Taylor
 
 Mocking is a valuable technique for writing tests, but is it always a good idea?
@@ -316,7 +323,6 @@ Areas that will be covered include:
 * Debugging facilities in Numba.
 
 This tutorial is intended for an audience of programmers and data scientists who have an interest in speeding up numerical routines, and people with a general interest in high-performance Python. In order to get started quickly, it is recommended that attendees install the Anaconda Python distribution or Miniconda, as this provides a robust mechanism for installing Numba on Linux, Mac OS X and Windows."
-,PyKids UK Discussion,09-19-2015,10:30,11:00,Bank of America Education Track (Simulation Centre),,
 ,5 impossible things before breakfast,09-19-2015,11:00,11:30,PythonAnywhere Room (CC1.3),,"Michael Sparks
 
 Sometimes you're asked to deliver something that seems impossible, but
@@ -358,7 +364,7 @@ As we move towards more customised experiences for our users, why do we still in
 
 Between 1 and 5 percent of the UK population identifies as having a non-binary gender or are transgender. This talk aims to help developers ask users about their gender in a useful and sensitive manner; educate on what non-binary means and what other issues non-binary and gender variant users may face when using the web."
 ,Setup for Poster Session,09-19-2015,11:00,12:00,LaterPay Learning Space (Bistro),,
-,PyKids UK,09-19-2015,11:00,11:30,Bank of America Education Track (Simulation Centre),,
+,Activities,09-19-2015,11:15,12:30,Bank of America Education Track (Simulation Centre),,
 ,Finding more bugs with less work,09-19-2015,11:30,12:00,PythonAnywhere Room (CC1.3),,"David R. MacIver
 
 Mainstream software testing is terrible, because the tools to make it good are missing. [Hypothesis](http://hypothesis.readthedocs.org/en/latest/) is a testing library that aims to fix this.
@@ -373,11 +379,9 @@ This talk presupposes you have at least a little bit of experience with testing 
 Tests, I used to hate them, and actually when I start writing tests on a new project I still do.
 
 But, you don't have to be scared about them, and I'd like to cover developing your testing strategy, what to test, what not to test, and how to explain how to convince higher ups that its not just a useful spending of time, its a vital part of your job."
-,Squash / Tea and biscuits,09-19-2015,11:30,12:00,Bank of America Education Track (Simulation Centre),,
 ,Lunch Events,09-19-2015,12:00,14:00,PythonAnywhere Room (CC1.3),,
 ,Lunchtime Workshop,09-19-2015,12:00,13:00,Osper Room (CC1.4),,
 ,Poster Session,09-19-2015,12:00,14:00,LaterPay Learning Space (Bistro),,
-,PyKids UK,09-19-2015,12:00,12:30,Bank of America Education Track (Simulation Centre),,
 ,Recruitment Clinic,09-19-2015,12:30,14:00,YPlan Room (CC1.8),,
 ,Py4Sci Lunch,09-19-2015,12:30,13:00,The Software Sustainability Institute Room (CC2.1),,
 ,"PyKids UK Lunch (provided packed lunch including sandwich, fruit and crisps)",09-19-2015,12:30,13:00,Bank of America Education Track (Simulation Centre),,
@@ -397,7 +401,7 @@ Attendees should have a basic knowledge of Python and should be familiar with th
 
 ####What to do before this session
 If you plan to attend this workshop, you can make things run smoothly by making sure that you have the `nose` module installed. Follow [the instructions on the nose website](https://nose.readthedocs.org/en/latest/). You'll also need internet access in order to download the example files, so make sure you can connect to the conference wifi."
-,PyKids UK,09-19-2015,13:00,14:00,Bank of America Education Track (Simulation Centre),,
+,Freestyle code jam,09-19-2015,13:00,15:00,Bank of America Education Track (Simulation Centre),,
 ,Taming a Legacy Codebase with (Micro)services,09-19-2015,14:00,14:30,PythonAnywhere Room (CC1.3),,"John Chandler
 
 This is a story of killing-off a legacy codebase written in PHP. To the business, it ""just works"" and the customers love it. To the developers, it's an unmaintainable nightmare of bad practice that has resisted every attempt to rewrite from scratch.
@@ -425,7 +429,6 @@ Goals:
 - Set up a python environment.
 - Learn basic concepts of the Scrapy framework."
 ,Open Space,09-19-2015,14:00,15:00,LaterPay Learning Space (Bistro),,
-,Squash and biscuits (Tea and coffee for parents),09-19-2015,14:00,14:30,Bank of America Education Track (Simulation Centre),,
 ,Title To Be Determined; A tale of graphs and Markov chains,09-19-2015,14:30,15:00,PythonAnywhere Room (CC1.3),,"Gary Martin
 
 In the runup to PyconUK 2014, I made the following ill-advised statement in an IRC channel: ""I feel like I should find something to talk about at PyconUK. I wish I had something interesting to talk about."" Nine seconds later someone replied ""create a markov chain to generate a talk from the names of the talks at pycon and europython, then talk about how you did that, using a title it generates as the title of the talk.""
@@ -452,8 +455,8 @@ a good Python distribution.  This talk will concentrate on UNIX
 platforms and dive into the details of what needs to be done to create
 a portable distribution.  It will then discuss how to fully bootstrap
 such a distribution using Conda."
-,PyKids UK,09-19-2015,14:30,15:30,Bank of America Education Track (Simulation Centre),,
 ,Plenary,09-19-2015,15:00,15:30,PythonAnywhere Room (CC1.3),,
+,Wrap up,09-19-2015,15:00,15:30,Bank of America Education Track (Simulation Centre),,
 ,Lightning PyKids UK,09-19-2015,15:30,16:00,PythonAnywhere Room (CC1.3),,
 ,PyCon UK Society AGM,09-19-2015,16:00,16:30,PythonAnywhere Room (CC1.3),,
 ,Teaching youngsters to code with pgzero on Raspberry Pi,09-19-2015,16:30,17:00,PythonAnywhere Room (CC1.3),,"Tim Golden
