@@ -381,7 +381,7 @@ def write_ical_schedule(schedule, config):
         vevent.add('location').value = event['location']
 
         if event['href']:
-            href = 'https://www.pyconuk.org' + event['href']
+            href = 'http://www.pyconuk.org' + event['href']
 
             # TODO: convince clients to show text/html descriptions
             description = vevent.add('description')
