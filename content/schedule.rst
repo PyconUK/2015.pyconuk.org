@@ -21,7 +21,7 @@ The dynamic conference for the leading dynamic language
 
    .. class:: schedule-switch
 
-   `Flat`_ |emsp| :active:`Tabular`
+   `Flat`_ |emsp| :active:`Tabular` |emsp| `iCal`_
 
 Friday 18th September 2015
 --------------------------
@@ -524,6 +524,7 @@ Notes
    :trim:
 
 .. _Flat: flat/
+.. _iCal: /schedule.ics
 .. _Friday: `Friday 18th September 2015`_
 .. _Saturday: `Saturday 19th September 2015`_
 .. _Sunday: `Sunday 20th September 2015`_
