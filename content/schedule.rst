@@ -104,8 +104,8 @@ Friday 18th September 2015
 | 13:30 | Slot     | Slot     |          |          |     |       |            |
 |       |          |          |          |          |     |       |            |
 +-------+----------+----------+----------+----------+     |       +------------+
-| 14:00 | Keynote: Kenneth Reitz - Python 2 vs      |     |       | All hands  |
-|       | Python 3, a Sacred Love Story             |     |       | resource   |
+| 14:00 | Keynote: Daniele Procida `All I really \  |     |       | All hands  |
+|       | want is power`_                           |     |       | resource   |
 +-------+----------+----------+----------+----------+     |       | generation |
 | 15:00 | `Analy\  | `Choos\  | `Djan\   | `Deplo\  |     |       | un-confer\ |
 |       | zing \   | ing      | go \     | y a \    |     |       | ence,      |
@@ -336,20 +336,14 @@ Saturday 19th September 2015
 |       |          | five \   |          |           |           |             |
 |       |          | years`_  |          |           |           |             |
 +-------+----------+----------+----------+           |           |             |
-| 17:30 | `All I   | `The \   | X        |           |           |             |
-|       | really   | Fabric \ |          |           |           |             |
-|       | want     | that \   |          |           |           |             |
-|       | is       | holds    |          |           |           |             |
-|       | power`_  | the \    |          |           |           |             |
+| 17:30 | PyCon    | `The \   | X        |           |           |             |
+|       | Namibia  | Fabric \ |          |           |           |             |
+|       |          | that \   |          |           |           |             |
+|       |          | holds    |          |           |           |             |
+|       |          | the \    |          |           |           |             |
 |       |          | cloud    |          |           |           |             |
 |       |          | toge\    |          |           |           |             |
 |       |          | ther`_   |          |           |           |             |
-|       |          |          |          |           |           |             |
-|       |          |          |          |           |           |             |
-|       |          |          |          |           |           |             |
-|       |          |          |          |           |           |             |
-|       |          |          |          |           |           |             |
-|       |          |          |          |           |           |             |
 +-------+----------+----------+----------+-----------+-----------+-------------+
 | 18:00 | `The Lightning Talk Show`_                                           |
 +-------+----------------------------------------------------------------------+
