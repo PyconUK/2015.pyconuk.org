@@ -10,5 +10,7 @@ pytest==2.5.2
 PyYAML==3.10
 regex==2015.5.10
 requests==2.7.0
+six==1.9.0
 Unidecode==0.4.17
+vobject==0.6.6
 wok==1.1.1

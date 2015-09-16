@@ -10,6 +10,7 @@ import re
 import docutils.examples
 import jinja2
 import lxml.html
+import vobject
 #import yaml
 
 
@@ -359,12 +360,49 @@ def write_flat_schedule(schedule, config):
         f.write(schedule_html)
 
 
+def write_ical_schedule(schedule, config):
+    cal = vobject.iCalendar()
+    cal.add('x-wr-calname').value = 'PyCon UK 2015 Schedule'
+    for event in schedule:
+        vevent = cal.add('vevent')
+
+        if event['start']:
+            vevent.add('dtstart').value = event['start']
+        if event['finish']:
+            vevent.add('dtend').value = event['finish']
+
+        title = event['title']
+        type_ = event['type']
+        speaker = event['speaker']
+        if type_ or speaker:
+            title += ' (' + ' by '.join(filter(None, [type_, speaker])) + ')'
+        vevent.add('summary').value = title
+
+        vevent.add('location').value = event['location']
+
+        if event['href']:
+            href = 'https://www.pyconuk.org' + event['href']
+
+            # TODO: convince clients to show text/html descriptions
+            description = vevent.add('description')
+            description.value = href
+
+            # Does anything show these?
+            vevent.add('url').value = href
+
+    ics_path = os.path.join(config['output_dir'], 'schedule.ics')
+    with io.open(ics_path, 'w', encoding='utf-8') as f:
+        f.write(cal.serialize().decode('utf-8'))
+
+
 def create_flat_schedule(config):
     schedule = read_html_tabular_schedule(config)
+    write_ical_schedule(schedule, config)
     write_flat_schedule(schedule, config)
 
 
 if __name__ == '__main__':
     config = {'template_dir': 'templates', 'output_dir': 'output'}
     schedule = read_rst_tabular_schedule(config)
+    write_ical_schedule(schedule, config)
     write_flat_schedule(schedule, config)
