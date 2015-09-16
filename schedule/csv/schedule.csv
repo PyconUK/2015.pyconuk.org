@@ -40,7 +40,13 @@ Python/Django meets AngularJS/Firebase; and Luzme finally gets real-time data up
 ,Lunchtime Event,09-18-2015,13:00,14:00,LaterPay Room (CC2.1),,
 ,Trans*Code,09-18-2015,13:00,18:00,Training and Hackathon (Simulation Centre),,
 ,Education Track Lunch,09-18-2015,13:00,14:00,Bank of America Education Track (Simulation Centre),,
-,"Keynote: Kenneth Reitz - Python 2 vs Python 3, a Sacred Love Story",09-18-2015,14:00,15:00,PythonAnywhere Room (CC1.3),,
+,Keynote: Daniele Procida All I really want is power,09-18-2015,14:00,15:00,PythonAnywhere Room (CC1.3),,"Daniele Procida
+
+Computing power is a kind of power, but I’m interested in a more powerful power: power over other people.
+
+I want to understand power and where it comes from. I’m curious about the balances and imbalances of power in our worlds of software development, how it moves around and where it goes. I want to know how it affects the people who have it, how they use it, and whether they even realise that they hold it.
+
+I believe that it really matters to open-source communities, that it’s poorly understood, and that not understanding it has harmful consequences for us."
 ,"All hands resource generation un-conference, adopt a developer",09-18-2015,14:00,16:00,Bank of America Education Track (Simulation Centre),,
 ,Analyzing Python with Pylint,09-18-2015,15:00,15:30,PythonAnywhere Room (CC1.3),,"Claudiu Popa
 
@@ -534,13 +540,7 @@ This talk will give a social, economic and technical survey of chromebooks, look
 
 This year I replaced my laptop with a chromebook."
 ,PSF Reception,09-19-2015,17:00,18:00,LaterPay Learning Space (Bistro),,
-,All I really want is power,09-19-2015,17:30,18:00,PythonAnywhere Room (CC1.3),,"Daniele Procida
-
-Computing power is a kind of power, but I’m interested in a more powerful power: power over other people.
-
-I want to understand power and where it comes from. I’m curious about the balances and imbalances of power in our worlds of software development, how it moves around and where it goes. I want to know how it affects the people who have it, how they use it, and whether they even realise that they hold it.
-
-I believe that it really matters to open-source communities, that it’s poorly understood, and that not understanding it has harmful consequences for us."
+,PyCon Namibia,09-19-2015,17:30,18:00,PythonAnywhere Room (CC1.3),,
 ,The Fabric that holds the cloud together,09-19-2015,17:30,18:00,Osper Room (CC1.4),,"Konstantin Benz
 
 What's this session about?
