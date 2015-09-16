@@ -570,7 +570,7 @@ Notes
 .. _`Here be Dragons - Writing Safe C Extensions`: /talks/here-be-dragons-writing-safe-c-extensions/
 .. _`How (not) to argue - a recipe for more productive tech conversations`: /talks/how-not-to-argue-a-recipe-for-more-productive-tech-conversations/
 .. _`The fabric that holds the cloud together`: /talks/the-fabric-that-holds-the-cloud-together-use-python-fabric-library-to-manage-your-openstack-environment/
-.. _`Python and the terminal - Input, Output, Pipes and Snakes`: /talks/python-and-the-terminal-input-output-pipes-and-snakes/
+.. _`Testing with two failure seeking missiles: fuzzing and property based testing`: /talks/testing-with-two-failure-seeking-missiles-fuzzing-and-property-based-testing/
 .. _`data visualisation with python and javascript - crafting a data-visualisation for the web`: /talks/data-visualisation-with-python-and-javascript-crafting-a-data-visualisation-toolchain-for-the-web/
 .. _`django security workshop`: /workshops/django-security/
 .. _`real-time data + django = fun,growth + profit`: /talks/real-time-data-django-fun-growth-profit/
