@@ -508,11 +508,11 @@ Back to Friday_ |emsp| Saturday_ |emsp| Sunday_ |emsp| Monday_
 Notes
 -----
 
-* Overflows for the PythonAnywhere room are CC1.1, CC1.2 and on Sunday
-  afternoon the Osper Room (CC1.4) will also be an overflow.
+* Overflows for the PythonAnywhere room are CC1.1, CC1.2 and during
+  plenaries, the Osper Room (CC1.4) will also be an overflow.
 
-* Workshops can fill up quickly so get to the room early to avoid
-  disappointment.
+* Workshops will fill up very quickly so get to the room very early to
+  avoid disappointment.
 
 * In the case of speaker illness or similar, minor replacements may
   happen without notice.
