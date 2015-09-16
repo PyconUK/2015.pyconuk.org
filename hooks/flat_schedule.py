@@ -118,10 +118,19 @@ def parse_rooms(table):
 
 
 def parse_event_href(href):
+    """Returns a dict of information from the URL of recognized events
+
+    >>> parse_event_href('/demos/fooing-the-bar-with-only-2-quuxs')['type']
+    'demo'
+    >>> parse_event_href('/panels/quuxers-question-time/')['slug']
+    quuxers-question-time'
+    >>> parse_event_href('/ceremonies/changing-of-the-royal-quux')
+    {}
+    """
     m = re.match(r'''
-        /(?P<type>demo|panel|sprint|talk|workshop)s
+        /(?P<type>demo|panel|sprint|talk|workshop)s # NB: Hacky unpluralizing
         /(?P<slug>[a-z0-9-]+)
-        /
+        /?
         ''',
         href,
         re.VERBOSE)
