@@ -10,6 +10,7 @@ import re
 import docutils.examples
 import jinja2
 import lxml.html
+import pytz
 import vobject
 #import yaml
 
@@ -372,13 +373,20 @@ def write_flat_schedule(schedule, config):
 def write_ical_schedule(schedule, config):
     cal = vobject.iCalendar()
     cal.add('x-wr-calname').value = 'PyCon UK 2015 Schedule'
+
+    def add_tz(dt):
+        # datetimes are in Europe/London time, but vobject blows up if we use
+        # pytz.timezone('Europe/London').localize(dt)
+        return pytz.UTC.localize(dt - datetime.timedelta(hours=1))
+
+
     for event in schedule:
         vevent = cal.add('vevent')
 
         if event['start']:
-            vevent.add('dtstart').value = event['start']
+            vevent.add('dtstart').value = add_tz(event['start'])
         if event['finish']:
-            vevent.add('dtend').value = event['finish']
+            vevent.add('dtend').value = add_tz(event['finish'])
 
         title = event['title']
         type_ = event['type']
