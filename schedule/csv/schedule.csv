@@ -400,18 +400,7 @@ But, you don't have to be scared about them, and I'd like to cover developing yo
 ,Poster Session,09-19-2015,12:00,14:00,LaterPay Learning Space (Bistro),,
 ,Py4Sci Lunch,09-19-2015,12:30,13:00,The Software Sustainability Institute Room (CC2.1),,
 ,"PyKids UK Lunch (provided packed lunch including sandwich, fruit and crisps)",09-19-2015,12:30,13:00,Bank of America Education Track (Simulation Centre),,
-,Scrapy Workshop Part 1,09-19-2015,13:00,15:00,YPlan Room (CC1.8),,"Juan Riaza
-
-If you want to get data from the web, and there are no APIs available, then you need to use web scraping! Scrapy is the most effective and popular choice for web scraping and is used in many areas such as data science, journalism, business intelligence, web development, etc.
-
-This workshop will provide an overview of Scrapy, starting from the fundamentals and working through each new topic with hands-on examples.
-
-Participants will come away with a good understanding of Scrapy, the principles behind its design, and how to apply the best practices encouraged by Scrapy to any scraping task.
-
-Goals:
-
-- Set up a python environment.
-- Learn basic concepts of the Scrapy framework."
+,,09-19-2015,13:00,14:00,YPlan Room (CC1.8),,
 ,Getting started with testing scientific programs part 1,09-19-2015,13:00,15:00,The Software Sustainability Institute Room (CC2.1),,"Martin Jones
 
 When writing programs for scientific research, we tend to be focussed on getting results, so testing is generally not a priority. Often, this means that our data-processing pipelines end up incorporating programs that don't have test suites. Examples of high-profile retractions due to software errors (e.g. http://www.sciencemag.org/content/314/5807/1856.full) illustrate the dangers of this approach. 
@@ -442,6 +431,18 @@ I hope to cut through the microservices hype, and illustrate one way of using th
 Language composition allows us to write programs in a mixture of different languages. This sounds ideal since it should allow us to choose the best mix of languages for the task at hand. Due to technical hurdles however, language compositions tend to be little more than simple foreign function interfaces (FFIs).
                                                                                 
 At King's college London we are trying to build better language compositions. We have devised a new approach which makes it much easier to intermingle programming languages without compromising performance. In this talk I will outline our approach and show what happens when you put Python and PHP in a blender."
+,Scrapy Workshop Part 1,09-19-2015,14:00,16:00,YPlan Room (CC1.8),,"Juan Riaza
+
+If you want to get data from the web, and there are no APIs available, then you need to use web scraping! Scrapy is the most effective and popular choice for web scraping and is used in many areas such as data science, journalism, business intelligence, web development, etc.
+
+This workshop will provide an overview of Scrapy, starting from the fundamentals and working through each new topic with hands-on examples.
+
+Participants will come away with a good understanding of Scrapy, the principles behind its design, and how to apply the best practices encouraged by Scrapy to any scraping task.
+
+Goals:
+
+- Set up a python environment.
+- Learn basic concepts of the Scrapy framework."
 ,Open Space,09-19-2015,14:00,15:00,LaterPay Learning Space (Bistro),,
 ,Title To Be Determined; A tale of graphs and Markov chains,09-19-2015,14:30,15:00,PythonAnywhere Room (CC1.3),,"Gary Martin
 
@@ -470,8 +471,9 @@ platforms and dive into the details of what needs to be done to create
 a portable distribution.  It will then discuss how to fully bootstrap
 such a distribution using Conda."
 ,Plenary,09-19-2015,15:00,15:30,PythonAnywhere Room (CC1.3),,
+,,09-19-2015,15:00,15:30,LaterPay Learning Space (Bistro),,
 ,Wrap up,09-19-2015,15:00,15:30,Bank of America Education Track (Simulation Centre),,
-,Lightning PyKids UK,09-19-2015,15:30,16:00,PythonAnywhere Room (CC1.3),,
+,Lightning PyKids,09-19-2015,15:30,16:00,PythonAnywhere Room (CC1.3),,
 ,PyCon UK Society AGM,09-19-2015,16:00,16:30,PythonAnywhere Room (CC1.3),,
 ,Teaching youngsters to code with pgzero on Raspberry Pi,09-19-2015,16:30,17:00,PythonAnywhere Room (CC1.3),,"Tim Golden
 
@@ -572,7 +574,7 @@ After this session you will know
 * How to upload files to virtual machines or download files from virtual machines to your local computer
 * How to use regular expressions and configuration file templates to create custom configuration files
 * How to serialize objects with pickle or JSON and use serialization let VMs communicate to each other"
-,X,09-19-2015,17:30,18:00,YPlan Room (CC1.8),,
+,,09-19-2015,17:30,18:00,YPlan Room (CC1.8),,
 ,The Lightning Talk Show,09-19-2015,18:00,19:15,PythonAnywhere Room (CC1.3),,
 ,Break,09-19-2015,19:15,19:30,PythonAnywhere Room (CC1.3),,
 ,The PyCon UK Dinner (Ticket required),09-19-2015,19:30,23:59,PythonAnywhere Room (CC1.3),,
