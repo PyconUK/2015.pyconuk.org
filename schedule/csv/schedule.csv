@@ -757,19 +757,23 @@ Using specialised search engines can be inefficient if you don't use the ""right
 
 In my talk I'll answer the following question: can Python machine learning libraries (nltk, scikit-learn) be used to 
 determine whether a research article is worth reading? I'll use the Natural Language Processing to identify articles topics and train a classifier to distinguish between relevant and non-relevant articles depending and someone's area of research."
-,"Python and the terminal - Input, Output, Pipes and Snakes",09-20-2015,14:00,14:30,PythonAnywhere Room (CC1.3),,"Tom Viner
+,Testing with two failure seeking missiles,09-20-2015,14:00,14:30,PythonAnywhere Room (CC1.3),,"Tom Viner
 
-The first half will look at how Python interacts with keyboard and command line *input*
-- Reading standard input and command line arguments
-- The built-in fileinput module: ""Iterate over lines from multiple input streams"", from pipe or via filename like GNU utils `cat` or `diff` do
-- Reading keys in non-blocking mode: ascii one-d snake!
+Testing with purely random data on it's own doesn't get you very far. But
+two approaches that have been around for a while have new libraries that
+help you generate random input, that homes in on failing testcases.
 
-Then we'll look at the powers of Python in printing *output* to the screen
-- Terminal colours
-- The legacy of teleprinter output: overcoming the printed page metaphor
-- Control characters: magic manipulation of the console
+First **[Hypothesis](https://hypothesis.readthedocs.org/en/latest/)**, a Python implementation and update of the Haskell library QuickCheck. Known as property based testing, you specify a property of your
+code that must hold, and Hypothesis does its best to find a counterexample.
+It then shrinks this to find the minimal input that contradicts your property.
 
-And we'll see various library modules that can help us along the way."
+Second, **[American fuzzy lop](http://lcamtuf.coredump.cx/afl/)** (AFL), is a young fuzzing library that's already
+achieved an impressive trophy case of bug discoveries. Using
+instrumentation and genetic algorithms, it generates test input that
+carefully searches out as many code paths as it can find, seeking greater
+functional coverage and ultimately locating crashes and hangs that no other
+method has found. I'll be showing how with **[Python-AFL](http://jwilk.net/software/python-afl)** we can apply this
+tool to our Python code."
 ,Getting schemas around semi-structured data using Avro,09-20-2015,14:00,14:30,Osper Room (CC1.4),,"Konark Modi
 
 In this world of big-data where we are producing data of enormous variety, velocity, volume and the nature being semi-structured we need to put some rules around data being collected which are not rigid yet allow efficient management of it right from collection layer.
