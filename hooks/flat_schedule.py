@@ -255,6 +255,11 @@ def parse_tabular_schedule(tree):
             if event['finish'] is not None:
                 event['finish'] = datetime.datetime.combine(day, event['finish'])
                 event['duration'] = event['finish'] - event['start']
+
+            # This is a hack because 'Lightning PyKids' appears twice in the same row.
+            if event['title'] == 'Lightning PyKids' and 'Bistro' in event['location']:
+                continue
+
             yield event
 
 
