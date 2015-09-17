@@ -429,16 +429,16 @@ Sunday 20th September 2015
 |       |            |            |            |            | ific \     |
 |       |            |            |            |            | articles`_ |
 +-------+------------+------------+            +------------+------------+
-| 14:00 | `Python \  | `Getting \ |            | Open       | `Demo:  \  |
-|       | and \      | schemas \  |            | Space      | Simple \   |
-|       | the \      | around \   |            |            | web \      |
-|       | termi\     | semi-\     |            |            | services \ |
-|       | nal - \    | struct\    |            |            | for \      |
-|       | Input, \   | ured \     |            |            | scient\    |
-|       | Output, \  | data \     |            |            | ific \     |
-|       | Pipes \    | using \    |            |            | data`_     |
-|       | and \      | Avro`_     |            |            |            |
-|       | Snakes`_   |            |            |            |            |
+| 14:00 | `Testing \ | `Getting \ |            | Open       | `Demo:  \  |
+|       | with two \ | schemas \  |            | Space      | Simple \   |
+|       | failure \  | around \   |            |            | web \      |
+|       | seeking \  | semi-\     |            |            | services \ |
+|       | missiles`_ | struct\    |            |            | for \      |
+|       |            | ured \     |            |            | scient\    |
+|       |            | data \     |            |            | ific \     |
+|       |            | using \    |            |            | data`_     |
+|       |            | Avro`_     |            |            |            |
+|       |            |            |            |            |            |
 +-------+------------+------------+            |            +------------+
 | 14:30 | `Data \    | `Analyse \ |            |            | `Discuss\  |
 |       | Visual\    | Your\      |            |            | ion: \     |
@@ -570,7 +570,7 @@ Notes
 .. _`Here be Dragons - Writing Safe C Extensions`: /talks/here-be-dragons-writing-safe-c-extensions/
 .. _`How (not) to argue - a recipe for more productive tech conversations`: /talks/how-not-to-argue-a-recipe-for-more-productive-tech-conversations/
 .. _`The fabric that holds the cloud together`: /talks/the-fabric-that-holds-the-cloud-together-use-python-fabric-library-to-manage-your-openstack-environment/
-.. _`Python and the terminal - Input, Output, Pipes and Snakes`: /talks/python-and-the-terminal-input-output-pipes-and-snakes/
+.. _`Testing with two failure seeking missiles`: /talks/testing-with-two-failure-seeking-missiles-fuzzing-and-property-based-testing/
 .. _`data visualisation with python and javascript - crafting a data-visualisation for the web`: /talks/data-visualisation-with-python-and-javascript-crafting-a-data-visualisation-toolchain-for-the-web/
 .. _`django security workshop`: /workshops/django-security/
 .. _`real-time data + django = fun,growth + profit`: /talks/real-time-data-django-fun-growth-profit/
