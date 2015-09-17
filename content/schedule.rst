@@ -336,11 +336,11 @@ Saturday 19th September 2015
 |       |          | five \   |          |           |           |             |
 |       |          | years`_  |          |           |           |             |
 +-------+----------+----------+----------+           |           |             |
-| 17:30 | PyCon    | `The \   | X        |           |           |             |
-|       | Namibia  | Fabric \ |          |           |           |             |
-|       |          | that \   |          |           |           |             |
-|       |          | holds    |          |           |           |             |
-|       |          | the \    |          |           |           |             |
+| 17:30 | `Pytho\  | `The \   | X        |           |           |             |
+|       | n adven\ | Fabric \ |          |           |           |             |
+|       | tures i\ | that \   |          |           |           |             |
+|       | n Namib\ | holds    |          |           |           |             |
+|       | ia`_     | the \    |          |           |           |             |
 |       |          | cloud    |          |           |           |             |
 |       |          | toge\    |          |           |           |             |
 |       |          | ther`_   |          |           |           |             |
@@ -629,3 +629,4 @@ Notes
 .. _`Unit test documentation improvements`: /sprints/unit-test-documentation-improvements/
 .. _`Career Clinic`: /events/career-clinic/
 .. _`Pi In The Sky`: /sprints/pi-in-the-sky/
+.. _`Python adventures in Namibia`: /talks/python-adventures-in-namibia/
