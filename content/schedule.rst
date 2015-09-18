@@ -418,10 +418,10 @@ Sunday 20th September 2015
 |       |            |            | Sourced    | Space      |            |
 |       |            |            | Domain \   |            |            |
 +-------+            +------------+ Models \   +------------+            |
-| 13:00 |            | Lunchtime  | in \       | Open       |            |
-|       |            | Event      | Python`_   | Space      |            |
-|       |            | Spare      |            |            |            |
-+-------+            | Slot       |            +------------+------------+
+| 13:00 |            | EuroPython | in \       | Open       |            |
+|       |            | in UK bid  | Python`_   | Space      |            |
+|       |            | Discussion |            |            |            |
++-------+            |            |            +------------+------------+
 | 13:30 |            |            |            | Open       | `Getting \ |
 |       |            |            |            | Space      | meaning \  |
 |       |            |            |            |            | from \     |
