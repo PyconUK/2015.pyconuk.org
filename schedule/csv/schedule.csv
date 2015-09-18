@@ -133,20 +133,7 @@ Yes, absolutely. In fact, PyPy developers did all that hard work so that we woul
 Porting existing applications is always more involved than running a simple script, so we'll also examine likely difficulties such as code relying on CPython implementation details, and dependencies on C extensions, and explore simple principles to let PyPy run your code even faster.
 
 Finally, we'll have a glimpse of the future by looking at what's brewing in the PyPy lair, such as software transactional memory, new speed optimisations, better support for Python 3 and NumPy, ..."
-,Elephant taming for snake lovers,09-18-2015,16:00,16:30,Osper Room (CC1.4),,"[Wes Mason](https://twitter.com/1stvamp)
-
-PHP is one of the most popular web development platforms in the world.
-Like it or not you can't argue with the widespread usage and popularity of PHP, from CMSs, to forums, eCommerce sites and more, there's a lot of actively developed/used code out there. 
-
-Follow along with me as I attempt to explain the most appealing features, similarities, galloping differences between PHP and Python, and why you should care:
-
-* Similarities (generators, traits, functional, modules).
-* Managing dependencies and distributing packages with Composer.
-* Debugging locally and remotely with XDebug.
-* Pick a framework, really, any framework.
-* Deploying apps with mod_php and php-fpm (We don't need no WSGI here).
-* Documentation, sometimes *global everything* has good consequences.
-* Migrating between versions, alternative implementations (from HHVM to HippyVM) and the future(s) of PHP, 7 and Hack."
+,Spare Slot Do Something,09-18-2015,16:00,16:30,Osper Room (CC1.4),,
 ,Making code py2/3 compatible using python-future,09-18-2015,16:00,16:30,LaterPay Room (CC2.1),,"Jørn Lomax
 
 The talk will demonstrate how to port a Python2 project to python3 using python-future. If you have ever ported a project from python2 to python3 and thought it was a pain. Or maybe you have a python2 only project you would like to update. Then this talk is for you!
@@ -751,7 +738,7 @@ In the second part of this workshop we implement an event-sourced architecture f
 This workshop is aimed at Python developers who want to step beyond the limits of canned framework-based solutions such as Django models, or toolkits such as SQLAlchemy, (which are ultimately about managing the horrors of shared-mutable state).  Event-sourced domain models facilitate allow us to combine the best aspects of object-oriented design with robust and simple persistence inspired by functional-programming practice."
 ,Open Space,09-20-2015,12:30,13:00,LaterPay Learning Space (Bistro),,
 ,Lunch,09-20-2015,12:30,13:30,The Software Sustainability Institute Room (CC2.1),,
-,Lunchtime Event Spare Slot,09-20-2015,13:00,14:00,Osper Room (CC1.4),,
+,EuroPython in UK bid Discussion,09-20-2015,13:00,14:00,Osper Room (CC1.4),,
 ,Open Space,09-20-2015,13:00,13:30,LaterPay Learning Space (Bistro),,
 ,Open Space,09-20-2015,13:30,14:00,LaterPay Learning Space (Bistro),,
 ,Getting meaning from scientific articles,09-20-2015,13:30,14:00,The Software Sustainability Institute Room (CC2.1),,"Eleonore Mayola
