@@ -126,10 +126,10 @@ Friday 18th September 2015
 |       |          | Teams`_  |          | Test\    |     |       |            |
 |       |          |          |          | ing`_    |     |       |            |
 +-------+----------+----------+          +----------+     |       +------------+
-| 16:00 | `PyPy \  | Spare    |          | `Mak\    |     |       | TeachMeet  |
-|       | for \    | Slot     |          | ing \    |     |       |            |
-|       | medi\    | Do       |          | code \   |     |       |            |
-|       | ocre \   | Something|          | py2/3 \  |     |       |            |
+| 16:00 | `PyPy \  | Trans\   |          | `Mak\    |     |       | TeachMeet  |
+|       | for \    | ducers   |          | ing \    |     |       |            |
+|       | medi\    | in       |          | code \   |     |       |            |
+|       | ocre \   | Python   |          | py2/3 \  |     |       |            |
 |       | program\ |          |          | compat\  |     |       |            |
 |       | mers`_ \ |          |          | ible \   |     |       |            |
 |       |          |          |          | using \  |     |       |            |
