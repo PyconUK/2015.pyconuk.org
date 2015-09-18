@@ -126,12 +126,12 @@ Friday 18th September 2015
 |       |          | Teams`_  |          | Test\    |     |       |            |
 |       |          |          |          | ing`_    |     |       |            |
 +-------+----------+----------+          +----------+     |       +------------+
-| 16:00 | `PyPy \  | `Eleph\  |          | `Mak\    |     |       | TeachMeet  |
-|       | for \    | ant \    |          | ing \    |     |       |            |
-|       | medi\    | taming \ |          | code \   |     |       |            |
-|       | ocre \   | for \    |          | py2/3 \  |     |       |            |
-|       | program\ | snake \  |          | compat\  |     |       |            |
-|       | mers`_ \ | lovers`_ |          | ible \   |     |       |            |
+| 16:00 | `PyPy \  | Spare    |          | `Mak\    |     |       | TeachMeet  |
+|       | for \    | Slot     |          | ing \    |     |       |            |
+|       | medi\    | Do       |          | code \   |     |       |            |
+|       | ocre \   | Something|          | py2/3 \  |     |       |            |
+|       | program\ |          |          | compat\  |     |       |            |
+|       | mers`_ \ |          |          | ible \   |     |       |            |
 |       |          |          |          | using \  |     |       |            |
 |       |          |          |          | python-\ |     |       |            |
 |       |          |          |          | future`_ |     |       |            |
