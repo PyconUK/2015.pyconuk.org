@@ -133,7 +133,7 @@ Yes, absolutely. In fact, PyPy developers did all that hard work so that we woul
 Porting existing applications is always more involved than running a simple script, so we'll also examine likely difficulties such as code relying on CPython implementation details, and dependencies on C extensions, and explore simple principles to let PyPy run your code even faster.
 
 Finally, we'll have a glimpse of the future by looking at what's brewing in the PyPy lair, such as software transactional memory, new speed optimisations, better support for Python 3 and NumPy, ..."
-,Spare Slot Do Something,09-18-2015,16:00,16:30,Osper Room (CC1.4),,
+,Transducers in Python,09-18-2015,16:00,16:30,Osper Room (CC1.4),,
 ,Making code py2/3 compatible using python-future,09-18-2015,16:00,16:30,LaterPay Room (CC2.1),,"Jørn Lomax
 
 The talk will demonstrate how to port a Python2 project to python3 using python-future. If you have ever ported a project from python2 to python3 and thought it was a pain. Or maybe you have a python2 only project you would like to update. Then this talk is for you!
