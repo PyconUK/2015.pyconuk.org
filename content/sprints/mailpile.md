@@ -1,7 +1,7 @@
 type: session
 title: "Hacking on Mailpile"
 slug: "mailpile-sprint"
-url: "sprints/mailpile-sprint/index.html"
+url: "sprints/mailpile/index.html"
 body_class_hack: talks
 ---
 
