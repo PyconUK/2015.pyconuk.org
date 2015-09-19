@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Event-Sourced Domain Models in Python</title>
+
+        <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
+        <link rel="stylesheet" href="/css/main.css">
+        
+    </head>
+
+    <body class="talks">
+
+        <header class="page-head">
+            <div class="wrap">
+                <h1><a href="/">PyCon UK 2015</a></h1>
+                <label class="menu-icon" for="toggle-nav">Menu</label>
+                <input type="checkbox" id="toggle-nav" class="hidden" />
+                <nav class="nav">
+                    <ul>
+                        <li><a href="/schedule/flat/">Schedule</a></li>
+                        <li><a href="/venue/">Venue</a></li>
+                        <li><a href="/sponsorship/">Sponsor</a></li>
+                        <li><a href="/science/">Science</a></li>
+                        <li class="halfway"><a href="/education/">Education</a></li>
+                        <li><a href="/volunteer/">Volunteer</a></li>
+                        <li><a href="/codeofconduct/">CoC</a></li>
+                        <li><a class="now" href="/register/">Register</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        
+<article class="main-article">
+    <div class="content">
+        <div class="column_content">
+            <h1>Event-Sourced Domain Models in Python</h1>
+
+            <div class="textblock">
+                <h3>Robert Smallshire</h3>
+<h4>Preparation</h4>
+<ul>
+<li>
+<p>This is a <em>work</em>shop, not a lecture, so come with a laptop or pair-up with
+ somebody who has one.</p>
+</li>
+<li>
+<p>This workshop requires at least <a href="https://www.python.org/downloads/">Python 3.4</a> so you should have a suitable interpreter installed.</p>
+</li>
+<li>
+<p>Bring your favourite Python code editor.</p>
+</li>
+<li>
+<p>Have the <a href="https://bitbucket.org/sixty-north/d5-workshop-exercises-student-material">workshop student materials</a> installed from Bitbucket. Further instructions are to be found there.</p>
+</li>
+</ul>
+<h4>Synopsis</h4>
+<p>In first part of this workshop we explore how to implement rich domain models using plain-old Python objects which are completely independent of any particular persistence technology such as an object-relational mapper.  Domain models often embody the core value of software systems, so implementing models independently of - often ephemeral - technology choices is an important strategy for long-lived, high-value systems.</p>
+<p>In the second part of this workshop we implement an event-sourced architecture for persistence of our domain model, whereby all changes applied to the model are recorded as events in a simple, append-only event-store.  From this event store we can reconstitute the model state as it was at any historical time, something that is difficult – if not impossible – to do with most object-relational solutions.  Furthermore, we can project the event stream into other representations to support queries which are not conveniently supported by the entities in our model, or which roll-up historical data. Among many other benefits, such projected read-models gives very high scalability on the read-side.</p>
+<p>This workshop is aimed at Python developers who want to step beyond the limits of canned framework-based solutions such as Django models, or toolkits such as SQLAlchemy, (which are ultimately about managing the horrors of shared-mutable state).  Event-sourced domain models facilitate allow us to combine the best aspects of object-oriented design with robust and simple persistence inspired by functional-programming practice.</p>
+            </div>
+        </div>
+    </div>
+</article>
+
+
+        <footer class="page-foot">
+            <div class="wrap">
+                &copy; 2015. All rights reserved.
+            </div>
+        </footer>
+
+    </body>
+
+    <!-- Python Powered! --> 
+</html>
