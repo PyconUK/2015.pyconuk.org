@@ -263,10 +263,12 @@ Saturday 19th September 2015
 |       |          | writing \|          |           |           |             |
 |       |          | them`_   |          |           |           |             |
 +-------+----------+----------+          +-----------+           |             |
-| 12:00 | Lunch    | Recruit\ |          | Poster    |           |             |
-|       | Events   | ment     |          | Session   |           |             |
-+-------+ Spare    | Clinic   |          |           +-----------+-------------+
-| 12:30 | Slots    |          |          |           | Py4Sci    | PyKids UK   |
+| 12:00 | Build    | Recruit\ |          | Poster    |           |             |
+|       | the      | ment     |          | Session   |           |             |
+|       | right    | Clinic   |          |           |           |             |
+|       | thing    |          |          |           |           |             |
++-------+----------+          |          |           +-----------+-------------+
+| 12:30 |          |          |          |           | Py4Sci    | PyKids UK   |
 |       |          |          |          |           | Lunch     | Lunch       |
 |       |          |          |          |           |           | (provided   |
 |       |          |          |          |           |           | packed      |
