@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Stream Data processing in Python with Apache Spark and Kafka</title>
+
+        <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
+        <link rel="stylesheet" href="/css/main.css">
+        
+    </head>
+
+    <body class="talks">
+
+        <header class="page-head">
+            <div class="wrap">
+                <h1><a href="/">PyCon UK 2015</a></h1>
+                <label class="menu-icon" for="toggle-nav">Menu</label>
+                <input type="checkbox" id="toggle-nav" class="hidden" />
+                <nav class="nav">
+                    <ul>
+                        <li><a href="/schedule/flat/">Schedule</a></li>
+                        <li><a href="/venue/">Venue</a></li>
+                        <li><a href="/sponsorship/">Sponsor</a></li>
+                        <li><a href="/science/">Science</a></li>
+                        <li class="halfway"><a href="/education/">Education</a></li>
+                        <li><a href="/volunteer/">Volunteer</a></li>
+                        <li><a href="/codeofconduct/">CoC</a></li>
+                        <li><a class="now" href="/register/">Register</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        
+<article class="main-article">
+    <div class="content">
+        <div class="column_content">
+            <h1>Stream Data processing in Python with Apache Spark and Kafka</h1>
+
+            <div class="textblock">
+                <h3>Peter Hoffmann</h3>
+<p><a href="https://spark.apache.org">Apache Spark</a> is a computational engine for large-scale data processing. It
+is responsible for scheduling, distribution and monitoring applications which
+consist of many computational task across many worker machines on a computing
+cluster. <a href="http://kafka.apache.org">Apache Kafka</a>  is publish-subscribe messaging based on a
+distributed, partitioned, replicated commit log service.</p>
+<p>This talk will give an overview into Apache Spark with a focus on PySpark
+Streaming, the API for real-time streaming data processing.  While Spark Core
+itself is written in Scala and runs on the JVM, PySpark exposes the Spark
+programming model to Python. The high-level abstraction to live input data
+streams are so called discretized streams or DStreams. DStreams group input 
+streams as a series of short batch jobs. Each item in a DStream
+is a Resilient Distributed Dataset (RDD). RDDs are a distributed memory
+abstraction that lets programmers perform in-memory computations. RDDs are
+immutable, partitioned collections of objects. Transformations construct a new
+RDD from a previous one. Actions compute a result based on an RDD. Multiple
+computation steps are expressed as directed acyclic graph (DAG). The DAG
+execution model is a generalization of the Hadoop MapReduce computation model.</p>
+<p>Resources:</p>
+<ul>
+<li><a href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-12.pdf">An Architecture for Fast and General Data Processing on Large Clusters</a> Matei Zaharia</li>
+<li><a href="http://www.cs.berkeley.edu/~matei/papers/2010/hotcloud_spark.pdf">Spark</a> Cluster Computing with Working Sets - Matei Zaharia et al.</li>
+<li><a href="https://www.cs.berkeley.edu/~matei/papers/2012/hotcloud_spark_streaming.pdf">Discretized Streams</a> An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters - Matei Zaharia et al.</li>
+<li><a href="http://shop.oreilly.com/product/0636920028512.do">Learning Spark</a> Lightning Fast Big Data Analysis - Oreilly</li>
+<li><a href="http://shop.oreilly.com/product/0636920035091.do">Advanced Analytics with Spark</a> Patterns for Learning from Data at Scale - Oreilly</li>
+</ul>
+            </div>
+        </div>
+    </div>
+</article>
+
+
+        <footer class="page-foot">
+            <div class="wrap">
+                &copy; 2015. All rights reserved.
+            </div>
+        </footer>
+
+    </body>
+
+    <!-- Python Powered! --> 
+</html>
