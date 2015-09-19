@@ -493,7 +493,7 @@ Monday 21st September 2015
 |       | * MicroPython / BBC micro:bit                                        |
 |       | * `Pylint sprint`_                                                   |
 |       | * `Pi In The Sky`_                                                   |
-|       | * `Mailpile sprint`_                                                   |
+|       | * `Mailpile sprint`_                                                 |
 +-------+----------------------------------------------------------------------+
 | 12:30 | The Last Meal - we share a final meal of Fish and Chips together     |
 |       | (plus vegetarian options, etc)                                       |
