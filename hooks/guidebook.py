@@ -4,9 +4,13 @@
 
 import codecs
 import csv
-import cStringIO
 import io
 import os
+
+try:
+    from cStringIO import StringIO
+except ImportError:  # python 3
+    from io import StringIO
 
 from flat_schedule import (mkdirs,
                            read_html_tabular_schedule)
@@ -23,7 +27,7 @@ class UnicodeWriter(object):
     # https://docs.python.org/2.7/library/csv.html#writer-objects
 
     def __init__(self, f, dialect=csv.excel, encoding='utf-8', **kwds):
-        self.queue = cStringIO.StringIO()
+        self.queue = StringIO()
         self.writer = csv.writer(self.queue, dialect=dialect, **kwds)
         self.stream = f
         self.encoder = codecs.getincrementalencoder(encoding)()
