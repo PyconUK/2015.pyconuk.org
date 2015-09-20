@@ -3,7 +3,6 @@
 import datetime
 import errno
 import io
-import itertools
 import os
 import re
 
@@ -14,6 +13,10 @@ import pytz
 import vobject
 #import yaml
 
+try:
+    from itertools import chain, repeat, izip_longest as zip_longest
+except ImportError:  # python 3
+    from itertools import chain, repeat, zip_longest
 
 def parse_date(s):
     """Returns a datetime.date, from a date in the tabular schedule
@@ -66,11 +69,11 @@ def collapse_whitespace(s):
 
 
 def repeat_none(value, times):
-    for i in xrange(times):
+    for i in range(times):
         yield None
 
 
-def colspan_cells(cells, fillfunc=itertools.repeat):
+def colspan_cells(cells, fillfunc=repeat):
     """Yields td or th elements, repeating them as necessary for colspan=n
     """
     for cell in cells:
@@ -80,7 +83,7 @@ def colspan_cells(cells, fillfunc=itertools.repeat):
             yield item
 
 
-def rowspan_cells(cells, rowspans, fillfunc=itertools.repeat):
+def rowspan_cells(cells, rowspans, fillfunc=repeat):
     """Yields td or th elements, repeating them as necessary for colspan=n
     & rowspan=n.
     """
@@ -109,7 +112,7 @@ def parse_rooms(table):
     """
     row1 = colspan_cells(table.xpath('./thead/tr[1]/th')[1:])
     row2 = colspan_cells(table.xpath('./thead/tr[2]/th')[1:])
-    for th1, th2 in itertools.izip_longest(row1, row2):
+    for th1, th2 in zip_longest(row1, row2):
         text1 = collapse_whitespace(th1.text)
         text2 = collapse_whitespace(th2.text) if th2 is not None else ''
         if text2:
@@ -200,12 +203,12 @@ def parse_event(td, default_room=None):
 def stringify_children(node):
     # http://stackoverflow.com/a/28173933/293340
     parts = ([node.text]
-             + list(itertools.chain(*([lxml.html.tostring(c, with_tail=False),
+             + list(chain(*([lxml.html.tostring(c, with_tail=False),
                                        c.tail] for c in node.getchildren())
                                       ))
              + [node.tail])
     # filter removes possible Nones in texts and tails
-    return ''.join(part for part in parts if part is not None)
+    return ''.join(str(part) for part in parts if part is not None)
 
 
 def events(table):
@@ -366,6 +369,7 @@ def mkdirs(path):
 
 
 def write_flat_schedule(schedule, config):
+    print('**** write_flat_scheduled CALLED ****')
     schedule_html = render_schedule(schedule, config['template_dir'])
     schedule_dir = os.path.join(config['output_dir'], 'schedule', 'flat')
     schedule_path = os.path.join(schedule_dir, 'index.html')
@@ -376,6 +380,7 @@ def write_flat_schedule(schedule, config):
 
 
 def write_ical_schedule(schedule, config):
+    print('**** write_ical_scheduled CALLED ****')
     cal = vobject.iCalendar()
     cal.add('x-wr-calname').value = 'PyCon UK 2015 Schedule'
 
@@ -414,7 +419,7 @@ def write_ical_schedule(schedule, config):
 
     ics_path = os.path.join(config['output_dir'], 'schedule.ics')
     with io.open(ics_path, 'w', encoding='utf-8') as f:
-        f.write(cal.serialize().decode('utf-8'))
+        f.write(cal.serialize())
 
 
 def create_flat_schedule(config):

@@ -36,7 +36,6 @@ class UnicodeWriter(object):
     def writerow(self, row):
         self.writer.writerow([s.encode('utf-8') for s in row])
         data = self.queue.getvalue()
-        data = data.decode('utf-8')
         data = self.encoder.encode(data)
         self.stream.write(data)
         self.queue.truncate(0)
@@ -76,7 +75,6 @@ def extract_speaker(talk, config):
         path = os.path.join(config['content_dir'], talk['href'].strip('/') + '.md')
         with open(path) as f:
             for line in f:
-                line = line.decode('utf-8')
                 if line[:4] == '### ':
                     return line[4:].strip()
     return ''

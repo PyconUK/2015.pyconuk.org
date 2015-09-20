@@ -35,7 +35,6 @@ class UnicodeWriter(object):
     def writerow(self, row):
         self.writer.writerow([s.encode('utf-8') for s in row])
         data = self.queue.getvalue()
-        data = data.decode('utf-8')
         data = self.encoder.encode(data)
         self.stream.write(data)
         self.queue.truncate(0)
@@ -82,7 +81,7 @@ def extract_description(talk, config):
     if talk['type'] in EVENT_TYPES:
         path = os.path.join(config['content_dir'], talk['href'].strip('/') + '.md')
         with open(path) as f:
-            text = f.read().decode('utf-8')
+            text = f.read()
         # Remove metadata if present.
         idx = text.find('###')
         if idx != -1:
