@@ -209,9 +209,11 @@ Ben Nuttall is the Education Developer Advocate at the Raspberry Pi
 Foundation in Cambridge, UK."
 ,Testing and Async - a journey,09-18-2015,17:30,18:00,Osper Room (CC1.4),,"James Broadhead
 
-Testing asynchronous code can require different approaches to writing tests, and learning to write good tests can inform the architecture of your codebase. 
-This talk will describe the evolution of testing in the TweetDeck API, a Twisted Python web api, and discuss some approaches to extending test coverage over a large legacy codebase. 
-Examples will be in Twisted, but will be intended to be relevant to anyone working with established codebases or working with async in particular."
+Testing asynchronous code can require different approaches to testing, and learning to write good tests can inform the architecture of your codebase.
+This talk will describe the evolution of testing in the TweetDeck API, a Twisted Python web api, and discuss some approaches to extending reliable unit test coverage over a large legacy codebase.
+Examples will be in Twisted, but will be intended to be relevant to anyone working with established codebases or working with async in particular.
+
+Code and notes from this talk available here: https://github.com/jamesbroadhead/pyconuk2015-testing_and_async"
 ,Accelerate and scale your tests with nodepool,09-18-2015,17:30,18:00,LaterPay Room (CC2.1),,"Yolanda Robla Mota
 
 I will describe Nodepool, the Openstack Infra tool used to spin up virtual machines for testing,
