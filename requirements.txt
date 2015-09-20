@@ -8,4 +8,4 @@ requests==2.7.0
 six==1.9.0
 Unidecode==0.4.17
 -e git+https://github.com/tBaxter/vobject.git@5bdf21751a6f443045e05db862e00be5bbd006f3#egg=vobject
--e git+https://github.com/jneves/wok.git@77f067bf7d02b003e29476615d37af2f3fe4b042#egg=wok
+-e git+https://github.com/jneves/wok.git@21ce6ea44483218b2380104b6ada8865122ddf2c#egg=wok
