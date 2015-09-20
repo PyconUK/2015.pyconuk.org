@@ -15,5 +15,5 @@ regex==2015.5.10
 requests==2.7.0
 six==1.9.0
 Unidecode==0.4.17
-vobject==0.6.6
+-e git+https://github.com/tBaxter/vobject.git@5bdf21751a6f443045e05db862e00be5bbd006f3#egg=vobject
 wok==1.1.1
