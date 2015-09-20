@@ -14,4 +14,11 @@ charting, to online bibliography tool and LaTeX packages to beautify your
 papers. This panel discussion will cover all aspects of dissemination work,
 and how Python can ease your publication pain.
 
-Panel members will be announced nearer the time of the conference.
+Panel members will include:
+
+<ul>
+<li><strong>Alice Harpole</strong> University of Southampton</li>
+<li><strong>Vince Knight</strong> University of Cardiff</li>
+<li><strong>John Hammersley</strong> Overleaf</li>
+<li><strong>Jonathan Fine</strong> Open University</li>
+</ul>
