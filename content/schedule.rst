@@ -494,6 +494,7 @@ Monday 21st September 2015
 |       | * `Pylint sprint`_                                                   |
 |       | * `Pi In The Sky`_                                                   |
 |       | * `Mailpile sprint`_                                                 |
+|       | * `Building upon a Cards Against Humanity clone`_                    |
 |       | * Port PyCon UK website to Python 3 (or convert to Sphinx)           |
 |       | * `Hypothesis sprint`_                                               |
 +-------+----------------------------------------------------------------------+
@@ -628,6 +629,7 @@ Notes
 .. _`python projects on the raspberry pi`: /talks/python-on-raspberry-pi/
 .. _`Axelrod - sprint/tournament - code up strategies, get famous`: /sprints/axelrod-sprinttournament-code-up-strategies-get-famous-fame-is-not-guaranteed/
 .. _`Improving the Myrmidon Python game framework`: /sprints/improving-the-myrmidon-python-game-framework/
+.. _`Building upon a Cards Against Humanity clone`: /sprints/building-upon-a-cards-against-humanity-clone/
 .. _`Pylint sprint`: /sprints/pylint-sprint/
 .. _`py.test sprint`: /sprints/pytest-sprint/
 .. _`Hypothesis sprint`: /sprints/hypothesis-sprint/
