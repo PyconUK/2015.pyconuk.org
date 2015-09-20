@@ -495,6 +495,7 @@ Monday 21st September 2015
 |       | * `Pi In The Sky`_                                                   |
 |       | * `Mailpile sprint`_                                                 |
 |       | * Port PyCon UK website to Python 3 (or convert to Sphinx)           |
+|       | * `Hypothesis sprint`_                                               |
 +-------+----------------------------------------------------------------------+
 | 12:30 | The Last Meal - we share a final meal of Fish and Chips together     |
 |       | (plus vegetarian options, etc)                                       |
@@ -629,6 +630,7 @@ Notes
 .. _`Improving the Myrmidon Python game framework`: /sprints/improving-the-myrmidon-python-game-framework/
 .. _`Pylint sprint`: /sprints/pylint-sprint/
 .. _`py.test sprint`: /sprints/pytest-sprint/
+.. _`Hypothesis sprint`: /sprints/hypothesis-sprint/
 .. _`Romaine (BDD tool)`: /sprints/romaine-bdd-tool/
 .. _`Unit test documentation improvements`: /sprints/unit-test-documentation-improvements/
 .. _`Career Clinic`: /events/career-clinic/
