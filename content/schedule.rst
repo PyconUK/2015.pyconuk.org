@@ -498,6 +498,7 @@ Monday 21st September 2015
 |       | * Port PyCon UK website to Python 3 (or convert to Sphinx)           |
 |       | * `Hypothesis sprint`_                                               |
 |       | * `Patch - Scratch in Python`_                                       |
+|       | * Pygame Zero
 +-------+----------------------------------------------------------------------+
 | 12:30 | The Last Meal - we share a final meal of Fish and Chips together     |
 |       | (plus vegetarian options, etc)                                       |
