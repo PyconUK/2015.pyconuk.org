@@ -499,6 +499,7 @@ Monday 21st September 2015
 |       | * `Hypothesis sprint`_                                               |
 |       | * `Patch - Scratch in Python`_                                       |
 |       | * `GPIO Zero`_                                                       |
+|       | * Pygame Zero
 +-------+----------------------------------------------------------------------+
 | 12:30 | The Last Meal - we share a final meal of Fish and Chips together     |
 |       | (plus vegetarian options, etc)                                       |
