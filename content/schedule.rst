@@ -497,6 +497,7 @@ Monday 21st September 2015
 |       | * `Building upon a Cards Against Humanity clone`_                    |
 |       | * Port PyCon UK website to Python 3 (or convert to Sphinx)           |
 |       | * `Hypothesis sprint`_                                               |
+|       | * `Patch - Scratch in Python`_                                       |
 +-------+----------------------------------------------------------------------+
 | 12:30 | The Last Meal - we share a final meal of Fish and Chips together     |
 |       | (plus vegetarian options, etc)                                       |
@@ -639,3 +640,4 @@ Notes
 .. _`Pi In The Sky`: /sprints/pi-in-the-sky/
 .. _`Mailpile sprint`: /sprints/mailpile/
 .. _`Python adventures in Namibia`: /talks/python-adventures-in-namibia/
+.. _`Patch - Scratch in Python`: /sprints/patch-sprint/
