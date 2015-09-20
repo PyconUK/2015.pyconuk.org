@@ -369,7 +369,6 @@ def mkdirs(path):
 
 
 def write_flat_schedule(schedule, config):
-    print('**** write_flat_scheduled CALLED ****')
     schedule_html = render_schedule(schedule, config['template_dir'])
     schedule_dir = os.path.join(config['output_dir'], 'schedule', 'flat')
     schedule_path = os.path.join(schedule_dir, 'index.html')
@@ -380,7 +379,6 @@ def write_flat_schedule(schedule, config):
 
 
 def write_ical_schedule(schedule, config):
-    print('**** write_ical_scheduled CALLED ****')
     cal = vobject.iCalendar()
     cal.add('x-wr-calname').value = 'PyCon UK 2015 Schedule'
 
