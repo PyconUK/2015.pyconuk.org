@@ -11,15 +11,9 @@ help:
 	@echo ''
 
 build:
-	python hooks/flat_schedule.py
-	python hooks/guidebook.py
-	python hooks/schedule_summary.py
 	wok
 
 serve:
-	python hooks/flat_schedule.py
-	python hooks/guidebook.py
-	python hooks/schedule_summary.py
 	wok --serve
 
 test:
