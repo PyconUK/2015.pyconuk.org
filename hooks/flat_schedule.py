@@ -201,14 +201,21 @@ def parse_event(td, default_room=None):
 
 
 def stringify_children(node):
+    def make_sure_is_string(obj):
+        """antidote for lxml returning sometimes strings, sometimes byte strings """
+        try:
+            return obj.decode('utf-8')
+        except AttributeError:
+            return obj
+
     # http://stackoverflow.com/a/28173933/293340
     parts = ([node.text]
-             + list(chain(*([lxml.html.tostring(c, with_tail=False),
+             + list(chain(*([lxml.html.tostring(c, with_tail=False, encoding='utf-8'),
                                        c.tail] for c in node.getchildren())
                                       ))
              + [node.tail])
     # filter removes possible Nones in texts and tails
-    return ''.join(str(part) for part in parts if part is not None)
+    return ''.join(make_sure_is_string(part) for part in parts if part is not None)
 
 
 def events(table):
