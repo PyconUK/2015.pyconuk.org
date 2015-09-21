@@ -495,7 +495,6 @@ Monday 21st September 2015
 |       | * `Pi In The Sky`_                                                   |
 |       | * `Mailpile sprint`_                                                 |
 |       | * `Building upon a Cards Against Humanity clone`_                    |
-|       | * Port PyCon UK website to Python 3 (or convert to Sphinx)           |
 |       | * `Hypothesis sprint`_                                               |
 |       | * `Patch - Scratch in Python`_                                       |
 |       | * `GPIO Zero`_                                                       |
