@@ -732,6 +732,8 @@ By end of this session my audience will be enriched by the potential of python p
 
  * Have the [workshop student materials](https://bitbucket.org/sixty-north/d5-workshop-exercises-student-material) installed from Bitbucket. Further instructions are to be found there.
 
+ * You can also look at the [introductory slides](http://sixty-north.com/blog/event-sourced-domain-models-in-python-at-pycon-uk) which were used in the workshop.
+
 #### Synopsis
 
 In first part of this workshop we explore how to implement rich domain models using plain-old Python objects which are completely independent of any particular persistence technology such as an object-relational mapper.  Domain models often embody the core value of software systems, so implementing models independently of - often ephemeral - technology choices is an important strategy for long-lived, high-value systems.
