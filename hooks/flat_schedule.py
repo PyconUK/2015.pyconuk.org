@@ -10,6 +10,8 @@ import re
 import docutils.examples
 import jinja2
 import lxml.html
+import pytz
+import vobject
 #import yaml
 
 
@@ -117,10 +119,19 @@ def parse_rooms(table):
 
 
 def parse_event_href(href):
+    """Returns a dict of information from the URL of recognized events
+
+    >>> parse_event_href('/demos/fooing-the-bar-with-only-2-quuxs')['type']
+    'demo'
+    >>> parse_event_href('/panels/quuxers-question-time/')['slug']
+    quuxers-question-time'
+    >>> parse_event_href('/ceremonies/changing-of-the-royal-quux')
+    {}
+    """
     m = re.match(r'''
-        /(?P<type>demo|panel|sprint|talk|workshop)s
+        /(?P<type>demo|panel|sprint|talk|workshop)s # NB: Hacky unpluralizing
         /(?P<slug>[a-z0-9-]+)
-        /
+        /?
         ''',
         href,
         re.VERBOSE)
@@ -244,6 +255,11 @@ def parse_tabular_schedule(tree):
             if event['finish'] is not None:
                 event['finish'] = datetime.datetime.combine(day, event['finish'])
                 event['duration'] = event['finish'] - event['start']
+
+            # This is a hack because 'Lightning PyKids' appears twice in the same row.
+            if event['title'] == 'Lightning PyKids' and 'Bistro' in event['location']:
+                continue
+
             yield event
 
 
@@ -359,12 +375,56 @@ def write_flat_schedule(schedule, config):
         f.write(schedule_html)
 
 
+def write_ical_schedule(schedule, config):
+    cal = vobject.iCalendar()
+    cal.add('x-wr-calname').value = 'PyCon UK 2015 Schedule'
+
+    def add_tz(dt):
+        # datetimes are in Europe/London time, but vobject blows up if we use
+        # pytz.timezone('Europe/London').localize(dt)
+        return pytz.UTC.localize(dt - datetime.timedelta(hours=1))
+
+
+    for event in schedule:
+        vevent = cal.add('vevent')
+
+        if event['start']:
+            vevent.add('dtstart').value = add_tz(event['start'])
+        if event['finish']:
+            vevent.add('dtend').value = add_tz(event['finish'])
+
+        title = event['title']
+        type_ = event['type']
+        speaker = event['speaker']
+        if type_ or speaker:
+            title += ' (' + ' by '.join(filter(None, [type_, speaker])) + ')'
+        vevent.add('summary').value = title
+
+        vevent.add('location').value = event['location']
+
+        if event['href']:
+            href = 'http://www.pyconuk.org' + event['href']
+
+            # TODO: convince clients to show text/html descriptions
+            description = vevent.add('description')
+            description.value = href
+
+            # Does anything show these?
+            vevent.add('url').value = href
+
+    ics_path = os.path.join(config['output_dir'], 'schedule.ics')
+    with io.open(ics_path, 'w', encoding='utf-8') as f:
+        f.write(cal.serialize().decode('utf-8'))
+
+
 def create_flat_schedule(config):
     schedule = read_html_tabular_schedule(config)
+    write_ical_schedule(schedule, config)
     write_flat_schedule(schedule, config)
 
 
 if __name__ == '__main__':
     config = {'template_dir': 'templates', 'output_dir': 'output'}
     schedule = read_rst_tabular_schedule(config)
+    write_ical_schedule(schedule, config)
     write_flat_schedule(schedule, config)

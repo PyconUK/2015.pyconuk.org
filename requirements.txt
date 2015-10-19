@@ -4,11 +4,16 @@ Jinja2==2.7.3
 LinkChecker==9.3
 lxml==3.4.4
 Markdown==2.1.1
+MarkupSafe==0.23
 py==1.4.27
 Pygments==1.4
 pytest==2.5.2
+python-dateutil==2.4.2
+pytz==2015.4
 PyYAML==3.10
 regex==2015.5.10
 requests==2.7.0
+six==1.9.0
 Unidecode==0.4.17
+vobject==0.6.6
 wok==1.1.1
