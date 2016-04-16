@@ -19,7 +19,7 @@ if [[ $TRAVIS = "true" ]]; then
 	git config --global user.name "Travis"
 	git config --global user.email "no-reply@pyconuk.org"
 else
-	REPO_URL="git@github.com:PyconUK/pyconuk.org.git"
+	REPO_URL="git@github.com:PyconUK/2015.pyconuk.org.git"
 fi
 
 echo "Deploying!"
