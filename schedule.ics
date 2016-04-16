@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//PYVOBJECT//NONSGML Version 1//EN
 BEGIN:VEVENT
-UID:20160416T214724Z-33014@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-83704@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T070000Z
 DTEND:20150918T083000Z
@@ -10,15 +10,15 @@ LOCATION:Cafeteria
 SUMMARY:Registration / Breakfast
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-9815@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-86217@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150918T083000Z
 DTEND:20150918T093000Z
 LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Opening Plenary
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-30138@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-61100@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T093000Z
 DTEND:20150918T103000Z
@@ -26,7 +26,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Keynote: Van Lindberg\, PSF Chair
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-50141@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-98029@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T093000Z
 DTEND:20150918T110000Z
@@ -36,7 +36,7 @@ SUMMARY:DjangoGirls
 URL:http://www.pyconuk.org/djangogirls/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-41637@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-26733@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T093000Z
 DTEND:20150918T113000Z
@@ -46,7 +46,7 @@ SUMMARY:Trans*Code
 URL:http://www.pyconuk.org/transcode/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-89645@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-83591@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T093000Z
 DTEND:20150918T102000Z
@@ -54,7 +54,7 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:Minecraft in Education
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-11511@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-25404@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T093000Z
 DTEND:20150918T102000Z
@@ -62,7 +62,7 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:First steps in Python
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-59651@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-52915@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T102000Z
 DTEND:20150918T111000Z
@@ -70,7 +70,7 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:Skycademy
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-84957@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-40110@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T102000Z
 DTEND:20150918T111000Z
@@ -78,7 +78,7 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:PyGame Zero
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-50067@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-13699@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T103000Z
 DTEND:20150918T110000Z
@@ -88,7 +88,7 @@ SUMMARY:Python's Infamous GIL (talk by Larry Hastings)
 URL:http://www.pyconuk.org/talks/pythons-infamous-gil/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-13011@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-79981@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T103000Z
 DTEND:20150918T110000Z
@@ -99,15 +99,15 @@ SUMMARY:A deep dive into python import hooks (talk by Louis Taylor)
 URL:http://www.pyconuk.org/talks/a-deep-dive-into-python-import-hooks/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-42110@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-9220@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150918T103000Z
 DTEND:20150918T120000Z
 LOCATION:YPlan Room (CC1.8)
 SUMMARY:Introduction to Python
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-89652@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-76731@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T103000Z
 DTEND:20150918T110000Z
@@ -119,15 +119,15 @@ SUMMARY:Real-Time Data + Django = Fun\,Growth + Profit (talk by Rachel Wil
 URL:http://www.pyconuk.org/talks/real-time-data-django-fun-growth-profit/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-15311@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-8713@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150918T110000Z
 DTEND:20150918T120000Z
 LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:PGP key signing party
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-90707@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-83808@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T110000Z
 DTEND:20150918T120000Z
@@ -137,7 +137,7 @@ SUMMARY:Career Clinic
 URL:http://www.pyconuk.org/events/career-clinic/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-75242@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-18184@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T110000Z
 DTEND:20150918T120000Z
@@ -145,7 +145,7 @@ LOCATION:LaterPay Room (CC2.1)
 SUMMARY:Lunchtime Event
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-82144@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-81350@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T110000Z
 DTEND:20150918T113000Z
@@ -153,7 +153,7 @@ LOCATION:Training and Hackathon (Simulation Centre)
 SUMMARY:DjangoGirls Lunch
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-84535@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-78550@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T111000Z
 DTEND:20150918T120000Z
@@ -161,7 +161,7 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:Your code in space with AstroPi
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-22516@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-67655@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T111000Z
 DTEND:20150918T120000Z
@@ -169,7 +169,7 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:Code Club
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-73442@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-41268@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T113000Z
 DTEND:20150918T170000Z
@@ -179,7 +179,7 @@ SUMMARY:DjangoGirls
 URL:http://www.pyconuk.org/djangogirls/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-38061@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-14387@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T113000Z
 DTEND:20150918T120000Z
@@ -187,7 +187,7 @@ LOCATION:Training and Hackathon (Simulation Centre)
 SUMMARY:Trans*Code Lunch
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-19409@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-50283@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T120000Z
 DTEND:20150918T130000Z
@@ -195,7 +195,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Lunch time Event Spare Slot
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-95833@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-58018@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T120000Z
 DTEND:20150918T130000Z
@@ -203,7 +203,7 @@ LOCATION:Osper Room (CC1.4)
 SUMMARY:Lunchtime Event Spare Slot
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-63741@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-47842@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T120000Z
 DTEND:20150918T130000Z
@@ -211,7 +211,7 @@ LOCATION:YPlan Room (CC1.8)
 SUMMARY:Workshop Room Setup)
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-48651@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-64642@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T120000Z
 DTEND:20150918T130000Z
@@ -219,7 +219,7 @@ LOCATION:LaterPay Room (CC2.1)
 SUMMARY:Lunchtime Event
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-37627@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-86027@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T120000Z
 DTEND:20150918T170000Z
@@ -229,7 +229,7 @@ SUMMARY:Trans*Code
 URL:http://www.pyconuk.org/transcode/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-98526@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-25329@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T120000Z
 DTEND:20150918T130000Z
@@ -237,7 +237,7 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:Education Track Lunch
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-57446@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-19377@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T130000Z
 DTEND:20150918T140000Z
@@ -248,7 +248,7 @@ SUMMARY:Keynote: Daniele Procida All I really want is power (talk by Danie
 URL:http://www.pyconuk.org/talks/all-i-really-want-is-power/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-28030@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-37897@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T130000Z
 DTEND:20150918T150000Z
@@ -256,7 +256,7 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:All hands resource generation un-conference\, adopt a developer
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-9296@testing-worker-linux-docker-06ccd7ff-3383-linux-
+UID:20160416T221345Z-3818@testing-worker-linux-docker-0cd6cdf5-3374-linux-
  15
 DTSTART:20150918T140000Z
 DTEND:20150918T143000Z
@@ -266,7 +266,7 @@ SUMMARY:Analyzing Python with Pylint (talk by Claudiu Popa)
 URL:http://www.pyconuk.org/talks/analyzing-python-with-pylint/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-59382@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-96779@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T140000Z
 DTEND:20150918T143000Z
@@ -279,7 +279,7 @@ URL:http://www.pyconuk.org/talks/choosing-a-web-framework-for-python-3-and
  -asyncio/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-94179@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-22389@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T140000Z
 DTEND:20150918T173000Z
@@ -289,7 +289,7 @@ SUMMARY:Django Security Workshop (workshop by Peter Inglesby)
 URL:http://www.pyconuk.org/workshops/django-security/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-46218@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-32174@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T140000Z
 DTEND:20150918T143000Z
@@ -301,7 +301,7 @@ SUMMARY:Deploy a flask application in a single step (talk by Colin Moore-H
 URL:http://www.pyconuk.org/talks/deploy-flask-application-single-step/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-63491@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-77354@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T143000Z
 DTEND:20150918T150000Z
@@ -311,8 +311,8 @@ SUMMARY:Understanding PyPy (talk by Francisco Fernández Castaño)
 URL:http://www.pyconuk.org/talks/understanding-pypy/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-6078@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-81645@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150918T143000Z
 DTEND:20150918T150000Z
 DESCRIPTION:http://www.pyconuk.org/talks/leadership-of-technical-teams/
@@ -321,8 +321,8 @@ SUMMARY:Leadership of Technical Teams (talk by Owen Campbell)
 URL:http://www.pyconuk.org/talks/leadership-of-technical-teams/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-3338@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-24239@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150918T143000Z
 DTEND:20150918T150000Z
 DESCRIPTION:http://www.pyconuk.org/talks/gabbi-declarative-http-testing/
@@ -331,7 +331,7 @@ SUMMARY:Gabbi - Declarative HTTP Testing (talk by Chris)
 URL:http://www.pyconuk.org/talks/gabbi-declarative-http-testing/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-98885@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-40544@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T150000Z
 DTEND:20150918T153000Z
@@ -341,15 +341,15 @@ SUMMARY:PyPy for mediocre programmers (talk by Ronan Lamy)
 URL:http://www.pyconuk.org/talks/pypy-for-mediocre-programmers/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-13084@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-5204@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150918T150000Z
 DTEND:20150918T153000Z
 LOCATION:Osper Room (CC1.4)
 SUMMARY:Transducers in Python
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-89913@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-83911@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T150000Z
 DTEND:20150918T153000Z
@@ -362,7 +362,7 @@ URL:http://www.pyconuk.org/talks/making-code-py23-compatible-using-python-
  future/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-99238@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-61942@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T150000Z
 DTEND:20150918T170000Z
@@ -370,8 +370,8 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:TeachMeet
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-90980@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-1104@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150918T153000Z
 DTEND:20150918T160000Z
 DESCRIPTION:http://www.pyconuk.org/talks/making-python-computations-fast/
@@ -380,7 +380,7 @@ SUMMARY:Making Python Computations Fast (talk by Russel Winder)
 URL:http://www.pyconuk.org/talks/making-python-computations-fast/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-45764@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-93366@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T153000Z
 DTEND:20150918T160000Z
@@ -391,7 +391,7 @@ SUMMARY:Templating - Past\, Present and Future (talk by Ed Singleton)
 URL:http://www.pyconuk.org/talks/templating-past-present-and-future/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-84031@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-45247@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T153000Z
 DTEND:20150918T160000Z
@@ -404,8 +404,8 @@ URL:http://www.pyconuk.org/talks/instrument-your-python-app-with-metric-co
  llection/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-9720@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-26306@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150918T160000Z
 DTEND:20150918T163000Z
 DESCRIPTION:http://www.pyconuk.org/talks/document-all-the-things/
@@ -414,7 +414,7 @@ SUMMARY:Document all the things (talk by Kristian Glass)
 URL:http://www.pyconuk.org/talks/document-all-the-things/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-10011@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-68818@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T160000Z
 DTEND:20150918T163000Z
@@ -427,7 +427,7 @@ URL:http://www.pyconuk.org/talks/python-for-mobile-games-on-ios-and-androi
  d/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-18706@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-15293@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T160000Z
 DTEND:20150918T163000Z
@@ -440,8 +440,8 @@ URL:http://www.pyconuk.org/talks/designing-developing-and-deploying-resili
  ent-data-pipelines-using-python-and-docker-compose/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-1740@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-92783@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150918T163000Z
 DTEND:20150918T170000Z
 DESCRIPTION:http://www.pyconuk.org/talks/python-on-raspberry-pi/
@@ -450,7 +450,7 @@ SUMMARY:Python Projects on the Raspberry Pi (talk by Ben Nuttall)
 URL:http://www.pyconuk.org/talks/python-on-raspberry-pi/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-19902@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-11347@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T163000Z
 DTEND:20150918T170000Z
@@ -460,7 +460,7 @@ SUMMARY:Testing and Async - a journey (talk by James Broadhead)
 URL:http://www.pyconuk.org/talks/testing-async-a-journey/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-10495@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-35200@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T163000Z
 DTEND:20150918T170000Z
@@ -473,7 +473,7 @@ URL:http://www.pyconuk.org/talks/accelerate-and-scale-your-tests-with-node
  pool/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-13342@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-36792@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T170000Z
 DTEND:20150918T173000Z
@@ -486,7 +486,7 @@ URL:http://www.pyconuk.org/talks/using-logical-flaws-to-steal-and-modify-b
  usiness-critical-data/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-96424@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-29902@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T170000Z
 DTEND:20150918T173000Z
@@ -497,8 +497,8 @@ SUMMARY:Enabling the Optimisation of Python (talk by Stefan Popa)
 URL:http://www.pyconuk.org/talks/enabling-the-optimisation-of-python/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-32036@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-6766@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150918T170000Z
 DTEND:20150918T173000Z
 DESCRIPTION:http://www.pyconuk.org/talks/trade-management-in-python-a-stor
@@ -510,7 +510,7 @@ URL:http://www.pyconuk.org/talks/trade-management-in-python-a-story-of-thr
  oughput/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-42561@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-67360@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T170000Z
 DTEND:20150918T183000Z
@@ -520,7 +520,7 @@ SUMMARY:PyCon UK Diversity Reception
 URL:http://www.pyconuk.org/abstracts/#diversity
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-18278@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-27317@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T173000Z
 DTEND:20150918T183000Z
@@ -528,7 +528,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Day Ends
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-30817@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-41864@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150918T183000Z
 DESCRIPTION:http://www.pyconuk.org/abstracts/#social
@@ -537,15 +537,15 @@ SUMMARY:The Friday Night Charity Social in memory of John Pinner
 URL:http://www.pyconuk.org/abstracts/#social
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-9266@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-43375@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150919T070000Z
 DTEND:20150919T080000Z
 LOCATION:Cafeteria
 SUMMARY:Registration / Breakfast
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-28505@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-14864@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T080000Z
 DTEND:20150919T081500Z
@@ -553,7 +553,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Opening Plenary
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-25578@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-77601@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T081500Z
 DTEND:20150919T090000Z
@@ -562,7 +562,7 @@ SUMMARY:Keynote: Dr Simon Sheridan Landing on a comet: From planning to re
  ality
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-89291@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-11609@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T081500Z
 DTEND:20150919T083000Z
@@ -572,8 +572,8 @@ SUMMARY:PyKids UK Setup
 URL:http://www.pyconuk.org/education/#kids
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-275@testing-worker-linux-docker-06ccd7ff-3383-linux-1
- 5
+UID:20160416T221345Z-57638@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150919T083000Z
 DTEND:20150919T090000Z
 DESCRIPTION:http://www.pyconuk.org/education/#kids
@@ -582,7 +582,7 @@ SUMMARY:PyKids UK Opening
 URL:http://www.pyconuk.org/education/#kids
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-78216@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-72703@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T090000Z
 DTEND:20150919T093000Z
@@ -592,7 +592,7 @@ SUMMARY:JSON and the daughters of Pelias (talk by Zeth)
 URL:http://www.pyconuk.org/talks/json-and-the-daughters-of-pelias/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-52842@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-99824@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T090000Z
 DTEND:20150919T093000Z
@@ -604,7 +604,7 @@ SUMMARY:Building SAAs with django and polla (talk by Emmanuelle Delescolle
 URL:http://www.pyconuk.org/talks/building-saas-with-django-and-polla/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-99185@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-33996@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T090000Z
 DTEND:20150919T120000Z
@@ -617,7 +617,7 @@ URL:http://www.pyconuk.org/workshops/fifty-shades-of-disaster-human-error-
  and-complex-systems/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-93701@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-11469@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T090000Z
 DTEND:20150919T093000Z
@@ -625,7 +625,7 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space for BoFs and discussion
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-70629@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-24338@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T090000Z
 DTEND:20150919T093000Z
@@ -636,7 +636,7 @@ SUMMARY:Forming a PyCon UK research community (talk by Sarah Mount\, Unive
 URL:http://www.pyconuk.org/talks/forming-a-research-community/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-70339@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-54631@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T090000Z
 DTEND:20150919T101500Z
@@ -645,7 +645,7 @@ SUMMARY:Group Activities: Minecraft Code Club Your code in space Internet
  of Toys
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-24740@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-94077@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T093000Z
 DTEND:20150919T100000Z
@@ -658,7 +658,7 @@ URL:http://www.pyconuk.org/talks/managing-mocks-the-how-why-and-when-of-mo
  cking-in-python/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-36068@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-32396@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T093000Z
 DTEND:20150919T100000Z
@@ -669,7 +669,7 @@ SUMMARY:Template matching - howto (talk by Katie Barr)
 URL:http://www.pyconuk.org/talks/image-recognition-via-template-matching
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-37892@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-56274@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T093000Z
 DTEND:20150919T100000Z
@@ -677,7 +677,7 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-75547@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-66147@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T093000Z
 DTEND:20150919T113000Z
@@ -690,8 +690,8 @@ URL:http://www.pyconuk.org/workshops/accelerating-scientific-code-with-num
  ba/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-510@testing-worker-linux-docker-06ccd7ff-3383-linux-1
- 5
+UID:20160416T221345Z-82290@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150919T100000Z
 DTEND:20150919T103000Z
 DESCRIPTION:http://www.pyconuk.org/talks/5-impossible-things-before-breakf
@@ -701,7 +701,7 @@ SUMMARY:5 impossible things before breakfast (talk by Michael Sparks)
 URL:http://www.pyconuk.org/talks/5-impossible-things-before-breakfast/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-53516@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-20116@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T100000Z
 DTEND:20150919T103000Z
@@ -714,7 +714,7 @@ URL:http://www.pyconuk.org/talks/asking-about-gender-the-whats-whys-and-ho
  ws/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-50904@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-58148@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T100000Z
 DTEND:20150919T110000Z
@@ -722,7 +722,7 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Setup for Poster Session
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-2192@testing-worker-linux-docker-06ccd7ff-3383-linux-
+UID:20160416T221345Z-5648@testing-worker-linux-docker-0cd6cdf5-3374-linux-
  15
 DTSTART:20150919T101500Z
 DTEND:20150919T113000Z
@@ -731,7 +731,7 @@ SUMMARY:Everyone Swap: Minecraft Code Club Your code in space Internet of
  Toys
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-75995@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-23996@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T103000Z
 DTEND:20150919T110000Z
@@ -741,7 +741,7 @@ SUMMARY:Finding more bugs with less work (talk by David R. MacIver)
 URL:http://www.pyconuk.org/talks/finding-more-bugs-with-less-work/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-44008@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-49904@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T103000Z
 DTEND:20150919T110000Z
@@ -754,7 +754,7 @@ URL:http://www.pyconuk.org/talks/why-i-have-an-unhealthy-love-of-writing-t
  ests-and-why-you-shouldnt-be-scared-about-writing-them/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-37882@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-59152@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T110000Z
 DTEND:20150919T113000Z
@@ -762,7 +762,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Build the right thing
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-80828@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-10426@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T110000Z
 DTEND:20150919T130000Z
@@ -770,7 +770,7 @@ LOCATION:Osper Room (CC1.4)
 SUMMARY:Recruitment Clinic
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-54502@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-42331@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T110000Z
 DTEND:20150919T130000Z
@@ -778,7 +778,7 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Poster Session
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-95653@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-35166@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T113000Z
 DTEND:20150919T130000Z
@@ -786,7 +786,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-37054@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-28816@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T113000Z
 DTEND:20150919T120000Z
@@ -794,7 +794,7 @@ LOCATION:The Software Sustainability Institute Room (CC2.1)
 SUMMARY:Py4Sci Lunch
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-84084@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-11207@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T113000Z
 DTEND:20150919T120000Z
@@ -803,7 +803,7 @@ SUMMARY:PyKids UK Lunch (provided packed lunch including sandwich\, fruit
  and crisps)
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-89272@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-94292@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T120000Z
 DTEND:20150919T130000Z
@@ -811,7 +811,7 @@ LOCATION:YPlan Room (CC1.8)
 SUMMARY:
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-82541@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-68452@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T120000Z
 DTEND:20150919T140000Z
@@ -824,7 +824,7 @@ URL:http://www.pyconuk.org/workshops/getting-started-with-testing-scientif
  ic-programs/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-94703@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-19538@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T120000Z
 DTEND:20150919T140000Z
@@ -832,7 +832,7 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:Freestyle code jam
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-40011@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-67464@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T130000Z
 DTEND:20150919T133000Z
@@ -845,7 +845,7 @@ URL:http://www.pyconuk.org/talks/taming-a-legacy-codebase-with-microservic
  es/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-38529@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-18668@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T130000Z
 DTEND:20150919T133000Z
@@ -856,7 +856,7 @@ SUMMARY:Language Composition with RPython (talk by Edd Barrett)
 URL:http://www.pyconuk.org/talks/language-composition-with-rpython/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-52174@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-53767@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T130000Z
 DTEND:20150919T150000Z
@@ -866,7 +866,7 @@ SUMMARY:Scrapy Workshop Part 1 (workshop by Juan Riaza)
 URL:http://www.pyconuk.org/workshops/scrapy-workshop/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-17610@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-34935@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T130000Z
 DTEND:20150919T140000Z
@@ -874,7 +874,7 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-96558@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-49334@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T133000Z
 DTEND:20150919T140000Z
@@ -887,7 +887,7 @@ URL:http://www.pyconuk.org/talks/title-to-be-determined-a-tale-of-graphs-a
  nd-markov-chains/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-64354@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-23952@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T133000Z
 DTEND:20150919T140000Z
@@ -898,7 +898,7 @@ SUMMARY:Shipping your application using Conda (talk by Floris Bruynooghe)
 URL:http://www.pyconuk.org/talks/shipping-your-application-using-conda/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-47340@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-92283@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T140000Z
 DTEND:20150919T143000Z
@@ -906,7 +906,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Plenary
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-77914@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-52563@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T140000Z
 DTEND:20150919T143000Z
@@ -914,15 +914,15 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-5997@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-17059@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150919T140000Z
 DTEND:20150919T143000Z
 LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:Wrap up
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-35861@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-43594@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T143000Z
 DTEND:20150919T150000Z
@@ -930,7 +930,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Lightning PyKids
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-53717@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-75484@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T150000Z
 DTEND:20150919T153000Z
@@ -938,7 +938,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:PyCon UK Society AGM
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-95179@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-89774@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T153000Z
 DTEND:20150919T160000Z
@@ -951,7 +951,7 @@ URL:http://www.pyconuk.org/talks/teaching-youngsters-to-code-with-pgzero-o
  n-raspberry-pi/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-40266@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-64459@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T153000Z
 DTEND:20150919T160000Z
@@ -961,7 +961,7 @@ SUMMARY:OOD Rules (talk by Hamish Downer)
 URL:http://www.pyconuk.org/talks/ood-rules/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-27834@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-24722@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T153000Z
 DTEND:20150919T163000Z
@@ -971,7 +971,7 @@ SUMMARY:Scrapy Workshop Part 2 (workshop by Juan Riaza)
 URL:http://www.pyconuk.org/workshops/scrapy-workshop/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-93093@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-93115@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T153000Z
 DTEND:20150919T160000Z
@@ -979,7 +979,7 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-50683@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-25967@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T153000Z
 DTEND:20150919T170000Z
@@ -992,7 +992,7 @@ URL:http://www.pyconuk.org/workshops/getting-started-with-testing-scientif
  ic-programs/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-79789@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-17573@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T153000Z
 DTEND:20150919T170000Z
@@ -1000,7 +1000,7 @@ LOCATION:Bank of America Education Track (Simulation Centre)
 SUMMARY:PyKids Organisers Tidy up
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-17018@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-43213@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T160000Z
 DTEND:20150919T163000Z
@@ -1010,7 +1010,7 @@ SUMMARY:Dispelling py.test magic (talk by Tomek Paczkowski)
 URL:http://www.pyconuk.org/talks/dispelling-pytest-magic/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-45565@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-68055@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T160000Z
 DTEND:20150919T163000Z
@@ -1023,7 +1023,7 @@ URL:http://www.pyconuk.org/talks/chromebooks-in-education-the-next-five-ye
  ars/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-63362@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-92653@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T160000Z
 DTEND:20150919T170000Z
@@ -1033,7 +1033,7 @@ SUMMARY:PSF Reception
 URL:http://www.pyconuk.org/abstracts/#psf
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-73613@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-46043@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T163000Z
 DTEND:20150919T170000Z
@@ -1043,8 +1043,8 @@ SUMMARY:Python adventures in Namibia (talk by Daniele Procida)
 URL:http://www.pyconuk.org/talks/python-adventures-in-namibia/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-17491@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-6490@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150919T163000Z
 DTEND:20150919T170000Z
 DESCRIPTION:http://www.pyconuk.org/talks/the-fabric-that-holds-the-cloud-t
@@ -1055,7 +1055,7 @@ URL:http://www.pyconuk.org/talks/the-fabric-that-holds-the-cloud-together-
  use-python-fabric-library-to-manage-your-openstack-environment/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-35897@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-28217@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T163000Z
 DTEND:20150919T170000Z
@@ -1063,7 +1063,7 @@ LOCATION:YPlan Room (CC1.8)
 SUMMARY:
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-76657@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-74495@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T170000Z
 DTEND:20150919T181500Z
@@ -1073,15 +1073,15 @@ SUMMARY:The Lightning Talk Show
 URL:http://www.pyconuk.org/abstracts/#lightningtalks
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-6112@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-86197@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150919T181500Z
 DTEND:20150919T183000Z
 LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Break
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-74398@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-81706@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T183000Z
 DESCRIPTION:http://www.pyconuk.org/abstracts/#dinner
@@ -1090,22 +1090,22 @@ SUMMARY:The PyCon UK Dinner (Ticket required)
 URL:http://www.pyconuk.org/abstracts/#dinner
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-77153@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-32890@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150919T183000Z
 LOCATION:The Software Sustainability Institute Room (CC2.1)
 SUMMARY:Alt Party (TBA)
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-4868@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-68330@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150920T070000Z
 DTEND:20150920T080000Z
 LOCATION:Cafeteria
 SUMMARY:Breakfast
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-98359@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-59811@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T080000Z
 DTEND:20150920T081500Z
@@ -1113,7 +1113,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Opening Plenary
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-11023@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-28497@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T081500Z
 DTEND:20150920T090000Z
@@ -1122,7 +1122,7 @@ SUMMARY:Keynote: Naomi Ceder - Confessions of a True Impostor (A Survival
  Guide)
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-30297@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-56110@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T090000Z
 DTEND:20150920T093000Z
@@ -1132,8 +1132,8 @@ SUMMARY:Simplicity Is A Feature (talk by Cory Benfield)
 URL:http://www.pyconuk.org/talks/simplicity-is-a-feature/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-6434@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-32485@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150920T090000Z
 DTEND:20150920T093000Z
 DESCRIPTION:http://www.pyconuk.org/talks/python-and-postgresql-a-wonderful
@@ -1145,7 +1145,7 @@ URL:http://www.pyconuk.org/talks/python-and-postgresql-a-wonderful-wedding
  /
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-74145@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-22221@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T090000Z
 DTEND:20150920T113000Z
@@ -1155,7 +1155,7 @@ SUMMARY:Building Async MicroServices (workshop by Norberto Leite)
 URL:http://www.pyconuk.org/workshops/building-async-microservices/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-56383@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-35562@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T090000Z
 DTEND:20150920T093000Z
@@ -1163,8 +1163,8 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-40913@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-2335@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150920T090000Z
 DTEND:20150920T093000Z
 DESCRIPTION:http://www.pyconuk.org/talks/tit-for-tat-evolution-game-theory
@@ -1176,7 +1176,7 @@ URL:http://www.pyconuk.org/talks/tit-for-tat-evolution-game-theory-and-the
  -python-axelrod-library/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-60803@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-95599@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T093000Z
 DTEND:20150920T100000Z
@@ -1188,8 +1188,8 @@ URL:http://www.pyconuk.org/talks/here-be-dragons-writing-safe-c-extensions
  /
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-21276@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-6777@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150920T093000Z
 DTEND:20150920T100000Z
 DESCRIPTION:http://www.pyconuk.org/talks/python-powered-nukes/
@@ -1198,7 +1198,7 @@ SUMMARY:Python powered Nukes (talk by Babak Khataee and Dan Milburn)
 URL:http://www.pyconuk.org/talks/python-powered-nukes/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-86802@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-93664@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T093000Z
 DTEND:20150920T100000Z
@@ -1206,8 +1206,8 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-31458@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-8222@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150920T093000Z
 DTEND:20150920T100000Z
 DESCRIPTION:http://www.pyconuk.org/talks/ship-data-science-products/
@@ -1216,8 +1216,8 @@ SUMMARY:Ship Data Science Products! (talk by Ian Ozsvald)
 URL:http://www.pyconuk.org/talks/ship-data-science-products/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-796@testing-worker-linux-docker-06ccd7ff-3383-linux-1
- 5
+UID:20160416T221345Z-79721@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150920T100000Z
 DTEND:20150920T103000Z
 DESCRIPTION:http://www.pyconuk.org/talks/how-not-to-argue-a-recipe-for-mor
@@ -1229,7 +1229,7 @@ URL:http://www.pyconuk.org/talks/how-not-to-argue-a-recipe-for-more-produc
  tive-tech-conversations/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-83012@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-14587@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T100000Z
 DTEND:20150920T103000Z
@@ -1240,7 +1240,7 @@ SUMMARY:Testing applications for django CMS (talk by Iacopo Spalletti)
 URL:http://www.pyconuk.org/talks/testing-applications-for-django-cms/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-41926@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-29155@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T100000Z
 DTEND:20150920T103000Z
@@ -1248,7 +1248,7 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-70817@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-65980@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T100000Z
 DTEND:20150920T103000Z
@@ -1259,7 +1259,7 @@ SUMMARY:iCE: Interactive cloud experimentation (talk by George Lestaris)
 URL:http://www.pyconuk.org/talks/ice-interactive-cloud-experimentation/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-45022@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-40625@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T103000Z
 DTEND:20150920T110000Z
@@ -1269,7 +1269,7 @@ SUMMARY:FIDO - The dog ate my password (talk by Alex Willmer)
 URL:http://www.pyconuk.org/talks/fido-the-dog-ate-my-password/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-99764@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-58626@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T103000Z
 DTEND:20150920T110000Z
@@ -1279,15 +1279,15 @@ SUMMARY:The Ladder to Python 3 (talk by Daniel Pope)
 URL:http://www.pyconuk.org/talks/the-ladder-to-python3/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-11126@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-5100@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150920T103000Z
 DTEND:20150920T110000Z
 LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-75355@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-51432@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T103000Z
 DTEND:20150920T110000Z
@@ -1297,7 +1297,7 @@ SUMMARY:Power: Python in Astronomy (talk by Tomas James)
 URL:http://www.pyconuk.org/talks/power-python-in-astronomy/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-80632@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-34332@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T110000Z
 DTEND:20150920T130000Z
@@ -1307,7 +1307,7 @@ SUMMARY:PyCon UK Jobs Fair
 URL:http://www.pyconuk.org/abstracts/#jobfair
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-60048@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-30569@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T110000Z
 DTEND:20150920T120000Z
@@ -1317,15 +1317,15 @@ SUMMARY:Single Board Computer HackSpace
 URL:http://www.pyconuk.org/abstracts/#singleboard
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-3102@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-83076@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150920T110000Z
 DTEND:20150920T113000Z
 LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-62898@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-52192@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T110000Z
 DTEND:20150920T113000Z
@@ -1335,8 +1335,8 @@ SUMMARY:Pythons and Earthquakes (talk by Girish Kumar)
 URL:http://www.pyconuk.org/talks/pythons-and-earthquakes/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-461@testing-worker-linux-docker-06ccd7ff-3383-linux-1
- 5
+UID:20160416T221345Z-94098@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150920T113000Z
 DTEND:20150920T140000Z
 DESCRIPTION:http://www.pyconuk.org/workshops/event-sourced-domain-models-i
@@ -1348,31 +1348,31 @@ URL:http://www.pyconuk.org/workshops/event-sourced-domain-models-in-python
  /
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-8607@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-93966@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150920T113000Z
 DTEND:20150920T120000Z
 LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-66584@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-9377@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150920T113000Z
 DTEND:20150920T123000Z
 LOCATION:The Software Sustainability Institute Room (CC2.1)
 SUMMARY:Lunch
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-8747@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-81182@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150920T120000Z
 DTEND:20150920T130000Z
 LOCATION:Osper Room (CC1.4)
 SUMMARY:EuroPython in UK bid Discussion
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-23953@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-11430@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T120000Z
 DTEND:20150920T123000Z
@@ -1380,7 +1380,7 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-99641@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-21181@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T123000Z
 DTEND:20150920T130000Z
@@ -1388,7 +1388,7 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-82961@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-22068@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T123000Z
 DTEND:20150920T130000Z
@@ -1399,8 +1399,8 @@ SUMMARY:Getting meaning from scientific articles (talk by Eleonore Mayola)
 URL:http://www.pyconuk.org/talks/getting-meaning-from-scientific-articles/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-27003@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-6850@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150920T130000Z
 DTEND:20150920T133000Z
 DESCRIPTION:http://www.pyconuk.org/talks/testing-with-two-failure-seeking-
@@ -1411,7 +1411,7 @@ URL:http://www.pyconuk.org/talks/testing-with-two-failure-seeking-missiles
  -fuzzing-and-property-based-testing/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-77733@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-44092@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T130000Z
 DTEND:20150920T133000Z
@@ -1424,7 +1424,7 @@ URL:http://www.pyconuk.org/talks/with-flexibility-comes-responsibilty-gett
  ing-schemas-around-semi-structured-data-using-avro-and-python/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-96014@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-19303@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T130000Z
 DTEND:20150920T140000Z
@@ -1432,7 +1432,7 @@ LOCATION:LaterPay Learning Space (Bistro)
 SUMMARY:Open Space
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-37994@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-97022@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T130000Z
 DTEND:20150920T133000Z
@@ -1444,8 +1444,8 @@ SUMMARY:Demo: Simple web services for scientific data (demo by Alys Brett\
 URL:http://www.pyconuk.org/demos/simple-web-services-for-scientific-data/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-3643@testing-worker-linux-docker-06ccd7ff-3383-linux-
- 15
+UID:20160416T221345Z-68600@testing-worker-linux-docker-0cd6cdf5-3374-linux
+ -15
 DTSTART:20150920T133000Z
 DTEND:20150920T140000Z
 DESCRIPTION:http://www.pyconuk.org/talks/data-visualisation-with-python-an
@@ -1457,7 +1457,7 @@ URL:http://www.pyconuk.org/talks/data-visualisation-with-python-and-javasc
  ript-crafting-a-data-visualisation-toolchain-for-the-web/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-56145@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-38725@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T133000Z
 DTEND:20150920T140000Z
@@ -1467,7 +1467,7 @@ SUMMARY:Analyse Yourselves (talk by Norberto Leite)
 URL:http://www.pyconuk.org/talks/analyse-yourselves/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-55607@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-44967@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T133000Z
 DTEND:20150920T141500Z
@@ -1479,7 +1479,7 @@ SUMMARY:Discussion: From data to dissemination - dealing with publications
 URL:http://www.pyconuk.org/panels/dealing-with-publications/
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-31183@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-92364@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T140000Z
 DTEND:20150920T141500Z
@@ -1487,7 +1487,7 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:Plenary
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-44833@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-40409@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T141500Z
 DTEND:20150920T150000Z
@@ -1497,7 +1497,7 @@ SUMMARY:The PyCon UK Panel
 URL:http://www.pyconuk.org/abstracts/#panel
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-49427@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-52384@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T150000Z
 DTEND:20150920T163000Z
@@ -1507,7 +1507,7 @@ SUMMARY:The Lightning Talk Show
 URL:http://www.pyconuk.org/abstracts/#lightningtalks
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-90644@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-29320@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T163000Z
 DTEND:20150920T170000Z
@@ -1517,7 +1517,7 @@ SUMMARY:The Non-Closing Closing
 URL:http://www.pyconuk.org/abstracts/#nonclosing
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-57934@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-28809@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150920T170000Z
 DTEND:20150920T183000Z
@@ -1525,8 +1525,8 @@ LOCATION:PythonAnywhere Room (CC1.3)
 SUMMARY:End of Day
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-95266@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-1883@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150920T183000Z
 DESCRIPTION:http://www.pyconuk.org/abstracts/#mellow
 LOCATION:PythonAnywhere Room (CC1.3)
@@ -1534,7 +1534,7 @@ SUMMARY:The Mellow Night
 URL:http://www.pyconuk.org/abstracts/#mellow
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-64489@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-76808@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150921T083000Z
 DTEND:20150921T090000Z
@@ -1542,7 +1542,7 @@ LOCATION:Sprint Rooms
 SUMMARY:Sprint Opening
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-93324@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-58676@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150921T090000Z
 DTEND:20150921T113000Z
@@ -1556,7 +1556,7 @@ SUMMARY:Sprints are collaborative programming groups. The Sprints that hav
  lone Hypothesis sprint Patch - Scratch in Python GPIO Zero Pygame Zero
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-14374@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-36185@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150921T113000Z
 DTEND:20150921T123000Z
@@ -1565,15 +1565,15 @@ SUMMARY:The Last Meal - we share a final meal of Fish and Chips together (
  plus vegetarian options\, etc)
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-33172@testing-worker-linux-docker-06ccd7ff-3383-linux
- -15
+UID:20160416T221345Z-8371@testing-worker-linux-docker-0cd6cdf5-3374-linux-
+ 15
 DTSTART:20150921T123000Z
 DTEND:20150921T150000Z
 LOCATION:Sprint Rooms
 SUMMARY:Sprints (Continued)
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-94644@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-29213@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150921T150000Z
 DTEND:20150921T160000Z
@@ -1581,7 +1581,7 @@ LOCATION:Sprint Rooms
 SUMMARY:Share results together
 END:VEVENT
 BEGIN:VEVENT
-UID:20160416T214724Z-99096@testing-worker-linux-docker-06ccd7ff-3383-linux
+UID:20160416T221345Z-88633@testing-worker-linux-docker-0cd6cdf5-3374-linux
  -15
 DTSTART:20150921T160000Z
 LOCATION:Sprint Rooms
