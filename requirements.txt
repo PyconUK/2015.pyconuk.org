@@ -1,19 +1,11 @@
-awesome-slugify==1.4
-docutils==0.8.1
-Jinja2==2.7.3
-LinkChecker==9.3
+#LinkChecker==9.3  # waiting for py3 version
 lxml==3.4.4
-Markdown==2.1.1
 MarkupSafe==0.23
-py==1.4.27
-Pygments==1.4
-pytest==2.5.2
 python-dateutil==2.4.2
 pytz==2015.4
-PyYAML==3.10
 regex==2015.5.10
 requests==2.7.0
 six==1.9.0
 Unidecode==0.4.17
-vobject==0.6.6
-wok==1.1.1
+-e git+https://github.com/tBaxter/vobject.git@5bdf21751a6f443045e05db862e00be5bbd006f3#egg=vobject
+-e git+https://github.com/jneves/wok.git@21ce6ea44483218b2380104b6ada8865122ddf2c#egg=wok

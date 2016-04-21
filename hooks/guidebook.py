@@ -4,9 +4,13 @@
 
 import codecs
 import csv
-import cStringIO
 import io
 import os
+
+try:
+    from cStringIO import StringIO
+except ImportError:  # python 3
+    from io import StringIO
 
 from flat_schedule import (mkdirs,
                            read_html_tabular_schedule)
@@ -23,7 +27,7 @@ class UnicodeWriter(object):
     # https://docs.python.org/2.7/library/csv.html#writer-objects
 
     def __init__(self, f, dialect=csv.excel, encoding='utf-8', **kwds):
-        self.queue = cStringIO.StringIO()
+        self.queue = StringIO()
         self.writer = csv.writer(self.queue, dialect=dialect, **kwds)
         self.stream = f
         self.encoder = codecs.getincrementalencoder(encoding)()
@@ -31,7 +35,6 @@ class UnicodeWriter(object):
     def writerow(self, row):
         self.writer.writerow([s.encode('utf-8') for s in row])
         data = self.queue.getvalue()
-        data = data.decode('utf-8')
         data = self.encoder.encode(data)
         self.stream.write(data)
         self.queue.truncate(0)
@@ -78,7 +81,7 @@ def extract_description(talk, config):
     if talk['type'] in EVENT_TYPES:
         path = os.path.join(config['content_dir'], talk['href'].strip('/') + '.md')
         with open(path) as f:
-            text = f.read().decode('utf-8')
+            text = f.read()
         # Remove metadata if present.
         idx = text.find('###')
         if idx != -1:
