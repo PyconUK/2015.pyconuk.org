@@ -8,7 +8,9 @@ This is the website for PyCon UK. It is hosted via GitHub Pages and available vi
 
 We welcome pull requests for improvements! (Please see CONTRIBUTING.rst_ for details.)
 
-Use the following process to submit changes:
+Please do not edit the website directly on GitHub, as your pull requests cannot be automatically pushed to the live site without first running our build scripts.
+
+Instead, please use the following process to submit changes:
 
 * Fork the repository.
 * Create a descriptive branch name for the change you are proposing.
